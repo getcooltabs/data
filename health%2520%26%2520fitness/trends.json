@@ -10,7 +10,8 @@
       "image": "https://i.scdn.co/image/ab67656300005f1fdb54ab35c7089680aa6c4739",
       "followers": 860000,
       "appleId": "id1545953110",
-      "ratings": 13300
+      "ratings": 13300,
+      "velocity": 0
     }
   },
   {
@@ -24,7 +25,8 @@
       "image": "https://i.scdn.co/image/ab67656300005f1fb2f43ed2323187fc0336a3e3",
       "followers": 40942,
       "appleId": "id1573710078",
-      "ratings": 134
+      "ratings": 134,
+      "velocity": 0
     }
   },
   {
@@ -38,7 +40,8 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f513a9f74a6e1a5e869832899",
       "followers": 367908,
       "appleId": "id1450994021",
-      "ratings": 20393
+      "ratings": 20393,
+      "velocity": 0
     }
   },
   {
@@ -51,7 +54,8 @@
       "description": "The Keep Hammering Collective podcast sheds light on outliers who have accomplished extraordinary things, to help you find motivation in your everyday life and #KeepHammering.",
       "image": "https://i.scdn.co/image/ab67656300005f1fe1f6f19160b92ba483b3a80e",
       "appleId": "id1666708976",
-      "ratings": 223
+      "ratings": 223,
+      "velocity": 0
     }
   },
   {
@@ -64,7 +68,8 @@
       "description": "The Mindset Mentor™ podcast is designed for anyone desiring motivation, direction, and focus in life. Host Rob Dial has amassed a passionate following of over 3 million social media followers, including business professionals, entrepreneurs, and small business owners with his expertise and passion for helping motivate people to become the best version of themselves. In this podcast, Rob blends neurology, neurobiology, psychology, early childhood development, cognitive behavioral therapy so that you can understand the way your brain and body work together, because when you understand yourself, it makes it much easier to make a plan to change and succeed. When you master your mindset, you master your life. Over the past 15 years, he has studied with some of the greatest thought leaders of our time like Tony Robbins, Ram Dass, Dr. Joe Dispenza, Jay Shetty, Andrew Huberman and many more. If you're ready to take your life to the next level, are searching for more purpose or you just need extra inspiration or motivation, tune in to The Mindset Mentor Podcast. Follow Rob on Instagram @RobDialJr https://www.instagram.com/robdialjr/",
       "image": "https://i.scdn.co/image/ab67656300005f1fdd48c63a109849b7c04d147b",
       "appleId": "id1033048640",
-      "ratings": 10653
+      "ratings": 10653,
+      "velocity": 0
     }
   },
   {
@@ -75,7 +80,8 @@
       "category": "Health & Fitness",
       "publisher": "White Noise & Sleep Sounds (12 Hours) ℠",
       "description": "😴 Welcome to White Noise & Sleep Sounds (12 Hours), the world's fastest growing podcast for sleep, relaxation, meditation, finding focus, and overcoming anxiety. Great for all ages, soothing babies, and pet anxiety too!  --- Our White, Pink, Brown Noise, and Sleep Sounds offer 12 hours of continuous calm, so sleep well and find your inner peace!  --- For custom requests, email support@12hourwhitenoise.com and I'll personally take care of you!  --- Your listenership is valued! If these Sleep Sounds have been helpful for you, I'd be so grateful if you'd rate the show on Spotify or Apple. Support this podcast: https://anchor.fm/12hourwhitenoise/support",
-      "image": "https://i.scdn.co/image/ab67656300005f1fea90221389f96b12d8284e8f"
+      "image": "https://i.scdn.co/image/ab67656300005f1fea90221389f96b12d8284e8f",
+      "velocity": 0
     }
   },
   {
@@ -88,7 +94,8 @@
       "description": "Welcome to Relaxing White Noise, the podcast featuring white noise and nature sounds to help you sleep, study or soothe a baby. We make relaxing sounds to improve your life and are excited to share them with you. Join the hundred million people who have already enjoyed our white noise soundscapes which include rain sounds, ocean waves, white noise for babies, fan sounds, spaceships, Tibetan bowls, waterfalls and rain with thunder. Whether you're trying to study for a test, focus at work, fall asleep or simply relax, we have the perfect white noise sound for you. Cheers to feeling your best!",
       "image": "https://i.scdn.co/image/ab67656300005f1fda07bbb290307f3eefe09052",
       "appleId": "id1525750966",
-      "ratings": 427
+      "ratings": 427,
+      "velocity": 0
     }
   },
   {
@@ -101,7 +108,8 @@
       "description": "A space dedicated to providing resourceful wellness information via casual + everyday chats about mindfulness, intentionality, and self-awareness.  Support this podcast: https://anchor.fm/forthehealthyhoes/support",
       "image": "https://i.scdn.co/image/ab67656300005f1f7b7549bc00a00ce742e91688",
       "appleId": "id1596171716",
-      "ratings": 431
+      "ratings": 431,
+      "velocity": 0
     }
   },
   {
@@ -114,45 +122,51 @@
       "description": "Mayim Bialik’s Breakdown is a quirky, informative, and interactive podcast breaking down the myths and misunderstandings about mental health and emotional well-being. Neuroscientist Mayim Bialik combines her academic background with vast personal experience to provide listeners with valuable practical advice focusing on removing the stigma surrounding mental health and encouraging an understanding of the mind-body connection.  Nothing is off limits as Mayim breaks it down with an amazing collection of guests.",
       "image": "https://i.scdn.co/image/19e2468b62ff62123204c1ce6f74951100db0bd1",
       "appleId": "id1546456269",
-      "ratings": 3759
-    }
-  },
-  {
-    "title": "Maintenance Phase",
-    "link": "3rDR8CfpIEMpITG2UC3w5W",
-    "meta": {
-      "rank": 10,
-      "category": "Health & Fitness",
-      "publisher": "Aubrey Gordon & Michael Hobbes",
-      "description": "Debunking the junk science behind health fads, wellness scams and nonsensical nutrition advice.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f7f390517e3be0df1bb707a67",
-      "followers": 11496,
-      "appleId": "id1535408667",
-      "ratings": 11496
+      "ratings": 3759,
+      "velocity": 0
     }
   },
   {
     "title": "Uncensored Saints",
     "link": "1uasc6w6yvbMiTPU9mRdHd",
     "meta": {
-      "rank": 11,
+      "rank": 10,
       "category": "Health & Fitness",
       "publisher": "Gotham Production Studios",
       "description": "Hey guys, I’m Victoria Fuller! This podcast is a safe space for me to talk with friends and people I admire about topics ranging from personal growth, relationships, insecurities, religion, and everything in between. I decided to start a podcast because I feel like in the past I didn't have control over my story, so I want to give people a platform to share their stories, their way, and from their perspectives. From laughing to crying - we will do it all, uncensored. Welcome to my podcast, Uncensored Saints! Hosted on Acast. See acast.com/privacy for more information.",
       "image": "https://i.scdn.co/image/ab67656300005f1fbf29c281d5ada449df1ef3e5",
       "appleId": "id1670956875",
-      "ratings": 10
+      "ratings": 10,
+      "velocity": 0
     }
   },
   {
-    "title": "Nothing much happens; bedtime stories to help you sleep",
-    "link": "6wegpF4BHu5dQG7sTg1Cz9",
+    "title": "Maintenance Phase",
+    "link": "3rDR8CfpIEMpITG2UC3w5W",
+    "meta": {
+      "rank": 11,
+      "category": "Health & Fitness",
+      "publisher": "Aubrey Gordon & Michael Hobbes",
+      "description": "Debunking the junk science behind health fads, wellness scams and nonsensical nutrition advice.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f7f390517e3be0df1bb707a67",
+      "followers": 11496,
+      "appleId": "id1535408667",
+      "ratings": 11496,
+      "velocity": 0
+    }
+  },
+  {
+    "title": "Mind Pump: Raw Fitness Truth",
+    "link": "4D3JFAh4ebj9lks9WOE2Vs",
     "meta": {
       "rank": 12,
       "category": "Health & Fitness",
-      "publisher": "Kathryn Nicolai",
-      "description": "Having trouble sleeping?  Join Yoga and meditation teacher Kathryn Nicolai for bedtime stories where nothing much happens to help you relax and sleep peacefully. The stories are a soft landing spot for your mind. Rather than letting your brain race through the same thoughts you’ve been chasing all day, we are taking a detour to a calm and comfy place. We tell the story twice and go a bit slower the second time.  Buy the book now! http://hyperurl.co/NothingMuchHappens",
-      "image": "https://i.scdn.co/image/ab67656300005f1fdd030ac0a21a796c60e00dc4"
+      "publisher": "Sal Di Stefano, Adam Schafer, Justin Andrews, Doug Egge",
+      "description": "MindPump exposes the RAW TRUTH about health, fitness, nutrition and more... Hosts Sal Di Stefano, Adam Schafer & Justin Andrews pull back the curtain on the mythology, snake oil and pseudo-science that pervades the fitness industry and present science-backed solutions that result in increased muscular development and performance while simultaneously emphasizing health. No fitness institution or fitness \"truth\" is safe from their quick wit and over 40 years of combined experience in the fitness industry. Produced by Doug Egge. Find Mind Pump and the Mind Pump hosts on Instragram @mindpumpmedia, @mindpumpsal, @mindpumpadam, @mindpumpjustin & @mindpumpdoug and on Facebook at mindpump. Get expertly programmed Mind Pump training protocols at www.mindpumpmedia.com",
+      "image": "https://i.scdn.co/image/ab67656300005f1faa721a454843231e710796bf",
+      "appleId": "id954100822",
+      "ratings": 9169,
+      "velocity": 0
     }
   },
   {
@@ -166,46 +180,48 @@
       "image": "https://i.scdn.co/image/ab67656300005f1faa7b839426f105bfb657b55d",
       "followers": 9832,
       "appleId": "id1087147821",
-      "ratings": 9832
+      "ratings": 9832,
+      "velocity": 0
     }
   },
   {
-    "title": "Mind Pump: Raw Fitness Truth",
-    "link": "4D3JFAh4ebj9lks9WOE2Vs",
+    "title": "Nothing much happens; bedtime stories to help you sleep",
+    "link": "6wegpF4BHu5dQG7sTg1Cz9",
     "meta": {
       "rank": 14,
       "category": "Health & Fitness",
-      "publisher": "Sal Di Stefano, Adam Schafer, Justin Andrews, Doug Egge",
-      "description": "MindPump exposes the RAW TRUTH about health, fitness, nutrition and more... Hosts Sal Di Stefano, Adam Schafer & Justin Andrews pull back the curtain on the mythology, snake oil and pseudo-science that pervades the fitness industry and present science-backed solutions that result in increased muscular development and performance while simultaneously emphasizing health. No fitness institution or fitness \"truth\" is safe from their quick wit and over 40 years of combined experience in the fitness industry. Produced by Doug Egge. Find Mind Pump and the Mind Pump hosts on Instragram @mindpumpmedia, @mindpumpsal, @mindpumpadam, @mindpumpjustin & @mindpumpdoug and on Facebook at mindpump. Get expertly programmed Mind Pump training protocols at www.mindpumpmedia.com",
-      "image": "https://i.scdn.co/image/ab67656300005f1faa721a454843231e710796bf",
-      "appleId": "id954100822",
-      "ratings": 9169
-    }
-  },
-  {
-    "title": "The Peter Attia Drive",
-    "link": "63AWQmsSnFNFHUqnRAOFtD",
-    "meta": {
-      "rank": 15,
-      "category": "Health & Fitness",
-      "publisher": "Peter Attia, MD",
-      "description": "Expert insight on health, performance, longevity, critical thinking, and pursuing excellence. Dr. Peter Attia (Stanford/Hopkins/NIH-trained MD) talks with leaders in their fields.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f18d340f49db83ad1ec3020f0",
-      "appleId": "id1400828889",
-      "ratings": 5330
+      "publisher": "Kathryn Nicolai",
+      "description": "Having trouble sleeping?  Join Yoga and meditation teacher Kathryn Nicolai for bedtime stories where nothing much happens to help you relax and sleep peacefully. The stories are a soft landing spot for your mind. Rather than letting your brain race through the same thoughts you’ve been chasing all day, we are taking a detour to a calm and comfy place. We tell the story twice and go a bit slower the second time.  Buy the book now! http://hyperurl.co/NothingMuchHappens",
+      "image": "https://i.scdn.co/image/ab67656300005f1fdd030ac0a21a796c60e00dc4",
+      "velocity": 0
     }
   },
   {
     "title": "UnF*ck Your Brain",
     "link": "3Zq2XDpVrtadTR1xOfzhzo",
     "meta": {
-      "rank": 16,
+      "rank": 15,
       "category": "Health & Fitness",
       "publisher": "Kara Loewentheil",
       "description": "UnF*ck Your Brain is the podcast for high-achieving feminist women who struggle with anxiety, self-doubt, and imposter syndrome. If you know you’ve accomplished a lot professionally but still secretly feel like you’re unqualified….if you want to feel confident but you worry about what everyone else thinks about you...if you want to succeed but fear failure...this podcast is for you. In each episode Master Certified Confidence Coach Kara Loewentheil, J.D., will teach you how to overcome social conditioning and your own self-critical thoughts so that you can reduce your anxiety and insecurity, boost your self-confidence, and get what you want in life. Download a free guide to creating confidence at www.unfckyourbrain.com/podcastconfidence.",
       "image": "https://i.scdn.co/image/aac71692fa3d67414a04ff845f5fcafd3cb82d13",
       "appleId": "id1229434818",
-      "ratings": 4627
+      "ratings": 4627,
+      "velocity": 0
+    }
+  },
+  {
+    "title": "The Peter Attia Drive",
+    "link": "63AWQmsSnFNFHUqnRAOFtD",
+    "meta": {
+      "rank": 16,
+      "category": "Health & Fitness",
+      "publisher": "Peter Attia, MD",
+      "description": "Expert insight on health, performance, longevity, critical thinking, and pursuing excellence. Dr. Peter Attia (Stanford/Hopkins/NIH-trained MD) talks with leaders in their fields.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f18d340f49db83ad1ec3020f0",
+      "appleId": "id1400828889",
+      "ratings": 5330,
+      "velocity": 0
     }
   },
   {
@@ -219,33 +235,36 @@
       "image": "https://i.scdn.co/image/ab67656300005f1fc17007bce624ac60be4e407d",
       "followers": 232624,
       "appleId": "id596047499",
-      "ratings": 13118
-    }
-  },
-  {
-    "title": "Starry Nights Podcast",
-    "link": "5o3pbQjiYB6BjAt3nuTcVx",
-    "meta": {
-      "rank": 18,
-      "category": "Health & Fitness",
-      "publisher": "Starry Nights ",
-      "description": "If you're struggling to sleep, relax, unwind or study, welcome to the Starry Nights Podcast! Drift away with these comforting and relaxing sounds.   Follow Our Instagram! Instagram.com/starrynightspodcast Buy Me a Coffee https://www.buymeacoffee.com/starrynights Contact us at podcaststrarrynights@gmail.com",
-      "image": "https://i.scdn.co/image/ab67656300005f1fb6ef3fc8574857da88bbec0f",
-      "appleId": "id1609407440",
-      "ratings": 1
+      "ratings": 13118,
+      "velocity": 0
     }
   },
   {
     "title": "Meditation Mountain",
     "link": "6rmydpcCvLzN4744S1fCsW",
     "meta": {
-      "rank": 19,
+      "rank": 18,
       "category": "Health & Fitness",
       "publisher": "Guided Meditation",
       "description": "Welcome to Meditation Mountain. Here we produce guided meditations to help you reduce stress, lower anxiety and improve sleep.  Our unique guided meditations range from 10 minute to 20 minute meditations. We focus on mindfulness, visualizations and affirmations on a range of subjects such as meditations for stress, anxiety and depression. Meditation benefits are well documented but for those new to meditation we have multiple meditations for beginners including short guided meditations on positive energy, acceptance and forgiveness.Our goal here at Meditation Mountain is to make a positive difference in this world one step at a time. It's so easy to become overwhelmed, stressed, or feel lost. Our hopes are that you use these short guided meditations to help reduce your stress, relieve your anxiety and take a few minutes out of your day to meditate on how you are inside. Taking a moment for yourself to recharge through meditation and using it as a tool to strengthen your mind.",
       "image": "https://i.scdn.co/image/ab67656300005f1fc7ec64367a4996fb8abd1ca9",
       "appleId": "id1554749646",
-      "ratings": 26
+      "ratings": 26,
+      "velocity": 0
+    }
+  },
+  {
+    "title": "Starry Nights Podcast",
+    "link": "5o3pbQjiYB6BjAt3nuTcVx",
+    "meta": {
+      "rank": 19,
+      "category": "Health & Fitness",
+      "publisher": "Starry Nights ",
+      "description": "If you're struggling to sleep, relax, unwind, or study, welcome to the Starry Nights Podcast! Drift away with these comforting and relaxing sounds.   Follow Our Instagram! Instagram.com/starrynightspodcast Buy Me a Coffee https://www.buymeacoffee.com/starrynights Our website: https://starrynightspodcast.weebly.com Contact us at podcaststrarrynights@gmail.com",
+      "image": "https://i.scdn.co/image/ab67656300005f1fb6ef3fc8574857da88bbec0f",
+      "appleId": "id1609407440",
+      "ratings": 1,
+      "velocity": 0
     }
   },
   {
@@ -258,7 +277,8 @@
       "description": "We are seeing an ever-increasing burden of chronic disease, primarily driven by our food and food system. This is perpetuated by agricultural, food and health care policies that don’t support health. We need to rethink disease and reimagine a food system and a health care system the protects health, unburdens the economy from the weight of obesity and chronic disease, protects the environment, helps reverse climate change and creates a nation of healthy children and citizens. This podcast is a place for deep conversations about the critical issues of our time in the space of health, wellness, food and politics. New episodes are released every Monday, Wednesday, and Friday morning. I hope you'll join me. Hosted on Acast. See acast.com/privacy for more information.",
       "image": "https://i.scdn.co/image/ab67656300005f1fcd449ee7961c53cce9533c68",
       "appleId": "id1382804627",
-      "ratings": 7040
+      "ratings": 7040,
+      "velocity": 0
     }
   },
   {
@@ -271,135 +291,146 @@
       "description": "Everyone needs a little help being a human. From sleep to saving money to parenting and more, we talk to the experts to get the best advice out there. Life Kit is here to help you get it together.Want another life hack? Try Life Kit+. Your subscription supports the show and unlocks an exclusive sponsor-free feed. Learn more at plus.npr.org/lifekit.",
       "image": "https://i.scdn.co/image/ab67656300005f1faab19df9dd269fb6d6b61b05",
       "appleId": "id1461493560",
-      "ratings": 3353
-    }
-  },
-  {
-    "title": "Pursuit of Wellness",
-    "link": "0xKOhJLfnQTGkWqFSodeCA",
-    "meta": {
-      "rank": 22,
-      "category": "Health & Fitness",
-      "publisher": "Dear Media",
-      "description": "Mari Llewellyn is the transformation queen. Since 2018, Mari has been on an evolving journey with all things health and wellness. Inspired by her own pursuit of wellness, Mari is diving deeper into topics such as optimal living, nutrition, exercise, longevity, mental health, childhood trauma, relationships, and more.   Radical honesty, goal-setting, and self-discipline all helped Mari transform and finally feel at home in her body.  But Pursuit of Wellness is really about working from the inside out, learning to believe in yourself, and knowing that you are WORTH the time and energy to become your best self.  Mari is on a mission to find the best health hacks from experts, as well as tips from her closest friends and family. In addition, you’ll hear solo episodes from Mari herself, discussing her own struggles and triumphs along the way.   As a listener you can expect real and raw conversations with Mari that go more than skin deep. Tune in to the Pursuit of Wellness for a weekly dose of inspiration and insight and that is like a little nudge from a friend to keep going, to keep doing the work, and to keep transforming into the best version of you.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fe41498e6535ef1a87e14de4f",
-      "appleId": "id1655979078",
-      "ratings": 520
-    }
-  },
-  {
-    "title": "21 Days of Abundance - Meditation Series",
-    "link": "0LtsgWkOpLdYR7wK0senTX",
-    "meta": {
-      "rank": 23,
-      "category": "Health & Fitness",
-      "publisher": "Deepak Chopra",
-      "description": "Fulfill your deepest desires and effortlessly attract anything you wish.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f8b4648439b53d77daee86847",
-      "appleId": "id1558008884",
-      "ratings": 305
+      "ratings": 3353,
+      "velocity": 0
     }
   },
   {
     "title": "Get Sleepy: Sleep meditation and stories",
     "link": "0edOBjruWV6Juxf42WjGxw",
     "meta": {
-      "rank": 24,
+      "rank": 22,
       "category": "Health & Fitness",
       "publisher": "Slumber Studios",
       "description": "Come relax with the #1 Sleep Podcast. Our unique stories help calm the mind and relax the body. Press play, it's time to Get Sleepy... Become a premium member for access to bonus episodes and ad free listening.",
       "image": "https://i.scdn.co/image/ab67656300005f1fd50dd09c649a4d139ded022e",
       "appleId": "id1487513861",
-      "ratings": 7097
+      "ratings": 7097,
+      "velocity": 0
+    }
+  },
+  {
+    "title": "Almost Adulting with Violet Benson",
+    "link": "7IY1Gjc1uktmDCmNLA0HXo",
+    "meta": {
+      "rank": 23,
+      "category": "Health & Fitness",
+      "publisher": "Violet Benson",
+      "description": "Welcome to Almost Adulting! The #1 podcast for mental health and dating hosted by, meme queen, comedian, and life coach, Violetta Benson.The Daddy Issues meme queen, best known for her wit, cantor, and viral life changing solo episodes brings her unique voice and honest advice to the popular podcast, Almost Adulting!This podcast will empower, liberate, and help you feel seen. On Almost Adulting, Violetta is the bestie you want and the big sister you NEED, with no topic off limits. In fact, each month focuses on a whole new topic, such as mental health, career, manifesting, conspiracy theories, LGBTQ+, sex, dating, breakups, and more!!New weekly episodes every Tuesday and Thursday!! While Thursday episodes are your free therapy sessions, the Tuesday episodes are short, funny and feature YOU BESTIES, the listeners, and your stories.Welcome to the Almost Adulting family! You always have a home here.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f4e0dc1c9d07c09d25d088ce3",
+      "appleId": "id1459685850",
+      "ratings": 3464,
+      "velocity": 0
     }
   },
   {
     "title": "Guided Sleep Meditation & Sleep Hypnosis from Sleep Cove",
     "link": "5mSCDO2x32DwnwDdtYvM6L",
     "meta": {
-      "rank": 25,
+      "rank": 24,
       "category": "Health & Fitness",
       "publisher": "Christopher Fitton & Glassbox Media ",
       "description": "If you are one of the many people who can’t sleep, join us in listening to our Podcast. You’ll hear relaxing sleep hypnosis, guided sleep meditations and bedtime stories – all designed to help you relax and get a peaceful night’s sleep.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fea32d55c2290ae9947a63454"
+      "image": "https://i.scdn.co/image/ab67656300005f1fea32d55c2290ae9947a63454",
+      "velocity": 0
+    }
+  },
+  {
+    "title": "21 Days of Abundance - Meditation Series",
+    "link": "0LtsgWkOpLdYR7wK0senTX",
+    "meta": {
+      "rank": 25,
+      "category": "Health & Fitness",
+      "publisher": "Deepak Chopra",
+      "description": "Fulfill your deepest desires and effortlessly attract anything you wish.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f8b4648439b53d77daee86847",
+      "appleId": "id1558008884",
+      "ratings": 305,
+      "velocity": 0
+    }
+  },
+  {
+    "title": "Pursuit of Wellness",
+    "link": "0xKOhJLfnQTGkWqFSodeCA",
+    "meta": {
+      "rank": 26,
+      "category": "Health & Fitness",
+      "publisher": "Dear Media",
+      "description": "Mari Llewellyn is the transformation queen. Since 2018, Mari has been on an evolving journey with all things health and wellness. Inspired by her own pursuit of wellness, Mari is diving deeper into topics such as optimal living, nutrition, exercise, longevity, mental health, childhood trauma, relationships, and more.   Radical honesty, goal-setting, and self-discipline all helped Mari transform and finally feel at home in her body.  But Pursuit of Wellness is really about working from the inside out, learning to believe in yourself, and knowing that you are WORTH the time and energy to become your best self.  Mari is on a mission to find the best health hacks from experts, as well as tips from her closest friends and family. In addition, you’ll hear solo episodes from Mari herself, discussing her own struggles and triumphs along the way.   As a listener you can expect real and raw conversations with Mari that go more than skin deep. Tune in to the Pursuit of Wellness for a weekly dose of inspiration and insight and that is like a little nudge from a friend to keep going, to keep doing the work, and to keep transforming into the best version of you.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fe41498e6535ef1a87e14de4f",
+      "appleId": "id1655979078",
+      "ratings": 520,
+      "velocity": 0
     }
   },
   {
     "title": "The Squeeze",
     "link": "4mrGMrkDZSw1OEA7itWxaZ",
     "meta": {
-      "rank": 26,
+      "rank": 27,
       "category": "Health & Fitness",
       "publisher": "Taylor Lautner ",
       "description": "When life gives you lemons, what do you do with them? Over here at The Squeeze—we talk about it—\"it\" being our mental health and well being. Host Taylor Lautner's (no, not that guy, but she is married to that guy) introduction to mental health was at a young age, witnessing friends and family suffer in ways she couldn't fully understand. She started a nursing career in the peak of the pandemic and has been struggling with her own mental health ever since. Tay is joined co-host, husband Taylor Lautner, in addition to celebrity and expert guests to further the conversation surrounding mental wellness. At the end of the day, we're all pretty similar; even those living in the lime-est of lights can be weighed down by sour lemons. In addition to sharing coping strategies and stories, we hope that above all, this podcast offers the comfort of knowing you are not alone.",
       "image": "https://i.scdn.co/image/ab67656300005f1fd2d00cedda307052e8c16b3c",
       "appleId": "id1665203594",
-      "ratings": 135
-    }
-  },
-  {
-    "title": "Healthier Together",
-    "link": "6dBAMh1qc4ML7xxbYwYwNj",
-    "meta": {
-      "rank": 27,
-      "category": "Health & Fitness",
-      "publisher": "Liz Moody",
-      "description": "Healthier Together, hosted by bestselling author and longtime journalist Liz Moody, is a research-backed wellness podcast all about helping you live your healthiest, happiest life. Each week, Liz sits down with some of the world's best functional doctors, researchers, authors, journalists and various other leaders in their field to answer all of health and wellness questions you want to know. In a world where wellness information is everywhere, this podcast aims at cutting through the noise and finding out what actually works. Come along with Liz as she uncovers the unknown hacks, tips, and tricks you need to know for making a healthier life easier—topics include what to eat to fight disease, how to take control of your finances, tips for fighting anxiety and depression, productivity and career advice, advice for making friends as an adult, the best skincare routine elements, healthy cooking secrets, and so much more. To get even more info, head to lizmoody.com and come hang out on Instagram @lizmoody to enter giveaways!",
-      "image": "https://i.scdn.co/image/ab67656300005f1f066706ea1a29317b5be68e28",
-      "appleId": "id1398442165",
-      "ratings": 2283
-    }
-  },
-  {
-    "title": "SelfHealers Soundboard",
-    "link": "6JNFiVSAJOk7VyM6ibiKS9",
-    "meta": {
-      "rank": 28,
-      "category": "Health & Fitness",
-      "publisher": "The Holistic Psychologist",
-      "description": "The SELFHEALERS SOUNDBOARD is a global, community-based healing experience created by Dr. Nicole LePera and Jenna Weakland. Each week, we host raw, unscripted, open conversations about the things we are REALLY dealing with on the journey of facing our pasts and becoming our best Selves. Together, as community, we create resonance with “strangers” around the world as we collectively witness our own triggers, habits, traumas, and inherent wisdom. This is, and always will be, an ad free experience. Subscribe to our SelfHealers Soundboard YouTube channel to view these weekly podcasts with video and connect with us. New episodes every Sunday at 12 PM PST.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fac837f90fe7b5550b23a1664",
-      "appleId": "id1564136756",
-      "ratings": 1802
+      "ratings": 135,
+      "velocity": 0
     }
   },
   {
     "title": "Brown Noise",
     "link": "2bTppahHvNsOvtwBU97xeX",
     "meta": {
-      "rank": 29,
+      "rank": 28,
       "category": "Health & Fitness",
       "publisher": "Eric Levenseller",
       "description": "12 Hours of Brown Noise - No Ads, No interruptions",
       "image": "https://i.scdn.co/image/ab67656300005f1fc9ca545e0eca2f751def9618",
       "appleId": "id1504607319",
-      "ratings": 6
+      "ratings": 6,
+      "velocity": 0
     }
   },
   {
     "title": "EXPANDED Podcast by To Be Magnetic™",
     "link": "2B1ZemTinqpXMfH8vy6zzk",
     "meta": {
-      "rank": 30,
+      "rank": 29,
       "category": "Health & Fitness",
       "publisher": "To Be Magnetic™",
       "description": "The Expanded Podcast is the leading manifestation podcast, hosted by Lacy Phillips, founder of To Be Magnetic™ and co-hosted by TBM’s Director of Podcast & Media, Jessica Gill.  It’s based on Neural Manifestation™, TBM’s unique process that’s rooted in neuroscience, psychology, epigenetics, and energetics– with a little spirituality sprinkled on top.  While Expanded ranks as one of the best spiritual podcasts, our focus is really on the science and psychology behind manifestation. Our goal is to normalize the practice of manifestation and empower you to get into the driver's seat of your life in order to manifest the experiences, relationships, and things that most align with your authenticity.   We cover topics like inner child healing, shadow work, boundaries, how to reprogram your subconscious mind (and why this is so important), clarity, how to manifest dreams, create magnetism, and harness intuition.   Part of our manifestation process entails “expanding” past your limiting subconscious beliefs. So, by tuning into this podcast with interviews from experts, thought leaders, spiritual teachers, scientists, and those with Neural Manifestation™ success stories, you are starting the process of “Expanding” your subconscious in order to ‘see to believe’ that anything you desire is possible. And by pressing play, the process begins!  Create your daily manifestation practice in The Pathway, our all-access workshop membership, found on tobemagnetic.com or howtomanifest.com.",
       "image": "https://i.scdn.co/image/49135e0f03ed9364d4816b4d201019d228a3b6d4",
       "appleId": "id1419732648",
-      "ratings": 2849
+      "ratings": 2849,
+      "velocity": 0
     }
   },
   {
-    "title": "The Self Love Fix",
-    "link": "3WdMpEOWYl8Zx8uzzH8rAn",
+    "title": "Healthier Together",
+    "link": "6dBAMh1qc4ML7xxbYwYwNj",
+    "meta": {
+      "rank": 30,
+      "category": "Health & Fitness",
+      "publisher": "Liz Moody",
+      "description": "Healthier Together, hosted by bestselling author and longtime journalist Liz Moody, is a research-backed wellness podcast all about helping you live your healthiest, happiest life. Each week, Liz sits down with some of the world's best functional doctors, researchers, authors, journalists and various other leaders in their field to answer all of health and wellness questions you want to know. In a world where wellness information is everywhere, this podcast aims at cutting through the noise and finding out what actually works. Come along with Liz as she uncovers the unknown hacks, tips, and tricks you need to know for making a healthier life easier—topics include what to eat to fight disease, how to take control of your finances, tips for fighting anxiety and depression, productivity and career advice, advice for making friends as an adult, the best skincare routine elements, healthy cooking secrets, and so much more. To get even more info, head to lizmoody.com and come hang out on Instagram @lizmoody to enter giveaways!",
+      "image": "https://i.scdn.co/image/ab67656300005f1f066706ea1a29317b5be68e28",
+      "appleId": "id1398442165",
+      "ratings": 2283,
+      "velocity": 0
+    }
+  },
+  {
+    "title": "GYM HYPE",
+    "link": "1BogHcxkbW85haOPXw8icJ",
     "meta": {
       "rank": 31,
       "category": "Health & Fitness",
-      "publisher": "Beatrice",
-      "description": "The self love fix podcast is a podcast all about helping WOC delve deeper into self love, self worth, personal development, self esteem and self care.  Here on the self love fix we  get relatable, we laugh, we cry, we heal, but most of all we learn about the truth of who we are and what we deserve.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fc1db44aac119c845adc15d38",
-      "appleId": "id1449341581",
-      "ratings": 2958
+      "publisher": " GYM HYPE, David goggins, Steve Harvey, TD jakes, Kobe Bryant, Eric Thomas, Tony Robbins, les brown, nick nuijicic, brain tracy, Chris Gardner, Darren hardy",
+      "description": "Motivation's mission is to enhance the human experience by creating thought-provoking yet actionable content that will exercise, stimulate and expand your mind & consciousness through practical techniques and wisdom that you can integrate into everyday life. In addition, we remix and mash-up content to create new pieces of work.I don’t own the rights to the speeches and clips! David goggins, Steve Harvey, TD jakes, Kobe Bryant, Eric Thomas, Tony Robbins, les brown, nick nuijicic, brain tracy, Chris Gardner, Darren hardy…motivational speech,best motivational speech,morning motivation,study motivation,powerful motivational speech,best motivational video,workout motivation,motivational video 2022,positive thinking,law of attraction coaching,ben lionel scott,law of attraction,wake up motivation,gym motivation,2023 mindset,positive affirmations,motivation for success,your world within,motivational video 2023,eddie pinero,running motivation,2023 motivation,best motivation,motivation compilation,motivational speech for success in life,whatever it takes,motivational speech 2023,discipline is everything,freddy fri,motivational speeches,motivation speech,motivation speech tamil,motivational speech workout,motivational speech steve harvey,motivational speech for students,motivation speech and music,motivational speech morning,motivational speech study,motivational speech denzel washington,motivational speech football",
+      "image": "https://i.scdn.co/image/ab67656300005f1f365057b1be913d0f0fb0ab78",
+      "appleId": "id1645594914",
+      "ratings": 35,
+      "velocity": 0
     }
   },
   {
@@ -412,20 +443,22 @@
       "description": "ADHD can be a struggle, but it doesn't always have to be. Every Monday, join William Curb, as he explores ways that you can work with your ADHD brain to do more of the things you want to do. If you have ADHD or someone in your life does and you want to get organized, get focused and get motivated then this podcast is for you. Part of the ADHD reWired Podcast Network.",
       "image": "https://i.scdn.co/image/ab67656300005f1ff06a3fc3739912c450bf31b4",
       "appleId": "id1481135244",
-      "ratings": 429
+      "ratings": 429,
+      "velocity": 0
     }
   },
   {
-    "title": "GYM HYPE",
-    "link": "1BogHcxkbW85haOPXw8icJ",
+    "title": "elephants in the room",
+    "link": "7pxmSY3vYE5GiWVINQan5U",
     "meta": {
       "rank": 33,
       "category": "Health & Fitness",
-      "publisher": " GYM HYPE, David goggins, Steve Harvey, TD jakes, Kobe Bryant, Eric Thomas, Tony Robbins, les brown, nick nuijicic, brain tracy, Chris Gardner, Darren hardy",
-      "description": "Motivation's mission is to enhance the human experience by creating thought-provoking yet actionable content that will exercise, stimulate and expand your mind & consciousness through practical techniques and wisdom that you can integrate into everyday life. In addition, we remix and mash-up content to create new pieces of work.I don’t own the rights to the speeches and clips! David goggins, Steve Harvey, TD jakes, Kobe Bryant, Eric Thomas, Tony Robbins, les brown, nick nuijicic, brain tracy, Chris Gardner, Darren hardy…motivational speech,best motivational speech,morning motivation,study motivation,powerful motivational speech,best motivational video,workout motivation,motivational video 2022,positive thinking,law of attraction coaching,ben lionel scott,law of attraction,wake up motivation,gym motivation,2023 mindset,positive affirmations,motivation for success,your world within,motivational video 2023,eddie pinero,running motivation,2023 motivation,best motivation,motivation compilation,motivational speech for success in life,whatever it takes,motivational speech 2023,discipline is everything,freddy fri,motivational speeches,motivation speech,motivation speech tamil,motivational speech workout,motivational speech steve harvey,motivational speech for students,motivation speech and music,motivational speech morning,motivational speech study,motivational speech denzel washington,motivational speech football",
-      "image": "https://i.scdn.co/image/ab67656300005f1f365057b1be913d0f0fb0ab78",
-      "appleId": "id1645594914",
-      "ratings": 35
+      "publisher": "Nicole Dawna Mitchell",
+      "description": "Vulnerability Creates Freedom - Addressing all the elephants in the room",
+      "image": "https://i.scdn.co/image/ab67656300005f1f7daf457faccfa2122366b191",
+      "appleId": "id1656029614",
+      "ratings": 165,
+      "velocity": 0
     }
   },
   {
@@ -438,109 +471,118 @@
       "description": "Welcome to the 8 Hour Sleep Music Podcast: 8 hours of relaxing meditation music, nature sounds, and binaural beats to help you get to sleep fast and stay asleep all night. Click here to unlock the AD-FREE version of the podcast for only $2.99 per month! The perfect relaxation music to play while sleeping, studying, working, meditating, or doing yoga. Email us at 8hoursleepmusic@gmail.com with any questions, comments, or requests. I personally reply to every message. Thanks for listening and sleep well! Support our show by becoming a premium member! https://8hoursleepmusic.supportingcast.fm",
       "image": "https://i.scdn.co/image/ab67656300005f1fd0c4348f712f4441ee253498",
       "appleId": "id1635073575",
-      "ratings": 29
+      "ratings": 29,
+      "velocity": 0
     }
   },
   {
-    "title": "Almost Adulting with Violet Benson",
-    "link": "7IY1Gjc1uktmDCmNLA0HXo",
+    "title": "The Self Love Fix",
+    "link": "3WdMpEOWYl8Zx8uzzH8rAn",
     "meta": {
       "rank": 35,
       "category": "Health & Fitness",
-      "publisher": "Violet Benson",
-      "description": "Welcome to Almost Adulting! The #1 podcast for mental health and dating hosted by, meme queen, comedian, and life coach, Violetta Benson.The Daddy Issues meme queen, best known for her wit, cantor, and viral life changing solo episodes brings her unique voice and honest advice to the popular podcast, Almost Adulting!This podcast will empower, liberate, and help you feel seen. On Almost Adulting, Violetta is the bestie you want and the big sister you NEED, with no topic off limits. In fact, each month focuses on a whole new topic, such as mental health, career, manifesting, conspiracy theories, LGBTQ+, sex, dating, breakups, and more!!New weekly episodes every Tuesday and Thursday!! While Thursday episodes are your free therapy sessions, the Tuesday episodes are short, funny and feature YOU BESTIES, the listeners, and your stories.Welcome to the Almost Adulting family! You always have a home here.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f4e0dc1c9d07c09d25d088ce3",
-      "appleId": "id1459685850",
-      "ratings": 3464
-    }
-  },
-  {
-    "title": "Therapy in a Nutshell",
-    "link": "3zYMh54e1Wd6hOBqV0vU2W",
-    "meta": {
-      "rank": 36,
-      "category": "Health & Fitness",
-      "publisher": "Therapy in a Nutshell -Emma McAdam",
-      "description": "Welcome to my Passion Project! I’m Emma McAdam, a Licensed Marriage and Family Therapist and my mission is to make mental health resources more easy to access. I take therapy skills and psychological research and condense them down into bite sized nuggets of help.  I’m here to spread the message that while mental illness is real, it’s common, it’s debilitating, it’s also treatable. There are dozens of research backed approaches to treating depression, anxiety, and other mental illness. Change, growth and healing are possible. Please keep courage! Try one little thing every day to improve your life and health and things can get so much better!   Therapy in a Nutshell, and the information provided by Emma McAdam,  is solely intended for informational and entertainment purposes and is not a substitute for advice, diagnosis, or treatment regarding medical or mental health conditions. Although Emma McAdam is a licensed marriage and family therapist, the views expressed on this site or any related content should not be taken for medical or psychiatric advice. Always consult your physician before making any decisions related to your physical or mental health.  Therapy in a Nutshell and it's logo are Registered Trademarks of Therapy in a Nutshell, LLC",
-      "image": "https://i.scdn.co/image/ab67656300005f1fd1d21b0827c099d4ca983de3",
-      "appleId": "id1514880062",
-      "ratings": 260
-    }
-  },
-  {
-    "title": "Sex With Emily",
-    "link": "6rOdElQl90RMJq3rlwwGmK",
-    "meta": {
-      "rank": 37,
-      "category": "Health & Fitness",
-      "publisher": "Dr. Emily Morse",
-      "description": "Dr. Emily Morse shares her expertise on sex, relationships and everything in between! Submit your questions to Emily by emailing feedback@sexwithemily.com. For more sexy fun, including blogs, photos, videos or to stream this show, visit sexwithemily.com.      Hosted on Acast. See acast.com/privacy for more information.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fe0ba39359ef77404cd19e8e5",
-      "appleId": "id82456189",
-      "ratings": 5597
-    }
-  },
-  {
-    "title": "elephants in the room",
-    "link": "7pxmSY3vYE5GiWVINQan5U",
-    "meta": {
-      "rank": 38,
-      "category": "Health & Fitness",
-      "publisher": "Nicole Dawna Mitchell",
-      "description": "Vulnerability Creates Freedom - Addressing all the elephants in the room",
-      "image": "https://i.scdn.co/image/ab67656300005f1f7daf457faccfa2122366b191",
-      "appleId": "id1656029614",
-      "ratings": 165
-    }
-  },
-  {
-    "title": "Red Pill Your Healthcast",
-    "link": "0UjaQiuwbicsBrFSirAA5N",
-    "meta": {
-      "rank": 39,
-      "category": "Health & Fitness",
-      "publisher": "Lauren Johnson (@naturalnursemomma) and Dr. Charlie Fagenholz (@drcharliedc_2.0)",
-      "description": "A podcast from two healthcare providers challenging the norm, talking about the elephants in the room, and helping you to take charge of your family’s health.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fd142a0b2d98aeed36bdc6c3f",
-      "appleId": "id1645517159",
-      "ratings": 180
-    }
-  },
-  {
-    "title": "El Podcast de Marian Rojas Estapé",
-    "link": "2xV7Vx7NQgAC8vMt2vZNnE",
-    "meta": {
-      "rank": 40,
-      "category": "Health & Fitness",
-      "publisher": "Marian Rojas Estapé",
-      "description": "Marian Rojas Estapé, médico y psiquiatra nos trae unos episodios de podcast dónde comprendernos mejor a nosotros mismos. Marian te cuenta y explica temas concretos de la mente, del comportamiento o del mundo emocional.Conoceremos la oxitocina y el cortisol. Tendremos claves para identificar a las personas vitaminas que nos rodean, Marian nos hablará de muchos temas sobre nuestra salud mental y nos enseñará a vivir con más armonía a través del conocimiento de nuestro cuerpo.El Podcast de Marian Rojas Estapé, es un podcast en exclusiva en Spotify.Créditos: Guion y locución: Marian Rojas EstapéProducción: Editorial EspasaDirección: Sergio García JáñezGrabación: Margot MartínEdición: Sunne de Nación Podcast",
-      "image": "https://i.scdn.co/image/ab67656300005f1f1287a007991807b6f867fcfc"
-    }
-  },
-  {
-    "title": "LA MAGIA DEL CAOS con Aislinn Derbez",
-    "link": "53bnc3AHyqknK2JMAHo9br",
-    "meta": {
-      "rank": 41,
-      "category": "Health & Fitness",
-      "publisher": "troop audio",
-      "description": "La Magia del Caos es un podcast de Aislinn Derbez y es un espacio para cuestionarte quién eres y cómo es la vida que deseas crear. Vas a encontrar entrevistas con terapeutas, artistas, emprendedores y expertos que van desde cómo lidiar con todo lo que hoy nos limita (relaciones, miedo, cambios, creencias limitantes, maternidad, duelo…), hasta cómo empezar a expandir tu consciencia. Síguenos en @lamagiadelcaos y puedes vernos en YouTube. Un podcast que se desprende de la plataforma de bienestar La Magia del Caos.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f119af5a12f24593e00486ba3",
-      "appleId": "id1509269608",
-      "ratings": 742
+      "publisher": "Beatrice",
+      "description": "The self love fix podcast is a podcast all about helping WOC delve deeper into self love, self worth, personal development, self esteem and self care.  Here on the self love fix we  get relatable, we laugh, we cry, we heal, but most of all we learn about the truth of who we are and what we deserve.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fc1db44aac119c845adc15d38",
+      "appleId": "id1449341581",
+      "ratings": 2958,
+      "velocity": 0
     }
   },
   {
     "title": "Bible at Bedtime ",
     "link": "60jwFHRBlsK6YsDOup8FWM",
     "meta": {
-      "rank": 42,
+      "rank": 36,
       "category": "Health & Fitness",
       "publisher": "Amber",
       "description": "A podcast where selections of the Bible are being read to help you fall asleep.  Support this podcast: https://anchor.fm/ambermarie_l/support",
       "image": "https://i.scdn.co/image/d55c8d8b93978aa03b3d9342f7c774e393ab6069",
       "appleId": "id1489598791",
-      "ratings": 101
+      "ratings": 101,
+      "velocity": 0
+    }
+  },
+  {
+    "title": "Therapy in a Nutshell",
+    "link": "3zYMh54e1Wd6hOBqV0vU2W",
+    "meta": {
+      "rank": 37,
+      "category": "Health & Fitness",
+      "publisher": "Therapy in a Nutshell -Emma McAdam",
+      "description": "Welcome to my Passion Project! I’m Emma McAdam, a Licensed Marriage and Family Therapist and my mission is to make mental health resources more easy to access. I take therapy skills and psychological research and condense them down into bite sized nuggets of help.  I’m here to spread the message that while mental illness is real, it’s common, it’s debilitating, it’s also treatable. There are dozens of research backed approaches to treating depression, anxiety, and other mental illness. Change, growth and healing are possible. Please keep courage! Try one little thing every day to improve your life and health and things can get so much better!   Therapy in a Nutshell, and the information provided by Emma McAdam,  is solely intended for informational and entertainment purposes and is not a substitute for advice, diagnosis, or treatment regarding medical or mental health conditions. Although Emma McAdam is a licensed marriage and family therapist, the views expressed on this site or any related content should not be taken for medical or psychiatric advice. Always consult your physician before making any decisions related to your physical or mental health.  Therapy in a Nutshell and it's logo are Registered Trademarks of Therapy in a Nutshell, LLC",
+      "image": "https://i.scdn.co/image/ab67656300005f1fd1d21b0827c099d4ca983de3",
+      "appleId": "id1514880062",
+      "ratings": 260,
+      "velocity": 0
+    }
+  },
+  {
+    "title": "This Changes Everything",
+    "link": "0elV0MQcQZekQLzBg88oTe",
+    "meta": {
+      "rank": 38,
+      "category": "Health & Fitness",
+      "publisher": "Jeff Guenther, Sarah Rice & Wave Podcast Network",
+      "description": "Are you struggling? Feel like the world is changing too fast? Overwhelmed? Stressed? Welcome to the club! It’s called being a person, But fear not! MTV Challenge star, Sarah Rice, AMFT and TikTok Sensation, Jeff Guenther, LPC will help you (and each other!) thrive in the maddening, beautiful hellscape that is life. Sarah and Jeff use their professional training, wit, irreverence, and (probably excessive) self-disclosure, to cover relationships, mental health, family, happiness, sex…nothing is off limits.The show might help you let go of a toxic belief, the seemingly impossible might feel a little more doable, or maybe you’ll just have a good laugh on a bad day. Sometimes that’s enough! By the end of each episode, you’ll be saying “this changes everything!”",
+      "image": "https://i.scdn.co/image/ab67656300005f1f65ac934ca5e263bbcf29e405",
+      "appleId": "id1640548625",
+      "ratings": 565,
+      "velocity": 0
+    }
+  },
+  {
+    "title": "Sex With Emily",
+    "link": "6rOdElQl90RMJq3rlwwGmK",
+    "meta": {
+      "rank": 39,
+      "category": "Health & Fitness",
+      "publisher": "Dr. Emily Morse",
+      "description": "Dr. Emily Morse shares her expertise on sex, relationships and everything in between! Submit your questions to Emily by emailing feedback@sexwithemily.com. For more sexy fun, including blogs, photos, videos or to stream this show, visit sexwithemily.com.      Hosted on Acast. See acast.com/privacy for more information.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fe0ba39359ef77404cd19e8e5",
+      "appleId": "id82456189",
+      "ratings": 5597,
+      "velocity": 0
+    }
+  },
+  {
+    "title": "Pillow Talks",
+    "link": "0o4XZnrl0ihC7IKVn63bjy",
+    "meta": {
+      "rank": 40,
+      "category": "Health & Fitness",
+      "publisher": "Vanessa & Xander Marin",
+      "description": "Meet Vanessa and Xander Marin, your new BFF couple friends! She’s a sex therapist with 20 years of experience and he’s a regular dude. Together they’re the shockingly open, slightly nerdy, and seriously funny couple you want to grab sushi with. They share the ups and downs in their relationship while giving you step-by-step techniques for improving yours. Subscribe for your weekly double date full of totally do-able sex tips, practical relationship advice, hilarious and honest stories of what really goes on behind closed bedroom doors, and so much more. It’s the sex education you WISH you’d had!",
+      "image": "https://i.scdn.co/image/ab67656300005f1f441a804fc4a9137660d896d2",
+      "appleId": "id1569466131",
+      "ratings": 1327,
+      "velocity": 0
+    }
+  },
+  {
+    "title": "El Podcast de Marian Rojas Estapé",
+    "link": "2xV7Vx7NQgAC8vMt2vZNnE",
+    "meta": {
+      "rank": 41,
+      "category": "Health & Fitness",
+      "publisher": "Marian Rojas Estapé",
+      "description": "Marian Rojas Estapé, médico y psiquiatra nos trae unos episodios de podcast dónde comprendernos mejor a nosotros mismos. Marian te cuenta y explica temas concretos de la mente, del comportamiento o del mundo emocional.Conoceremos la oxitocina y el cortisol. Tendremos claves para identificar a las personas vitaminas que nos rodean, Marian nos hablará de muchos temas sobre nuestra salud mental y nos enseñará a vivir con más armonía a través del conocimiento de nuestro cuerpo.El Podcast de Marian Rojas Estapé, es un podcast en exclusiva en Spotify.Créditos: Guion y locución: Marian Rojas EstapéProducción: Editorial EspasaDirección: Sergio García JáñezGrabación: Margot MartínEdición: Sunne de Nación Podcast",
+      "image": "https://i.scdn.co/image/ab67656300005f1f1287a007991807b6f867fcfc",
+      "velocity": 0
+    }
+  },
+  {
+    "title": "SelfHealers Soundboard",
+    "link": "6JNFiVSAJOk7VyM6ibiKS9",
+    "meta": {
+      "rank": 42,
+      "category": "Health & Fitness",
+      "publisher": "The Holistic Psychologist",
+      "description": "The SELFHEALERS SOUNDBOARD is a global, community-based healing experience created by Dr. Nicole LePera and Jenna Weakland. Each week, we host raw, unscripted, open conversations about the things we are REALLY dealing with on the journey of facing our pasts and becoming our best Selves. Together, as community, we create resonance with “strangers” around the world as we collectively witness our own triggers, habits, traumas, and inherent wisdom. This is, and always will be, an ad free experience. Subscribe to our SelfHealers Soundboard YouTube channel to view these weekly podcasts with video and connect with us. New episodes every Sunday at 12 PM PST.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fac837f90fe7b5550b23a1664",
+      "appleId": "id1564136756",
+      "ratings": 1802,
+      "velocity": 0
     }
   },
   {
@@ -553,33 +595,36 @@
       "description": "Join Tiffany Roe, relatable Mental Health Counselor and award-winning psychology teacher as she shares NO BS quick therapy lessons that improve your life with each episode. We explore real tools and tips to give you mental health education, love yourself, your mind, your body, and your relationship with food. Let's change the mental health game and feel deal heal together. Follow her for more on Instagram @HeyTiffanyRoe and @TherapyThoughtsPodcast and at TiffanyRoe.com Support this podcast: https://anchor.fm/therapythoughts/support",
       "image": "https://i.scdn.co/image/69981e587f2f68eb9b6d83a83f1cf91286e2ef2f",
       "appleId": "id1366535840",
-      "ratings": 622
+      "ratings": 622,
+      "velocity": 0
     }
   },
   {
-    "title": "This Changes Everything",
-    "link": "0elV0MQcQZekQLzBg88oTe",
+    "title": "Almost 30",
+    "link": "0kBU7FWmLaLf3si3KZ9XQx",
     "meta": {
       "rank": 44,
       "category": "Health & Fitness",
-      "publisher": "Jeff Guenther, Sarah Rice & Wave Podcast Network",
-      "description": "Are you struggling? Feel like the world is changing too fast? Overwhelmed? Stressed? Welcome to the club! It’s called being a person, But fear not! MTV Challenge star, Sarah Rice, AMFT and TikTok Sensation, Jeff Guenther, LPC will help you (and each other!) thrive in the maddening, beautiful hellscape that is life. Sarah and Jeff use their professional training, wit, irreverence, and (probably excessive) self-disclosure, to cover relationships, mental health, family, happiness, sex…nothing is off limits.The show might help you let go of a toxic belief, the seemingly impossible might feel a little more doable, or maybe you’ll just have a good laugh on a bad day. Sometimes that’s enough! By the end of each episode, you’ll be saying “this changes everything!”",
-      "image": "https://i.scdn.co/image/ab67656300005f1f65ac934ca5e263bbcf29e405",
-      "appleId": "id1640548625",
-      "ratings": 565
+      "publisher": "Krista Williams & Lindsey Simcik",
+      "description": "Welcome to Almost 30 — a supportive space to fuel your conscious evolution. Join us, LA-based best friends Krista Williams and Lindsey Simcik, for heart-centered, hilarious conversations and real, raw, impactful interviews with brilliant guests. We dive deep into topics like modern spirituality to health and wellness, aliens to entrepreneurship, social justice, and self development.   With every episode, our mission is to empower you, expand what you think is possible and,  make you laugh - a lot. We are honest, open, and above all, human. We are committed to learning right alongside you in real time so we can all find growth in every moment together.   With millions of listeners around the world, Almost 30 has grown from a pioneering leader in the podcast space to a highly engaged global community. #Almost30Nation is full of purposeful dreamers who are curious, passionate, and constantly seeking growth in every aspect of our lives.   Join us for new episodes every Tuesday + Thursday!  This podcast uses the following third-party services for analysis:   Chartable - https://chartable.com/privacy Chartable - https://chartable.com/privacy Podsights - https://podsights.com/privacy",
+      "image": "https://i.scdn.co/image/ab67656300005f1fc7cab5bace9708e013935ca0",
+      "appleId": "id1148183612",
+      "ratings": 3658,
+      "velocity": 0
     }
   },
   {
-    "title": "Pillow Talks",
-    "link": "0o4XZnrl0ihC7IKVn63bjy",
+    "title": "LA MAGIA DEL CAOS con Aislinn Derbez",
+    "link": "53bnc3AHyqknK2JMAHo9br",
     "meta": {
       "rank": 45,
       "category": "Health & Fitness",
-      "publisher": "Vanessa & Xander Marin",
-      "description": "Meet Vanessa and Xander Marin, your new BFF couple friends! She’s a sex therapist with 20 years of experience and he’s a regular dude. Together they’re the shockingly open, slightly nerdy, and seriously funny couple you want to grab sushi with. They share the ups and downs in their relationship while giving you step-by-step techniques for improving yours. Subscribe for your weekly double date full of totally do-able sex tips, practical relationship advice, hilarious and honest stories of what really goes on behind closed bedroom doors, and so much more. It’s the sex education you WISH you’d had!",
-      "image": "https://i.scdn.co/image/ab67656300005f1f441a804fc4a9137660d896d2",
-      "appleId": "id1569466131",
-      "ratings": 1327
+      "publisher": "troop audio",
+      "description": "La Magia del Caos es un podcast de Aislinn Derbez y es un espacio para cuestionarte quién eres y cómo es la vida que deseas crear. Vas a encontrar entrevistas con terapeutas, artistas, emprendedores y expertos que van desde cómo lidiar con todo lo que hoy nos limita (relaciones, miedo, cambios, creencias limitantes, maternidad, duelo…), hasta cómo empezar a expandir tu consciencia. Síguenos en @lamagiadelcaos y puedes vernos en YouTube. Un podcast que se desprende de la plataforma de bienestar La Magia del Caos.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f119af5a12f24593e00486ba3",
+      "appleId": "id1509269608",
+      "ratings": 742,
+      "velocity": 0
     }
   },
   {
@@ -592,59 +637,62 @@
       "description": "Weekly discussions and perspectives on all aspects of psychology, neuropsychology, psychopharmacology, and mental health topics. Psychoeducation, information, misinformation, controversy, and passion about an incredibly relevant and misunderstood medical field.",
       "image": "https://i.scdn.co/image/ab67656300005f1f308a7e2c8e215950613fc1ff",
       "appleId": "id1547088092",
-      "ratings": 357
-    }
-  },
-  {
-    "title": "Almost 30",
-    "link": "0kBU7FWmLaLf3si3KZ9XQx",
-    "meta": {
-      "rank": 47,
-      "category": "Health & Fitness",
-      "publisher": "Krista Williams & Lindsey Simcik",
-      "description": "Welcome to Almost 30 — a supportive space to fuel your conscious evolution. Join us, LA-based best friends Krista Williams and Lindsey Simcik, for heart-centered, hilarious conversations and real, raw, impactful interviews with brilliant guests. We dive deep into topics like modern spirituality to health and wellness, aliens to entrepreneurship, social justice, and self development.   With every episode, our mission is to empower you, expand what you think is possible and,  make you laugh - a lot. We are honest, open, and above all, human. We are committed to learning right alongside you in real time so we can all find growth in every moment together.   With millions of listeners around the world, Almost 30 has grown from a pioneering leader in the podcast space to a highly engaged global community. #Almost30Nation is full of purposeful dreamers who are curious, passionate, and constantly seeking growth in every aspect of our lives.   Join us for new episodes every Tuesday + Thursday!  This podcast uses the following third-party services for analysis:   Chartable - https://chartable.com/privacy Chartable - https://chartable.com/privacy Podsights - https://podsights.com/privacy",
-      "image": "https://i.scdn.co/image/ab67656300005f1fc7cab5bace9708e013935ca0",
-      "appleId": "id1148183612",
-      "ratings": 3658
-    }
-  },
-  {
-    "title": "Fundamental Health with Paul Saladino, MD",
-    "link": "1b61TV5imeL89ilY11a7ll",
-    "meta": {
-      "rank": 48,
-      "category": "Health & Fitness",
-      "publisher": "Paul Saladino, MD",
-      "description": "Throughout my training and practice as a physician I have come to one very disappointing conclusion: Western medicine isn’t helping people lead better lives. Now that I’ve realized this, I’ve become obsessed with understanding what makes us healthy or ill. I want to live the best life I can and I want to be able to share this knowledge with others so that they can do the same. This podcast is the result of my relentless search to understand the roots of chronic disease. I hope you’ll join me on this journey.",
-      "image": "https://i.scdn.co/image/ab67656300005f1ff6f6b7266a0ae4820c562162",
-      "appleId": "id1461771083",
-      "ratings": 2204
+      "ratings": 357,
+      "velocity": 0
     }
   },
   {
     "title": "Therapy and Theology",
     "link": "3t3TDvjeCIgop43pIDHZMl",
     "meta": {
-      "rank": 49,
+      "rank": 47,
       "category": "Health & Fitness",
       "publisher": "Lysa TerKeurst",
       "description": "Have you ever looked at a situation you’re facing in utter disbelief and thought, \"How will I ever get over this?\" Lysa TerKeurst understands. After years of heartbreak and emotional trauma, she realized it’s not about just getting over hard circumstances but learning how to work through what she has walked through. Now, she wants to help you do the same. That’s why Lysa teamed up with her personal, licensed professional counselor, Jim Cress, alongside the Director of Theological Research at Proverbs 31 Ministries, Dr. Joel Muddamalle, to bring you \"Therapy & Theology.\" While Lysa, Jim and Joel do tackle some really hard topics, you’ll soon find they're just three friends having a great conversation and learning from each other along the way.",
       "image": "https://i.scdn.co/image/ab67656300005f1f6f0d8894de599c221866fc2e",
       "appleId": "id1641587501",
-      "ratings": 772
+      "ratings": 772,
+      "velocity": 0
     }
   },
   {
     "title": "The Genius Life",
     "link": "5WkdjiVLo1kp3alPfFZItS",
     "meta": {
-      "rank": 50,
+      "rank": 48,
       "category": "Health & Fitness",
       "publisher": "Max Lugavere",
       "description": "You don't have to be born a Genius to become one. Follow health and science journalist, New York Times bestselling author, TV personality and nutrition expert Max Lugavere as he speaks to the most insightful minds of our time about what it means to live like a Genius.",
       "image": "https://i.scdn.co/image/ab67656300005f1f8c2e065fbb189ab9f1d0bb36",
       "appleId": "id1379050662",
-      "ratings": 3585
+      "ratings": 3585,
+      "velocity": 0
+    }
+  },
+  {
+    "title": "After Hours with Fresh&Fit Podcast",
+    "link": "5IriNyqRKB2imDtJy1EWqn",
+    "meta": {
+      "rank": 49,
+      "category": "Health & Fitness",
+      "publisher": "Fresh&Fit After Hours",
+      "description": "Shockingly-useful dating, fitness, social media, and finance information from the Fresh&Fit Podcast, delivered to you after the sun sets when the lights go down low. We welcome special in-studio women and special guests to get even more personal than usual. Giving you all the after-hours entertainment you can handle.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f9d2c644e37fd9ce57daa0e48",
+      "velocity": 0
+    }
+  },
+  {
+    "title": "Fundamental Health with Paul Saladino, MD",
+    "link": "1b61TV5imeL89ilY11a7ll",
+    "meta": {
+      "rank": 50,
+      "category": "Health & Fitness",
+      "publisher": "Paul Saladino, MD",
+      "description": "Throughout my training and practice as a physician I have come to one very disappointing conclusion: Western medicine isn’t helping people lead better lives. Now that I’ve realized this, I’ve become obsessed with understanding what makes us healthy or ill. I want to live the best life I can and I want to be able to share this knowledge with others so that they can do the same. This podcast is the result of my relentless search to understand the roots of chronic disease. I hope you’ll join me on this journey.",
+      "image": "https://i.scdn.co/image/ab67656300005f1ff6f6b7266a0ae4820c562162",
+      "appleId": "id1461771083",
+      "ratings": 2204,
+      "velocity": 0
     }
   }
 ]
