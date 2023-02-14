@@ -8,8 +8,7 @@
       "publisher": "Lex Fridman",
       "description": "Conversations about science, technology, history, philosophy and the nature of intelligence, consciousness, love, and power. Lex is an AI researcher at MIT and beyond.",
       "image": "https://i.scdn.co/image/ab67656300005f1f563ebb538d297875b10114b7",
-      "followers": 2628480,
-      "velocity": 0
+      "followers": 2628480
     }
   },
   {
@@ -22,8 +21,7 @@
       "description": "Industry veterans, degenerate gamblers & besties Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg cover all things economic, tech, political, social & poker.",
       "image": "https://i.scdn.co/image/ab67656300005f1ff662927adc2c9d6505e05b51",
       "appleId": "id1502871393",
-      "ratings": 4163,
-      "velocity": 0
+      "ratings": 4163
     }
   },
   {
@@ -36,37 +34,34 @@
       "description": "“Hard Fork” is a show about the future that’s already here. Each week, journalists Kevin Roose and Casey Newton explore and make sense of the latest in the rapidly changing world of tech.",
       "image": "https://i.scdn.co/image/ab67656300005f1f37a4c8e5a5f95c3a81f36eb7",
       "appleId": "id1528594034",
-      "ratings": 3610,
-      "velocity": 0
-    }
-  },
-  {
-    "title": "The Network State Podcast",
-    "link": "10yi2HXcA1Pepe9qEtGJCI",
-    "meta": {
-      "rank": 4,
-      "category": "Technology",
-      "publisher": "Balaji Srinivasan",
-      "description": "What comes after Google, Facebook, Bitcoin, and Ethereum? Perhaps it's the startup country — the network state. Balaji interviews tech founders and policymakers from around the world on managing billions of dollars and millions of people, as well as what it might take to start a new kind of state.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f967bbdeb8b9fe41cc3db1981",
-      "followers": 746049,
-      "appleId": "id1594687786",
-      "ratings": 43,
-      "velocity": 1
+      "ratings": 3610
     }
   },
   {
     "title": "Land of the Giants",
     "link": "6DdYNi0EakNKPDuONnWiam",
     "meta": {
-      "rank": 5,
+      "rank": 4,
       "category": "Technology",
       "publisher": "The Cut & The Verge",
       "description": "Big tech is transforming every aspect of our world. But how? And at what cost? In Land of the Giants: Dating Games, The Verge and New York Magazine's The Cut trace the evolution of the multi-billion dollar dating app industry. Hosts Sangeeta Singh Kurtz and Lakshmi Rengarajan explore the modern dating landscape forged by companies like Tinder, Bumble, and Hinge, and their impact on our hopes for connection. Through conversations with industry leaders, experts, and users, this series will look at the past decade of dating and ask the question: are the business goals of dating app companies aligned with users' romantic aspirations? New episodes every Wednesday. From The Verge, The Cut and the Vox Media Podcast Network.",
       "image": "https://i.scdn.co/image/ab67656300005f1f8c8176e67be304758a7284c5",
       "appleId": "id1465767420",
-      "ratings": 1843,
-      "velocity": -1
+      "ratings": 1843
+    }
+  },
+  {
+    "title": "The Network State Podcast",
+    "link": "10yi2HXcA1Pepe9qEtGJCI",
+    "meta": {
+      "rank": 5,
+      "category": "Technology",
+      "publisher": "Balaji Srinivasan",
+      "description": "What comes after Google, Facebook, Bitcoin, and Ethereum? Perhaps it's the startup country — the network state. Balaji interviews tech founders and policymakers from around the world on managing billions of dollars and millions of people, as well as what it might take to start a new kind of state.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f967bbdeb8b9fe41cc3db1981",
+      "followers": 746049,
+      "appleId": "id1594687786",
+      "ratings": 43
     }
   },
   {
@@ -80,8 +75,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f91e3852e60ceac82ac19ab0c",
       "followers": 112776,
       "appleId": "id1296350485",
-      "ratings": 6325,
-      "velocity": 0
+      "ratings": 6325
     }
   },
   {
@@ -94,38 +88,35 @@
       "description": "For the curious! We’re exploring the inner-workings of the human brain to understand behavior change, habit formation, mental health, and being human.  It’s Brain Science applied — not just “how does the brain work,” but how do we apply what we know about the brain to transform our lives?",
       "image": "https://i.scdn.co/image/5d6022021cefb1f47fabf916ccb3e203e2980ce3",
       "appleId": "id1475672610",
-      "ratings": 47,
-      "velocity": 0
-    }
-  },
-  {
-    "title": "TED Radio Hour",
-    "link": "1vfOw64nKjQ8LzZDPCfRaO",
-    "meta": {
-      "rank": 8,
-      "category": "Technology",
-      "publisher": "NPR",
-      "description": "Exploring the biggest questions of our time with the help of the world's greatest thinkers. Host Manoush Zomorodi inspires us to learn more about the world, our communities, and most importantly, ourselves.Get more brainy miscellany with TED Radio Hour+. Your subscription supports the show and unlocks a sponsor-free feed. Learn more at plus.npr.org/ted",
-      "image": "https://i.scdn.co/image/ab67656300005f1fe45c170c01c849962df53edb",
-      "followers": 52115,
-      "appleId": "id523121474",
-      "ratings": 19698,
-      "velocity": 1
+      "ratings": 47
     }
   },
   {
     "title": "a16z Podcast",
     "link": "5bC65RDvs3oxnLyqqvkUYX",
     "meta": {
-      "rank": 9,
+      "rank": 8,
       "category": "Technology",
       "publisher": "Andreessen Horowitz",
       "description": "The a16z Podcast discusses tech and culture trends, news, and the future – especially as ‘software eats the world’. It features industry experts, business leaders, and other interesting thinkers and voices from around the world. This podcast is produced by Andreessen Horowitz (aka “a16z”), a Silicon Valley-based venture capital firm. Multiple episodes are released every week; visit a16z.com for more details and to sign up for our newsletters and other content as well!",
       "image": "https://i.scdn.co/image/ab67656300005f1f78f87512eb77833447a5c335",
       "followers": 684495,
       "appleId": "id842818711",
-      "ratings": 755,
-      "velocity": -1
+      "ratings": 755
+    }
+  },
+  {
+    "title": "TED Radio Hour",
+    "link": "1vfOw64nKjQ8LzZDPCfRaO",
+    "meta": {
+      "rank": 9,
+      "category": "Technology",
+      "publisher": "NPR",
+      "description": "Exploring the biggest questions of our time with the help of the world's greatest thinkers. Host Manoush Zomorodi inspires us to learn more about the world, our communities, and most importantly, ourselves.Get more brainy miscellany with TED Radio Hour+. Your subscription supports the show and unlocks a sponsor-free feed. Learn more at plus.npr.org/ted",
+      "image": "https://i.scdn.co/image/ab67656300005f1fe45c170c01c849962df53edb",
+      "followers": 52115,
+      "appleId": "id523121474",
+      "ratings": 19698
     }
   },
   {
@@ -137,8 +128,7 @@
       "publisher": "learn italian",
       "description": "Learn italian channel is a free online italian learning course. This course will start by teaching for beginners and then will continue with other levels (elementary, intermediate, advanced). it will help you to learn new words, their correct pronunciation, grammar rules and how to make sentences.",
       "image": "https://i.scdn.co/image/ab67656300005f1f002251db7ebed0fbca0ec6b7",
-      "followers": 654,
-      "velocity": 0
+      "followers": 654
     }
   },
   {
@@ -151,8 +141,7 @@
       "description": "What will the future look like? The Future of Everything offers a kaleidoscope view of the nascent trends that will shape our world. In every episode, join our award-winning team on a new journey of discovery. We’ll take you beyond what’s already out there, and make you smarter about the scientific and technological breakthroughs on the horizon that could transform our lives for the better.",
       "image": "https://i.scdn.co/image/ab67656300005f1f70147162134538a3d7c31962",
       "appleId": "id1234320525",
-      "ratings": 1252,
-      "velocity": 0
+      "ratings": 1252
     }
   },
   {
@@ -164,53 +153,49 @@
       "publisher": "Lenny Rachitsky",
       "description": "Interviews with world-class product leaders and growth experts to uncover concrete, actionable, and tactical advice to help you build, launch, and grow your own product. www.lennysnewsletter.com",
       "image": "https://i.scdn.co/image/ab67656300005f1fd6787aa0cda02133260df7e6",
-      "followers": 164948,
-      "velocity": 0
-    }
-  },
-  {
-    "title": "Waveform: The MKBHD Podcast",
-    "link": "6o81QuW22s5m2nfcXWjucc",
-    "meta": {
-      "rank": 13,
-      "category": "Technology",
-      "publisher": "Vox Media Podcast Network",
-      "description": "A tech podcast for the gadget lovers and tech heads among us from the mind of Marques Brownlee, better known as MKBHD. MKBHD has made a name for himself on YouTube reviewing everything from the newest smartphones to cameras to electric cars. Pulling from over 10 years of experience covering the tech industry, MKBHD and co-hosts Andrew Manganelli and David Imel will keep you informed and entertained as they take a deep dive into the latest and greatest in tech and what deserves your hard earned cash. New episodes every week. Waveform is part of the Vox Media Podcast Network. We wanna make the podcast even better, help us learn how we can: https://bit.ly/2EcYbu4 ",
-      "image": "https://i.scdn.co/image/ab67656300005f1fac8331ceb277518282d67047",
-      "followers": 81751,
-      "appleId": "id1474429475",
-      "ratings": 5336,
-      "velocity": 1
-    }
-  },
-  {
-    "title": "Well There‘s Your Problem",
-    "link": "2PQxEHzQFao28CkFsAeKKF",
-    "meta": {
-      "rank": 14,
-      "category": "Technology",
-      "publisher": "Justin Roczniak, Liam Anderson, Alice Caldwell-Kelly",
-      "description": "This is a podcast about engineering disasters and systemic failures, from a leftist perspective, with jokes",
-      "image": "https://i.scdn.co/image/ab67656300005f1f1e3d3b633ca4949593de303d",
-      "followers": 37926,
-      "appleId": "id1487829595",
-      "ratings": 777,
-      "velocity": 1
+      "followers": 164948
     }
   },
   {
     "title": "This Week in Startups",
     "link": "6ULQ0ewYf5zmsDgBchlkr9",
     "meta": {
-      "rank": 15,
+      "rank": 13,
       "category": "Technology",
       "publisher": "Jason Calacanis",
       "description": "Jason Calacanis and Molly Wood cover startups, tech, markets, media, crypto, and all the hottest topics in business and technology. They also interview the world’s greatest founders, operators, investors, and innovators.  Join our community on Twitter to discuss the show: https://twitter.com/i/communities/1496977694747209728",
       "image": "https://i.scdn.co/image/ab67656300005f1fc2b6884e8a1890c5f032d7e1",
       "followers": 63405,
       "appleId": "id315114957",
-      "ratings": 1124,
-      "velocity": -2
+      "ratings": 1124
+    }
+  },
+  {
+    "title": "Waveform: The MKBHD Podcast",
+    "link": "6o81QuW22s5m2nfcXWjucc",
+    "meta": {
+      "rank": 14,
+      "category": "Technology",
+      "publisher": "Vox Media Podcast Network",
+      "description": "A tech podcast for the gadget lovers and tech heads among us from the mind of Marques Brownlee, better known as MKBHD. MKBHD has made a name for himself on YouTube reviewing everything from the newest smartphones to cameras to electric cars. Pulling from over 10 years of experience covering the tech industry, MKBHD and co-hosts Andrew Manganelli and David Imel will keep you informed and entertained as they take a deep dive into the latest and greatest in tech and what deserves your hard earned cash. New episodes every week. Waveform is part of the Vox Media Podcast Network. We wanna make the podcast even better, help us learn how we can: https://bit.ly/2EcYbu4 ",
+      "image": "https://i.scdn.co/image/ab67656300005f1fac8331ceb277518282d67047",
+      "followers": 81751,
+      "appleId": "id1474429475",
+      "ratings": 5336
+    }
+  },
+  {
+    "title": "Well There‘s Your Problem",
+    "link": "2PQxEHzQFao28CkFsAeKKF",
+    "meta": {
+      "rank": 15,
+      "category": "Technology",
+      "publisher": "Justin Roczniak, Liam Anderson, Alice Caldwell-Kelly",
+      "description": "This is a podcast about engineering disasters and systemic failures, from a leftist perspective, with jokes",
+      "image": "https://i.scdn.co/image/ab67656300005f1f1e3d3b633ca4949593de303d",
+      "followers": 37926,
+      "appleId": "id1487829595",
+      "ratings": 777
     }
   },
   {
@@ -221,8 +206,7 @@
       "category": "Technology",
       "publisher": "Gimlet",
       "description": "\"'A podcast about the internet' that is actually an unfailingly original exploration of modern life and how to survive it.\" - The Guardian. Hosted by Alex Goldman and Emmanuel Dzotsi from Gimlet.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f192e623dc93cab2e2bcd181f",
-      "velocity": 0
+      "image": "https://i.scdn.co/image/ab67656300005f1f192e623dc93cab2e2bcd181f"
     }
   },
   {
@@ -236,49 +220,46 @@
       "image": "https://i.scdn.co/image/ab67656300005f1fd4502da87f51b99cae5e78f6",
       "followers": 30575,
       "appleId": "id1050462261",
-      "ratings": 1029,
-      "velocity": 0
-    }
-  },
-  {
-    "title": "Sharp Tech with Ben Thompson",
-    "link": "4vk2MfVMEAuOnTWUOz6lnE",
-    "meta": {
-      "rank": 18,
-      "category": "Technology",
-      "publisher": "Andrew Sharp and Ben Thompson",
-      "description": "A podcast about understanding how tech works and the way it is changing the world. Hosted by Andrew Sharp with Ben Thompson.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f796fdb05053125c08038607f",
-      "appleId": "id1646152812",
-      "ratings": 47,
-      "velocity": 1
+      "ratings": 1029
     }
   },
   {
     "title": "Stratechery",
     "link": "1jRACH7L8EQCYKc5uW7aPk",
     "meta": {
-      "rank": 19,
+      "rank": 18,
       "category": "Technology",
       "publisher": "Ben Thompson",
       "description": "Content from Stratechery, via podcast or RSS",
       "image": "https://i.scdn.co/image/ab67656300005f1f25ffb53a6a1f9e7ae7f99fbc",
-      "followers": 143505,
-      "velocity": -1
+      "followers": 143505
     }
   },
   {
-    "title": "Y Combinator",
-    "link": "1tgqafxZAB0Bjd8nkwVtE4",
+    "title": "Sharp Tech with Ben Thompson",
+    "link": "4vk2MfVMEAuOnTWUOz6lnE",
+    "meta": {
+      "rank": 19,
+      "category": "Technology",
+      "publisher": "Andrew Sharp and Ben Thompson",
+      "description": "A podcast about understanding how tech works and the way it is changing the world. Hosted by Andrew Sharp with Ben Thompson.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f796fdb05053125c08038607f",
+      "appleId": "id1646152812",
+      "ratings": 47
+    }
+  },
+  {
+    "title": "TheQuartering's Podcast",
+    "link": "606trGaUqZ6JNjcWbNxkyD",
     "meta": {
       "rank": 20,
       "category": "Technology",
-      "publisher": "YC Content",
-      "description": "We talk with people who are shaping the future. A show about technology in business, research, and art.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fb360131cd7db0a30c8cac0ab",
-      "appleId": "id1236907421",
-      "ratings": 157,
-      "velocity": 2
+      "publisher": "thequartering",
+      "description": "Audio from TheQuartering YouTube channel.  Conversations about technology, video games, comics, and the developers that make them.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f7bae12dd8d37299ce44bb2d9",
+      "followers": 88,
+      "appleId": "id1479238999",
+      "ratings": 88
     }
   },
   {
@@ -291,77 +272,72 @@
       "description": "Stories and interviews from people on their coding journey.",
       "image": "https://i.scdn.co/image/ab67656300005f1fbbe3fb7993164eaa32932eb1",
       "appleId": "id919219256",
-      "ratings": 542,
-      "velocity": 0
+      "ratings": 542
+    }
+  },
+  {
+    "title": "Y Combinator",
+    "link": "1tgqafxZAB0Bjd8nkwVtE4",
+    "meta": {
+      "rank": 22,
+      "category": "Technology",
+      "publisher": "YC Content",
+      "description": "We talk with people who are shaping the future. A show about technology in business, research, and art.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fb360131cd7db0a30c8cac0ab",
+      "appleId": "id1236907421",
+      "ratings": 157
     }
   },
   {
     "title": "Deep Questions with Cal Newport",
     "link": "0e9lFr3AdJByoBpM6tAbxD",
     "meta": {
-      "rank": 22,
+      "rank": 23,
       "category": "Technology",
       "publisher": "Cal Newport",
       "description": "Cal Newport is a computer science professor and a New York Times bestselling author who writes about the impact of technology on society, and the struggle to work and live deeply in a world increasingly mired in digital distractions. On this podcast, he answers questions from his readers and offers advice about cultivating focus, productivity, and meaning amidst the noise that pervades our lives.",
       "image": "https://i.scdn.co/image/ab67656300005f1f38649638c05336afc2865152",
       "appleId": "id1515786216",
-      "ratings": 904,
-      "velocity": 1
-    }
-  },
-  {
-    "title": "TheQuartering's Podcast",
-    "link": "606trGaUqZ6JNjcWbNxkyD",
-    "meta": {
-      "rank": 23,
-      "category": "Technology",
-      "publisher": "thequartering",
-      "description": "Audio from TheQuartering YouTube channel.  Conversations about technology, video games, comics, and the developers that make them.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f7bae12dd8d37299ce44bb2d9",
-      "followers": 88,
-      "appleId": "id1479238999",
-      "ratings": 88,
-      "velocity": -3
-    }
-  },
-  {
-    "title": "AI Radio",
-    "link": "4MzMC8BrMVxOawBXoSKCcf",
-    "meta": {
-      "rank": 24,
-      "category": "Technology",
-      "publisher": "AI and @bemmu",
-      "description": "Radio show hosted by a dynamic duo of two AI entities, Adam and Bella, who discuss everything from current events to pop culture.   They are even able to answer listener questions and cover topics or reddit posts of your choice. You can send suggestions to the /r/airadio subreddit, or by email to me+ai@bemmu.com  ---  Current features of the software running this: - Can invent news, or cover them based on title, and interview fake experts. - Can talk about topics it finds on Reddit or Hacker News. - Can answer listener questions, or invent some if there aren't any.  These segments were made up by AI. Sometimes they get to pretty questionable territory, beware!",
-      "image": "https://i.scdn.co/image/ab67656300005f1f5372fdd875a2ad85684b95f1",
-      "velocity": 5
+      "ratings": 904
     }
   },
   {
     "title": "Marketplace Tech",
     "link": "6hQYpQb9AfbEReRgrqZ4ov",
     "meta": {
-      "rank": 25,
+      "rank": 24,
       "category": "Technology",
       "publisher": "Marketplace",
       "description": "Monday through Friday, Marketplace demystifies the digital economy in less than 10 minutes. We look past the hype and ask tough questions about an industry that’s constantly changing.",
       "image": "https://i.scdn.co/image/2f31549aef02582a37b04d05b3c068922d1f5fdb",
       "appleId": "id73330855",
-      "ratings": 1141,
-      "velocity": -1
+      "ratings": 1141
     }
   },
   {
     "title": "Practical AI: Machine Learning, Data Science",
     "link": "1LaCr5TFAgYPK5qHjP3XDp",
     "meta": {
-      "rank": 26,
+      "rank": 25,
       "category": "Technology",
       "publisher": "Changelog Media",
       "description": "Making artificial intelligence practical, productive, and accessible to everyone.  Practical AI is a show in which technology professionals, business people, students, enthusiasts, and expert guests engage in lively discussions about Artificial Intelligence and related topics (Machine Learning, Deep Learning, Neural Networks, GANs, MLOps, AIOps, and more). The focus is on productive implementations and real-world scenarios that are accessible to everyone. If you want to keep up with the latest advances in AI, while keeping one foot in the real world, then this is the show for you!",
       "image": "https://i.scdn.co/image/95fdb82f820b1e466101b4ee588dafe2ca73fe8e",
       "appleId": "id1406537385",
-      "ratings": 95,
-      "velocity": -1
+      "ratings": 95
+    }
+  },
+  {
+    "title": "Hacker And The Fed",
+    "link": "4uze2AoxrCv0dRjvElUpTy",
+    "meta": {
+      "rank": 26,
+      "category": "Technology",
+      "publisher": "Chris Tarbell & Hector Monsegur",
+      "description": "Former FBI Special Agent Chris Tarbell and ex-Anonymous/LulzSec blackhat hacker Hector Monsegur (aka Sabu) faced off as adversaries in cyberspace before becoming close friends and podcast co-hosts. Listen to Tarbell, co-founder of the elite cybersecurity firm NAXO, and Monsegur, a top network penetration tester and security engineer, break down the must-know cybersecurity news and topics of the week. You’ll walk away from each episode with unique perspectives on keeping your family, your company, and yourself safe from cyber attacks.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f71ac6a0e049d1bbb52ea2c91",
+      "appleId": "id1649541362",
+      "ratings": 96
     }
   },
   {
@@ -374,326 +350,302 @@
       "description": "For more than a dozen years, the Stack Overflow Podcast has been exploring what it means to be a developer and how the art and practice of software programming is changing our world. From Rails to React, from Java to Node.js, we host important conversations and fascinating guests that will help you understand how technology is made and where it’s headed. Hosted by Ben Popper, Cassidy Williams, and Ceora Ford, the Stack Overflow Podcast is your home for all things code.",
       "image": "https://i.scdn.co/image/ab67656300005f1f493e8f09033e2ed1d79ee18a",
       "appleId": "id1483510527",
-      "ratings": 46,
-      "velocity": 0
-    }
-  },
-  {
-    "title": "Hacker And The Fed",
-    "link": "4uze2AoxrCv0dRjvElUpTy",
-    "meta": {
-      "rank": 28,
-      "category": "Technology",
-      "publisher": "Chris Tarbell & Hector Monsegur",
-      "description": "Former FBI Special Agent Chris Tarbell and ex-Anonymous/LulzSec blackhat hacker Hector Monsegur (aka Sabu) faced off as adversaries in cyberspace before becoming close friends and podcast co-hosts. Listen to Tarbell, co-founder of the elite cybersecurity firm NAXO, and Monsegur, a top network penetration tester and security engineer, break down the must-know cybersecurity news and topics of the week. You’ll walk away from each episode with unique perspectives on keeping your family, your company, and yourself safe from cyber attacks.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f71ac6a0e049d1bbb52ea2c91",
-      "appleId": "id1649541362",
-      "ratings": 96,
-      "velocity": -2
-    }
-  },
-  {
-    "title": "Moment of Zen",
-    "link": "15KYOzvDzAQvqX0z0SpHEJ",
-    "meta": {
-      "rank": 29,
-      "category": "Technology",
-      "publisher": "Erik Torenberg, Dan Romero, Antonio Garcia Martinez",
-      "description": "Erik Torenberg, Dan Romero, and Antonio Garcia Martinez discuss what's happening in technology, business, politics, and beyond.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f648c39eccc3b7b7409961a08",
-      "appleId": "id1661672738",
-      "ratings": 41,
-      "velocity": 3
+      "ratings": 46
     }
   },
   {
     "title": "Tech Won't Save Us",
     "link": "3UhsI7s4bkH1FcMZI5u9iD",
     "meta": {
-      "rank": 30,
+      "rank": 28,
       "category": "Technology",
       "publisher": "Paris Marx",
       "description": "Silicon Valley wants to shape our future, but why should we let it? Every Thursday, Paris Marx is joined by a new guest to critically examine the tech industry, its big promises, and the people behind them. Tech Won’t Save Us challenges the notion that tech alone can drive our world forward by showing that separating tech from politics has consequences for us all, especially the most vulnerable. It’s not your usual tech podcast.",
       "image": "https://i.scdn.co/image/ab67656300005f1fcfa708826c561b023ce762b4",
       "appleId": "id1507621076",
-      "ratings": 86,
-      "velocity": -2
+      "ratings": 86
     }
   },
   {
-    "title": "Cybersecurity Simplified",
-    "link": "7f4aPNOrA5lQmTxZTv2qfo",
+    "title": "AI Radio",
+    "link": "4MzMC8BrMVxOawBXoSKCcf",
     "meta": {
-      "rank": 31,
+      "rank": 29,
       "category": "Technology",
-      "publisher": "Susanna Song",
-      "description": "Cybersecurity Simplified aims to demystify cybersecurity and make it understandable to business people and managed services providers who aren’t security experts. We explore the latest cybersecurity trends, threats and news with the insight and perspective of CTO David Barton of Overwatch Managed Security by High Wire Networks.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f9fdbd18a2f6318c6bb3e10e4",
-      "appleId": "id1547877889",
-      "ratings": 4,
-      "velocity": 2
-    }
-  },
-  {
-    "title": "CyberWire Daily",
-    "link": "0CnYnxrAcfRjh0YSQINAwe",
-    "meta": {
-      "rank": 32,
-      "category": "Technology",
-      "publisher": "CyberWire, Inc.",
-      "description": "The daily cybersecurity news and analysis industry leaders depend on. Published each weekday, the program also includes interviews with a wide spectrum of experts from industry, academia, and research organizations all over the world.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f559565655eeba24cd0d33512",
-      "appleId": "id1071831261",
-      "ratings": 879,
-      "velocity": 2
-    }
-  },
-  {
-    "title": "Endless Thread",
-    "link": "6oApMJxXM8nni0hYAqgDRr",
-    "meta": {
-      "rank": 33,
-      "category": "Technology",
-      "publisher": "WBUR",
-      "description": "Hosts Ben Brock Johnson and Amory Sivertson dig into the internet's vast and curious ecosystem of online communities to find untold histories, unsolved mysteries, and other jaw-dropping stories online and IRL.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f8092b42fafd1a6563958a1c0",
-      "appleId": "id1321060753",
-      "ratings": 2434,
-      "velocity": 2
-    }
-  },
-  {
-    "title": "Syntax - Tasty Web Development Treats",
-    "link": "4kYCRYJ3yK5DQbP5tbfZby",
-    "meta": {
-      "rank": 34,
-      "category": "Technology",
-      "publisher": "Wes Bos and Scott Tolinski",
-      "description": "A Tasty Treat Podcast for Web Developers",
-      "image": "https://i.scdn.co/image/d63dd2b233c3268ace5f19d7583c87d539c675e8",
-      "appleId": "id1253186678",
-      "ratings": 891,
-      "velocity": 7
-    }
-  },
-  {
-    "title": "Hacked",
-    "link": "21zZfOy7VCSIIWlJ64DElv",
-    "meta": {
-      "rank": 35,
-      "category": "Technology",
-      "publisher": "Sticks & Stones",
-      "description": "As hacking leaves the dark corners of the internet and makes its way into our daily lives, we set out to paint a picture of this curious (and occasionally criminal) world. Join us on Hacked, as Jordan Bloemen, communicator and storyteller, and Scott Francis Winder, technologist and computer security hobbyist, delve into a new story every episode.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fedcd9a820e6fbc71f01879a2",
-      "appleId": "id1049420219",
-      "ratings": 95,
-      "velocity": 4
-    }
-  },
-  {
-    "title": "The Vergecast",
-    "link": "08zQP2peZmM9GrcKShLZvC",
-    "meta": {
-      "rank": 36,
-      "category": "Technology",
-      "publisher": "The Verge",
-      "description": "The Vergecast is the flagship podcast from The Verge about small gadgets, Big Tech, and everything in between. Every Friday, hosts Nilay Patel, David Pierce, and Alex Cranz hang out and make sense of the week’s most important technology news. And every Wednesday, David leads a selection of The Verge’s expert staffers in an exploration of how gadgets and software affect our lives – and which ones you should bring into yours. ",
-      "image": "https://i.scdn.co/image/ab67656300005f1f358bcefc95d8974a8e8a8027",
-      "appleId": "id430333725",
-      "ratings": 3228,
-      "velocity": -5
+      "publisher": "AI and @bemmu",
+      "description": "Radio show hosted by a dynamic duo of two AI entities, Adam and Bella, who discuss everything from current events to pop culture.   They are even able to answer listener questions and cover topics or reddit posts of your choice. You can send suggestions to the /r/airadio subreddit, or by email to me+ai@bemmu.com  ---  Current features of the software running this: - Can invent news, or cover them based on title, and interview fake experts. - Can talk about topics it finds on Reddit or Hacker News. - Can answer listener questions, or invent some if there aren't any.  These segments were made up by AI. Sometimes they get to pretty questionable territory, beware!",
+      "image": "https://i.scdn.co/image/ab67656300005f1f5372fdd875a2ad85684b95f1"
     }
   },
   {
     "title": "Catalyst with Shayle Kann",
     "link": "4C5Qx3wJn0GeTnDxIVYcAR",
     "meta": {
-      "rank": 37,
+      "rank": 30,
       "category": "Technology",
       "publisher": "Post Script Media + Canary Media",
       "description": "Investor Shayle Kann is asking big questions about how to decarbonize the planet: How cheap can clean energy get? Will artificial intelligence speed up climate solutions? Where is the smart money going into climate technologies? Every week on Catalyst, Shayle explains the world of \"climate tech\" with prominent experts, investors, researchers, and executives. The show is a co-production of Post Script Media and Canary Media.",
       "image": "https://i.scdn.co/image/ab67656300005f1f62a8d3d1745fbccc96b399f6",
       "appleId": "id1593204897",
-      "ratings": 168,
-      "velocity": -7
+      "ratings": 168
+    }
+  },
+  {
+    "title": "The Vergecast",
+    "link": "08zQP2peZmM9GrcKShLZvC",
+    "meta": {
+      "rank": 31,
+      "category": "Technology",
+      "publisher": "The Verge",
+      "description": "The Vergecast is the flagship podcast from The Verge about small gadgets, Big Tech, and everything in between. Every Friday, hosts Nilay Patel, David Pierce, and Alex Cranz hang out and make sense of the week’s most important technology news. And every Wednesday, David leads a selection of The Verge’s expert staffers in an exploration of how gadgets and software affect our lives – and which ones you should bring into yours. ",
+      "image": "https://i.scdn.co/image/ab67656300005f1f358bcefc95d8974a8e8a8027",
+      "appleId": "id430333725",
+      "ratings": 3228
+    }
+  },
+  {
+    "title": "Moment of Zen",
+    "link": "15KYOzvDzAQvqX0z0SpHEJ",
+    "meta": {
+      "rank": 32,
+      "category": "Technology",
+      "publisher": "Erik Torenberg, Dan Romero, Antonio Garcia Martinez",
+      "description": "Erik Torenberg, Dan Romero, and Antonio Garcia Martinez discuss what's happening in technology, business, politics, and beyond.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f648c39eccc3b7b7409961a08",
+      "appleId": "id1661672738",
+      "ratings": 41
+    }
+  },
+  {
+    "title": "Cybersecurity Simplified",
+    "link": "7f4aPNOrA5lQmTxZTv2qfo",
+    "meta": {
+      "rank": 33,
+      "category": "Technology",
+      "publisher": "Susanna Song",
+      "description": "Cybersecurity Simplified aims to demystify cybersecurity and make it understandable to business people and managed services providers who aren’t security experts. We explore the latest cybersecurity trends, threats and news with the insight and perspective of CTO David Barton of Overwatch Managed Security by High Wire Networks.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f9fdbd18a2f6318c6bb3e10e4",
+      "appleId": "id1547877889",
+      "ratings": 4
+    }
+  },
+  {
+    "title": "CyberWire Daily",
+    "link": "0CnYnxrAcfRjh0YSQINAwe",
+    "meta": {
+      "rank": 34,
+      "category": "Technology",
+      "publisher": "CyberWire, Inc.",
+      "description": "The daily cybersecurity news and analysis industry leaders depend on. Published each weekday, the program also includes interviews with a wide spectrum of experts from industry, academia, and research organizations all over the world.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f559565655eeba24cd0d33512",
+      "appleId": "id1071831261",
+      "ratings": 879
+    }
+  },
+  {
+    "title": "Endless Thread",
+    "link": "6oApMJxXM8nni0hYAqgDRr",
+    "meta": {
+      "rank": 35,
+      "category": "Technology",
+      "publisher": "WBUR",
+      "description": "Hosts Ben Brock Johnson and Amory Sivertson dig into the internet's vast and curious ecosystem of online communities to find untold histories, unsolved mysteries, and other jaw-dropping stories online and IRL.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f8092b42fafd1a6563958a1c0",
+      "appleId": "id1321060753",
+      "ratings": 2434
     }
   },
   {
     "title": "Rabbit Hole",
     "link": "6dqqC8nkBTC3ldRs7pP4qn",
     "meta": {
-      "rank": 38,
+      "rank": 36,
       "category": "Technology",
       "publisher": "The New York Times",
       "description": "What is the internet doing to us? The Times tech columnist Kevin Roose discovers what happens when our lives move online.",
       "image": "https://i.scdn.co/image/4e994e4a3d3d0089e8fec8329b242d8c589d9744",
       "appleId": "id1507423923",
-      "ratings": 6512,
-      "velocity": -2
+      "ratings": 6512
     }
   },
   {
     "title": "NN/g UX Podcast ",
     "link": "3GFTfWpfv6m8nhKsPOlT8m",
     "meta": {
-      "rank": 39,
+      "rank": 37,
       "category": "Technology",
       "publisher": "Nielsen Norman Group",
       "description": "The Nielsen Norman Group (NNg) UX Podcast is a podcast on user experience research, design, strategy, and professions, hosted by Senior User Experience Specialist Therese Fessenden. Join us every month as she interviews industry experts, covering common questions, hot takes on pressing UX topics, and tips for building truly great user experiences. For free UX resources, references, and information on UX Certification opportunities, go to: www.nngroup.com",
       "image": "https://i.scdn.co/image/3f93123175db6e2c6bfc615e41e76ed479e48171",
       "appleId": "id1527196035",
-      "ratings": 78,
-      "velocity": -2
-    }
-  },
-  {
-    "title": "What the Shell?",
-    "link": "3QcBl6Yf1E3rLdz3UJEzOM",
-    "meta": {
-      "rank": 40,
-      "category": "Technology",
-      "publisher": "John Kordis",
-      "description": "Welcome to ”What the Shell?” where I dive into major hacks and vulnerabilities in a way meant to be accessible by anyone. Come with me as we look at each incident through an exciting lens of curiosity.  Join us on our discord if you‘d like to participate in discussions with myself and our guests! https://discord.gg/mBPbWcVRYR",
-      "image": "https://i.scdn.co/image/ab67656300005f1ff9005fcd3d0a5d2d453ec1a1",
-      "appleId": "id1582675663",
-      "ratings": 17,
-      "velocity": 8
+      "ratings": 78
     }
   },
   {
     "title": "The Hacker Mind",
     "link": "6zkacjxPFG0qbcMWzDHvfH",
     "meta": {
-      "rank": 41,
+      "rank": 38,
       "category": "Technology",
       "publisher": "Robert Vamosi",
       "description": "The Hacker Mind is an original podcast from ForAllSecure. It’s the stories from the individuals behind the hacks you’ve read about. It’s about meeting some of the security challenges in software through advanced techniques such as fuzz testing. It’s a view of the hackers and their world that you may not have heard before.",
       "image": "https://i.scdn.co/image/ab67656300005f1f58e6b367e7f78beadef268b6",
       "appleId": "id1523725831",
-      "ratings": 7,
-      "velocity": -3
+      "ratings": 7
     }
   },
   {
-    "title": "DataFramed",
-    "link": "02yJXEJAJiQ0Vm2AO9Xj6X",
+    "title": "Hacked",
+    "link": "21zZfOy7VCSIIWlJ64DElv",
     "meta": {
-      "rank": 42,
+      "rank": 39,
       "category": "Technology",
-      "publisher": "DataCamp",
-      "description": "Welcome to DataFramed, a weekly podcast where we explore how technology and data are changing the world around us. On this show, we invite data leaders and practitioners at the forefront of the data revolution to share their insights and experiences into how they lead the charge in this era of data. Whether you're a beginner looking to gain career insights into a career in data, a practitioner needing to stay up-to-date on the latest data tools and trends, or a leader looking to transform how your organization uses data, there's something here for everyone.  Join co-hosts Adel Nehme and Richie Cotton as they delve into the stories and ideas that are shaping the future of data. Subscribe to the show and tune in to the latest episode on the feed below.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f5f4712b441fcd4135ca7452c",
-      "appleId": "id1336150688",
-      "ratings": 245,
-      "velocity": 9
-    }
-  },
-  {
-    "title": "Daily Tech News Show",
-    "link": "3I5RPNDkZ6dQzWaboqBcqi",
-    "meta": {
-      "rank": 43,
-      "category": "Technology",
-      "publisher": "Tom Merritt",
-      "description": "Tom Merritt, Sarah Lane and the team help you stay up to date with independent, authoritative and trustworthy tech news.  Become a member at https://plus.acast.com/s/dtns.   Hosted on Acast. See acast.com/privacy for more information.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f3a6c412dd19eda7803653d42",
-      "appleId": "id790864884",
-      "ratings": 1298,
-      "velocity": -1
-    }
-  },
-  {
-    "title": "The Privacy, Security, & OSINT Show",
-    "link": "6QPWpZJ6bRTdbkI7GgLHBM",
-    "meta": {
-      "rank": 44,
-      "category": "Technology",
-      "publisher": "Michael Bazzell",
-      "description": "Your occasional dose of privacy, digital security, and open source intelligence (OSINT) news and opinion.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fa7ed07c411f6df9bf675f009",
-      "velocity": 7
-    }
-  },
-  {
-    "title": "The Changelog: Software Development, Open Source",
-    "link": "5bBki72YeKSLUqyD94qsuJ",
-    "meta": {
-      "rank": 45,
-      "category": "Technology",
-      "publisher": "Changelog Media",
-      "description": "Conversations with the hackers, leaders, and innovators of the software world.  On Mondays: The software world moves fast. Keep up with our brief News roundup episodes. On Fridays: Adam Stacoviak and Jerod Santo face their imposter syndrome so you don’t have to. Expect in-depth interviews with the best and brightest in software engineering, open source & leadership. This is a polyglot podcast. All programming languages, platforms & communities are welcome.",
-      "image": "https://i.scdn.co/image/f248b462fa36099aaa8d205340e5cf9a3e37638c",
-      "appleId": "id341623264",
-      "ratings": 229,
-      "velocity": 6
+      "publisher": "Sticks & Stones",
+      "description": "As hacking leaves the dark corners of the internet and makes its way into our daily lives, we set out to paint a picture of this curious (and occasionally criminal) world. Join us on Hacked, as Jordan Bloemen, communicator and storyteller, and Scott Francis Winder, technologist and computer security hobbyist, delve into a new story every episode.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fedcd9a820e6fbc71f01879a2",
+      "appleId": "id1049420219",
+      "ratings": 95
     }
   },
   {
     "title": "TechStuff",
     "link": "57wZcoxW8oNs5Mq7WZfTs7",
     "meta": {
-      "rank": 46,
+      "rank": 40,
       "category": "Technology",
       "publisher": "iHeartPodcasts",
       "description": "TechStuff is a show about technology. And it’s not just how technology works. Join host Jonathan Strickland as he explores the people behind the tech, the companies that market it and how technology affects our lives and culture.",
       "image": "https://i.scdn.co/image/ab67656300005f1fc052cfcc9095c993a9c0d9fb",
       "appleId": "id282795787",
-      "ratings": 1658,
-      "velocity": -6
+      "ratings": 1658
     }
   },
   {
-    "title": "Privacy Files",
-    "link": "5srjjEcxLR7JlaW5NbsagD",
+    "title": "Syntax - Tasty Web Development Treats",
+    "link": "4kYCRYJ3yK5DQbP5tbfZby",
     "meta": {
-      "rank": 47,
+      "rank": 41,
       "category": "Technology",
-      "publisher": "Rich & Sarah",
-      "description": "We make the topic of privacy approachable. For both businesses and consumers. With so much of our lives taking place online today, it's easy to overlook the dangers associated with sharing your personal data with companies and strangers. Many people are aware that privacy is a problem but they don't know where to begin. Privacy Files explains the vast array of privacy issues facing society in easy-to-understand language. Then we give you practical solutions to quickly and effortlessly make the changes necessary to take back control of your personal information--one case file at a time.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f3ed32eb260f6bf25d29e553e",
-      "velocity": 4
+      "publisher": "Wes Bos and Scott Tolinski",
+      "description": "A Tasty Treat Podcast for Web Developers",
+      "image": "https://i.scdn.co/image/d63dd2b233c3268ace5f19d7583c87d539c675e8",
+      "appleId": "id1253186678",
+      "ratings": 891
     }
   },
   {
-    "title": "The AI Podcast",
-    "link": "4TB4pnynaiZ6YHoKmyVN0L",
+    "title": "Daily Tech News Show",
+    "link": "3I5RPNDkZ6dQzWaboqBcqi",
     "meta": {
-      "rank": 48,
+      "rank": 42,
       "category": "Technology",
-      "publisher": "NVIDIA",
-      "description": "One person, one interview, one story. Join us as we explore the impact of AI on our world, one amazing person at a time -- from the wildlife biologist tracking endangered rhinos across the savannah here on Earth to astrophysicists analyzing 10 billion-year-old starlight in distant galaxies to the Walmart data scientist grappling with the hundreds of millions of parameters lurking in the retailer’s supply chain. Every two weeks, we’ll bring you another tale, another 25-minute interview, as we build a real-time oral history of AI that’s already garnered nearly 3.4 million listens and been acclaimed as one of the best AI and machine learning podcasts. Listen in and get inspired.  https://blogs.nvidia.com/ai-podcast/",
-      "image": "https://i.scdn.co/image/ab67656300005f1f998607a146a75ac7a5a4e005",
-      "appleId": "id1186480811",
-      "ratings": 206,
-      "velocity": 3
+      "publisher": "Tom Merritt",
+      "description": "Tom Merritt, Sarah Lane and the team help you stay up to date with independent, authoritative and trustworthy tech news.  Become a member at https://plus.acast.com/s/dtns.   Hosted on Acast. See acast.com/privacy for more information.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f3a6c412dd19eda7803653d42",
+      "appleId": "id790864884",
+      "ratings": 1298
+    }
+  },
+  {
+    "title": "Malicious Life",
+    "link": "1KHIsaZ9mX0NbzPrfId00q",
+    "meta": {
+      "rank": 43,
+      "category": "Technology",
+      "publisher": "Cybereason",
+      "description": "Malicious Life by Cybereason tells the unknown stories of the history of cybersecurity, with comments and reflections by real hackers, security experts, journalists, and politicians.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f17e2610ab2494c5b017bd121",
+      "appleId": "id1252417787",
+      "ratings": 831
     }
   },
   {
     "title": "Triple Click",
     "link": "54RpOtEt0xBo6K1FO0Vo7X",
     "meta": {
-      "rank": 49,
+      "rank": 44,
       "category": "Technology",
       "publisher": "Maximum Fun",
       "description": "Video games: They’re serious business! Except when they’re not serious at all. Each week on Triple Click, video game experts Kirk Hamilton, Maddy Myers, and Jason Schreier journey into the fascinating world of games. They’ll explore hot topics in video game news and culture, answer burning listener questions, debate the pros and cons of the biggest new games, and replay old classics together.",
       "image": "https://i.scdn.co/image/9f158ae771ea7350b95529003611bf4c5502a255",
       "appleId": "id1507834679",
-      "ratings": 934,
-      "velocity": -5
+      "ratings": 934
     }
   },
   {
-    "title": "Soft Skills Engineering",
-    "link": "59I1XnvAB9fQzSj9SIKCoI",
+    "title": "The ChatGPT Report",
+    "link": "2ipC8cnJMLFgikjrbcM8aC",
+    "meta": {
+      "rank": 45,
+      "category": "Technology",
+      "publisher": "Ben",
+      "description": "10 minute episodes dedicated to ChatGPT news and where AI is heading.  Website for show notes and links: https://www.thechatgptreport.com/  Twitter: https://twitter.com/ChatGPTReport  LinkedIn: https://www.linkedin.com/company/thechatgptreport/",
+      "image": "https://i.scdn.co/image/ab67656300005f1fbbfbee0b15a7687b14552590",
+      "appleId": "id1660264772",
+      "ratings": 13
+    }
+  },
+  {
+    "title": "Machine Learning Guide",
+    "link": "5M9yZpSyF1jc7uFp2MlhP9",
+    "meta": {
+      "rank": 46,
+      "category": "Technology",
+      "publisher": "Dept",
+      "description": "Machine learning audio course, teaching the fundamentals of machine learning and artificial intelligence. It covers intuition, models (shallow and deep), math, languages, frameworks, etc. Where your other ML resources provide the trees, I provide the forest. Consider MLG your syllabus, with highly-curated resources for each episode's details at ocdevel.com. Audio is a great supplement during exercise, commute, chores, etc.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fbb4b7939d33a0b19533a17b0",
+      "appleId": "id1204521130",
+      "ratings": 710
+    }
+  },
+  {
+    "title": "The Blood Drawn Chronicles",
+    "link": "6jYb1Zjgp7k3oEWJ3YtydY",
+    "meta": {
+      "rank": 47,
+      "category": "Technology",
+      "publisher": "DigiFox Studios",
+      "description": "Set in 1690, Earth is secretly ruled by the creatures of the night known as, the Vampires. One man, not born of this world, defies both the laws of the living, and the undead alike. To vampires, his presence threatens the very sanctity of what draws them together.",
+      "image": "https://i.scdn.co/image/73cab75097fbc8bdb816a021c3deec2b3c4a7191"
+    }
+  },
+  {
+    "title": "What the Shell?",
+    "link": "3QcBl6Yf1E3rLdz3UJEzOM",
+    "meta": {
+      "rank": 48,
+      "category": "Technology",
+      "publisher": "John Kordis",
+      "description": "Welcome to ”What the Shell?” where I dive into major hacks and vulnerabilities in a way meant to be accessible by anyone. Come with me as we look at each incident through an exciting lens of curiosity.  Join us on our discord if you‘d like to participate in discussions with myself and our guests! https://discord.gg/mBPbWcVRYR",
+      "image": "https://i.scdn.co/image/ab67656300005f1ff9005fcd3d0a5d2d453ec1a1",
+      "appleId": "id1582675663",
+      "ratings": 17
+    }
+  },
+  {
+    "title": "T.Rex Talk",
+    "link": "22cH6WHIfvs7umxnn1R3vG",
+    "meta": {
+      "rank": 49,
+      "category": "Technology",
+      "publisher": "T.Rex Arms",
+      "description": "The official podcast of T.Rex Arms. Weekly thoughts and conversations between various team members discussing equipment, training, history, politics, and of course, the behind-the-scenes stuff regarding the business and technology of developing and making tactical gear. Produced by Isaac Botkin.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fa65ac2e6924e187b0af0a30f",
+      "appleId": "id1529056472",
+      "ratings": 582
+    }
+  },
+  {
+    "title": "Learn to Code",
+    "link": "2dGDlNN7GOqJjy7Qlr3ECF",
     "meta": {
       "rank": 50,
       "category": "Technology",
-      "publisher": "Jamison Dance and Dave Smith",
-      "description": "It takes more than great code to be a great engineer. Soft Skills Engineering is a weekly advice podcast for software developers about the non-technical stuff that goes into being a great software developer.",
-      "image": "https://i.scdn.co/image/a0674b7277bf2d271e55169ee92f441af44049ad",
-      "appleId": "id1091341048",
-      "ratings": 237,
-      "velocity": 1
+      "publisher": "One Month",
+      "description": "Learn to Code is a podcast hosted by Chris Castiglione (OneMonth.com) based in Brooklyn, NY. Each week Chris interviews successful business founders, startups and programmers to ask them: How did you learn to code? What tips and tricks do you have for finding meaningful work?   Learn more about One Month and the Learn to Code podcast at www.onemonth.com.",
+      "image": "https://i.scdn.co/image/e479e9acdf62c6b23e962398a2dbd27b9d457ca1",
+      "appleId": "id1106620664",
+      "ratings": 539
     }
   }
 ]
