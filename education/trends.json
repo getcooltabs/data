@@ -10,7 +10,8 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f85df28d71a52bc4c55eecb23",
       "followers": 200989,
       "appleId": "id1646101002",
-      "ratings": 4262
+      "ratings": 4262,
+      "velocity": 0
     }
   },
   {
@@ -24,7 +25,8 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f395fcd4824717ae0cf786506",
       "followers": 3871498,
       "appleId": "id1184022695",
-      "ratings": 26947
+      "ratings": 26947,
+      "velocity": 0
     }
   },
   {
@@ -37,34 +39,37 @@
       "description": "Motivation Daily is for anyone looking for motivation, inspiration and encouraging words and advice to help you on your journey in life. Produced by Motiversity, this podcast features only the greatest motivational speeches, spoken by the best speakers in the world.Motivation is an important life skill. Without motivation, you can’t achieve anything. There are no goal posts to aim for and no purpose to strive towards. In this podcast, Motiversity features motivational speeches from the greatest speakers and high-performing people in the world, on topics including life, business, relationships, discipline, purpose, mental health, sports, studying, focus and more. Listen to original, highly-edited, exclusive speeches from speakers including Coach Pain, Billy Alsbrooks, Marcus Taylor, Dr. Jessica Houston, Walter Bond and many more.If you’re ready to take control of your life, go to the next level, or just need some motivation or inspiration, tune in to the Daily Motivation Podcast by Motiversity.Follow Motiversity on YouTube: https://www.youtube.com/motiversity Hosted on Acast. See acast.com/privacy for more information.",
       "image": "https://i.scdn.co/image/ab67656300005f1f132579598f5357289e616768",
       "appleId": "id1581058922",
-      "ratings": 824
-    }
-  },
-  {
-    "title": "Moments Podcast",
-    "link": "2lesfzFRCkTxgxLRnuKren",
-    "meta": {
-      "rank": 4,
-      "category": "Education",
-      "publisher": "Lexi Hidalgo",
-      "description": "A place for you to feel understood, a place for you to know you’re never alone, a place to escape. This podcast dives deep into all of our wild thoughts and unexplainable emotions. I want this podcast to make you feel good, feel inspired and feel okay with being exactly where you are here and now. We all know the only moment that exists is now, so let’s enjoy it. And let’s talk mental health- and of course everything in-between. Welcome to The Moments Podcast: with Lexi Hidalgo",
-      "image": "https://i.scdn.co/image/ab67656300005f1f4b71ff179c44a8e8f575473c",
-      "appleId": "id1589717836",
-      "ratings": 3322
+      "ratings": 824,
+      "velocity": 0
     }
   },
   {
     "title": "Trying Not to Care",
     "link": "2L3Sw0lVVrHNGkqhsqQEcQ",
     "meta": {
-      "rank": 5,
+      "rank": 4,
       "category": "Education",
       "publisher": "Ashley Corbo ",
-      "description": "For the girlies who overthink and care too much.  Trying Not to Care dives into life advice, mental health struggles, friendship fall outs, breakups, self love and much more.  Listen every Monday and follow along on Instagram and TikTok. IG:  @ashleycorbo (https://www.instagram.com/ashleycorbo/) @tryingnot2carepodcast (https://www.instagram.com/tryingnot2carepodcast/) ˚ ༘♡ ⋆｡˚ ❀ Tiktok: @lilbabyaries (https://www.tiktok.com/@lilbabyaries) @tryingnottocarepodcast (https://www.tiktok.com/@tryingnottocarepodcast?lang=en)",
+      "description": "For the girlies who overthink and care too much - Trying Not to Care dives into life advice, mental health, friendships, breakups, self love and much more.  Listen every Monday and follow along on Instagram and TikTok. IG:  @ashleycorbo (https://www.instagram.com/ashleycorbo/) @tryingnot2carepodcast (https://www.instagram.com/tryingnot2carepodcast/) Tiktok: @lilbabyaries (https://www.tiktok.com/@lilbabyaries) @tryingnottocarepodcast (https://www.tiktok.com/@tryingnottocarepodcast?lang=en)",
       "image": "https://i.scdn.co/image/ab67656300005f1f2cbd5fac0dbbd5204bbf816c",
       "followers": 24632,
       "appleId": "id1606809265",
-      "ratings": 610
+      "ratings": 610,
+      "velocity": 1
+    }
+  },
+  {
+    "title": "Moments Podcast",
+    "link": "2lesfzFRCkTxgxLRnuKren",
+    "meta": {
+      "rank": 5,
+      "category": "Education",
+      "publisher": "Lexi Hidalgo",
+      "description": "A place for you to feel understood, a place for you to know you’re never alone, a place to escape. This podcast dives deep into all of our wild thoughts and unexplainable emotions. I want this podcast to make you feel good, feel inspired and feel okay with being exactly where you are here and now. We all know the only moment that exists is now, so let’s enjoy it. And let’s talk mental health- and of course everything in-between. Welcome to The Moments Podcast: with Lexi Hidalgo",
+      "image": "https://i.scdn.co/image/ab67656300005f1f4b71ff179c44a8e8f575473c",
+      "appleId": "id1589717836",
+      "ratings": 3322,
+      "velocity": -1
     }
   },
   {
@@ -75,61 +80,66 @@
       "category": "Education",
       "publisher": "Online File Sevices",
       "description": "Learn Spanish in just 10 minutes a day with the accompanying audio from Kristine Kershul's original textbook. Each episode covers a new aspect of Spanish, such as grammer and pronunctiation, while building upon previous lessons.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fc9a67e16361c993b89988450"
-    }
-  },
-  {
-    "title": "TED Talks Daily",
-    "link": "1VXcH8QHkjRcTCEd88U3ti",
-    "meta": {
-      "rank": 7,
-      "category": "Education",
-      "publisher": "TED",
-      "description": "Every weekday, TED Talks Daily brings you the latest talks in audio. Join host and journalist Elise Hu for thought-provoking ideas on every subject imaginable — from Artificial Intelligence to Zoology, and everything in between — given by the world's leading thinkers and creators. With TED Talks Daily, find some space in your day to change your perspectives, ignite your curiosity, and learn something new.",
-      "image": "https://i.scdn.co/image/e048b26a93dc026381ab0107e6c01e4e3417b14a",
-      "appleId": "id160904630",
-      "ratings": 9547
+      "image": "https://i.scdn.co/image/ab67656300005f1fc9a67e16361c993b89988450",
+      "velocity": 0
     }
   },
   {
     "title": "The Positive Mindset Podcast",
     "link": "3Om9xBnBiT6bMKlUcxGexC",
     "meta": {
-      "rank": 8,
+      "rank": 7,
       "category": "Education",
       "publisher": "Henry G Lawrence",
       "description": "The Positive Mindset Podcast is an uplifting audio experience. With meditation-style storytelling, this podcast will help you raise your vibration, lift your perspective, and build a positive mindset.  Support this podcast: https://anchor.fm/positive-mindset-podcast/support",
       "image": "https://i.scdn.co/image/ab67656300005f1f5e3baa68c0bed0ae4c98f7ac",
       "appleId": "id1352860550",
-      "ratings": 253
+      "ratings": 253,
+      "velocity": 1
     }
   },
   {
-    "title": "Duolingo Spanish Podcast",
-    "link": "2uDEXRSkpRdCmZUw8qt5fh",
+    "title": "TED Talks Daily",
+    "link": "1VXcH8QHkjRcTCEd88U3ti",
     "meta": {
-      "rank": 9,
+      "rank": 8,
       "category": "Education",
-      "publisher": "Duolingo",
-      "description": "True stories for English speakers learning Spanish. From the makers of Duolingo, the most popular language-learning app, comes a new podcast that delivers fascinating real-life stories in easy-to-understand Spanish with English narration. These are not language lessons; they’re life lessons through language. Hosted by Martina Castro, co-founder of NPR’s Radio Ambulante.",
-      "image": "https://i.scdn.co/image/c2d61723987c3559c1dff0f996ae0d5dac081f5b",
-      "followers": 659887,
-      "appleId": "id1317493077",
-      "ratings": 11290
+      "publisher": "TED",
+      "description": "Every weekday, TED Talks Daily brings you the latest talks in audio. Join host and journalist Elise Hu for thought-provoking ideas on every subject imaginable — from Artificial Intelligence to Zoology, and everything in between — given by the world's leading thinkers and creators. With TED Talks Daily, find some space in your day to change your perspectives, ignite your curiosity, and learn something new.",
+      "image": "https://i.scdn.co/image/e048b26a93dc026381ab0107e6c01e4e3417b14a",
+      "appleId": "id160904630",
+      "ratings": 9547,
+      "velocity": -1
     }
   },
   {
     "title": "Sad to Savage",
     "link": "1fuUBuF9S1bye0WjWAlpQC",
     "meta": {
-      "rank": 10,
+      "rank": 9,
       "category": "Education",
       "publisher": "Shelby Sacco",
       "description": "Sad to Savage is a podcast focused on teaching habits that improve your mental and physical health. This step-by-step guide (led by the self-proclaimed habit hype girl Shelby Sacco) will cover all things health, wellness, habits and routines. If you are looking to create your dream life, find changes that ACTUALLY work and ultimately change your entire freaking world- then you my sweet bestie are in the right place. This podcast will cover anything and everything. You can expect episodes on healthy eating habits, morning / nighttime routines, self-love habits, fitness habits, how to stop self-sabotaging, dealing with judgment from others / judging others, anxiety, communication, breakup habits and MORE.   Website - https://sad2savage.com/ IG - https://www.instagram.com/shelbysacco5/?hl=en TikTok - https://www.tiktok.com/@shelbysacco5?lang=en",
       "image": "https://i.scdn.co/image/ab67656300005f1f3be7903f3a1b563a22f8b87e",
       "followers": 247,
       "appleId": "id1637284186",
-      "ratings": 247
+      "ratings": 247,
+      "velocity": 1
+    }
+  },
+  {
+    "title": "Duolingo Spanish Podcast",
+    "link": "2uDEXRSkpRdCmZUw8qt5fh",
+    "meta": {
+      "rank": 10,
+      "category": "Education",
+      "publisher": "Duolingo",
+      "description": "True stories for English speakers learning Spanish. From the makers of Duolingo, the most popular language-learning app, comes a new podcast that delivers fascinating real-life stories in easy-to-understand Spanish with English narration. These are not language lessons; they’re life lessons through language. Hosted by Martina Castro, co-founder of NPR’s Radio Ambulante.",
+      "image": "https://i.scdn.co/image/c2d61723987c3559c1dff0f996ae0d5dac081f5b",
+      "followers": 659887,
+      "appleId": "id1317493077",
+      "ratings": 11290,
+      "velocity": -1
     }
   },
   {
@@ -142,18 +152,22 @@
       "description": "To whoever this may impact… Sometimes, our lives have to be completely shaken up, changed and rearranged to relocate us where we’re really meant to be. Sometimes change feels like loss, transformation is scary, and sometimes, to discover the best version of ourselves, we must let go of absolutely everything that’s holding us down. Welcome to i missed me, your new safe space, i hope to be part of your healing journey. With love, MafeInsta: @mafeanzures, @imissedmepodcast & @malithebrandTik Tok: @mafeanzures, @imissedmepodcast & @malithebrandyoutube: Mafe Anzurespinterest: @mafeanzures",
       "image": "https://i.scdn.co/image/ab67656300005f1fb16113da05d92592b3db1708",
       "appleId": "id1643377497",
-      "ratings": 34
+      "ratings": 34,
+      "velocity": 0
     }
   },
   {
-    "title": "Aware & Aggravated",
-    "link": "4s5UB3Dvhocqea5W5gUzEd",
+    "title": "The Daily Stoic",
+    "link": "7fY99FB3bNyn7nEdXCoBeB",
     "meta": {
       "rank": 12,
       "category": "Education",
-      "publisher": "Leo Skepi",
-      "description": "The ultimate self transformation and self development podcast.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fc02a1ed38698b1b0ddeb106a"
+      "publisher": "Daily Stoic | Wondery",
+      "description": "For centuries, all sorts of people—generals and politicians, athletes and coaches, writers and leaders—have looked to the teachings of Stoicism to help guide their lives. Each day, author and speaker Ryan Holiday brings you a new lesson about life, inspired by the thoughts and writings of great Stoic thinkers like Marcus Aurelius and Seneca the Younger. Daily Stoic Podcast also features Q+As with listeners and interviews with notable figures from sports, academia, politics, and more. Learn more at DailyStoic.com.New episodes come out every day for free. Listen 1-week early on Wednesday, Saturday, and Sunday and to all episodes ad-free, with Wondery+ or Amazon Music with a Prime membership or Amazon Music Unlimited subscription.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f8488dbb4b623f432a3b6a673",
+      "appleId": "id1430315931",
+      "ratings": 3630,
+      "velocity": 2
     }
   },
   {
@@ -164,137 +178,144 @@
       "category": "Education",
       "publisher": "anya ",
       "description": "lets keep this between us, okay? nsfw and not my audios.  yall don't leave comments on here shaming the people whose comments i pin, that shit is unnecessary, and you will be blocked from commenting. (they can't see ur comments unless i pin them anyways so..)   i've posted all the ones i could find, if he makes more or i find more i'll post them!",
-      "image": "https://i.scdn.co/image/ab67656300005f1f42f6a60d68c2a74c2315c303"
-    }
-  },
-  {
-    "title": "The Daily Stoic",
-    "link": "7fY99FB3bNyn7nEdXCoBeB",
-    "meta": {
-      "rank": 14,
-      "category": "Education",
-      "publisher": "Daily Stoic | Wondery",
-      "description": "For centuries, all sorts of people—generals and politicians, athletes and coaches, writers and leaders—have looked to the teachings of Stoicism to help guide their lives. Each day, author and speaker Ryan Holiday brings you a new lesson about life, inspired by the thoughts and writings of great Stoic thinkers like Marcus Aurelius and Seneca the Younger. Daily Stoic Podcast also features Q+As with listeners and interviews with notable figures from sports, academia, politics, and more. Learn more at DailyStoic.com.New episodes come out every day for free. Listen 1-week early on Wednesday, Saturday, and Sunday and to all episodes ad-free, with Wondery+ or Amazon Music with a Prime membership or Amazon Music Unlimited subscription.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f8488dbb4b623f432a3b6a673",
-      "appleId": "id1430315931",
-      "ratings": 3630
+      "image": "https://i.scdn.co/image/ab67656300005f1f42f6a60d68c2a74c2315c303",
+      "velocity": 0
     }
   },
   {
     "title": "Duolingo French Podcast",
     "link": "2Mu5dTlsG1vRE25twu1P2l",
     "meta": {
-      "rank": 15,
+      "rank": 14,
       "category": "Education",
       "publisher": "Duolingo",
       "description": "Deepen your language skills and knowledge of the French-speaking world through fascinating true stories in easy-to-follow French, with added English for context. From Duolingo, the world's #1 way to learn a language. Hosted by Ngofeen Mputubwele.",
       "image": "https://i.scdn.co/image/b0cb6acad0473f745afea4d245596180c7c33760",
       "followers": 659890,
       "appleId": "id1466824259",
-      "ratings": 3921
+      "ratings": 3921,
+      "velocity": 1
     }
   },
   {
     "title": "Weekly Motivation by Ben Lionel Scott",
     "link": "3ssx09faxpyVTRMHWKMdW0",
     "meta": {
-      "rank": 16,
+      "rank": 15,
       "category": "Education",
       "publisher": "Ben Lionel Scott",
       "description": "Here you'll find weekly motivation from some of the most successful and high achieving people in the world to help encourage you through your journey in life. Join Video Editor/Producer Ben Lionel Scott as he shares motivating messages from the most brilliant minds and high-performing people. To get access and download all audio and video versions from the show, plus exclusive content, go to benlionelscott.com/subscribe",
       "image": "https://i.scdn.co/image/f52eb414473d024bcd8edf24ba8787a4cbdb0059",
       "appleId": "id1305631801",
-      "ratings": 456
+      "ratings": 456,
+      "velocity": 1
     }
   },
   {
     "title": "Inglés desde cero",
     "link": "1KRwhKl60iMj3r9QH5fTnf",
     "meta": {
-      "rank": 17,
+      "rank": 16,
       "category": "Education",
       "publisher": "Stephen Bain & Daniel Barbour",
       "description": "Aprende inglés con nativos gratis con Inglés desde cero. Visita https://www.InglesDesdeCero.ca/",
       "image": "https://i.scdn.co/image/0c9b8d7261d4cfca5f30cf2deedba8f8fb340dd7",
       "followers": 306,
       "appleId": "id1055137706",
-      "ratings": 203
-    }
-  },
-  {
-    "title": "Morning Microdose",
-    "link": "7KeALROfImho8WdeyaO7er",
-    "meta": {
-      "rank": 18,
-      "category": "Education",
-      "publisher": "Almost 30",
-      "description": "The fact that you came across Morning Microdose is not a coincidence, it’s a synchronicity, we know it…and you’ll soon find out why. Welcome to an experience that will prime your mind, body and soul for a beautiful day ahead… all in less than ten minutes!  Our minds are so impressionable in the morning. Yet how often are we intentional about what we consume and do?  Long ago our mornings kicked off with a dirty scroll on Instagram, followed by an energy drink and an intense HIIT workout, underscored by loud music and lots of yelling. Peace and clarity, UH NO! Morning Microdose was born from our commitment to sacred mornings.  There are so many choices when it comes to what we consume on a daily basis — from what we put in our mouths, take in with our eyes, touch with our hands, and listen to with our ears. We’re passionate about offering an audible journey for you to set the tone for your day and feel inspired by thought provoking conversations. We curated some of our favorite short, powerful excerpts from the Almost 30 Podcast, hosted by Krista Williams and Lindsey Simcik.  Our intention is for you to wake up with us, both literally and spiritually. Each episode is meant to help you step into the highest version of yourself. Our groovy guests often describe our conversations together as being in a vortex. It feels transcendental… time dissipates and we feel expansive in both our mind and heart.  We started Morning Microdose, so you too could “enter the vortex” five days a week, Monday-Friday.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f01488847eaeb72ec95765576",
-      "appleId": "id1639123211",
-      "ratings": 165
+      "ratings": 203,
+      "velocity": 1
     }
   },
   {
     "title": "The Skinny Confidential Him & Her Podcast",
     "link": "2kNTiKHCrrydRj0eFbrAWO",
     "meta": {
-      "rank": 19,
+      "rank": 17,
       "category": "Education",
       "publisher": "The Skinny Confidential",
       "description": "Lauryn Evarts Bosstick is the entrepreneur & creator behind The Skinny Confidential, a blog, brand, podcast, and YouTube channel that reaches millions of women and men trying to live their best lives by sharing wellness, business, beauty, & lifestyle tips. Michael Bosstick is a serial entrepreneur and brand builder as well as the Co-Founder and CEO of the Dear Media Podcast Network.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fb2e6afca6235bcec96f57af7"
+      "image": "https://i.scdn.co/image/ab67656300005f1fb2e6afca6235bcec96f57af7",
+      "velocity": 2
     }
   },
   {
-    "title": "The Rich Roll Podcast",
-    "link": "2TGszFKJEbQuEXrWduK63l",
+    "title": "Aware & Aggravated",
+    "link": "4s5UB3Dvhocqea5W5gUzEd",
     "meta": {
-      "rank": 20,
+      "rank": 18,
       "category": "Education",
-      "publisher": "Rich Roll",
-      "description": "A master-class in personal and professional development, ultra-athlete, wellness evangelist and bestselling author Rich Roll delves deep with the world's brightest and most thought provoking thought leaders to educate, inspire and empower you to unleash your best, most authentic self. More at: https://richroll.com",
-      "image": "https://i.scdn.co/image/ab67656300005f1f66925d1a7966bbdc0dd330b2",
-      "appleId": "id582272991",
-      "ratings": 9892
-    }
-  },
-  {
-    "title": "time alone",
-    "link": "77surLeMMJiFhe7dk9Cy8o",
-    "meta": {
-      "rank": 21,
-      "category": "Education",
-      "publisher": "Siobhan Lauren",
-      "description": "The time alone podcast, hosted by Siobhan Lauren, is a place for raw, authentic conversations about mental health, approachable tips for well-being, unpacking hustle culture, and self-reflection. Siobhan shares her personal experience about recovering from anxiety and burnout and integrates insights from both a spiritual and scientific lens. Join Siobhan's journey to seek a pathway for living that leads to a greater sense of calm, compassion, self-acceptance, clarity and authenticity. For more resources, visit: siobhanlauren.ca join my patreon Hosted on Acast. See acast.com/privacy for more information.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fc0d3ac50ca53aa9d138da5cc",
-      "appleId": "id1597511299",
-      "ratings": 16
-    }
-  },
-  {
-    "title": "The \"That Girl\" Guide",
-    "link": "2chXSJuXoFwct71izxu9Qp",
-    "meta": {
-      "rank": 22,
-      "category": "Education",
-      "publisher": "Ellie Johnson",
-      "description": "A guide on how to become \"that girl\". If you have ever found yourself wanting to act more or look more like someone else then, follow along with host, Ellie Johnson, on her journey to becoming her own \"that girl\".",
-      "image": "https://i.scdn.co/image/ab67656300005f1fcfc9dbb86b5cb9dd6a8445a1",
-      "appleId": "id1608484167",
-      "ratings": 168
+      "publisher": "Leo Skepi",
+      "description": "The ultimate self transformation and self development podcast.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fc02a1ed38698b1b0ddeb106a",
+      "velocity": -6
     }
   },
   {
     "title": "Your Latina Hermana ",
     "link": "5NdE4fqpz1JPQQfSwDAjfO",
     "meta": {
-      "rank": 23,
+      "rank": 19,
       "category": "Education",
       "publisher": "Latina Hermana",
       "description": "A platform created to amplify the voices of first generation Latina daughters and build a community to empower and break the cycles that carry with 1st gen Latina y Latino children. A community for Latinas y Latinos to have a safe space where they can feel heard and supported; where we can have raw conversations about 1st gen experiences including topics on our mental health, family dynamics, academia, personal development, financial literacy, and much more.",
       "image": "https://i.scdn.co/image/ab67656300005f1fd536472b944034bee975ae0b",
       "appleId": "id1663931747",
-      "ratings": 66
+      "ratings": 66,
+      "velocity": 4
+    }
+  },
+  {
+    "title": "Morning Microdose",
+    "link": "7KeALROfImho8WdeyaO7er",
+    "meta": {
+      "rank": 20,
+      "category": "Education",
+      "publisher": "Almost 30",
+      "description": "The fact that you came across Morning Microdose is not a coincidence, it’s a synchronicity, we know it…and you’ll soon find out why. Welcome to an experience that will prime your mind, body and soul for a beautiful day ahead… all in less than ten minutes!  Our minds are so impressionable in the morning. Yet how often are we intentional about what we consume and do?  Long ago our mornings kicked off with a dirty scroll on Instagram, followed by an energy drink and an intense HIIT workout, underscored by loud music and lots of yelling. Peace and clarity, UH NO! Morning Microdose was born from our commitment to sacred mornings.  There are so many choices when it comes to what we consume on a daily basis — from what we put in our mouths, take in with our eyes, touch with our hands, and listen to with our ears. We’re passionate about offering an audible journey for you to set the tone for your day and feel inspired by thought provoking conversations. We curated some of our favorite short, powerful excerpts from the Almost 30 Podcast, hosted by Krista Williams and Lindsey Simcik.  Our intention is for you to wake up with us, both literally and spiritually. Each episode is meant to help you step into the highest version of yourself. Our groovy guests often describe our conversations together as being in a vortex. It feels transcendental… time dissipates and we feel expansive in both our mind and heart.  We started Morning Microdose, so you too could “enter the vortex” five days a week, Monday-Friday.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f01488847eaeb72ec95765576",
+      "appleId": "id1639123211",
+      "ratings": 165,
+      "velocity": -2
+    }
+  },
+  {
+    "title": "The Rich Roll Podcast",
+    "link": "2TGszFKJEbQuEXrWduK63l",
+    "meta": {
+      "rank": 21,
+      "category": "Education",
+      "publisher": "Rich Roll",
+      "description": "A master-class in personal and professional development, ultra-athlete, wellness evangelist and bestselling author Rich Roll delves deep with the world's brightest and most thought provoking thought leaders to educate, inspire and empower you to unleash your best, most authentic self. More at: https://richroll.com",
+      "image": "https://i.scdn.co/image/ab67656300005f1f66925d1a7966bbdc0dd330b2",
+      "appleId": "id582272991",
+      "ratings": 9892,
+      "velocity": -1
+    }
+  },
+  {
+    "title": "Bedros Keuilian Podcast Show",
+    "link": "0z0lwiTEiYmk2fkhDkRqPV",
+    "meta": {
+      "rank": 22,
+      "category": "Education",
+      "publisher": "Bedros Keuilian",
+      "description": "The official podcast of American entrepreneur Bedros Keuilian. A show that’s unapologetically unfiltered that will make you think, make you laugh and inspire you to become an even better human.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f05bc2057e537714a005290ff",
+      "velocity": 4
+    }
+  },
+  {
+    "title": "time alone",
+    "link": "77surLeMMJiFhe7dk9Cy8o",
+    "meta": {
+      "rank": 23,
+      "category": "Education",
+      "publisher": "Siobhan Lauren",
+      "description": "The time alone podcast, hosted by Siobhan Lauren, is a place for raw, authentic conversations about mental health, approachable tips for well-being, unpacking hustle culture, and self-reflection. Siobhan shares her personal experience about recovering from anxiety and burnout and integrates insights from both a spiritual and scientific lens. Join Siobhan's journey to seek a pathway for living that leads to a greater sense of calm, compassion, self-acceptance, clarity and authenticity. For more resources, visit: siobhanlauren.ca join my patreon Hosted on Acast. See acast.com/privacy for more information.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fc0d3ac50ca53aa9d138da5cc",
+      "appleId": "id1597511299",
+      "ratings": 16,
+      "velocity": -2
     }
   },
   {
@@ -307,7 +328,8 @@
       "description": "Motivational Speeches may be the force that is driving keeps pushing us to reach a certain goal through our actions. You fail to accomplish it with full commitment and efficiency when you do ongoing work without any motivation. Motivational Speech helps to increase work productivity and brings out the most readily useful of a person’s potential that is true.  Support this podcast: https://anchor.fm/motivationly/support",
       "image": "https://i.scdn.co/image/4783c08e8e5dc4e7c575010d5c9ce87aa3e9139f",
       "appleId": "id1665518639",
-      "ratings": 2
+      "ratings": 2,
+      "velocity": 0
     }
   },
   {
@@ -318,259 +340,284 @@
       "category": "Education",
       "publisher": "Eddie Pinero",
       "description": "\"You are always one decision away from a totally different life.\" Eddie Pinero, the founder of Your World Within, has reached over 200 million people around the world with his inspirational stories and speeches.  In this podcast, he shares daily motivation and insights intended to help you conquer your day and live your greatest life.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f97b125f79ea53321e7f8b666"
-    }
-  },
-  {
-    "title": "Bedros Keuilian Podcast Show",
-    "link": "0z0lwiTEiYmk2fkhDkRqPV",
-    "meta": {
-      "rank": 26,
-      "category": "Education",
-      "publisher": "Bedros Keuilian",
-      "description": "The official podcast of American entrepreneur Bedros Keuilian. A show that’s unapologetically unfiltered that will make you think, make you laugh and inspire you to become an even better human.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f05bc2057e537714a005290ff"
+      "image": "https://i.scdn.co/image/ab67656300005f1f97b125f79ea53321e7f8b666",
+      "velocity": 0
     }
   },
   {
     "title": "TheWizardLiz, Amina",
     "link": "4Cfcuq8Zsy8eTF4Xalc9bZ",
     "meta": {
-      "rank": 27,
+      "rank": 26,
       "category": "Education",
       "publisher": "amina",
       "description": "The Wizard Liz, Spotify podcast",
-      "image": "https://i.scdn.co/image/ab67656300005f1fb00b24466aa482e37aab4e6d"
-    }
-  },
-  {
-    "title": "How to Be a Better Human",
-    "link": "5KuVFavG72i7fNOZ9tEX3a",
-    "meta": {
-      "rank": 28,
-      "category": "Education",
-      "publisher": "TED and PRX",
-      "description": "Join How to Be a Better Human as we take a look within and beyond ourselves.  How to Be a Better Human isn’t your average self improvement podcast. Each week join comedian Chris Duffy in conversation with guests and past speakers as they uncover sharp insights and give clear takeaways on how YOU can be a better human.  From your work to your home and your head to your heart, How to Be a Better Human looks in unexpected places for new ways to improve and show up for one another. Inspired by the popular series of the same name on TED’s Ideas blog, How to Be a Better Human will help you become a better person from the comfort of your own headphones.",
-      "image": "https://i.scdn.co/image/4547137f8389e13a042fdfd8f48c8f1545cd9534",
-      "appleId": "id1544098624",
-      "ratings": 950
-    }
-  },
-  {
-    "title": "Skinny Dipping",
-    "link": "2OLNxlrm2OCdATbUaonmEh",
-    "meta": {
-      "rank": 29,
-      "category": "Education",
-      "publisher": "Kela Rose",
-      "description": "being a soul in progress is a beautiful journey and now we can do it together. healing through science and spirituality. understanding ourselves deeper. let's strip down and dive in on conversations that'll change our lives.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f954861ea34827ea6e2249f7f",
-      "appleId": "id1550086447",
-      "ratings": 567
-    }
-  },
-  {
-    "title": "Let's Talk with Kaitlin Reagan",
-    "link": "356047zyl7si3OMVUkjeGs",
-    "meta": {
-      "rank": 30,
-      "category": "Education",
-      "publisher": "Kaitlin Reagan",
-      "description": "March 21, 2022 was the day cancer took her soulmates life. Kaitlin Reagan opens up immensely and goes into what that day looked like for her, what the loss did to her, and how it has helped shape her into the person she is actively working on being today. This podcast is an evolution, watching someone who lost it all trying to find any way to pick back up and heal, and now telling her story to help inspire the world. A true love story that deserves to be heard. Hopefully this podcast can give you someone to relate to. Life could be unfair, but if she can make it out, you can too.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f22f946de01dd90be774620df",
-      "appleId": "id1636569811",
-      "ratings": 2152
-    }
-  },
-  {
-    "title": "80/20",
-    "link": "2vqQNb239mIHvClE5n66Bo",
-    "meta": {
-      "rank": 31,
-      "category": "Education",
-      "publisher": "Lily Rakow",
-      "description": "While navigating a new career and in a new city, Lily fully embraces the 80/20 lifestyle - a not-so-perfect ratio of function versus fun.   Join Lily on a journey to find balance - if it even exists - through candid conversations about wellness, careers, college, friendships, mental health, relationships, and whatever else life throws her way.   Lily works full-time in Digital Marketing, holds a Holistic Health Coach certification from the Institute for Integrative Nutrition, and is working towards her 200-Hour Registered Yoga Teacher Certification.   @lilyrakow | @8020pod",
-      "image": "https://i.scdn.co/image/ab67656300005f1f9e0fdd70e5d498a390cf946c",
-      "appleId": "id1534363921",
-      "ratings": 336
-    }
-  },
-  {
-    "title": "The Wellness Cafe",
-    "link": "3fcM9t1YNVh211oSkpxPoJ",
-    "meta": {
-      "rank": 32,
-      "category": "Education",
-      "publisher": "Trinity Tondeleir",
-      "description": "Welcome to The Wellness Cafe Podcast. Your go to Hot Girl Walk podcast. Your host Trinity Tondeleir who you may know from TikTok, Instagram, or Youtube is serving all things wellness, lifestyle, girl-talk and everything in between. Come hangout every Wednesday!For sponsorship inquiries, please email trinitytondeleir@gmail.com",
-      "image": "https://i.scdn.co/image/ab67656300005f1f213fc38de35bc6e8abb7b381",
-      "appleId": "id1571285630",
-      "ratings": 717
-    }
-  },
-  {
-    "title": "Dry Creek Wrangler Podcast",
-    "link": "4gfZrHtYLTdkP3UgSIVDLE",
-    "meta": {
-      "rank": 33,
-      "category": "Education",
-      "publisher": "Dewayne Noel",
-      "description": "Dewayne Noel has been living the horse life for over 30 years as a professional and private owner. A husband of 30 years, the father of 7 grown children, and \"Grumpa\" to many grandchildren, this life experience cannot be separated from the reality of who he is and often makes its way into the mix. As a Christian with a varied and unique history in ministry and law enforcement, he also brings these life experiences to the table. It is not the purpose of this podcast to present \"the\" way to do anything but rather to use simple logic and experience to try and help others who might be looking for answers. It does not always offer direct answers to certain questions but instead humbly seeks to show a road one might go down to find the answers they need for themselves.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f95eb716fc44ee013422d1615",
-      "appleId": "id1667068831",
-      "ratings": 99
-    }
-  },
-  {
-    "title": "The Resilient Mind",
-    "link": "7EKD1qYk2tkRHY6u6jpmNS",
-    "meta": {
-      "rank": 34,
-      "category": "Education",
-      "publisher": "Resilient Mind",
-      "description": "Whether you're facing a personal challenge, navigating a difficult situation, or simply looking to become more resilient in your daily life, the Resilient Mind episodes will help you bounce back from setbacks, pursue your goals with determination, and find meaning and purpose in life. Become A Subscriber: https://anchor.fm/the-resilient-mind/subscribe",
-      "image": "https://i.scdn.co/image/ab67656300005f1f6ad116a7f791ac7b1ac1cb89",
-      "appleId": "id1562025210",
-      "ratings": 68
-    }
-  },
-  {
-    "title": "Chill Spanish Listening Practice",
-    "link": "6Gn7jHNS03HR40kP4BKZuV",
-    "meta": {
-      "rank": 35,
-      "category": "Education",
-      "publisher": "Anthony Morey",
-      "description": "This is a Spanish listening practice podcast for beginners and intermediate students. The focus of each episode is to help you improve your listening comprehension through everyday topics and lots of context.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f040149a855c00d0714b7f622"
-    }
-  },
-  {
-    "title": "How to Build a Happy Life",
-    "link": "44vtkPicxYPd5SJDvr8SCy",
-    "meta": {
-      "rank": 36,
-      "category": "Education",
-      "publisher": "The Atlantic",
-      "description": "In our pursuit of a happy life, we build, we structure, and we plan. Often, we follow conventional wisdom and strategize. But what happens when our plans fall through and expectations don’t meet reality—when the things that should make us happy don’t?  In season 3 of our How To series, Atlantic happiness correspondent Arthur Brooks and producer Rebecca Rashid seek to navigate the unexpected curves on the path to personal happiness—with data-driven insights and a healthy dose of introspection. This series was produced by Rebecca Rashid and hosted by Arthur Brooks. Editing by A.C. Valdez and Claudine Ebeid. Fact-check by Ena Alvarado. Engineering by Matthew Simonson. If you have any questions, stories, or feedback, please email us at howtopodcast@theatlantic.com.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f92e2ceb70b9b3c6079dfad18",
-      "appleId": "id1587046024",
-      "ratings": 705
-    }
-  },
-  {
-    "title": "Hot Girl Energy Podcast",
-    "link": "3FTxdfLxpQHEjZFsCuYp6A",
-    "meta": {
-      "rank": 37,
-      "category": "Education",
-      "publisher": "Kaylie Stewart",
-      "description": "Mondays are always better when you start your day with the \"Hot Girl Energy\" podcast. Every episode is to remind you that you have the energy to become the best version of yourself and to live the healthy & balanced lifestyle you have always strived for. Your go-to podcast for hot girl tips, advice, girl chats, healthy habits and so much more. Hosted by your favourite wellness & lifestyle influencer, Kaylie Stewart.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f353fa367e1db4f487c8802de",
-      "appleId": "id1635156203",
-      "ratings": 120
-    }
-  },
-  {
-    "title": "Learn Japanese with Masa sensei! ",
-    "link": "5VgrjvbQRFNPykH1QiBXFJ",
-    "meta": {
-      "rank": 38,
-      "category": "Education",
-      "publisher": "Masa Sensei",
-      "description": "This is the Japanese Grammar Complete Beginner Course that will teach you Japanese Grammar from the scratch. If you would liket to be abe to construct your own sentence by yourself, use Japanese for daily conversation, be independent and able to communicate with the Japanese people, this is the best course for you! I will also be talking about the topics that my Patreon supporters requested, as well as some topics about Japanese culture.  Check out my Youtube Channel!  https://www.youtube.com/c/MasaSensei/videos  Wanna support me? https://www.patreon.com/maasasensei",
-      "image": "https://i.scdn.co/image/ab67656300005f1fdf7f3cb7c9be374a17c092f7",
-      "appleId": "id1606739611",
-      "ratings": 37
-    }
-  },
-  {
-    "title": "Habits of A Goddess ",
-    "link": "1f5qJO8KnSJbOo8HXhySh6",
-    "meta": {
-      "rank": 39,
-      "category": "Education",
-      "publisher": "CAKE MEDIA",
-      "description": "Hello Beautiful! I hope these daily affirmations help increase your feminine energy and awaken the goddess within you. Thank you for listening! Have a beautiful day!   Here's how to support the podcast:  https://linktr.ee/habitsofagoddess Support this podcast: https://anchor.fm/habits-of-a-goddess/support",
-      "image": "https://i.scdn.co/image/ab67656300005f1f7a4a4c55b616faa9377da32e",
-      "appleId": "id1515974585",
-      "ratings": 140
-    }
-  },
-  {
-    "title": "The Jordan Harbinger Show",
-    "link": "5RVoEOIACQbBDZnGBJ7Ec2",
-    "meta": {
-      "rank": 40,
-      "category": "Education",
-      "publisher": "Jordan Harbinger",
-      "description": "(Apple's Best of 2018) In-depth conversations with people at the top of their game. Jordan Harbinger unpacks guests' wisdom into practical nuggets you can use to impact your work, life, and relationships. Learn from leaders (Ray Dalio, Simon Sinek, Mark Cuban), entertainers (Moby, Tip \"T.I.\" Harris, Dennis Quaid), scientists (Neil deGrasse Tyson, Bill Nye), athletes (Kobe Bryant, Dennis Rodman, Tony Hawk) and an eclectic array of fascinating minds, from art forgers and arms traffickers to spies and psychologists.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fc8194fff9af561e46511e098",
-      "appleId": "id1344999619",
-      "ratings": 21198
-    }
-  },
-  {
-    "title": "French Made Easy",
-    "link": "5bCpPjdVsXIXpMWri2leEb",
-    "meta": {
-      "rank": 41,
-      "category": "Education",
-      "publisher": "Mathilde Kien",
-      "description": "Bite-sized and easy-to-follow French lessons for beginners. Join Mathilde as she teaches you the basics you need to know to kickstart your French learning journey, and ultimately speak French clearly and confidently. Each episode covers topics related to French grammar, French pronunciation, and French vocabulary. At the end of each episode, you can download the lesson's exercises – so you can start practicing what you've learned right away. Head to https://mathildekien.com/subscribe-library to subscribe to the free FME (French Made Easy) Exercise Library. 🗝",
-      "image": "https://i.scdn.co/image/ab67656300005f1f8c19686522e7e0d6cc662758",
-      "appleId": "id1501998875",
-      "ratings": 168
-    }
-  },
-  {
-    "title": "The Ass-Breaking Motivation",
-    "link": "2tEwvc5QB4JbmkwwuYobvf",
-    "meta": {
-      "rank": 42,
-      "category": "Education",
-      "publisher": "Motivational Bro",
-      "description": "This Podcast is the one place to find everything about Motivation, Learning, Self-Discipline, Leadership And many other things.  For Business related queries: theassbreakingmotivation@gmail.com",
-      "image": "https://i.scdn.co/image/ab67656300005f1ff1f69b5018bb19b4943555fe",
-      "appleId": "id1518309299",
-      "ratings": 36
+      "image": "https://i.scdn.co/image/ab67656300005f1fb00b24466aa482e37aab4e6d",
+      "velocity": 1
     }
   },
   {
     "title": "Workin' On It with Meghan Trainor & Ryan Trainor",
     "link": "0OfgoUcpVq0P8HT5EMHlTy",
     "meta": {
-      "rank": 43,
+      "rank": 27,
       "category": "Education",
       "publisher": "Workin' On It Podcast",
       "description": "On Workin' On It, Meghan Trainor and her big brother Ryan Trainor get more honest than ever before. The sibling duo takes on a new topic each week, shares their stories, and brings listeners into the conversation. From becoming a new mom, to navigating Hollywood, to mental health, and everything in between, Meghan, Ryan, and friends get into the nitty gritty of their lives and leave no details behind. Prepare to laugh, cry, and hopefully learn something new. Executive Producers, Meghan Trainor and Ryan Trainor.",
       "image": "https://i.scdn.co/image/ab67656300005f1f146fe338cb25ddf19cfa310c",
       "appleId": "id1654800427",
-      "ratings": 61
+      "ratings": 61,
+      "velocity": 16
+    }
+  },
+  {
+    "title": "Dry Creek Wrangler Podcast",
+    "link": "4gfZrHtYLTdkP3UgSIVDLE",
+    "meta": {
+      "rank": 28,
+      "category": "Education",
+      "publisher": "Dewayne Noel",
+      "description": "Dewayne Noel has been living the horse life for over 30 years as a professional and private owner. A husband of 30 years, the father of 7 grown children, and \"Grumpa\" to many grandchildren, this life experience cannot be separated from the reality of who he is and often makes its way into the mix. As a Christian with a varied and unique history in ministry and law enforcement, he also brings these life experiences to the table. It is not the purpose of this podcast to present \"the\" way to do anything but rather to use simple logic and experience to try and help others who might be looking for answers. It does not always offer direct answers to certain questions but instead humbly seeks to show a road one might go down to find the answers they need for themselves.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f95eb716fc44ee013422d1615",
+      "appleId": "id1667068831",
+      "ratings": 99,
+      "velocity": 5
+    }
+  },
+  {
+    "title": "How to Be a Better Human",
+    "link": "5KuVFavG72i7fNOZ9tEX3a",
+    "meta": {
+      "rank": 29,
+      "category": "Education",
+      "publisher": "TED and PRX",
+      "description": "Join How to Be a Better Human as we take a look within and beyond ourselves.  How to Be a Better Human isn’t your average self improvement podcast. Each week join comedian Chris Duffy in conversation with guests and past speakers as they uncover sharp insights and give clear takeaways on how YOU can be a better human.  From your work to your home and your head to your heart, How to Be a Better Human looks in unexpected places for new ways to improve and show up for one another. Inspired by the popular series of the same name on TED’s Ideas blog, How to Be a Better Human will help you become a better person from the comfort of your own headphones.",
+      "image": "https://i.scdn.co/image/4547137f8389e13a042fdfd8f48c8f1545cd9534",
+      "appleId": "id1544098624",
+      "ratings": 950,
+      "velocity": -1
     }
   },
   {
     "title": "No Backup Plan by Nathaniel Drew",
     "link": "6Um5MqcnEDcXZSngSwDkiq",
     "meta": {
-      "rank": 44,
+      "rank": 30,
       "category": "Education",
       "publisher": "Nathaniel Drew",
       "description": "Life is a series of experiences and we're just making sense of that as we go along. That is what I'm doing here, one conversation at a time.",
       "image": "https://i.scdn.co/image/ab67656300005f1ff2d1c2f1206c81e872f619ed",
       "appleId": "id1670125752",
-      "ratings": 26
+      "ratings": 26,
+      "velocity": 14
     }
   },
   {
-    "title": "A Mindful Life with Rowena Tsai",
-    "link": "2wbPUBzUaHTCEQilJvdFTa",
+    "title": "The Resilient Mind",
+    "link": "7EKD1qYk2tkRHY6u6jpmNS",
+    "meta": {
+      "rank": 31,
+      "category": "Education",
+      "publisher": "Resilient Mind",
+      "description": "Whether you're facing a personal challenge, navigating a difficult situation, or simply looking to become more resilient in your daily life, the Resilient Mind episodes will help you bounce back from setbacks, pursue your goals with determination, and find meaning and purpose in life. Become A Subscriber: https://anchor.fm/the-resilient-mind/subscribe",
+      "image": "https://i.scdn.co/image/ab67656300005f1f6ad116a7f791ac7b1ac1cb89",
+      "appleId": "id1562025210",
+      "ratings": 68,
+      "velocity": 3
+    }
+  },
+  {
+    "title": "The \"That Girl\" Guide",
+    "link": "2chXSJuXoFwct71izxu9Qp",
+    "meta": {
+      "rank": 32,
+      "category": "Education",
+      "publisher": "Ellie Johnson",
+      "description": "A guide on how to become \"that girl\". If you have ever found yourself wanting to act more or look more like someone else then, follow along with host, Ellie Johnson, on her journey to becoming her own \"that girl\".",
+      "image": "https://i.scdn.co/image/ab67656300005f1fcfc9dbb86b5cb9dd6a8445a1",
+      "appleId": "id1608484167",
+      "ratings": 168,
+      "velocity": -10
+    }
+  },
+  {
+    "title": "80/20",
+    "link": "2vqQNb239mIHvClE5n66Bo",
+    "meta": {
+      "rank": 33,
+      "category": "Education",
+      "publisher": "Lily Rakow",
+      "description": "While navigating a new career and in a new city, Lily fully embraces the 80/20 lifestyle - a not-so-perfect ratio of function versus fun.   Join Lily on a journey to find balance - if it even exists - through candid conversations about wellness, careers, college, friendships, mental health, relationships, and whatever else life throws her way.   Lily works full-time in Digital Marketing, holds a Holistic Health Coach certification from the Institute for Integrative Nutrition, and is working towards her 200-Hour Registered Yoga Teacher Certification.   @lilyrakow | @8020pod",
+      "image": "https://i.scdn.co/image/ab67656300005f1f9e0fdd70e5d498a390cf946c",
+      "appleId": "id1534363921",
+      "ratings": 336,
+      "velocity": -2
+    }
+  },
+  {
+    "title": "The Wellness Cafe",
+    "link": "3fcM9t1YNVh211oSkpxPoJ",
+    "meta": {
+      "rank": 34,
+      "category": "Education",
+      "publisher": "Trinity Tondeleir",
+      "description": "Welcome to The Wellness Cafe Podcast. Your go to Hot Girl Walk podcast. Your host Trinity Tondeleir who you may know from TikTok, Instagram, or Youtube is serving all things wellness, lifestyle, girl-talk and everything in between. Come hangout every Wednesday!For sponsorship inquiries, please email trinitytondeleir@gmail.com",
+      "image": "https://i.scdn.co/image/ab67656300005f1f213fc38de35bc6e8abb7b381",
+      "appleId": "id1571285630",
+      "ratings": 717,
+      "velocity": -2
+    }
+  },
+  {
+    "title": "How to Build a Happy Life",
+    "link": "44vtkPicxYPd5SJDvr8SCy",
+    "meta": {
+      "rank": 35,
+      "category": "Education",
+      "publisher": "The Atlantic",
+      "description": "In our pursuit of a happy life, we build, we structure, and we plan. Often, we follow conventional wisdom and strategize. But what happens when our plans fall through and expectations don’t meet reality—when the things that should make us happy don’t?  In season 3 of our How To series, Atlantic happiness correspondent Arthur Brooks and producer Rebecca Rashid seek to navigate the unexpected curves on the path to personal happiness—with data-driven insights and a healthy dose of introspection. This series was produced by Rebecca Rashid and hosted by Arthur Brooks. Editing by A.C. Valdez and Claudine Ebeid. Fact-check by Ena Alvarado. Engineering by Matthew Simonson. If you have any questions, stories, or feedback, please email us at howtopodcast@theatlantic.com.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f92e2ceb70b9b3c6079dfad18",
+      "appleId": "id1587046024",
+      "ratings": 705,
+      "velocity": 1
+    }
+  },
+  {
+    "title": "Let's Talk with Kaitlin Reagan",
+    "link": "356047zyl7si3OMVUkjeGs",
+    "meta": {
+      "rank": 36,
+      "category": "Education",
+      "publisher": "Kaitlin Reagan",
+      "description": "March 21, 2022 was the day cancer took her soulmates life. Kaitlin Reagan opens up immensely and goes into what that day looked like for her, what the loss did to her, and how it has helped shape her into the person she is actively working on being today. This podcast is an evolution, watching someone who lost it all trying to find any way to pick back up and heal, and now telling her story to help inspire the world. A true love story that deserves to be heard. Hopefully this podcast can give you someone to relate to. Life could be unfair, but if she can make it out, you can too.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f22f946de01dd90be774620df",
+      "appleId": "id1636569811",
+      "ratings": 2152,
+      "velocity": -6
+    }
+  },
+  {
+    "title": "Chill Spanish Listening Practice",
+    "link": "6Gn7jHNS03HR40kP4BKZuV",
+    "meta": {
+      "rank": 37,
+      "category": "Education",
+      "publisher": "Anthony Morey",
+      "description": "This is a Spanish listening practice podcast for beginners and intermediate students. The focus of each episode is to help you improve your listening comprehension through everyday topics and lots of context.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f040149a855c00d0714b7f622",
+      "velocity": -2
+    }
+  },
+  {
+    "title": "Skinny Dipping",
+    "link": "2OLNxlrm2OCdATbUaonmEh",
+    "meta": {
+      "rank": 38,
+      "category": "Education",
+      "publisher": "Kela Rose",
+      "description": "being a soul in progress is a beautiful journey and now we can do it together. healing through science and spirituality. understanding ourselves deeper. let's strip down and dive in on conversations that'll change our lives.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f954861ea34827ea6e2249f7f",
+      "appleId": "id1550086447",
+      "ratings": 567,
+      "velocity": -9
+    }
+  },
+  {
+    "title": "Hot Girl Energy Podcast",
+    "link": "3FTxdfLxpQHEjZFsCuYp6A",
+    "meta": {
+      "rank": 39,
+      "category": "Education",
+      "publisher": "Kaylie Stewart",
+      "description": "Mondays are always better when you start your day with the \"Hot Girl Energy\" podcast. Every episode is to remind you that you have the energy to become the best version of yourself and to live the healthy & balanced lifestyle you have always strived for. Your go-to podcast for hot girl tips, advice, girl chats, healthy habits and so much more. Hosted by your favourite wellness & lifestyle influencer, Kaylie Stewart.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f353fa367e1db4f487c8802de",
+      "appleId": "id1635156203",
+      "ratings": 120,
+      "velocity": -2
+    }
+  },
+  {
+    "title": "The Ass-Breaking Motivation",
+    "link": "2tEwvc5QB4JbmkwwuYobvf",
+    "meta": {
+      "rank": 40,
+      "category": "Education",
+      "publisher": "Motivational Bro",
+      "description": "This Podcast is the one place to find everything about Motivation, Learning, Self-Discipline, Leadership And many other things.  For Business related queries: theassbreakingmotivation@gmail.com",
+      "image": "https://i.scdn.co/image/ab67656300005f1ff1f69b5018bb19b4943555fe",
+      "appleId": "id1518309299",
+      "ratings": 36,
+      "velocity": 2
+    }
+  },
+  {
+    "title": "The Jordan Harbinger Show",
+    "link": "5RVoEOIACQbBDZnGBJ7Ec2",
+    "meta": {
+      "rank": 41,
+      "category": "Education",
+      "publisher": "Jordan Harbinger",
+      "description": "(Apple's Best of 2018) In-depth conversations with people at the top of their game. Jordan Harbinger unpacks guests' wisdom into practical nuggets you can use to impact your work, life, and relationships. Learn from leaders (Ray Dalio, Simon Sinek, Mark Cuban), entertainers (Moby, Tip \"T.I.\" Harris, Dennis Quaid), scientists (Neil deGrasse Tyson, Bill Nye), athletes (Kobe Bryant, Dennis Rodman, Tony Hawk) and an eclectic array of fascinating minds, from art forgers and arms traffickers to spies and psychologists.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fc8194fff9af561e46511e098",
+      "appleId": "id1344999619",
+      "ratings": 21198,
+      "velocity": -1
+    }
+  },
+  {
+    "title": "French Made Easy",
+    "link": "5bCpPjdVsXIXpMWri2leEb",
+    "meta": {
+      "rank": 42,
+      "category": "Education",
+      "publisher": "Mathilde Kien",
+      "description": "Bite-sized and easy-to-follow French lessons for beginners. Join Mathilde as she teaches you the basics you need to know to kickstart your French learning journey, and ultimately speak French clearly and confidently. Each episode covers topics related to French grammar, French pronunciation, and French vocabulary. At the end of each episode, you can download the lesson's exercises – so you can start practicing what you've learned right away. Head to https://mathildekien.com/subscribe-library to subscribe to the free FME (French Made Easy) Exercise Library. 🗝",
+      "image": "https://i.scdn.co/image/ab67656300005f1f8c19686522e7e0d6cc662758",
+      "appleId": "id1501998875",
+      "ratings": 168,
+      "velocity": -1
+    }
+  },
+  {
+    "title": "Habits of A Goddess ",
+    "link": "1f5qJO8KnSJbOo8HXhySh6",
+    "meta": {
+      "rank": 43,
+      "category": "Education",
+      "publisher": "CAKE MEDIA",
+      "description": "Hello Beautiful! I hope these daily affirmations help increase your feminine energy and awaken the goddess within you. Thank you for listening! Have a beautiful day!   Here's how to support the podcast:  https://linktr.ee/habitsofagoddess Support this podcast: https://anchor.fm/habits-of-a-goddess/support",
+      "image": "https://i.scdn.co/image/ab67656300005f1f7a4a4c55b616faa9377da32e",
+      "appleId": "id1515974585",
+      "ratings": 140,
+      "velocity": -4
+    }
+  },
+  {
+    "title": "Learn Japanese with Masa sensei! ",
+    "link": "5VgrjvbQRFNPykH1QiBXFJ",
+    "meta": {
+      "rank": 44,
+      "category": "Education",
+      "publisher": "Masa Sensei",
+      "description": "This is the Japanese Grammar Complete Beginner Course that will teach you Japanese Grammar from the scratch. If you would liket to be abe to construct your own sentence by yourself, use Japanese for daily conversation, be independent and able to communicate with the Japanese people, this is the best course for you! I will also be talking about the topics that my Patreon supporters requested, as well as some topics about Japanese culture.  Check out my Youtube Channel!  https://www.youtube.com/c/MasaSensei/videos  Wanna support me? https://www.patreon.com/maasasensei",
+      "image": "https://i.scdn.co/image/ab67656300005f1fdf7f3cb7c9be374a17c092f7",
+      "appleId": "id1606739611",
+      "ratings": 37,
+      "velocity": -6
+    }
+  },
+  {
+    "title": "Look Into It - with Eddie Bravo",
+    "link": "7kXXC0JwHsnYyiMl3c5Vfb",
     "meta": {
       "rank": 45,
       "category": "Education",
-      "publisher": "Rowena Tsai",
-      "description": "Hi there! My name is Rowena, and I create videos on personal development & productivity in hopes of encouraging others to be their best and most authentic selves, stay true to their North Star, live with purpose, and exercise compassion unconditionally. Thank you for stopping by 💘 Support this podcast: https://anchor.fm/rowenatsai/support",
-      "image": "https://i.scdn.co/image/ab67656300005f1fd3c6d74942385938fbfa1f84"
+      "publisher": "Eddie Bravo",
+      "description": "Look Into It will feature uncensored conversations with \"red-pilled\" martial arts stars, comedians, rock stars, and conspiracy theorists. For weekly new episodes and premium content, head over to https://www.rokfin.com/eddiebravo",
+      "image": "https://i.scdn.co/image/ab67656300005f1fa1a2a78fe72dcb1b94f4c0e8",
+      "appleId": "id1635048169",
+      "ratings": 467,
+      "velocity": 3
     }
   },
   {
@@ -583,59 +630,62 @@
       "description": "The Adulthood Survival Guide you always wish you had, Growing Up with Devon Werkheiser is a podcast hosted by Ned Bigby himself from the Nickelodeon cult classic \"Ned’s Declassified School Survival Guide.\" Now as an adult, Devon is here to help you navigate adulthood through engaging interviews, intimate Q&A episodes, & offering heartfelt and thoughtful advice.",
       "image": "https://i.scdn.co/image/ab67656300005f1f743e866ca562e7b968f8cfae",
       "appleId": "id1662394094",
-      "ratings": 85
+      "ratings": 85,
+      "velocity": 0
+    }
+  },
+  {
+    "title": "In Flow",
+    "link": "2PTb1oic6yZbHpkiyI5kPW",
+    "meta": {
+      "rank": 47,
+      "category": "Education",
+      "publisher": "Ani B & Nadine ",
+      "description": "This one’s for the girlies who want to elevate their energy and start manifesting the life they deserve. From letting go of things that no longer serve you, to aligning with your purpose, let go of the old you and step into the new one with Ani B and Nadine ♥FOLLOW US ON TIKTOK & INSTAGRAM:@THEINFLOWPODCAST",
+      "image": "https://i.scdn.co/image/ab67656300005f1fa3058b12fe04de6a9975831e",
+      "velocity": 4
+    }
+  },
+  {
+    "title": "Lindy's Garden",
+    "link": "7H6O9kcgBn2NuqjrL2PjHZ",
+    "meta": {
+      "rank": 48,
+      "category": "Education",
+      "publisher": "Lindy's Garden",
+      "description": "Hey there Little Bunny ❤️ I'm supposed to be writing this description like it's not me writing it. But that's silly. Because then I don't get to say I love you. And guess what? I do love you. Yes, you. Yes, really. Ok, gotta go bye!",
+      "image": "https://i.scdn.co/image/ab67656300005f1f4fa814e7dbf97dda1c8eb8d4",
+      "appleId": "id1621790610",
+      "ratings": 23,
+      "velocity": 3
     }
   },
   {
     "title": "El Podcast de Marco Antonio Regil",
     "link": "5GfRxX2kl2BJVB1e7AgcDh",
     "meta": {
-      "rank": 47,
+      "rank": 49,
       "category": "Education",
       "publisher": "Sonoro | Marco Antonio Regil",
       "description": "Aprende cómo disfrutar y vivir tu vida al máximo. Cada semana con entrevistas y capítulos especiales, Marco Antonio Regil te acompaña en un viaje de crecimiento personal y consciencia que te empodera y apoya, para que alcances tus sueños y logres tu máximo potencial.",
       "image": "https://i.scdn.co/image/ab67656300005f1f5e0515aceba2517156b5a37c",
       "appleId": "id650657153",
-      "ratings": 1616
+      "ratings": 1616,
+      "velocity": -2
     }
   },
   {
-    "title": "Look Into It - with Eddie Bravo",
-    "link": "7kXXC0JwHsnYyiMl3c5Vfb",
-    "meta": {
-      "rank": 48,
-      "category": "Education",
-      "publisher": "Eddie Bravo",
-      "description": "Look Into It will feature uncensored conversations with \"red-pilled\" martial arts stars, comedians, rock stars, and conspiracy theorists. For weekly new episodes and premium content, head over to https://www.rokfin.com/eddiebravo",
-      "image": "https://i.scdn.co/image/ab67656300005f1fa1a2a78fe72dcb1b94f4c0e8",
-      "appleId": "id1635048169",
-      "ratings": 467
-    }
-  },
-  {
-    "title": "JIM ROHN",
-    "link": "5NsOkBz9iQGsiOdBZKjcvM",
-    "meta": {
-      "rank": 49,
-      "category": "Education",
-      "publisher": "JIM ROHN TALKS",
-      "description": "Featuring talks from Jim Rohn To inspire Motivate and Change",
-      "image": "https://i.scdn.co/image/ab67656300005f1ff334dbe50bcad08d2a26401d",
-      "appleId": "id1579900012",
-      "ratings": 157
-    }
-  },
-  {
-    "title": "Coffee Break Spanish",
-    "link": "4WYj81C37trSAv42zwnipj",
+    "title": "MERGED",
+    "link": "4bLpb2i58s5jvarnPTYds6",
     "meta": {
       "rank": 50,
       "category": "Education",
-      "publisher": "Coffee Break Languages",
-      "description": "Learn Spanish in coffee-break lessons from the Radio Lingua Network. In each lesson we'll focus on the language you need to know and before long you'll be making yourself understood with native Spanish speakers. Season 1 lessons are for absolute beginners, and the courses increase in difficulty as the seasons progress.386357 Hosted on Acast. See acast.com/privacy for more information.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f429d2033ece72cf143973cc8",
-      "appleId": "id201598403",
-      "ratings": 4405
+      "publisher": "Ryan Graves",
+      "description": "MERGED is a platform to enable the mainstream exploration of UAP through the lens of pilots, scientists, and innovators. Ryan will host discussions on UAP that prioritize scientific inquiry and maintain an open-minded approach. In addition to exchanging ideas, MERGED will serve as a conduit for identifying technologies, companies, and individuals that can contribute to the ecosystem of UAP research and understanding. Ryan Graves is a former pilot who flew the F-18 Super Hornet fighter jet. In 2014, he and his colleagues regularly encountered unidentified aerospace phenomena (UAP) off the coast of Virginia Beach. These sightings were so frequent that they had to cancel training missions. By 2021, there have been 11 documented near misses with UAP. The MERGED Podcast is here to explore this phenomenon and the efforts to understand it through the perspective of pilots, scientists, and innovators. Ryan believes that the UAP phenomenon is an engineering problem and that a rational, science-first approach is needed to explore it.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f9fd3b639ef1b58f126038bf9",
+      "appleId": "id1664932431",
+      "ratings": 134,
+      "velocity": 1
     }
   }
 ]

@@ -9,7 +9,8 @@
       "description": "Get ready to travel back to Waverly Place with hosts Jennifer Stone (\"Harper Finkle\") and David DeLuise (\"Jerry Russo\") as they rewatch the beloved Disney Channel series for the first time in years. Wizards of Waverly Pod includes never heard before behind-the-scenes moments, features interviews with the show's cast and crew, including Selena Gomez (\"Alex Russo\"), Josh Sussman (\"Hugh Normous\"), Peter Murrieta (Series Showrunner), and so many more. Jennifer and David also explore the show's impact on pop culture and their personal lives. Whether you're a long-time fan or just discovering \"Wizards of Waverly Place\" for the first time, this podcast is the perfect way to dive deeper into the world of the show and the significant cultural impact it made. And remember...everything is not what it seems!",
       "image": "https://i.scdn.co/image/ab67656300005f1ff15c78c63ecc41f5dabcca1c",
       "appleId": "id1669319899",
-      "ratings": 358
+      "ratings": 358,
+      "velocity": 0
     }
   },
   {
@@ -22,7 +23,8 @@
       "description": "The official companion podcast for the new HBO Original series The Last of Us, based on the critically acclaimed video game of the same name. Each week, join Host Troy Baker (who played Joel in the video game) as he breaks down episodes of the TV series with Showrunners Craig Mazin and Neil Druckmann. Together they’ll dive into key moments and reveal  behind the scenes stories from the making of this action survival series starring Pedro Pascal and Bella Ramsey. ",
       "image": "https://i.scdn.co/image/ab67656300005f1fc93c980312bbc4600ed8e250",
       "appleId": "id1660320068",
-      "ratings": 1193
+      "ratings": 1193,
+      "velocity": 0
     }
   },
   {
@@ -35,7 +37,8 @@
       "description": "Welcome to the Ned's Declassified Podcast Survival Guide! Join Ned (Devon Werkheiser), Moze (Lindsey Shaw), and Cookie (Daniel Curtis Lee) as they rewatch their hilarious adventures on the series, share their own ups and downs from middle school to adulthood, and chat with special guests throughout the podcast. Dive back into the classic Nickelodeon show to relive all the wacky moments, lessons learned, and all the crushes had. Whether you're a nostalgic fan or discovering the show for the first time, join us for a wild ride through the halls of James K. Polk Middle School. Get ready for some new survival guide tips, tricks, and ridiculous anecdotes from the ultimate podcast survival guide.",
       "image": "https://i.scdn.co/image/ab67656300005f1fd8c8ee784699fdf13fa60445",
       "appleId": "id1669588163",
-      "ratings": 141
+      "ratings": 141,
+      "velocity": 0
     }
   },
   {
@@ -48,7 +51,8 @@
       "description": "The Ringer staff delivers a guide to the vast streaming landscape by discussing one show or movie per day, including premieres. the latest surprise Netflix hits, periodic check-ins on favorite TV shows, new movies available for streaming, and the hosts’ favorite shows to watch right away.",
       "image": "https://i.scdn.co/image/ab67656300005f1f9e8b278b9c90010b0c924366",
       "appleId": "id1586390793",
-      "ratings": 590
+      "ratings": 590,
+      "velocity": 0
     }
   },
   {
@@ -62,73 +66,79 @@
       "image": "https://i.scdn.co/image/ab67656300005f1fe7c769fdda04b8f63c441e8e",
       "followers": 1564,
       "appleId": "id1627891759",
-      "ratings": 1564
-    }
-  },
-  {
-    "title": "The Problem With Jon Stewart",
-    "link": "0sxpFsg449GC8TPtrRVCUW",
-    "meta": {
-      "rank": 6,
-      "category": "TV & Film",
-      "publisher": "Apple TV+",
-      "description": "The issues we tackle on The Problem With Jon Stewart are Too Big for TV™—so they spill over into the brilliantly titled The Problem With Jon Stewart podcast. Jon is joined by the staff and expert guests for nuanced discussions, updates on action items, and airing of grievances from writers over jokes that didn’t make the show.The Problem With Jon Stewart is an Apple TV+ podcast produced by Busboy Productions.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f0b90717711e60754ae1a6c4c",
-      "followers": 203949,
-      "appleId": "id1583132133",
-      "ratings": 4347
+      "ratings": 1564,
+      "velocity": 0
     }
   },
   {
     "title": "Unpacking The Toolbox",
     "link": "75M64aBAGQa7AZGvjQHhnr",
     "meta": {
-      "rank": 7,
+      "rank": 6,
       "category": "TV & Film",
       "publisher": "Shondaland Audio and iHeartPodcasts",
       "description": "Shondaland Audio in partnership with iHeartPodcasts present: Unpacking The Toolbox. Each week, BFFs and Scandal co-stars Katie Lowes and Guillermo Diaz dive into an episode of Scandal, reliving their favorite memories from the set and breaking down the episode with plenty of behind-the-scenes stories and even more laughs. Joined by some of their fellow Scandal stars, Katie and Guillermo are sure to cover it all from the Olitz romance to the down-and-dirty deeds as Huckleberry Quinn. Calling all #Gladiators – Come join the Scandal fam for new episodes every Thursday, starting February 9th.",
       "image": "https://i.scdn.co/image/ab67656300005f1f5aa2a0dbcb78fe075d8b4d58",
       "appleId": "id1669405162",
-      "ratings": 34
+      "ratings": 34,
+      "velocity": 1
     }
   },
   {
-    "title": "Back to the Beach with Kristin and Stephen",
-    "link": "6ScuO5ZGGzuMsBlBvpUrdk",
+    "title": "The Problem With Jon Stewart",
+    "link": "0sxpFsg449GC8TPtrRVCUW",
     "meta": {
-      "rank": 8,
+      "rank": 7,
       "category": "TV & Film",
-      "publisher": "Dear Media",
-      "description": "Go behind the scenes of everyone’s favorite iconic hit MTV reality TV series, “Laguna Beach: The Real Orange County,” with OG cast members, Kristin Cavallari and Stephen Colletti, as they rewatch episodes for the first time in 18 years. The former sweethearts relive their high school experiences, break down the truth of what happened on and off camera, including which fights were real, which hookups got complicated, and of course, what really happened in Cabo. Tune in every Tuesday for new episodes of Back to the Beach with Kristin and Stephen, a Dear Media Original podcast.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f514a4fac22f2d22ee85e8bc1",
-      "appleId": "id1630490097",
-      "ratings": 7268
-    }
-  },
-  {
-    "title": "Giggly Squad",
-    "link": "6gAg5FDBnoBGqlz7eFrtud",
-    "meta": {
-      "rank": 9,
-      "category": "TV & Film",
-      "publisher": "Hannah Berner & Paige DeSorbo",
-      "description": "Welcome to Giggly Squad. Each week, Hannah Berner and Paige DeSorbo make fun of everything, but most importantly themselves. They discuss pop culture, fashion trends, television, horoscopes, mental health, dating, and expose their personal lives. Also, they can't be managed. Hosted on Acast. See acast.com/privacy for more information.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fd4c218856fdf424bca999c8a",
-      "appleId": "id1536352412",
-      "ratings": 7319
+      "publisher": "Apple TV+",
+      "description": "The issues we tackle on The Problem With Jon Stewart are Too Big for TV™—so they spill over into the brilliantly titled The Problem With Jon Stewart podcast. Jon is joined by the staff and expert guests for nuanced discussions, updates on action items, and airing of grievances from writers over jokes that didn’t make the show.The Problem With Jon Stewart is an Apple TV+ podcast produced by Busboy Productions.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f0b90717711e60754ae1a6c4c",
+      "followers": 203949,
+      "appleId": "id1583132133",
+      "ratings": 4347,
+      "velocity": -1
     }
   },
   {
     "title": "Namaste B$tches",
     "link": "1EycWu3vDUGOT5vk2UmPhe",
     "meta": {
-      "rank": 10,
+      "rank": 8,
       "category": "TV & Film",
       "publisher": "PodcastOne",
       "description": "The OG star of the Real Housewives of New Jersey, Teresa Giudice, and Stanford Medicine certified nutritionist, mom, and podcast host Melissa Pfeister bring the sass, fun, real talk, and serious table-flipping each Wednesday as they explore everything from life, love, and family to food, fashion, and celebrity. It’s candid convo with plenty of explosive energy and attitude, and maybe even a special guest or two! Listen, learn and laugh along! And share your thoughts, questions, and confessions directly at 424.241.0410 or namastebpodcast@gmail.com.",
       "image": "https://i.scdn.co/image/ab67656300005f1fe21244c074258553e1ad6572",
       "appleId": "id1638991085",
-      "ratings": 1359
+      "ratings": 1359,
+      "velocity": 2
+    }
+  },
+  {
+    "title": "Back to the Beach with Kristin and Stephen",
+    "link": "6ScuO5ZGGzuMsBlBvpUrdk",
+    "meta": {
+      "rank": 9,
+      "category": "TV & Film",
+      "publisher": "Dear Media",
+      "description": "Go behind the scenes of everyone’s favorite iconic hit MTV reality TV series, “Laguna Beach: The Real Orange County,” with OG cast members, Kristin Cavallari and Stephen Colletti, as they rewatch episodes for the first time in 18 years. The former sweethearts relive their high school experiences, break down the truth of what happened on and off camera, including which fights were real, which hookups got complicated, and of course, what really happened in Cabo. Tune in every Tuesday for new episodes of Back to the Beach with Kristin and Stephen, a Dear Media Original podcast.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f514a4fac22f2d22ee85e8bc1",
+      "appleId": "id1630490097",
+      "ratings": 7268,
+      "velocity": -1
+    }
+  },
+  {
+    "title": "Giggly Squad",
+    "link": "6gAg5FDBnoBGqlz7eFrtud",
+    "meta": {
+      "rank": 10,
+      "category": "TV & Film",
+      "publisher": "Hannah Berner & Paige DeSorbo",
+      "description": "Welcome to Giggly Squad. Each week, Hannah Berner and Paige DeSorbo make fun of everything, but most importantly themselves. They discuss pop culture, fashion trends, television, horoscopes, mental health, dating, and expose their personal lives. Also, they can't be managed. Hosted on Acast. See acast.com/privacy for more information.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fd4c218856fdf424bca999c8a",
+      "appleId": "id1536352412",
+      "ratings": 7319,
+      "velocity": -1
     }
   },
   {
@@ -141,7 +151,8 @@
       "description": "We're sending you to 1993 when TGIF reigned supreme and “Boy Meets World” first premiered. Danielle, Will and Rider are going back to school as they rewatch every episode of the iconic series, sharing memories, behind the scenes moments, and all the “Boy Meets World” stories a fan could ever want. Relive your first crush, first kiss, favorite moments and all the life lessons with Topanga, Eric, and Shawn.",
       "image": "https://i.scdn.co/image/ab67656300005f1f79fc4b9493519d117b9bf5eb",
       "appleId": "id1629908611",
-      "ratings": 3934
+      "ratings": 3934,
+      "velocity": 0
     }
   },
   {
@@ -155,61 +166,66 @@
       "image": "https://i.scdn.co/image/ab67656300005f1ffbb655a2fee4b320e3dcabd6",
       "followers": 63169,
       "appleId": "id1268527882",
-      "ratings": 11536
-    }
-  },
-  {
-    "title": "Pop Culture Happy Hour",
-    "link": "25auwWceZnlOEK6SwtO1y1",
-    "meta": {
-      "rank": 13,
-      "category": "TV & Film",
-      "publisher": "NPR",
-      "description": "Get obsessed with us. Five days a week, Pop Culture Happy Hour serves you recommendations and commentary on the buzziest movies, TV, music, books, videogames and more. Join arts journalists Linda Holmes, Glen Weldon, Stephen Thompson, and Aisha Harris - plus a rotating cast of guest pop culture aficionados. The Happy Hour team leaves room at the table for exploring a range of reactions and opinions on every bit of the pop universe. From lowbrow to highbrow to the stuff in between, they take it all with a shot of cheer.Make your happy hour even happier with Pop Culture Happy Hour Plus! Your subscription supports the podcast and unlocks a sponsor-free feed. Learn more at plus.npr.org/happyhour",
-      "image": "https://i.scdn.co/image/ab67656300005f1fabfde476bf54d637e2133b00",
-      "appleId": "id278974813",
-      "ratings": 9434
+      "ratings": 11536,
+      "velocity": 0
     }
   },
   {
     "title": "Wild Ride! with Steve-O",
     "link": "5doZcrX7shTygom1sTEvHK",
     "meta": {
-      "rank": 14,
+      "rank": 13,
       "category": "TV & Film",
       "publisher": "Steve-O",
       "description": "Comedian and jackass star Steve-O has hilarious and honest conversations with celebrities in his mobile podcast studio. Hosted on Acast. See acast.com/privacy for more information.",
       "image": "https://i.scdn.co/image/13b527f69667ea36fe4f8134356c54249491edc6",
       "appleId": "id1503236243",
-      "ratings": 2530
+      "ratings": 2530,
+      "velocity": 1
     }
   },
   {
-    "title": "Welcome to Our Show",
-    "link": "4vxCzip3jwRhyoM9R422m8",
+    "title": "Pop Culture Happy Hour",
+    "link": "25auwWceZnlOEK6SwtO1y1",
     "meta": {
-      "rank": 15,
+      "rank": 14,
       "category": "TV & Film",
-      "publisher": "iHeartPodcasts",
-      "description": "Go behind the scenes of Apartment 4D with the crew who called it home for seven incredible seasons. Each week, real-life friends Zooey Deschanel, Hannah Simone, and Lamorne Morris rewatch their Emmy nominated series, New Girl, and reveal the never before told behind-the-scenes escapades. Join them as they go bear hunting for every grizzly hidden in the background. Plus, each week, they play a different version of the True American game. Here, the rules don't make any sense, and you'll leave more confused than when you arrived. But it's always a good time with best friends. Speaking of besties - they're inviting all of the loft's favorite guest stars, writers, and directors to share their adventures on set.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f1f087163eaffd6a5446fdc19",
-      "followers": 7929,
-      "appleId": "id1602740285",
-      "ratings": 7929
+      "publisher": "NPR",
+      "description": "Get obsessed with us. Five days a week, Pop Culture Happy Hour serves you recommendations and commentary on the buzziest movies, TV, music, books, videogames and more. Join arts journalists Linda Holmes, Glen Weldon, Stephen Thompson, and Aisha Harris - plus a rotating cast of guest pop culture aficionados. The Happy Hour team leaves room at the table for exploring a range of reactions and opinions on every bit of the pop universe. From lowbrow to highbrow to the stuff in between, they take it all with a shot of cheer.Make your happy hour even happier with Pop Culture Happy Hour Plus! Your subscription supports the podcast and unlocks a sponsor-free feed. Learn more at plus.npr.org/happyhour",
+      "image": "https://i.scdn.co/image/ab67656300005f1fabfde476bf54d637e2133b00",
+      "appleId": "id278974813",
+      "ratings": 9434,
+      "velocity": -1
     }
   },
   {
     "title": "Drama Queens",
     "link": "344eFGlcjmdAUqvWzPJzBk",
     "meta": {
-      "rank": 16,
+      "rank": 15,
       "category": "TV & Film",
       "publisher": "iHeartPodcasts",
       "description": "Take yourself back in time...back to high school. The ups and downs, the loves the losses, the struggles the triumphs, being together with your friends...feeling every emotion of it.   Is 23 more than just a number to you? Do you respond to people by saying I don't wanna be anything other than what I've been trying to be lately? Do you expect to have life-changing moments while caught in the confetti or the rain?   Are you One Tree Hill obsessed?...it's OK...we're here for you. You can sit with us.   Are Brooke, Peyton and Haley your BFF goals?   These Drama Queens are getting back together!! Bethany Joy Lenz, Hilarie Burton and Sophia Bush are the biggest Drama Queens and they are here with you to dissect every episode, deliver every detail you must know, and devote themselves to you as you rewatch every single scene together.   Join Joy, Hilarie and Sophia each week.   Relive it, Relove it, Rewatch it ...every One Tree Hill minute of it.  Be a Drama Queen.  Drama Queens, an iHeartRadio Podcast.",
       "image": "https://i.scdn.co/image/ab67656300005f1f7cfd0e84fb28ee7deed48258",
       "followers": 21070,
       "appleId": "id1571792783",
-      "ratings": 21070
+      "ratings": 21070,
+      "velocity": 1
+    }
+  },
+  {
+    "title": "Welcome to Our Show",
+    "link": "4vxCzip3jwRhyoM9R422m8",
+    "meta": {
+      "rank": 16,
+      "category": "TV & Film",
+      "publisher": "iHeartPodcasts",
+      "description": "Go behind the scenes of Apartment 4D with the crew who called it home for seven incredible seasons. Each week, real-life friends Zooey Deschanel, Hannah Simone, and Lamorne Morris rewatch their Emmy nominated series, New Girl, and reveal the never before told behind-the-scenes escapades. Join them as they go bear hunting for every grizzly hidden in the background. Plus, each week, they play a different version of the True American game. Here, the rules don't make any sense, and you'll leave more confused than when you arrived. But it's always a good time with best friends. Speaking of besties - they're inviting all of the loft's favorite guest stars, writers, and directors to share their adventures on set.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f1f087163eaffd6a5446fdc19",
+      "followers": 7929,
+      "appleId": "id1602740285",
+      "ratings": 7929,
+      "velocity": -1
     }
   },
   {
@@ -222,60 +238,63 @@
       "description": "A place for people to have their stories animated and shared with the world. Hosted on Acast. See acast.com/privacy for more information.",
       "image": "https://i.scdn.co/image/ab67656300005f1f5daf16fb22dc5a5d7d7b8d2f",
       "appleId": "id991313597",
-      "ratings": 2309
-    }
-  },
-  {
-    "title": "Not Skinny But Not Fat",
-    "link": "03cp5qwpSvb9two5JHIg9y",
-    "meta": {
-      "rank": 18,
-      "category": "TV & Film",
-      "publisher": "Dear Media, Amanda Hirsch",
-      "description": "Amanda Hirsch, @notskinnybutnotfat on Instagram, shares her hot takes on entertainment news, celebrities & pop culture, and interviews your faves!",
-      "image": "https://i.scdn.co/image/fec329b999ca651979c21ebb19759f09695ec021",
-      "appleId": "id1444559244",
-      "ratings": 4125
+      "ratings": 2309,
+      "velocity": 0
     }
   },
   {
     "title": "Wakanda Forever: The Official Black Panther Podcast",
     "link": "25H3VGTKQUo1ImawOBVbvD",
     "meta": {
-      "rank": 19,
+      "rank": 18,
       "category": "TV & Film",
       "publisher": "Marvel Entertainment",
       "description": "The groundbreaking success of BLACK PANTHER changed the world. What happened after was unprecedented. This podcast is an intimate look into the making of BLACK PANTHER: WAKANDA FOREVER, written and hosted by Ta-Nehisi Coates, featuring conversations with Ryan Coogler, Angela Bassett, Kevin Feige, Nate Moore, Dominique Thorne, Ludwig Göransson, and more.  WAKANDA FOREVER: THE OFFICIAL BLACK PANTHER PODCAST is a production of Proximity Media in partnership with Marvel Studios, Marvel Entertainment, and The Walt Disney Studios. The series is produced by Paola Mardo. Executive Producers are Ryan Coogler, Zinzi Coogler, Sev Ohanian, and Paola Mardo. The film score is composed by Ludwig Göransson.  The first episode premieres on November 3. The rest of the series debuts in January 2023 around the 5-year anniversary of the first film. Learn more at ProximityMedia.com and follow @ProximityMedia, @Marvel, and @MarvelStudios on Twitter and Instagram. BLACK PANTHER: WAKANDA FOREVER will be in theaters on November 11.",
       "image": "https://i.scdn.co/image/ab67656300005f1fd32d7c304180ad95e0340947",
       "followers": 17198949,
       "appleId": "id1651004191",
-      "ratings": 653
+      "ratings": 653,
+      "velocity": 1
+    }
+  },
+  {
+    "title": "Not Skinny But Not Fat",
+    "link": "03cp5qwpSvb9two5JHIg9y",
+    "meta": {
+      "rank": 19,
+      "category": "TV & Film",
+      "publisher": "Dear Media, Amanda Hirsch",
+      "description": "Amanda Hirsch, @notskinnybutnotfat on Instagram, shares her hot takes on entertainment news, celebrities & pop culture, and interviews your faves!",
+      "image": "https://i.scdn.co/image/fec329b999ca651979c21ebb19759f09695ec021",
+      "appleId": "id1444559244",
+      "ratings": 4125,
+      "velocity": -1
+    }
+  },
+  {
+    "title": "Boom/Bust: HQ Trivia",
+    "link": "65F5z1u5FCLX9ddueCHJRb",
+    "meta": {
+      "rank": 20,
+      "category": "TV & Film",
+      "publisher": "The Ringer",
+      "description": "The live trivia app 'HQ Trivia' was once the obsession of the internet, garnering millions of players and an international spotlight. But then it all went wrong. From 'The Ringer' Podcast Network, ‘Boom/Bust: HQ Trivia’ is an exploration of the spectacular rise and fall of the massively popular app, reported and hosted by Alyssa Bereznak.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fbd8f26eb19180daa5b93ef15",
+      "velocity": 5
     }
   },
   {
     "title": "The Watch",
     "link": "3IcA76e8ZV0NNSJ81XHQUg",
     "meta": {
-      "rank": 20,
+      "rank": 21,
       "category": "TV & Film",
       "publisher": "The Ringer",
       "description": "Every week, The Ringer's Andy Greenwald and Chris Ryan -- longtime friends and pop culture addicts -- break down the latest in TV, movies, and music.",
       "image": "https://i.scdn.co/image/ab67656300005f1f0268899b23d27bdcd21bbafe",
       "appleId": "id1111739567",
-      "ratings": 4339
-    }
-  },
-  {
-    "title": "The Ringer Reality TV Podcast",
-    "link": "3sW9WGTVb8XLDUUqo1j7GK",
-    "meta": {
-      "rank": 21,
-      "category": "TV & Film",
-      "publisher": "The Ringer",
-      "description": "The Ringer Reality TV Podcast is the home for all things unscripted TV. Including 'Challenge' recaps with Johnny Bananas, 'Bachelor in Paradise' recaps from Amelia Wedemeyer, 'Survivor' recaps with Tyson Apostol, 'Great British Bakeoff' recaps with Amelia and Kate Halliwell, and much more coverage across the reality spectrum, from 'Real Housewives' to 'Below Deck' to 'Selling Sunset.'",
-      "image": "https://i.scdn.co/image/ab67656300005f1f1da1318f0b5cce71379526c1",
-      "appleId": "id1580146037",
-      "ratings": 528
+      "ratings": 4339,
+      "velocity": -1
     }
   },
   {
@@ -288,44 +307,48 @@
       "description": "Sean Fennessey and Amanda Dobbins review the movies you need to see. Plus: Top 5s, Movie Drafts, Oscars analysis, and more, featuring a rotating cast of Ringer colleagues like Chris Ryan, Van Lathan, and Bill Simmons.",
       "image": "https://i.scdn.co/image/ab67656300005f1f7f00f6627a96cdba28891919",
       "appleId": "id1439252196",
-      "ratings": 3833
-    }
-  },
-  {
-    "title": "Brotherly Love Podcast",
-    "link": "3hloAokS58kqvClFDJ826I",
-    "meta": {
-      "rank": 23,
-      "category": "TV & Film",
-      "publisher": "PodCo",
-      "description": "Join us for the Brotherly Love Podcast as we delve into the dynamic sibling relationship of the Lawrence brothers (Joey, Matt & Andy) and explore their journey navigating life, love and the ups and downs of growing up together. Each episode features up-close and personal conversations with the brothers about what it was like navigating their childhood in the public eye, the crazy moments and stories from behind-the-scenes, and a call-in from a fan where they give their advice on family dynamics, relationships, and more! Join us every Friday for a dose of heartwarming humor and unbreakable sibling bonds.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f4c0f94a4717503c1e2d7c204",
-      "appleId": "id1670043000",
-      "ratings": 39
+      "ratings": 3833,
+      "velocity": 0
     }
   },
   {
     "title": "Dead Meat Podcast",
     "link": "09cBVDZiE861DIHlEdcuac",
     "meta": {
-      "rank": 24,
+      "rank": 23,
       "category": "TV & Film",
       "publisher": "Chelsea Rebecca, James A. Janisse",
       "description": "The Dead Meat Podcast is your horror safe haven. Reviews, film history, and all things that make your skin crawl.",
       "image": "https://i.scdn.co/image/ab67656300005f1f7a4548668d976b8797f13067",
       "appleId": "id1349106563",
-      "ratings": 4266
+      "ratings": 4266,
+      "velocity": 1
     }
   },
   {
-    "title": "Boom/Bust: HQ Trivia",
-    "link": "65F5z1u5FCLX9ddueCHJRb",
+    "title": "The Ringer Reality TV Podcast",
+    "link": "3sW9WGTVb8XLDUUqo1j7GK",
+    "meta": {
+      "rank": 24,
+      "category": "TV & Film",
+      "publisher": "The Ringer",
+      "description": "The Ringer Reality TV Podcast is the home for all things unscripted TV. Including 'Challenge' recaps with Johnny Bananas, 'Bachelor in Paradise' recaps from Amelia Wedemeyer, 'Survivor' recaps with Tyson Apostol, 'Great British Bakeoff' recaps with Amelia and Kate Halliwell, and much more coverage across the reality spectrum, from 'Real Housewives' to 'Below Deck' to 'Selling Sunset.'",
+      "image": "https://i.scdn.co/image/ab67656300005f1f1da1318f0b5cce71379526c1",
+      "appleId": "id1580146037",
+      "ratings": 528,
+      "velocity": -3
+    }
+  },
+  {
+    "title": "WIRED's Autocomplete Interview",
+    "link": "2l2s1v7MAgq4Ba7NIlM4iu",
     "meta": {
       "rank": 25,
       "category": "TV & Film",
-      "publisher": "The Ringer",
-      "description": "The live trivia app 'HQ Trivia' was once the obsession of the internet, garnering millions of players and an international spotlight. But then it all went wrong. From 'The Ringer' Podcast Network, ‘Boom/Bust: HQ Trivia’ is an exploration of the spectacular rise and fall of the massively popular app, reported and hosted by Alyssa Bereznak.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fbd8f26eb19180daa5b93ef15"
+      "publisher": "Autocomplete Interview",
+      "description": "Is Ice Cube a nice guy? Do astronauts really drink their own pee? Does Gerard Butler still surf? The internet searches for answers and WIRED goes right to the source for the answer.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f222537a98ed31f500b36e726",
+      "velocity": 5
     }
   },
   {
@@ -338,94 +361,104 @@
       "description": "Whether you're a fan of the game or new to the world of The Last of Us, Jim and A.Ron are the perfect companions to the HBO series, offering in-depth analysis, behind-the-scenes insights, and fan theories about the show. Tune in to stay up-to-date on all the latest news and discussion about The Last of Us on HBO. Contact: tlou@baldmove.com",
       "image": "https://i.scdn.co/image/ab67656300005f1ff6f4c27f8ae075ad08a3c2b5",
       "appleId": "id1664223329",
-      "ratings": 406
-    }
-  },
-  {
-    "title": "MTV's Official Challenge Podcast",
-    "link": "4w8p9Zn3a17Ic8SiGaeToj",
-    "meta": {
-      "rank": 27,
-      "category": "TV & Film",
-      "publisher": "MTV & iHeartPodcasts",
-      "description": "Hosts and Challenge alums Tori Deal and Aneesa Ferreira are taking you behind the scenes as The Challenge contestants are put to the ultimate test in Season 38: competing for the crown with someone they trust. Every week, MTV’s Official Challenge Podcast features a special guest from the show who recaps their journey, all the latest drama, and everything in between from this season. Watch The Challenge on Paramount+ and MTV every Wednesday and catch new episodes of the podcast every Thursday.",
-      "image": "https://i.scdn.co/image/ab67656300005f1faf3b8bf6e8af6884e22c5f44",
-      "appleId": "id1541034575",
-      "ratings": 2006
-    }
-  },
-  {
-    "title": "The House of Halliwell / A Charmed Rewatch Podcast",
-    "link": "4o47FADxJnJD9QOfAsS9Aq",
-    "meta": {
-      "rank": 28,
-      "category": "TV & Film",
-      "publisher": "(Drew Fuller, Brian Krause, Holly Combs)",
-      "description": "Join original Charmed cast members Holly Marie Combs, Drew Fuller, and Brian Krause as they discuss their time on the hit TV show episode by episode. Hear behind the scenes stories and get insight into the production process of the hit cult show.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f2f467370826448032ab65ba7",
-      "appleId": "id1643024276",
-      "ratings": 769
+      "ratings": 406,
+      "velocity": 0
     }
   },
   {
     "title": "Deep Cuts",
     "link": "3twhc87dJrDekc39c7ibQE",
     "meta": {
-      "rank": 29,
+      "rank": 27,
       "category": "TV & Film",
       "publisher": "Boy Genius",
       "description": "Hosts Dave Baker and Andrew Price walk you through the ins and outs of a particular topic in film, television and pop culture, no matter how strange or obscure. No matter how small a factoid seems to be, Dave and Andrew will explore its origin and maybe even correct some misconceptions on commonly held pop culture beliefs. We wanna make the podcast even better, help us learn how we can: https://bit.ly/2EcYbu4  For advertising opportunities please email PodcastPartnerships@Studio71us.com    Privacy Policy: https://www.studio71.com/us/terms-and-conditions-use/#Privacy%20Policy",
       "image": "https://i.scdn.co/image/ab67656300005f1f55aaf064207de16b3c0f2be5",
       "appleId": "id1501739859",
-      "ratings": 275
+      "ratings": 275,
+      "velocity": 2
     }
   },
   {
-    "title": "WIRED's Autocomplete Interview",
-    "link": "2l2s1v7MAgq4Ba7NIlM4iu",
+    "title": "Brotherly Love Podcast",
+    "link": "3hloAokS58kqvClFDJ826I",
     "meta": {
-      "rank": 30,
+      "rank": 28,
       "category": "TV & Film",
-      "publisher": "Autocomplete Interview",
-      "description": "Is Ice Cube a nice guy? Do astronauts really drink their own pee? Does Gerard Butler still surf? The internet searches for answers and WIRED goes right to the source for the answer.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f222537a98ed31f500b36e726"
+      "publisher": "PodCo",
+      "description": "Join us for the Brotherly Love Podcast as we delve into the dynamic sibling relationship of the Lawrence brothers (Joey, Matt & Andy) and explore their journey navigating life, love and the ups and downs of growing up together. Each episode features up-close and personal conversations with the brothers about what it was like navigating their childhood in the public eye, the crazy moments and stories from behind-the-scenes, and a call-in from a fan where they give their advice on family dynamics, relationships, and more! Join us every Friday for a dose of heartwarming humor and unbreakable sibling bonds.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f4c0f94a4717503c1e2d7c204",
+      "appleId": "id1670043000",
+      "ratings": 39,
+      "velocity": -5
+    }
+  },
+  {
+    "title": "The House of Halliwell / A Charmed Rewatch Podcast",
+    "link": "4o47FADxJnJD9QOfAsS9Aq",
+    "meta": {
+      "rank": 29,
+      "category": "TV & Film",
+      "publisher": "(Drew Fuller, Brian Krause, Holly Combs)",
+      "description": "Join original Charmed cast members Holly Marie Combs, Drew Fuller, and Brian Krause as they discuss their time on the hit TV show episode by episode. Hear behind the scenes stories and get insight into the production process of the hit cult show.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f2f467370826448032ab65ba7",
+      "appleId": "id1643024276",
+      "ratings": 769,
+      "velocity": -1
     }
   },
   {
     "title": "The A24 Podcast",
     "link": "732eFL1RZRahaeu3HgCkJB",
     "meta": {
-      "rank": 31,
+      "rank": 30,
       "category": "TV & Film",
       "publisher": "A24",
       "description": "No host, no ads, no rules. From the people behind Everything Everywhere All At Once, Midsommar, Uncut Gems, HBO's Euphoria, Hereditary, Moonlight, and more.",
       "image": "https://i.scdn.co/image/ab67656300005f1f0d1d28ee5e13c9d36320b758",
       "appleId": "id1351044991",
-      "ratings": 984
-    }
-  },
-  {
-    "title": "The Official Yellowstone Podcast",
-    "link": "1GWLCJvaaj80Qkc5p1L0ba",
-    "meta": {
-      "rank": 32,
-      "category": "TV & Film",
-      "publisher": "101 Studios & Paramount Network",
-      "description": "Ever wonder what life is really like on Dutton Ranch? Saddle up and join co-hosts Jefferson White (\"Jimmy\") and Jen Landon (\"Teeter\") as they take you behind the scenes of season 5 on the only official Yellowstone podcast. They'll be joined by special guests, from cast members to celebrity super fans, to recap episodes and unpack the latest updates of the ever-expanding Yellowstone universe. New episodes every Sunday. ",
-      "image": "https://i.scdn.co/image/ab67656300005f1fb7f731701095387fd91dc9cf",
-      "appleId": "id1597189030",
-      "ratings": 1651
+      "ratings": 984,
+      "velocity": 1
     }
   },
   {
     "title": "lines that make me cry",
     "link": "2heFiI1T48BTdGeoNsKdJL",
     "meta": {
-      "rank": 33,
+      "rank": 31,
       "category": "TV & Film",
       "publisher": "zero",
       "description": "I will always update some of my favorite lines here. I hope you can hear the words you love.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f42d78afd0b3a3e0be83946b0"
+      "image": "https://i.scdn.co/image/ab67656300005f1f42d78afd0b3a3e0be83946b0",
+      "velocity": 2
+    }
+  },
+  {
+    "title": "MTV's Official Challenge Podcast",
+    "link": "4w8p9Zn3a17Ic8SiGaeToj",
+    "meta": {
+      "rank": 32,
+      "category": "TV & Film",
+      "publisher": "MTV & iHeartPodcasts",
+      "description": "Hosts and Challenge alums Tori Deal and Aneesa Ferreira are taking you behind the scenes as The Challenge contestants are put to the ultimate test in Season 38: competing for the crown with someone they trust. Every week, MTV’s Official Challenge Podcast features a special guest from the show who recaps their journey, all the latest drama, and everything in between from this season. Watch The Challenge on Paramount+ and MTV every Wednesday and catch new episodes of the podcast every Thursday.",
+      "image": "https://i.scdn.co/image/ab67656300005f1faf3b8bf6e8af6884e22c5f44",
+      "appleId": "id1541034575",
+      "ratings": 2006,
+      "velocity": -5
+    }
+  },
+  {
+    "title": "Two Ts In A Pod with Teddi Mellencamp and Tamra Judge",
+    "link": "58gFsK8RCj9xKphewwwq20",
+    "meta": {
+      "rank": 33,
+      "category": "TV & Film",
+      "publisher": "iHeartPodcasts",
+      "description": "Two \"ex-housewives\" Watching, Recapping, Armchair Quarterbacking, Breaking Down all the Breaking News. Teddi Mellencamp and Tamra Judge team up to Tell All. Listen each week as they watch and rehash as only they can. Who knows housewives better than housewives?! Right?! Teddi and Tamra are Two Ts in a Pod. (Telling All).",
+      "image": "https://i.scdn.co/image/ab67656300005f1ffdb7671b8693cd0a1e12092a",
+      "appleId": "id1477524410",
+      "ratings": 4484,
+      "velocity": 5
     }
   },
   {
@@ -438,7 +471,8 @@
       "description": "Go check original content creator: https://www.youtube.com/user/challengeacceptedinc?app=desktop SO SORRY for the hold up! Thank you for waiting so patiently! Subscribers a little notice we will be taking down subscriber payment February 27th. We've realized a lot of the community should all be able to listen to these. Thank you for all of the love all of the support and voice messages! Love you all! ❤️❤️❤️ Cast: Jessica Bravura Tomoyo Ichijouji Jason Bravura Sebastian Todd Michaela Laws Kestin HOWARD Lizzy Hofe Alejandro Saab Kimberley Anne Campbell Andy Cowley Calvin Manning P.M. Seymour",
       "image": "https://i.scdn.co/image/ab67656300005f1f1f496fbc284ae5d6cc45ed71",
       "appleId": "id1545278313",
-      "ratings": 136
+      "ratings": 136,
+      "velocity": 0
     }
   },
   {
@@ -451,200 +485,216 @@
       "description": " Calling all Gleeks! We’re baaaaack…again.   Kevin McHale (Artie Abrams) and Jenna Ushkowitz (Tina Cohen-Chang) are heading back to William McKinley High School to rewatch all 6 seasons of Glee!   We’re taking you all the way from McKinley High to New York City, from the choir room to Nationals, and from the Super Bowl to a world tour!   We’ll look back on your favorite moments and never before heard stories with a slew of guests including cast, crew, celebrities and you, the fans!   So warm up those vocal chords and tune those ears, because it’s all coming out on And That’s What you REALLY Missed, an iHeartRadio Podcast.  ",
       "image": "https://i.scdn.co/image/ab67656300005f1fd2abc2b06364da52f54c5d6f",
       "appleId": "id1645980188",
-      "ratings": 601
-    }
-  },
-  {
-    "title": "Into It: A Vulture Podcast with Sam Sanders",
-    "link": "6YRlgok1wcnIqhrQgH1Tjt",
-    "meta": {
-      "rank": 36,
-      "category": "TV & Film",
-      "publisher": "Vulture & New York Magazine",
-      "description": "So much pop culture. So many movies, TV shows, music and memes. In Vulture's flagship podcast Into It, host Sam Sanders will help you obsess…better. Every week, we’ll break down the pop culture we can’t stop thinking about, with friends from Vulture and the occasional celebrity. From the tiny, dumb scene on loop in our brains to the big, deep questions we have about what it all means… we’ll get into all of it - amazing, terrible or just insanely memorable. New episodes drop every Thursday. From New York Magazine and the Vox Media Podcast Network.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f74d0d14c6385c8456d82182c",
-      "appleId": "id1634687152",
-      "ratings": 729
-    }
-  },
-  {
-    "title": "Unspooled",
-    "link": "3bDde7PbruHlPvyppS0EpC",
-    "meta": {
-      "rank": 37,
-      "category": "TV & Film",
-      "publisher": "Earwolf, Paul Scheer & Amy Nicholson",
-      "description": "Listen up, film fans! Actor & comedian Paul Scheer and film critic Amy Nicholson want your advice as they make the ultimate list of the greatest movies of all time. In Season 1, they watched every one of the AFI’s Top 100 films...and decided they could kick off half. Now, they're filling in the gaps by investigating wildly diverse areas of film through miniseries on topics like horror movies, documentaries and romantic comedies, with help from listeners' picks. Along the way, they’ll dissect iconic scenes, spotlight their favorite characters, and talk to some of the actors and directors who worked on these classics. And when Unspooled has built their own list of the best movies on earth, they'll blast them into space to be immortalized for eternity. Seriously.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f5b4c95b6577216e33db4f6c4",
-      "appleId": "id1381507437",
-      "ratings": 3903
-    }
-  },
-  {
-    "title": "Two Ts In A Pod with Teddi Mellencamp and Tamra Judge",
-    "link": "58gFsK8RCj9xKphewwwq20",
-    "meta": {
-      "rank": 38,
-      "category": "TV & Film",
-      "publisher": "iHeartPodcasts",
-      "description": "Two \"ex-housewives\" Watching, Recapping, Armchair Quarterbacking, Breaking Down all the Breaking News. Teddi Mellencamp and Tamra Judge team up to Tell All. Listen each week as they watch and rehash as only they can. Who knows housewives better than housewives?! Right?! Teddi and Tamra are Two Ts in a Pod. (Telling All).",
-      "image": "https://i.scdn.co/image/ab67656300005f1ffdb7671b8693cd0a1e12092a",
-      "appleId": "id1477524410",
-      "ratings": 4484
+      "ratings": 601,
+      "velocity": 0
     }
   },
   {
     "title": "The AMC Mayfair Witches Podcast",
     "link": "1G9F32WRaN0Mmsfkez9gQA",
     "meta": {
-      "rank": 39,
+      "rank": 36,
       "category": "TV & Film",
       "publisher": "AMC+",
       "description": "The AMC Mayfair Witches Podcast is the official companion podcast to AMC’s Mayfair Witches, based on Anne Rice’s supernatural bestseller. Each week, host Amy Nicholson (writer, critic, and witch-in-training) breaks down the latest episode with the show creators and its stars, including interviews with Alexandra Daddario (The White Lotus), Harry Hamlin (Mad Men), Annabeth Gish (Midnight Mass), showrunner Esta Spalding, and more. And along the way, Amy will explore the history of witches that inspired Anne Rice and the legacy of these stories. The AMC Mayfair Witches Podcast is produced by AMC in conjunction with Pineapple Street Studios.",
       "image": "https://i.scdn.co/image/ab67656300005f1fbc32f40a2ac0fc33c0af1d5d",
       "appleId": "id1645109815",
-      "ratings": 250
-    }
-  },
-  {
-    "title": "Race Chaser with Alaska & Willam",
-    "link": "2pJvYcYBD6A4MPkWagUtb7",
-    "meta": {
-      "rank": 40,
-      "category": "TV & Film",
-      "publisher": "Moguls of Media",
-      "description": "RuPaul’s Drag Race superstars and fan favorites Alaska (All Stars S2 Winner, S5 Top 3) and Willam (S4 standout and Emmy Nominated actor) bring you an insider’s look at the worldwide phenomenon that is Drag Race by discussing and dissecting every episode ever. They also dive into Hot Goss, go behind the curtain of the Drag scene, and answer emails from their dedicated listeners. Produced by the Forever Dog Podcast Network.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fab69e9d180e94c7de65eadc8"
-    }
-  },
-  {
-    "title": "OfflineTV Podcast",
-    "link": "280eUNRgF7C1iamwHcDme2",
-    "meta": {
-      "rank": 41,
-      "category": "TV & Film",
-      "publisher": "OfflineTV",
-      "description": "Official OfflineTV Podcast",
-      "image": "https://i.scdn.co/image/ab67656300005f1f28dc1a68cae6825631dc0f63",
-      "appleId": "id1463174591",
-      "ratings": 799
+      "ratings": 250,
+      "velocity": 3
     }
   },
   {
     "title": "Gilmore To Say: A Gilmore Girls Podcast",
     "link": "7LF8gsONJtmbEUBFrSPn75",
     "meta": {
-      "rank": 42,
+      "rank": 37,
       "category": "TV & Film",
       "publisher": "Tara Llewellyn & Haley McIntosh",
       "description": "Oy with the recap podcasts already! Your favorite Gilmore Girls TikTokers, Tara (@tarallew) and Haley (@gilmoregirlygirl), have been watching this show since before they were old enough to attend Chilton. Nearly two decades, multiple rewatches, and several cups of coffee later, their babbling capabilities are still infinite. Come hang out with them as they discuss the writing, the relationships, the parallels, and who is the father of that baby. This show stopped airing years ago, but Tara and Haley always have more to say. Where you lead? I will follow... us on instagram @gilmoretosaypodcast",
       "image": "https://i.scdn.co/image/ab67656300005f1f66b3396120f4107f2810ebc0",
       "appleId": "id1606894327",
-      "ratings": 284
+      "ratings": 284,
+      "velocity": 5
+    }
+  },
+  {
+    "title": "The Official Yellowstone Podcast",
+    "link": "1GWLCJvaaj80Qkc5p1L0ba",
+    "meta": {
+      "rank": 38,
+      "category": "TV & Film",
+      "publisher": "101 Studios & Paramount Network",
+      "description": "Ever wonder what life is really like on Dutton Ranch? Saddle up and join co-hosts Jefferson White (\"Jimmy\") and Jen Landon (\"Teeter\") as they take you behind the scenes of season 5 on the only official Yellowstone podcast. They'll be joined by special guests, from cast members to celebrity super fans, to recap episodes and unpack the latest updates of the ever-expanding Yellowstone universe. New episodes every Sunday. ",
+      "image": "https://i.scdn.co/image/ab67656300005f1fb7f731701095387fd91dc9cf",
+      "appleId": "id1597189030",
+      "ratings": 1651,
+      "velocity": -6
     }
   },
   {
     "title": "The Ringer-Verse",
     "link": "3z9QIZzDR4o34uBBbsxb0z",
     "meta": {
-      "rank": 43,
+      "rank": 39,
       "category": "TV & Film",
       "publisher": "The Ringer",
       "description": "'The Ringer-Verse' is your go-to nexus podcast feed for all things nerd culture and fandom. Hosted by a rotating lineup of The Ringer’s expert superfans—including The Midnight Boys Van Lathan and Charles Holmes and Mallory Rubin and Joanna Robinson from 'The House of R’—episodes provide energetic instant reactions to the latest releases, immersive deep dives on story themes and canon, mind-bending theories, and fresh takes on all of the superhero, sci-fi, and fantasy stories you love, from the MCU to 'Star Wars', DC to 'Game of Thrones', and beyond.",
       "image": "https://i.scdn.co/image/ab67656300005f1f18f6115ac7869f5338b2d786",
       "appleId": "id1558211702",
-      "ratings": 2269
+      "ratings": 2269,
+      "velocity": 4
     }
   },
   {
-    "title": "I Am All In with Scott Patterson",
-    "link": "5DvLyQYyS2C75kTv4NLOe5",
+    "title": "You Must Remember This",
+    "link": "2sYCMjQed0gHYtXzPvcj5K",
     "meta": {
-      "rank": 44,
+      "rank": 40,
       "category": "TV & Film",
-      "publisher": "iHeartPodcasts",
-      "description": "Twenty years ago, you met Luke Danes...backward cap, plaid flannel, pouring the coffee. For the VERY first time, Scott Patterson (aka Luke) is watching Gilmore Girls. 154 episodes and 4 movies. We'll visit Stars Hollow, Doosey's Market, Miss Patty's, Mrs. Kim's antique shop and more pop culture references than you can count. Join us whether you're Team Dean, Team Logan or Team Jess. And, we'll see if we can figure out \"who's the daddy\". We'll talk fast, and if you can smell snow, if Paris isn't just a city in France, and Friday night dinner is a requirement... you don't want to miss this. Finally, cell phones are allowed. Listen everywhere you listen to podcasts. I AM ALL IN, an iHeartRadio podcast.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f2db2f8d700ec43b3b38587d9",
-      "appleId": "id1563792491",
-      "ratings": 3736
+      "publisher": "Karina Longworth",
+      "description": "You Must Remember This is a storytelling podcast exploring the secret and/or forgotten histories of Hollywood’s first century. It’s the brainchild and passion project of Karina Longworth (founder of Cinematical.com, former film critic for LA Weekly), who writes, narrates, records and edits each episode. It is a heavily-researched work of creative nonfiction: navigating through conflicting reports, mythology, and institutionalized spin, Karina tries to sort out what really happened behind the films, stars and scandals of the 20th century.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f658176db6a15bf07942defbf",
+      "appleId": "id858124601",
+      "ratings": 11979,
+      "velocity": 11
+    }
+  },
+  {
+    "title": "Into It: A Vulture Podcast with Sam Sanders",
+    "link": "6YRlgok1wcnIqhrQgH1Tjt",
+    "meta": {
+      "rank": 41,
+      "category": "TV & Film",
+      "publisher": "Vulture & New York Magazine",
+      "description": "So much pop culture. So many movies, TV shows, music and memes. In Vulture's flagship podcast Into It, host Sam Sanders will help you obsess…better. Every week, we’ll break down the pop culture we can’t stop thinking about, with friends from Vulture and the occasional celebrity. From the tiny, dumb scene on loop in our brains to the big, deep questions we have about what it all means… we’ll get into all of it - amazing, terrible or just insanely memorable. New episodes drop every Thursday. From New York Magazine and the Vox Media Podcast Network.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f74d0d14c6385c8456d82182c",
+      "appleId": "id1634687152",
+      "ratings": 729,
+      "velocity": -5
+    }
+  },
+  {
+    "title": "Unspooled",
+    "link": "3bDde7PbruHlPvyppS0EpC",
+    "meta": {
+      "rank": 42,
+      "category": "TV & Film",
+      "publisher": "Earwolf, Paul Scheer & Amy Nicholson",
+      "description": "Listen up, film fans! Actor & comedian Paul Scheer and film critic Amy Nicholson want your advice as they make the ultimate list of the greatest movies of all time. In Season 1, they watched every one of the AFI’s Top 100 films...and decided they could kick off half. Now, they're filling in the gaps by investigating wildly diverse areas of film through miniseries on topics like horror movies, documentaries and romantic comedies, with help from listeners' picks. Along the way, they’ll dissect iconic scenes, spotlight their favorite characters, and talk to some of the actors and directors who worked on these classics. And when Unspooled has built their own list of the best movies on earth, they'll blast them into space to be immortalized for eternity. Seriously.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f5b4c95b6577216e33db4f6c4",
+      "appleId": "id1381507437",
+      "ratings": 3903,
+      "velocity": -5
     }
   },
   {
     "title": "Talk Ville",
     "link": "5lxICd9MFvyJbnGH4G7xrM",
     "meta": {
-      "rank": 45,
+      "rank": 43,
       "category": "TV & Film",
       "publisher": "Tom Welling & Michael Rosenbaum",
       "description": "It was only a matter of time! Join costars Tom Welling (Clark Kent) and Michael Rosenbaum (Lex Luthor) as they take you behind the scenes of one of the greatest shows of all time, Smallville. With this weekly dose of nostalgia you will get an inside look at what it was like to film each episode and hear fun facts that only those on set could tell you! Tag along with Michael and Tom to revisit the iconic series that changed the way you look at one of America’s favorite superheroes!",
       "image": "https://i.scdn.co/image/ab67656300005f1f4843726ab283172e86cd7f27",
       "appleId": "id1628160941",
-      "ratings": 1808
+      "ratings": 1808,
+      "velocity": 2
+    }
+  },
+  {
+    "title": "Race Chaser with Alaska & Willam",
+    "link": "2pJvYcYBD6A4MPkWagUtb7",
+    "meta": {
+      "rank": 44,
+      "category": "TV & Film",
+      "publisher": "Moguls of Media",
+      "description": "RuPaul’s Drag Race superstars and fan favorites Alaska (All Stars S2 Winner, S5 Top 3) and Willam (S4 standout and Emmy Nominated actor) bring you an insider’s look at the worldwide phenomenon that is Drag Race by discussing and dissecting every episode ever. They also dive into Hot Goss, go behind the curtain of the Drag scene, and answer emails from their dedicated listeners. Produced by the Forever Dog Podcast Network.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fab69e9d180e94c7de65eadc8",
+      "velocity": -4
     }
   },
   {
     "title": "The Video Archives Podcast with Quentin Tarantino and Roger Avary",
     "link": "1mPDGdCtnT31VJR8Ei6Mnf",
     "meta": {
-      "rank": 46,
+      "rank": 45,
       "category": "TV & Film",
       "publisher": "Quentin Tarantino & Roger Avary, Stitcher",
       "description": "Quentin Tarantino and Roger Avary invite you to become a customer at Video Archives, the store that started it all. Joined by their announcer Gala Avary, they’ll travel back in time to revisit old classics and discover new favorites, pulled from the actual VHS tapes that Quentin and Roger used to recommend to customers at the original Video Archives store in Manhattan Beach. From controversial James Bond films to surprising exploitation flicks, the duo will expose you to movies you didn't know you'd love, give awards to their favorites, and of course, rate the quality of the video transfer.",
       "image": "https://i.scdn.co/image/ab67656300005f1f677933695b5d73069ca57b97",
       "appleId": "id1627069896",
-      "ratings": 523
+      "ratings": 523,
+      "velocity": 1
     }
   },
   {
-    "title": "Off Contract with Courtney Robertson",
-    "link": "4n880ltRLUGaNsJb8NYzGv",
+    "title": "Harry Potter Theory",
+    "link": "6EELBIYpnerxOxBh2wENgF",
+    "meta": {
+      "rank": 46,
+      "category": "TV & Film",
+      "publisher": "Harry Potter Theory",
+      "description": "Welcome to Harry Potter Theory! This podcast features Harry Potter Theories, Fantastic Beasts Theories, Explanations, Top Lists, News, Character Backstories, Fan Fictions & More!",
+      "image": "https://i.scdn.co/image/ab67656300005f1fd717ce169c1bcf19ac095ba7",
+      "appleId": "id1626573626",
+      "ratings": 71,
+      "velocity": 5
+    }
+  },
+  {
+    "title": "Scriptnotes",
+    "link": "6ohMdZ91g1sXIYz8ylNgD9",
     "meta": {
       "rank": 47,
       "category": "TV & Film",
-      "publisher": "Courtney Robertson",
-      "description": "Courtney Robertson is the most notorious villain in Bachelor History. She won Season 16 of The Bachelor and went on to write the New York Times Bestseller \"I Didn't Come Here to Make Friends: Confessions of a Reality TV Show Villain\"Now Courtney will be spilling secrets with your favorite iconic figures from reality TV. Hosted on Acast. See acast.com/privacy for more information.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fb5d83dcd124f29025179810e",
-      "appleId": "id1668713078",
-      "ratings": 267
+      "publisher": "John August and Craig Mazin",
+      "description": "Screenwriters John August and Craig Mazin discuss screenwriting and related topics in the film and television industry, everything from getting stuff written to the vagaries of copyright and work-for-hire law.",
+      "image": "https://i.scdn.co/image/c455cb947f0e68147de758a60e3482c2b39218c3",
+      "appleId": "id462495496",
+      "ratings": 2198,
+      "velocity": 4
     }
   },
   {
-    "title": "Hi Jinkx! with Jinkx Monsoon",
-    "link": "0z5X4hM9Gmhh8JunB4MPxz",
+    "title": "OfflineTV Podcast",
+    "link": "280eUNRgF7C1iamwHcDme2",
     "meta": {
       "rank": 48,
       "category": "TV & Film",
-      "publisher": "Moguls of Media",
-      "description": "Drag darling and winner of RuPaul's Drag Race JINKX MONSOON brings her unique brand of talk to the podcast airwaves through thoughtful, hilarious, and even probing conversations with your favorite celebrities, comedians, and artists. Produced by the Forever Dog Podcast Network and Moguls of Media",
-      "image": "https://i.scdn.co/image/ab67656300005f1f81d064ddcaafdeb334ed7a13",
-      "appleId": "id1565264483",
-      "ratings": 867
+      "publisher": "OfflineTV",
+      "description": "Official OfflineTV Podcast",
+      "image": "https://i.scdn.co/image/ab67656300005f1f28dc1a68cae6825631dc0f63",
+      "appleId": "id1463174591",
+      "ratings": 799,
+      "velocity": -7
+    }
+  },
+  {
+    "title": "I Am All In with Scott Patterson",
+    "link": "5DvLyQYyS2C75kTv4NLOe5",
+    "meta": {
+      "rank": 49,
+      "category": "TV & Film",
+      "publisher": "iHeartPodcasts",
+      "description": "Twenty years ago, you met Luke Danes...backward cap, plaid flannel, pouring the coffee. For the VERY first time, Scott Patterson (aka Luke) is watching Gilmore Girls. 154 episodes and 4 movies. We'll visit Stars Hollow, Doosey's Market, Miss Patty's, Mrs. Kim's antique shop and more pop culture references than you can count. Join us whether you're Team Dean, Team Logan or Team Jess. And, we'll see if we can figure out \"who's the daddy\". We'll talk fast, and if you can smell snow, if Paris isn't just a city in France, and Friday night dinner is a requirement... you don't want to miss this. Finally, cell phones are allowed. Listen everywhere you listen to podcasts. I AM ALL IN, an iHeartRadio podcast.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f2db2f8d700ec43b3b38587d9",
+      "appleId": "id1563792491",
+      "ratings": 3736,
+      "velocity": -5
     }
   },
   {
     "title": "The Rewatcher: Buffy the Vampire Slayer",
     "link": "4jLKhdBDjkcUt7w84a6jKR",
     "meta": {
-      "rank": 49,
+      "rank": 50,
       "category": "TV & Film",
       "publisher": "Wondery | Morbid Network",
       "description": "Welcome to the Hellmouth Weirdos! Your favorite Morbid hosts Ash and Alaina are branching out from true crime and heading to Sunnydale for the ultimate Buffy the Vampire Slayer Rewatch podcast! Alaina is a Buffy superfan and Ash has never watched a single episode, so whether you’re Team Angel, Team Spike, or have no clue who those people are…they’ve got you covered! Join them each week as they slay their way through the series, episode by episode, re-watching, and watching for the very first time. They’ll break down Buffy and her friends adventures through weekly recaps, categories, and awards while Ash takes some (wooden stake) stabs at predicting what she thinks will happen next. They'll also welcome the occasional Buffy cast member, guest star, or celebrity superfan to join in the slaying.New episodes come out every Monday or you can listen early on Amazon Music or early and ad-free by subscribing to Wondery+ on Apple Podcasts or in the Wondery app.",
       "image": "https://i.scdn.co/image/ab67656300005f1f6874f79ca9ad5e7ddab78463",
       "appleId": "id1644787927",
-      "ratings": 939
-    }
-  },
-  {
-    "title": "Watch What Crappens",
-    "link": "3iSZPuQ8T8Msh0N33ZD7No",
-    "meta": {
-      "rank": 50,
-      "category": "TV & Film",
-      "publisher": "Ben Mandelker & Ronnie Karam | Wondery",
-      "description": "A daily podcast that revels in all things Bravo (and beyond!). Join Ben Mandelker and Ronnie Karam as they praise, ridicule, and eviscerate the Real Housewives, Below Deck, and whatever other crap Bravo throws at us. We mock because we love. Support us at www.patreon.com/watchwhatcrappens for bonus episodes, video recaps, and exclusive access to our Discord server.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fbfe9714b18ee24c7e05f4cf7",
-      "appleId": "id498130432",
-      "ratings": 12271
+      "ratings": 939,
+      "velocity": -1
     }
   }
 ]

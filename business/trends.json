@@ -10,7 +10,8 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f0537dba138113eef7649f3d8",
       "followers": 773942,
       "appleId": "id1070322219",
-      "ratings": 28090
+      "ratings": 28090,
+      "velocity": 0
     }
   },
   {
@@ -24,7 +25,8 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f38fe1ac257055c792b262a80",
       "followers": 26686,
       "appleId": "id1526697745",
-      "ratings": 804
+      "ratings": 804,
+      "velocity": 0
     }
   },
   {
@@ -38,74 +40,80 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f204b02613835c8f8222c7526",
       "followers": 522209,
       "appleId": "id77001367",
-      "ratings": 29866
-    }
-  },
-  {
-    "title": "Planet Money",
-    "link": "4FYpq3lSeQMAhqNI81O0Cn",
-    "meta": {
-      "rank": 4,
-      "category": "Business",
-      "publisher": "NPR",
-      "description": "Wanna see a trick? Give us any topic and we can tie it back to the economy. At Planet Money, we explore the forces that shape our lives and bring you along for the ride. Don't just understand the economy – understand the world.Wanna go deeper? Subscribe to Planet Money+ and get sponsor-free episodes of Planet Money, The Indicator, and Planet Money Summer School. Plus access to bonus content. It's a new way to support the show you love. Learn more at plus.npr.org/planetmoney.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f0e9f6765835300923f3e2c87",
-      "followers": 371541,
-      "appleId": "id290783428",
-      "ratings": 28214
-    }
-  },
-  {
-    "title": "Think Fast, Talk Smart: Communication Techniques",
-    "link": "6ll0MwobDt1JW9gYaOONEo",
-    "meta": {
-      "rank": 5,
-      "category": "Business",
-      "publisher": "Stanford GSB",
-      "description": "Join Matt Abrahams, a lecturer of Strategic Communication at Stanford Graduate School of Business, as he sits down with experts in the field to discuss real-world challenges. How do I send my message clearly when put on the spot? How do I write emails to get my point across? How can I easily convey complex information? How do I manage my reputation? Whether you’re giving a toast or presenting in a meeting, communication is critical to success in business and in life.Think Fast, Talk Smart provides the tools, techniques, and best practices to help you communicate more effectively.",
-      "image": "https://i.scdn.co/image/01fb0a029921e959764ce8b8fa05e68a664a9eec",
-      "followers": 30,
-      "appleId": "id1494989268",
-      "ratings": 317
+      "ratings": 29866,
+      "velocity": 0
     }
   },
   {
     "title": "REAL AF with Andy Frisella",
     "link": "6KHwEnVRZmS9tmxkyfqUMD",
     "meta": {
-      "rank": 6,
+      "rank": 4,
       "category": "Business",
       "publisher": "Andy Frisella",
       "description": "Entrepreneur Andy Frisella and his guests discuss, debate, and laugh their way through trending topics and hot-button issues. (This is also the home of Andy's other show, the top-ranked MFCEO Project Podcast)",
       "image": "https://i.scdn.co/image/a2fdd879949ae1fd055c4ec2166b532bfce499e1",
       "appleId": "id1012570406",
-      "ratings": 29264
+      "ratings": 29264,
+      "velocity": 2
     }
   },
   {
-    "title": "The Diary Of A CEO with Steven Bartlett",
-    "link": "7iQXmUT7XGuZSzAMjoNWlX",
+    "title": "Planet Money",
+    "link": "4FYpq3lSeQMAhqNI81O0Cn",
     "meta": {
-      "rank": 7,
+      "rank": 5,
       "category": "Business",
-      "publisher": "Steven Bartlett ",
-      "description": "A few years ago I was a broke, university dropout, living in a studio-flat in a rough area. At 18 I started a company which would eventually become \"Social Chain\" - an industry leading marketing company. At 26 the company was generating $600m a year in revenue. At 27 I resigned as CEO, and launched 'The Diary Of A CEO' podcast with the simple mission of un-filtering success and giving you the knowledge you need to create the life you want.   Thank you for listening.  IG: https://www.instagram.com/steven TW: https://twitter.com/SteveBartlettSC LI: https://www.linkedin.com/in/stevenbartlett-123",
-      "image": "https://i.scdn.co/image/ab67656300005f1fad0859815f1f10d17029070c",
-      "appleId": "id1291423644",
-      "ratings": 677
+      "publisher": "NPR",
+      "description": "Wanna see a trick? Give us any topic and we can tie it back to the economy. At Planet Money, we explore the forces that shape our lives and bring you along for the ride. Don't just understand the economy – understand the world.Wanna go deeper? Subscribe to Planet Money+ and get sponsor-free episodes of Planet Money, The Indicator, and Planet Money Summer School. Plus access to bonus content. It's a new way to support the show you love. Learn more at plus.npr.org/planetmoney.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f0e9f6765835300923f3e2c87",
+      "followers": 371541,
+      "appleId": "id290783428",
+      "ratings": 28214,
+      "velocity": -1
+    }
+  },
+  {
+    "title": "Think Fast, Talk Smart: Communication Techniques",
+    "link": "6ll0MwobDt1JW9gYaOONEo",
+    "meta": {
+      "rank": 6,
+      "category": "Business",
+      "publisher": "Stanford GSB",
+      "description": "Join Matt Abrahams, a lecturer of Strategic Communication at Stanford Graduate School of Business, as he sits down with experts in the field to discuss real-world challenges. How do I send my message clearly when put on the spot? How do I write emails to get my point across? How can I easily convey complex information? How do I manage my reputation? Whether you’re giving a toast or presenting in a meeting, communication is critical to success in business and in life.Think Fast, Talk Smart provides the tools, techniques, and best practices to help you communicate more effectively.",
+      "image": "https://i.scdn.co/image/01fb0a029921e959764ce8b8fa05e68a664a9eec",
+      "followers": 30,
+      "appleId": "id1494989268",
+      "ratings": 317,
+      "velocity": -1
     }
   },
   {
     "title": "THE ED MYLETT SHOW",
     "link": "19TdDBlFkqh7uevYO0jFSW",
     "meta": {
-      "rank": 8,
+      "rank": 7,
       "category": "Business",
       "publisher": "Ed Mylett",
       "description": "The Ed Mylett Show showcases the greatest peak-performers across all industries in one place, sharing their journey, knowledge and thought leadership. With Ed Mylett and featured guests in almost every industry including business, health, collegiate and professional sports, politics, entrepreneurship, science, and entertainment, you'll find motivation, inspiration and practical steps to help you become the best version of you!",
       "image": "https://i.scdn.co/image/ab67656300005f1fac9b2d0fedb3000c5526adc3",
       "appleId": "id1181233130",
-      "ratings": 11098
+      "ratings": 11098,
+      "velocity": 1
+    }
+  },
+  {
+    "title": "The Diary Of A CEO with Steven Bartlett",
+    "link": "7iQXmUT7XGuZSzAMjoNWlX",
+    "meta": {
+      "rank": 8,
+      "category": "Business",
+      "publisher": "Steven Bartlett ",
+      "description": "A few years ago I was a broke, university dropout, living in a studio-flat in a rough area. At 18 I started a company which would eventually become \"Social Chain\" - an industry leading marketing company. At 26 the company was generating $600m a year in revenue. At 27 I resigned as CEO, and launched 'The Diary Of A CEO' podcast with the simple mission of un-filtering success and giving you the knowledge you need to create the life you want.   Thank you for listening.  IG: https://www.instagram.com/steven TW: https://twitter.com/SteveBartlettSC LI: https://www.linkedin.com/in/stevenbartlett-123",
+      "image": "https://i.scdn.co/image/ab67656300005f1fad0859815f1f10d17029070c",
+      "appleId": "id1291423644",
+      "ratings": 677,
+      "velocity": -1
     }
   },
   {
@@ -119,48 +127,51 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f0dfccd72ce1916f917a2d07a",
       "followers": 72859,
       "appleId": "id594419649",
-      "ratings": 15513
+      "ratings": 15513,
+      "velocity": 0
     }
   },
   {
-    "title": "How I Built This with Guy Raz",
-    "link": "6E709HRH7XaiZrMfgtNCun",
+    "title": "The Economics of Everyday Things",
+    "link": "2dt6QUvLNA3B76II80Q0Dv",
     "meta": {
       "rank": 10,
       "category": "Business",
-      "publisher": "Guy Raz | Wondery",
-      "description": "Guy Raz interviews the world’s best-known entrepreneurs to learn how they built their iconic brands. In each episode, founders reveal deep, intimate moments of doubt and failure, and share insights on their eventual success. How I Built This is a master-class on innovation, creativity, leadership and how to navigate challenges of all kinds.New episodes on Mondays and Thursdays for free. Listen 1-week early and to all episodes ad-free with Wondery+ or Amazon Music with a Prime membership or Amazon Music Unlimited subscription.Get your How I Built This merch at WonderyShop.com/HowIBuiltThis",
-      "image": "https://i.scdn.co/image/ab67656300005f1feb072f26113bc6156299866c",
-      "followers": 69498,
-      "appleId": "id1150510297",
-      "ratings": 28626
-    }
-  },
-  {
-    "title": "The Tim Ferriss Show",
-    "link": "5qSUyCrk9KR69lEiXbjwXM",
-    "meta": {
-      "rank": 11,
-      "category": "Business",
-      "publisher": "Tim Ferriss: Bestselling Author, Human Guinea Pig",
-      "description": "Tim Ferriss is a self-experimenter and bestselling author, best known for The 4-Hour Workweek, which has been translated into 40+ languages.  Newsweek calls him \"the world's best human guinea pig,\" and The New York Times calls him \"a cross between Jack Welch and a Buddhist monk.\"  In this show, he deconstructs world-class performers from eclectic areas (investing, chess, pro sports, etc.), digging deep to find the tools, tactics, and tricks that listeners can use.",
-      "image": "https://i.scdn.co/image/fe7f8c5564f713b60de226b314c57ebd741d44f9",
-      "followers": 1906642,
-      "appleId": "id863897795",
-      "ratings": 14805
+      "publisher": "Freakonomics Network & Zachary Crockett",
+      "description": "Zachary Crockett uncovers the hidden side of the things that surround us. Who decides what snacks are in your office’s vending machine? How much is a 100-year-old elm tree on a suburban block worth — and to whom? And what makes Girl Scout Cookies a billion-dollar business?",
+      "image": "https://i.scdn.co/image/ab67656300005f1fe49016c1e59867ab4b2eb4e4",
+      "appleId": "id1666678354",
+      "ratings": 214,
+      "velocity": 5
     }
   },
   {
     "title": "The Prof G Pod with Scott Galloway",
     "link": "5Ob5psTjoUtIGYxKUp2QVy",
     "meta": {
-      "rank": 12,
+      "rank": 11,
       "category": "Business",
       "publisher": "Vox Media Podcast Network",
       "description": "Bestselling author, professor and entrepreneur Scott Galloway combines business insight and analysis with provocative life and career advice. On Mondays, Prof G Markets breaks down what’s moving the capital markets, teaching the basics of financial literacy so you can build economic security. Wednesdays, during Office Hours, Scott answers your questions about business, career, and life. Thursdays, Scott has a conversation with a blue-flame thinker in the innovation economy. And Scott closes the week on Saturdays with his Webby Award–winning newsletter, No Mercy / No Malice, as read by actor and raconteur George Hahn.  ﻿To resist is futile…",
       "image": "https://i.scdn.co/image/ab67656300005f1f8c0cfad7b9525ea2d4264e10",
       "appleId": "id1498802610",
-      "ratings": 2497
+      "ratings": 2497,
+      "velocity": 1
+    }
+  },
+  {
+    "title": "How I Built This with Guy Raz",
+    "link": "6E709HRH7XaiZrMfgtNCun",
+    "meta": {
+      "rank": 12,
+      "category": "Business",
+      "publisher": "Guy Raz | Wondery",
+      "description": "Guy Raz interviews the world’s best-known entrepreneurs to learn how they built their iconic brands. In each episode, founders reveal deep, intimate moments of doubt and failure, and share insights on their eventual success. How I Built This is a master-class on innovation, creativity, leadership and how to navigate challenges of all kinds.New episodes on Mondays and Thursdays for free. Listen 1-week early and to all episodes ad-free with Wondery+ or Amazon Music with a Prime membership or Amazon Music Unlimited subscription.Get your How I Built This merch at WonderyShop.com/HowIBuiltThis",
+      "image": "https://i.scdn.co/image/ab67656300005f1feb072f26113bc6156299866c",
+      "followers": 69498,
+      "appleId": "id1150510297",
+      "ratings": 28626,
+      "velocity": -2
     }
   },
   {
@@ -173,44 +184,49 @@
       "description": "Join money expert Tori Dunlap as she guides you on how to make more, spend less, and feel financially confident in a world run by rich white men. Through solo episodes and special guest interviews, you’ll walk away with resources to get, save, and grow money to gain financial freedom and kick some patriarchal ass at the same time. New episodes drop every Tuesday, and mini-episodes drop every other Thursday.",
       "image": "https://i.scdn.co/image/ab67656300005f1fbf21b3af34e2b32143085fcc",
       "appleId": "id1566054936",
-      "ratings": 4482
+      "ratings": 4482,
+      "velocity": 0
     }
   },
   {
-    "title": "The Game w/ Alex Hormozi",
-    "link": "6YNopzKDGDwf0auIpPTIID",
+    "title": "The Tim Ferriss Show",
+    "link": "5qSUyCrk9KR69lEiXbjwXM",
     "meta": {
       "rank": 14,
       "category": "Business",
-      "publisher": "Alex Hormozi",
-      "description": "Welcome to The Game Podcast where we talk about how to get more customers, make more profit per customer, and keep them longer, and the many failures and lessons we have learned along the way to $100M in sales. We've got roll up your sleeves kind of hustle with a little bit of cleverness and a lot of heart. Hosted by Alex Hormozi.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f349146392150739bdbd5d458",
-      "appleId": "id1254720112",
-      "ratings": 1736
-    }
-  },
-  {
-    "title": "The Economics of Everyday Things",
-    "link": "2dt6QUvLNA3B76II80Q0Dv",
-    "meta": {
-      "rank": 15,
-      "category": "Business",
-      "publisher": "Freakonomics Network & Zachary Crockett",
-      "description": "Zachary Crockett uncovers the hidden side of the things that surround us. Who decides what snacks are in your office’s vending machine? How much is a 100-year-old elm tree on a suburban block worth — and to whom? And what makes Girl Scout Cookies a billion-dollar business?",
-      "image": "https://i.scdn.co/image/ab67656300005f1fe49016c1e59867ab4b2eb4e4",
-      "appleId": "id1666678354",
-      "ratings": 214
+      "publisher": "Tim Ferriss: Bestselling Author, Human Guinea Pig",
+      "description": "Tim Ferriss is a self-experimenter and bestselling author, best known for The 4-Hour Workweek, which has been translated into 40+ languages.  Newsweek calls him \"the world's best human guinea pig,\" and The New York Times calls him \"a cross between Jack Welch and a Buddhist monk.\"  In this show, he deconstructs world-class performers from eclectic areas (investing, chess, pro sports, etc.), digging deep to find the tools, tactics, and tricks that listeners can use.",
+      "image": "https://i.scdn.co/image/fe7f8c5564f713b60de226b314c57ebd741d44f9",
+      "followers": 1906642,
+      "appleId": "id863897795",
+      "ratings": 14805,
+      "velocity": -3
     }
   },
   {
     "title": "Dare to Lead with Brené Brown",
     "link": "3oEPsPKDhPVoNNL7pH5db6",
     "meta": {
-      "rank": 16,
+      "rank": 15,
       "category": "Business",
       "publisher": "Parcast",
       "description": "Brené’s newest podcast is based on her book, Dare to Lead, which debuted at #1 on the New York Times, and Wall Street Journal bestseller lists, and has become the ultimate courage-building playbook for leaders at every level. Brené writes, “The Dare to Lead podcast will be a mix of solo episodes and conversations with change-catalysts, culture-shifters, and as many troublemakers as possible. Innovating, creating, and building a better, more just world, requires daring leadership in every part of our daily lives – from work to home to community. Together, we’ll have conversations that help us show up, step up, and dare to lead.” ",
-      "image": "https://i.scdn.co/image/ab67656300005f1fc313621db4a156dddf39a133"
+      "image": "https://i.scdn.co/image/ab67656300005f1fc313621db4a156dddf39a133",
+      "velocity": 1
+    }
+  },
+  {
+    "title": "The Game w/ Alex Hormozi",
+    "link": "6YNopzKDGDwf0auIpPTIID",
+    "meta": {
+      "rank": 16,
+      "category": "Business",
+      "publisher": "Alex Hormozi",
+      "description": "Welcome to The Game Podcast where we talk about how to get more customers, make more profit per customer, and keep them longer, and the many failures and lessons we have learned along the way to $100M in sales. We've got roll up your sleeves kind of hustle with a little bit of cleverness and a lot of heart. Hosted by Alex Hormozi.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f349146392150739bdbd5d458",
+      "appleId": "id1254720112",
+      "ratings": 1736,
+      "velocity": -2
     }
   },
   {
@@ -224,7 +240,8 @@
       "image": "https://i.scdn.co/image/e5a6831ba6d364e04197c6ee89818a8d419d1b66",
       "followers": 24,
       "appleId": "id201853034",
-      "ratings": 7156
+      "ratings": 7156,
+      "velocity": 0
     }
   },
   {
@@ -237,7 +254,8 @@
       "description": "Andrew Giancola from Master Money reveals all of his personal finance, money, investing, business strategies, income sources, stock, and real estate investing tips so that you can build more wealth than you ever thought possible. Discover how to increase your income at your job and create multiple passive income streams that work for you, so you have the time and freedom to do what you love. Whether that’s travel, or having freedom from your day job. Since 2013, Andrew has been sharing the wins and losses of his personal finance journey. You will learn how to invest to create wealth in stocks, index funds, real estate, building businesses, and side-hustles. You will learn how to save more money, get a raise, set up simple budgets, build habits, personal growth, and money hacks that will take you to the next level with your finances. Take control of your money so you can live a stress-free, rich life. Anyone can be wealthy, Andrew will show you how. Hit subscribe and get ready to change your life.",
       "image": "https://i.scdn.co/image/ab67656300005f1f0f36286bf71756877828c9cf",
       "appleId": "id1511786733",
-      "ratings": 803
+      "ratings": 803,
+      "velocity": 0
     }
   },
   {
@@ -250,59 +268,64 @@
       "description": "The unlikely trio of Josh Richards, Dave Portnoy & Brianna Chickenfry team up to talk all things pop culture, celebrities, influencers & TikTok. You never know what to expect from this trio from breaking entertainment news to generational differences they’re sure to make you laugh while keeping you up to date.You can find every episode of this show on Apple Podcasts, Spotify or YouTube. Prime Members can listen ad-free on Amazon Music. For more, visit barstool.link/bffspod",
       "image": "https://i.scdn.co/image/ab67656300005f1fc2d398095ed45b403ecf73ab",
       "appleId": "id1534324153",
-      "ratings": 11268
-    }
-  },
-  {
-    "title": "iilluminaughtii",
-    "link": "5Bu4qKeQEhEiataVR7iPdW",
-    "meta": {
-      "rank": 20,
-      "category": "Business",
-      "publisher": "Blair Zoń",
-      "description": "Welcome to iilluminaughtii, the podcast that is all about debunking bad business. Whether it's a pyramid scheme or a charity stealing money, everything (and anything) business-related is on the table. Blair Zoń is ready to dig into the underbelly of the business world to find out where your money and time really goes. Subscribe now to make sure you don't miss any of episodes delivered fresh every Monday, Wednesday, and Friday.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f2d0af281bbb1c736c3cd9206",
-      "appleId": "id1541550698",
-      "ratings": 711
+      "ratings": 11268,
+      "velocity": 0
     }
   },
   {
     "title": "Clinks! the Podcast",
     "link": "4YcB7M1wgMPHj1f5lxDQLo",
     "meta": {
-      "rank": 21,
+      "rank": 20,
       "category": "Business",
       "publisher": "Kalin & Matt Sheick",
       "description": "Welcome to Clinks! We're Matt and Kalin Sheick, proud owners of Sweetwater Floral. Join us as we navigate family, business, marriage, parenthood, and everything in between. If that weren't enough, we're throwing a podcast in the mix to have candid conversations about what it takes to build the business of your dreams.",
       "image": "https://i.scdn.co/image/ab67656300005f1fb5f152b599b649ef70230958",
       "appleId": "id1670175026",
-      "ratings": 27
+      "ratings": 27,
+      "velocity": 1
     }
   },
   {
-    "title": "Erika Taught Me",
-    "link": "3y96eFtH6UXbnQpaR1YCGh",
+    "title": "iilluminaughtii",
+    "link": "5Bu4qKeQEhEiataVR7iPdW",
     "meta": {
-      "rank": 22,
+      "rank": 21,
       "category": "Business",
-      "publisher": "Erika Kullberg",
-      "description": "Erika Kullberg is a lawyer and money expert with over 17 million followers on social media and is passionate about better positioning people for success. The Erika Taught Me podcast is based on the premise that everyone has something to teach. Each week, Erika will interview a new guest to discuss how they found success, what they have learned, and what they can teach us. A new episode comes out every Tuesday, starting this October 18.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f8e1c48e188b1d741e2621a32",
-      "appleId": "id1650076906",
-      "ratings": 1504
+      "publisher": "Blair Zoń",
+      "description": "Welcome to iilluminaughtii, the podcast that is all about debunking bad business. Whether it's a pyramid scheme or a charity stealing money, everything (and anything) business-related is on the table. Blair Zoń is ready to dig into the underbelly of the business world to find out where your money and time really goes. Subscribe now to make sure you don't miss any of episodes delivered fresh every Monday, Wednesday, and Friday.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f2d0af281bbb1c736c3cd9206",
+      "appleId": "id1541550698",
+      "ratings": 711,
+      "velocity": -1
     }
   },
   {
     "title": "All the Hacks",
     "link": "3v8pyFFppVuIL5SvNOa1om",
     "meta": {
-      "rank": 23,
+      "rank": 22,
       "category": "Business",
       "publisher": "Chris Hutchins",
       "description": "Learn all the hacks to optimize and upgrade every aspect of your life while spending less and saving more. Chris is a life hacker who has saved millions by breaking down every aspect of life, looking to maximize happiness at the lowest cost.",
       "image": "https://i.scdn.co/image/ab67656300005f1fa7fcbcd20bc8026ba662b28b",
       "appleId": "id1560751222",
-      "ratings": 873
+      "ratings": 873,
+      "velocity": 1
+    }
+  },
+  {
+    "title": "Rich Dad Radio Show: In-Your-Face Advice on Investing, Personal Finance, & Starting a Business",
+    "link": "5rlksOLniypAgBEkebMkoo",
+    "meta": {
+      "rank": 23,
+      "category": "Business",
+      "publisher": "Robert Kiyosaki",
+      "description": "Beat conventional advice on personal finance, investing, and business with the author of Rich Dad Poor Dad, Robert Kiyosaki. Get ahead with his pull-no-punches style of challenging the advice we’ve all been given on money, investing, and the economy. Frustrated and frightened by the financial advice being given by the mainstream talking heads, Robert Kiyosaki sits down with professionals from the world of money, investing, business, and personal development. Listeners will be provided various viewpoints on how to set themselves up for financial success. If you’re looking for get-rich-quick tips and tricks to investing, move on. Listeners dedicated to the craft of finance and a better life, subscribe! New podcasts released weekly!",
+      "image": "https://i.scdn.co/image/ab67656300005f1fff2fe846fb78becab2dc33f6",
+      "appleId": "id833641766",
+      "ratings": 3396,
+      "velocity": 2
     }
   },
   {
@@ -315,105 +338,114 @@
       "description": "Join host Chris Hill and a team of Motley Fool investment analysts as they cover the day’s top business news and financial headlines, while breaking down the stock market implications for long-term, business-focused investors. Tune in on weekends for the greatest investing classes you never got the chance to take in school and perspectives from special guests helping to shape the future.",
       "image": "https://i.scdn.co/image/ab67656300005f1f7bc876aa398b648f92bceaa5",
       "appleId": "id306106212",
-      "ratings": 2504
-    }
-  },
-  {
-    "title": "Rich Dad Radio Show: In-Your-Face Advice on Investing, Personal Finance, & Starting a Business",
-    "link": "5rlksOLniypAgBEkebMkoo",
-    "meta": {
-      "rank": 25,
-      "category": "Business",
-      "publisher": "Robert Kiyosaki",
-      "description": "Beat conventional advice on personal finance, investing, and business with the author of Rich Dad Poor Dad, Robert Kiyosaki. Get ahead with his pull-no-punches style of challenging the advice we’ve all been given on money, investing, and the economy. Frustrated and frightened by the financial advice being given by the mainstream talking heads, Robert Kiyosaki sits down with professionals from the world of money, investing, business, and personal development. Listeners will be provided various viewpoints on how to set themselves up for financial success. If you’re looking for get-rich-quick tips and tricks to investing, move on. Listeners dedicated to the craft of finance and a better life, subscribe! New podcasts released weekly!",
-      "image": "https://i.scdn.co/image/ab67656300005f1fff2fe846fb78becab2dc33f6",
-      "appleId": "id833641766",
-      "ratings": 3396
-    }
-  },
-  {
-    "title": "Odd Lots",
-    "link": "1te7oSFyRVekxMBJUSethH",
-    "meta": {
-      "rank": 26,
-      "category": "Business",
-      "publisher": "Bloomberg",
-      "description": "Bloomberg's Joe Weisenthal and Tracy Alloway analyze the weird patterns, the complex issues and the newest market crazes. Join the conversation every Monday and Thursday for interviews with the most interesting minds in finance, economics and markets.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fc7081371536602461786c0ae",
-      "appleId": "id1056200096",
-      "ratings": 976
+      "ratings": 2504,
+      "velocity": 0
     }
   },
   {
     "title": "Craig Groeschel Leadership Podcast",
     "link": "7tznexFwtbxfPOYF5mxkxI",
     "meta": {
-      "rank": 27,
+      "rank": 25,
       "category": "Business",
       "publisher": "Life.Church",
       "description": "The Craig Groeschel Leadership Podcast offers personal, practical coaching lessons that take the mystery out of leadership. In each episode of the Craig Groeschel Leadership Podcast, Craig brings you empowering insights and easy-to-understand takeaways you can use to lead yourself and lead your team. You’ll learn effective ways to grow as a leader, optimize your time, develop your team, and structure your organization.",
       "image": "https://i.scdn.co/image/62f3b2b55385ed52b4b710013cf3955ea85d7f88",
       "appleId": "id1070649025",
-      "ratings": 9472
+      "ratings": 9472,
+      "velocity": 2
+    }
+  },
+  {
+    "title": "Erika Taught Me",
+    "link": "3y96eFtH6UXbnQpaR1YCGh",
+    "meta": {
+      "rank": 26,
+      "category": "Business",
+      "publisher": "Erika Kullberg",
+      "description": "Erika Kullberg is a lawyer and money expert with over 17 million followers on social media and is passionate about better positioning people for success. The Erika Taught Me podcast is based on the premise that everyone has something to teach. Each week, Erika will interview a new guest to discuss how they found success, what they have learned, and what they can teach us. A new episode comes out every Tuesday, starting this October 18.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f8e1c48e188b1d741e2621a32",
+      "appleId": "id1650076906",
+      "ratings": 1504,
+      "velocity": -4
     }
   },
   {
     "title": "NerdWallet's Smart Money Podcast",
     "link": "7tdmPrqC6gdExYaAQePxkY",
     "meta": {
-      "rank": 28,
+      "rank": 27,
       "category": "Business",
       "publisher": "NerdWallet",
       "description": "At the Smart Money podcast, NerdWallet's in-house writers answer your real-world money questions. Our Nerds are your guides so you can get smart about personal finance, then get back to doing you. NerdWallet Compare, Inc. NMLS ID# 1617539 NMLS Consumer Access: http://www.nmlsconsumeraccess.org/",
       "image": "https://i.scdn.co/image/ab67656300005f1f332ac0522edf6345bff2c8e8",
       "appleId": "id1256091892",
-      "ratings": 348
-    }
-  },
-  {
-    "title": "The Money Guy Show | Investing, Tax, Estate, Retirement, Insurance, Spending, Saving, and Wealth Building Advice",
-    "link": "0W7lo4UBMghDAdrTBCTXXW",
-    "meta": {
-      "rank": 29,
-      "category": "Business",
-      "publisher": "Brian Preston, CPA, CFP®, PFS and Bo Hanson, CFA, CFP® | Fee-Only Fiduciary Advisors",
-      "description": "Brian Preston and Bo Hanson, fee-only financial planners and wealth managers, go beyond common sense as they help you make smart financial decisions. Their professional credentials, sophisticated topics, and approachable style have attracted thousands fans and made them a personal finance phenomena.   Get free resources, learn more about the Brian and Bo, and discover what it's like to work with us at moneyguy.com.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f69404f1d26c3bc517d882b22"
-    }
-  },
-  {
-    "title": "How to get rich and successful by Andrew tate ! The topG!",
-    "link": "4koAU0ZjPLi2tNaaHB1fT9",
-    "meta": {
-      "rank": 30,
-      "category": "Business",
-      "publisher": "Ajeet Singh",
-      "description": "Tips!!This podcast is about the ways and mistakes people do in the path of their sucees and the ways to get rich by The TopG Andrew Tate Instagram-@bathla_ajeet Gmail- ajeetsinghbathla@gmail.com More then 80k views i can advertise for only 300₹",
-      "image": "https://i.scdn.co/image/ab67656300005f1f0ff049cdd9e7e5d7405e6017"
+      "ratings": 348,
+      "velocity": 1
     }
   },
   {
     "title": "Stock Advisor Roundtable",
     "link": "5qS2aRb3W5kAlffrVyok3z",
     "meta": {
-      "rank": 31,
+      "rank": 28,
       "category": "Business",
       "publisher": "The Motley Fool",
       "description": "Unlock Stock Advisor Roundtable by becoming a member of Stock Advisor here! Stock Advisor is the Motley Fool’s flagship newsletter, focused on finding quality businesses and owning them for the long-term, and Stock Advisor Roundtable is a monthly update from the team behind the recommendations!  Subscribers will get the breakdowns of new recommendations, macro insights, and tips for maintaining the right investing mindset from analysts Andy Cross, Emily Flippen, Asit Sharma, and Motley Fool contributor Brian Stoffel.  Exclusive to Stock Advisor members and members of other advanced Motley Fool premium memberships, available on Spotify!",
-      "image": "https://i.scdn.co/image/ab67656300005f1f4bd94441fd94d30414611e28"
+      "image": "https://i.scdn.co/image/ab67656300005f1f4bd94441fd94d30414611e28",
+      "velocity": 3
+    }
+  },
+  {
+    "title": "How to get rich and successful by Andrew tate ! The topG!",
+    "link": "4koAU0ZjPLi2tNaaHB1fT9",
+    "meta": {
+      "rank": 29,
+      "category": "Business",
+      "publisher": "Ajeet Singh",
+      "description": "Tips!!This podcast is about the ways and mistakes people do in the path of their success and the ways to get rich by The TopG Andrew Tate Instagram-@bathla_ajeet Gmail- ajeetsinghbathla@gmail.com More then 80k views i can advertise for only 300₹",
+      "image": "https://i.scdn.co/image/ab67656300005f1f83577644cd3505e3a91aae17",
+      "velocity": 1
+    }
+  },
+  {
+    "title": "The Money Guy Show | Investing, Tax, Estate, Retirement, Insurance, Spending, Saving, and Wealth Building Advice",
+    "link": "0W7lo4UBMghDAdrTBCTXXW",
+    "meta": {
+      "rank": 30,
+      "category": "Business",
+      "publisher": "Brian Preston, CPA, CFP®, PFS and Bo Hanson, CFA, CFP® | Fee-Only Fiduciary Advisors",
+      "description": "Brian Preston and Bo Hanson, fee-only financial planners and wealth managers, go beyond common sense as they help you make smart financial decisions. Their professional credentials, sophisticated topics, and approachable style have attracted thousands fans and made them a personal finance phenomena.   Get free resources, learn more about the Brian and Bo, and discover what it's like to work with us at moneyguy.com.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f69404f1d26c3bc517d882b22",
+      "velocity": -1
     }
   },
   {
     "title": "The GaryVee Audio Experience",
     "link": "6SZVsPIxPfVs6aavqM1peY",
     "meta": {
-      "rank": 32,
+      "rank": 31,
       "category": "Business",
       "publisher": "Gary Vaynerchuk",
       "description": "Welcome to The GaryVee Audio Experience, hosted by entrepreneur, CEO, investor, content creator, and public speaker Gary Vaynerchuk. On this podcast you'll find a mix of the #AskGaryVee show episodes, keynote speeches on marketing and business, segments from my DAILYVEE video series, interviews and fireside chats I've given, as well as new and current thoughts I record originally for this audio experience!",
       "image": "https://i.scdn.co/image/ab67656300005f1f175ba0081a1767e8e8618b32",
       "appleId": "id928159684",
-      "ratings": 16386
+      "ratings": 16386,
+      "velocity": 1
+    }
+  },
+  {
+    "title": "Odd Lots",
+    "link": "1te7oSFyRVekxMBJUSethH",
+    "meta": {
+      "rank": 32,
+      "category": "Business",
+      "publisher": "Bloomberg",
+      "description": "Bloomberg's Joe Weisenthal and Tracy Alloway analyze the weird patterns, the complex issues and the newest market crazes. Join the conversation every Monday and Thursday for interviews with the most interesting minds in finance, economics and markets.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fc7081371536602461786c0ae",
+      "appleId": "id1056200096",
+      "ratings": 976,
+      "velocity": -6
     }
   },
   {
@@ -426,7 +458,8 @@
       "description": "A little show about big ideas. From the people who make Planet Money, The Indicator helps you make sense of what's happening today. It's a quick hit of insight into work, business, the economy, and everything else. Listen weekday afternoons.Got money on your mind? Try Planet Money+ — a new way to support the show you love, get a sponsor-free feed of the podcast, *and* get access to bonus content. A subscription also gets you access to The Indicator and Planet Money Summer School, both without interruptions. ",
       "image": "https://i.scdn.co/image/ab67656300005f1f989d3e710893fff5da74a851",
       "appleId": "id1320118593",
-      "ratings": 8553
+      "ratings": 8553,
+      "velocity": 0
     }
   },
   {
@@ -439,7 +472,8 @@
       "description": "Ready to build your real estate empire… but not sure where to begin?Think of us as your personal trainer.From detailed breakdowns of real-world deals… to one-on-one coaching sessions and a warm, welcoming community… hosts Ashley Kehr and Tony J Robinson bring on a wide range of guests to tackle the “newbie” questions you've wondered about but might be afraid to ask.Looking to 10X your real estate investing business this year? This show isn’t for you.Looking for your first, second, or third deal -- or envisioning a more modest portfolio? Step right up. Every Wednesday, we’ll arm you with the tips, tools, and roadmaps you'll need as you embark on your journey toward financial freedom.",
       "image": "https://i.scdn.co/image/988c0acec225aefe9b0d6bddcae2247ebc37a699",
       "appleId": "id1499646507",
-      "ratings": 1436
+      "ratings": 1436,
+      "velocity": 0
     }
   },
   {
@@ -452,7 +486,8 @@
       "description": "Learn from history's greatest entrepreneurs. Every week I read a biography of an entrepreneur and find ideas you can use in your work. This quote explains why: \"There are thousands of years of history in which lots and lots of very smart people worked very hard and ran all types of experiments on how to create new businesses, invent new technology, new ways to manage etc. They ran these experiments throughout their entire lives. At some point, somebody put these lessons down in a book. For very little money and a few hours of time, you can learn from someone’s accumulated experience. There is so much more to learn from the past than we often realize. You could productively spend your time reading experiences of great people who have come before and you learn every time.\" —Marc Andreessen",
       "image": "https://i.scdn.co/image/2cc90144939d7731c253a02c7dc73676011bb179",
       "appleId": "id1141877104",
-      "ratings": 401
+      "ratings": 401,
+      "velocity": 0
     }
   },
   {
@@ -465,183 +500,200 @@
       "description": "A weekly podcast featuring the leading thinkers in business and management.",
       "image": "https://i.scdn.co/image/6942b08e91f1e856441a37343e2ee874b0f194a4",
       "appleId": "id152022135",
-      "ratings": 1578
-    }
-  },
-  {
-    "title": "Blooms M4F audios !",
-    "link": "0xPiSDPTSomvxpdp28gE6U",
-    "meta": {
-      "rank": 37,
-      "category": "Business",
-      "publisher": "Leyre",
-      "description": "i upload random m4f shi",
-      "image": "https://i.scdn.co/image/ab67656300005f1f59b8e908dc6d09ca6551e939"
+      "ratings": 1578,
+      "velocity": 0
     }
   },
   {
     "title": "Life Wide Open with CboysTV",
     "link": "7sIQ2t8MqpSq4lix18jI2I",
     "meta": {
-      "rank": 38,
+      "rank": 37,
       "category": "Business",
       "publisher": "CboysTV & Studio71",
       "description": "From business tips to dating advice to behind-the-scenes of CboysTV, this weekly podcast shares the untold stories of CJ, Ben, Ryan, Ken, Evan and Micah. Tune in to Life Wide Open on Tuesdays at 9am CT. Follow us on all podcast apps, streaming platforms, and on Instagram: @lifewideopenpodcast For advertising opportunities please email PodcastPartnerships@Studio71us.com   We wanna make the podcast even better, help us learn how we can: https://bit.ly/2EcYbu4  Privacy Policy: https://www.studio71.com/us/terms-and-conditions-use/#Privacy%20Policy",
       "image": "https://i.scdn.co/image/ab67656300005f1f025b6311a697d32c7d22604d",
       "appleId": "id1575434935",
-      "ratings": 1477
+      "ratings": 1477,
+      "velocity": 1
     }
   },
   {
-    "title": "Business Breakdowns",
-    "link": "417NPBWqtMbDU0FlWZTRDC",
+    "title": "Blooms M4F audios !",
+    "link": "0xPiSDPTSomvxpdp28gE6U",
     "meta": {
-      "rank": 39,
+      "rank": 38,
       "category": "Business",
-      "publisher": "Colossus | Investing & Business Podcasts",
-      "description": "Discover how companies work from the people who know them best. We do deep research and interview industry veterans, investment professionals, and corporate executives to explain the inner workings of public stocks and private businesses. For each company, we break down their history, business model, financial statements, secret sauce, and bull/bear case. We believe every business has lessons to teach us and Breakdowns is here to highlight them. Learn more and stay up to date at www.joincolossus.com.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f01d982035642b51b7f89f488",
-      "appleId": "id1559120677",
-      "ratings": 220
+      "publisher": "Leyre",
+      "description": "i upload random m4f shi",
+      "image": "https://i.scdn.co/image/ab67656300005f1f59b8e908dc6d09ca6551e939",
+      "velocity": -1
     }
   },
   {
     "title": "Thoughts on the Market",
     "link": "5cOfqdkomvzyhPTR7n6KFa",
     "meta": {
-      "rank": 40,
+      "rank": 39,
       "category": "Business",
       "publisher": "Morgan Stanley",
       "description": "Short, thoughtful and regular takes on recent events in the markets from a variety of perspectives and voices within Morgan Stanley.",
       "image": "https://i.scdn.co/image/c526b146598a682d544d0a59cae6c472de7a343b",
       "appleId": "id1466686717",
-      "ratings": 1049
-    }
-  },
-  {
-    "title": "My First Million",
-    "link": "3mliji9352UAk3XnWElnDV",
-    "meta": {
-      "rank": 41,
-      "category": "Business",
-      "publisher": "Sam Parr, Shaan Puri & The Hustle",
-      "description": "The Hustle presents - My First Million. A podcast where we brainstorm new business ideas based on trends & opportunities we see in the market. Sometimes we have famous guests, and they do it with us.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f28f1171e507232db4ae99ea9",
-      "appleId": "id1469759170",
-      "ratings": 1988
-    }
-  },
-  {
-    "title": "The Knowledge Project with Shane Parrish",
-    "link": "1VyK52NSZHaDKeMJzT4TSM",
-    "meta": {
-      "rank": 42,
-      "category": "Business",
-      "publisher": "Shane Parrish, Farnam Street",
-      "description": "Master the best of what other people have already figured out so you can use their lessons in your life to create an unstoppable advantage.   Shane Parrish is an entrepreneur and sought-after speaker. His newsletter (https://fs.blog/podcast) offers timeless insights you can use to change your life.    In The Knowledge Project, Shane interviews people at the top of their game. Every episode is packed with hard-earned lessons that you can use in your life. Tune in to create an unstoppable advantage.   Sit down and learn from the best. Previous guests include Reid Hoffman, Esther Perel, Daniel Kahneman, Tobi Lutke, Marshall Goldsmith, Kunal Shah, Ander Huberman, David Sinclair, Ret. General Stanley McChrystal, Marc Andreessen, Patrick Collison, Robert Cialdini, Walter Isaacson, Chris Bosh, Kat Cole, Adam Grant, Angela Duckworth, Seth Godin, Matt Mullenweg, Lisa Feldman Barrett, Maria Konnikova, Bill Ackman, Annie Duke, Derek Sivers, Jim Collins, Naval Ravikant, and many others. They reveal hard-earned lessons on leadership, decision-making, hiring and firing, productivity, habits, and more.   New episodes are released every second Tuesday.   Learn more at https://fs.blog/podcast",
-      "image": "https://i.scdn.co/image/ab67656300005f1f5336c6faf9c4ad1d764346ab",
-      "appleId": "id990149481",
-      "ratings": 2273
+      "ratings": 1049,
+      "velocity": 1
     }
   },
   {
     "title": "The Goal Digger Podcast",
     "link": "0U11V31OMwksj3mg8gS0jX",
     "meta": {
-      "rank": 43,
+      "rank": 40,
       "category": "Business",
       "publisher": "Jenna Kutcher",
       "description": "Host Jenna Kutcher brings you the productivity tips, social media strategies, business hacks, and inspirational stories that help YOU design your dream career. Because work shouldn't feel like work. @goaldiggerpodcast // www.goaldiggerpodcast.com",
       "image": "https://i.scdn.co/image/ab67656300005f1f08e4ed552cd13c27f52c8bfa",
       "appleId": "id1178704872",
-      "ratings": 11221
+      "ratings": 11221,
+      "velocity": 3
+    }
+  },
+  {
+    "title": "The Knowledge Project with Shane Parrish",
+    "link": "1VyK52NSZHaDKeMJzT4TSM",
+    "meta": {
+      "rank": 41,
+      "category": "Business",
+      "publisher": "Shane Parrish, Farnam Street",
+      "description": "Master the best of what other people have already figured out so you can use their lessons in your life to create an unstoppable advantage.   Shane Parrish is an entrepreneur and sought-after speaker. His newsletter (https://fs.blog/podcast) offers timeless insights you can use to change your life.    In The Knowledge Project, Shane interviews people at the top of their game. Every episode is packed with hard-earned lessons that you can use in your life. Tune in to create an unstoppable advantage.   Sit down and learn from the best. Previous guests include Reid Hoffman, Esther Perel, Daniel Kahneman, Tobi Lutke, Marshall Goldsmith, Kunal Shah, Ander Huberman, David Sinclair, Ret. General Stanley McChrystal, Marc Andreessen, Patrick Collison, Robert Cialdini, Walter Isaacson, Chris Bosh, Kat Cole, Adam Grant, Angela Duckworth, Seth Godin, Matt Mullenweg, Lisa Feldman Barrett, Maria Konnikova, Bill Ackman, Annie Duke, Derek Sivers, Jim Collins, Naval Ravikant, and many others. They reveal hard-earned lessons on leadership, decision-making, hiring and firing, productivity, habits, and more.   New episodes are released every second Tuesday.   Learn more at https://fs.blog/podcast",
+      "image": "https://i.scdn.co/image/ab67656300005f1f5336c6faf9c4ad1d764346ab",
+      "appleId": "id990149481",
+      "ratings": 2273,
+      "velocity": 1
+    }
+  },
+  {
+    "title": "Business Breakdowns",
+    "link": "417NPBWqtMbDU0FlWZTRDC",
+    "meta": {
+      "rank": 42,
+      "category": "Business",
+      "publisher": "Colossus | Investing & Business Podcasts",
+      "description": "Discover how companies work from the people who know them best. We do deep research and interview industry veterans, investment professionals, and corporate executives to explain the inner workings of public stocks and private businesses. For each company, we break down their history, business model, financial statements, secret sauce, and bull/bear case. We believe every business has lessons to teach us and Breakdowns is here to highlight them. Learn more and stay up to date at www.joincolossus.com.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f01d982035642b51b7f89f488",
+      "appleId": "id1559120677",
+      "ratings": 220,
+      "velocity": -3
     }
   },
   {
     "title": "Hustlers University",
     "link": "30tlKANdIArzCUU05Eq2CU",
     "meta": {
-      "rank": 44,
+      "rank": 43,
       "category": "Business",
       "publisher": "Top G",
       "description": "You can’t get rich without this podcast you need this. 100 different points to learn to become a real hustlerInstagram: @HustlersUniversityPodcast",
-      "image": "https://i.scdn.co/image/ab67656300005f1f2a2d04176ff91b367a0995f2"
-    }
-  },
-  {
-    "title": "Boosting Your Financial IQ",
-    "link": "5hPjolwAPwDhGPTHMfa0ue",
-    "meta": {
-      "rank": 45,
-      "category": "Business",
-      "publisher": "Steve Coughran",
-      "description": "The Boosting Your Financial IQ podcast deconstructs accounting and financial concepts to provide listeners with a holistic understanding of how money works and how to create more value. The host, Steve Coughran, brings his wealth of experience working as a business owner, management consultant, and CFO to share examples, stories, and analogies that deepen business acumen and build skills related to financial literacy. Boosting Your Financial IQ centers in on financial and accounting topics that will empower you to identify value drivers and boost financial performance. Whether you are new to finance or a seasoned professional, this fresh podcast will equip you with real-life financial knowledge that will enable you to speak the language of money.  Visit www.byfiq.com to learn more.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f8861a7da7405a9d39bbcdff1",
-      "appleId": "id1534081074",
-      "ratings": 10
-    }
-  },
-  {
-    "title": "The Money with Katie Show",
-    "link": "3KyldJHhXZPr8ERjKDASBh",
-    "meta": {
-      "rank": 46,
-      "category": "Business",
-      "publisher": "Morning Brew",
-      "description": "Finance bros are out, #RichGirls are in. Join Money with Katie and her guests as they talk spending habits, smart investing, and tax strategies – without putting you to sleep. Listen weekly on Wednesdays to learn how to turn your Rich Girl mindset into money.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f33519556c66757aa63d803c7",
-      "appleId": "id1589146097",
-      "ratings": 693
-    }
-  },
-  {
-    "title": "Exchanges at Goldman Sachs",
-    "link": "1T6xOGR2S5tY6bZ7XbpAC3",
-    "meta": {
-      "rank": 47,
-      "category": "Business",
-      "publisher": "Goldman Sachs",
-      "description": "In each episode of \"Exchanges at Goldman Sachs,\" people from the firm share their insights on developments shaping industries, markets and the global economy.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f2292f2062f8ec913088ce60a",
-      "appleId": "id948913991",
-      "ratings": 812
-    }
-  },
-  {
-    "title": "Daily Stock Market News",
-    "link": "2BDNR53mD6PwXVQXS5mFeu",
-    "meta": {
-      "rank": 48,
-      "category": "Business",
-      "publisher": "Markus Heitkoetter",
-      "description": "Whether you're a novice trader or an experienced investor, the Daily Stock Market News podcast will keep you ahead of what's going on in the financial world. This show is dedicated to providing investors with high-quality content that can be consumed in just a few minutes, so it won't waste your time and give you the information you need.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fd2d946d1b643c165226667f4",
-      "appleId": "id1566172524",
-      "ratings": 26
+      "image": "https://i.scdn.co/image/ab67656300005f1f2a2d04176ff91b367a0995f2",
+      "velocity": 1
     }
   },
   {
     "title": "Order of Man",
     "link": "1fHTldNP0VJTa6JJ9K6TDu",
     "meta": {
-      "rank": 49,
+      "rank": 44,
       "category": "Business",
       "publisher": "Ryan Michler",
       "description": "We are reclaiming what it means to be a man. Each week we interview the world’s most successful men on the planet - elite athletes, warriors, New York Times Bestselling Authors, and world-class entrepreneurs - extract their hard-fought lessons and experiences and deliver them straight to you.",
       "image": "https://i.scdn.co/image/ab67656300005f1f666d61eece60c96dc44e284b",
       "appleId": "id979752171",
-      "ratings": 8621
+      "ratings": 8621,
+      "velocity": 5
     }
   },
   {
-    "title": "Audiobook Financial Freedom",
-    "link": "4WMs0JbYdRlP2cYJOR66Hj",
+    "title": "My First Million",
+    "link": "3mliji9352UAk3XnWElnDV",
+    "meta": {
+      "rank": 45,
+      "category": "Business",
+      "publisher": "Sam Parr, Shaan Puri & The Hustle",
+      "description": "The Hustle presents - My First Million. A podcast where we brainstorm new business ideas based on trends & opportunities we see in the market. Sometimes we have famous guests, and they do it with us.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f28f1171e507232db4ae99ea9",
+      "appleId": "id1469759170",
+      "ratings": 1988,
+      "velocity": -4
+    }
+  },
+  {
+    "title": "Numbers by Barron's",
+    "link": "3dB6pl9tTWQiVlk96F4QOb",
+    "meta": {
+      "rank": 46,
+      "category": "Business",
+      "publisher": "Barron's",
+      "description": "Every trading day, Numbers By Barron's breaks down the market's most important stories into three essential numbers.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f0b02c5dd728b36f1c0f66d71",
+      "appleId": "id1435950211",
+      "ratings": 357,
+      "velocity": 5
+    }
+  },
+  {
+    "title": "The Money with Katie Show",
+    "link": "3KyldJHhXZPr8ERjKDASBh",
+    "meta": {
+      "rank": 47,
+      "category": "Business",
+      "publisher": "Morning Brew",
+      "description": "Finance bros are out, #RichGirls are in. Join Money with Katie and her guests as they talk spending habits, smart investing, and tax strategies – without putting you to sleep. Listen weekly on Wednesdays to learn how to turn your Rich Girl mindset into money.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f33519556c66757aa63d803c7",
+      "appleId": "id1589146097",
+      "ratings": 693,
+      "velocity": -1
+    }
+  },
+  {
+    "title": "Exchanges at Goldman Sachs",
+    "link": "1T6xOGR2S5tY6bZ7XbpAC3",
+    "meta": {
+      "rank": 48,
+      "category": "Business",
+      "publisher": "Goldman Sachs",
+      "description": "In each episode of \"Exchanges at Goldman Sachs,\" people from the firm share their insights on developments shaping industries, markets and the global economy.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fa8937e56596004e20681b4ee",
+      "appleId": "id948913991",
+      "ratings": 812,
+      "velocity": -1
+    }
+  },
+  {
+    "title": "Boosting Your Financial IQ",
+    "link": "5hPjolwAPwDhGPTHMfa0ue",
+    "meta": {
+      "rank": 49,
+      "category": "Business",
+      "publisher": "Steve Coughran",
+      "description": "The Boosting Your Financial IQ podcast deconstructs accounting and financial concepts to provide listeners with a holistic understanding of how money works and how to create more value. The host, Steve Coughran, brings his wealth of experience working as a business owner, management consultant, and CFO to share examples, stories, and analogies that deepen business acumen and build skills related to financial literacy. Boosting Your Financial IQ centers in on financial and accounting topics that will empower you to identify value drivers and boost financial performance. Whether you are new to finance or a seasoned professional, this fresh podcast will equip you with real-life financial knowledge that will enable you to speak the language of money.  Visit www.byfiq.com to learn more.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f8861a7da7405a9d39bbcdff1",
+      "appleId": "id1534081074",
+      "ratings": 10,
+      "velocity": -4
+    }
+  },
+  {
+    "title": "TED Business",
+    "link": "1hAE2QpiA1yOBJ6QyVFqpI",
     "meta": {
       "rank": 50,
       "category": "Business",
-      "publisher": "Libertad Financiera",
-      "description": "The most important investment you can make is in yourself. Warren Buffett Financial education AudioBooks",
-      "image": "https://i.scdn.co/image/ab67656300005f1fbef4ff0539877faffb20bf1f"
+      "publisher": "TED",
+      "description": "Whatever your business conundrum, there’s a TED Talk for that—whether you want to learn how to land that promotion, set smart goals, undo injustice at work, or unlock the next big innovation. Every Monday, host Modupe Akinola of Columbia Business School presents the most powerful and surprising ideas that illuminate the business world. After the talk, you'll get a mini-lesson from Modupe on how to apply the ideas in your own life. Because business evolves every day, and our ideas about it should, too.",
+      "image": "https://i.scdn.co/image/bad8e8ac364f95ed3cf45f35bcaebf915c27e7da",
+      "appleId": "id470622782",
+      "ratings": 1025,
+      "velocity": 1
     }
   }
 ]
