@@ -52,7 +52,7 @@
       "followers": 746049,
       "appleId": "id1594687786",
       "ratings": 43,
-      "velocity": 1
+      "velocity": 0
     }
   },
   {
@@ -110,7 +110,7 @@
       "followers": 52115,
       "appleId": "id523121474",
       "ratings": 19698,
-      "velocity": 1
+      "velocity": 0
     }
   },
   {
@@ -180,7 +180,7 @@
       "followers": 81751,
       "appleId": "id1474429475",
       "ratings": 5336,
-      "velocity": 1
+      "velocity": 0
     }
   },
   {
@@ -195,7 +195,7 @@
       "followers": 37926,
       "appleId": "id1487829595",
       "ratings": 777,
-      "velocity": 1
+      "velocity": 0
     }
   },
   {
@@ -251,7 +251,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f796fdb05053125c08038607f",
       "appleId": "id1646152812",
       "ratings": 47,
-      "velocity": 1
+      "velocity": 0
     }
   },
   {
@@ -278,7 +278,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1fb360131cd7db0a30c8cac0ab",
       "appleId": "id1236907421",
       "ratings": 157,
-      "velocity": 2
+      "velocity": 1
     }
   },
   {
@@ -306,7 +306,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f38649638c05336afc2865152",
       "appleId": "id1515786216",
       "ratings": 904,
-      "velocity": 1
+      "velocity": 0
     }
   },
   {
@@ -333,7 +333,7 @@
       "publisher": "AI and @bemmu",
       "description": "Radio show hosted by a dynamic duo of two AI entities, Adam and Bella, who discuss everything from current events to pop culture.   They are even able to answer listener questions and cover topics or reddit posts of your choice. You can send suggestions to the /r/airadio subreddit, or by email to me+ai@bemmu.com  ---  Current features of the software running this: - Can invent news, or cover them based on title, and interview fake experts. - Can talk about topics it finds on Reddit or Hacker News. - Can answer listener questions, or invent some if there aren't any.  These segments were made up by AI. Sometimes they get to pretty questionable territory, beware!",
       "image": "https://i.scdn.co/image/ab67656300005f1f5372fdd875a2ad85684b95f1",
-      "velocity": 5
+      "velocity": 4
     }
   },
   {
@@ -403,7 +403,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f648c39eccc3b7b7409961a08",
       "appleId": "id1661672738",
       "ratings": 41,
-      "velocity": 3
+      "velocity": 2
     }
   },
   {
@@ -431,7 +431,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f9fdbd18a2f6318c6bb3e10e4",
       "appleId": "id1547877889",
       "ratings": 4,
-      "velocity": 2
+      "velocity": 1
     }
   },
   {
@@ -445,7 +445,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f559565655eeba24cd0d33512",
       "appleId": "id1071831261",
       "ratings": 879,
-      "velocity": 2
+      "velocity": 1
     }
   },
   {
@@ -459,7 +459,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f8092b42fafd1a6563958a1c0",
       "appleId": "id1321060753",
       "ratings": 2434,
-      "velocity": 2
+      "velocity": 1
     }
   },
   {
@@ -473,7 +473,7 @@
       "image": "https://i.scdn.co/image/d63dd2b233c3268ace5f19d7583c87d539c675e8",
       "appleId": "id1253186678",
       "ratings": 891,
-      "velocity": 7
+      "velocity": 5
     }
   },
   {
@@ -487,7 +487,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1fedcd9a820e6fbc71f01879a2",
       "appleId": "id1049420219",
       "ratings": 95,
-      "velocity": 4
+      "velocity": 3
     }
   },
   {
@@ -501,7 +501,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f358bcefc95d8974a8e8a8027",
       "appleId": "id430333725",
       "ratings": 3228,
-      "velocity": -5
+      "velocity": -4
     }
   },
   {
@@ -515,7 +515,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f62a8d3d1745fbccc96b399f6",
       "appleId": "id1593204897",
       "ratings": 168,
-      "velocity": -7
+      "velocity": -6
     }
   },
   {
@@ -557,7 +557,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1ff9005fcd3d0a5d2d453ec1a1",
       "appleId": "id1582675663",
       "ratings": 17,
-      "velocity": 8
+      "velocity": 6
     }
   },
   {
@@ -585,7 +585,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f5f4712b441fcd4135ca7452c",
       "appleId": "id1336150688",
       "ratings": 245,
-      "velocity": 9
+      "velocity": 7
     }
   },
   {
@@ -611,7 +611,7 @@
       "publisher": "Michael Bazzell",
       "description": "Your occasional dose of privacy, digital security, and open source intelligence (OSINT) news and opinion.",
       "image": "https://i.scdn.co/image/ab67656300005f1fa7ed07c411f6df9bf675f009",
-      "velocity": 7
+      "velocity": 5
     }
   },
   {
@@ -625,7 +625,7 @@
       "image": "https://i.scdn.co/image/f248b462fa36099aaa8d205340e5cf9a3e37638c",
       "appleId": "id341623264",
       "ratings": 229,
-      "velocity": 6
+      "velocity": 4
     }
   },
   {
@@ -639,7 +639,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1fc052cfcc9095c993a9c0d9fb",
       "appleId": "id282795787",
       "ratings": 1658,
-      "velocity": -6
+      "velocity": -5
     }
   },
   {
@@ -651,7 +651,7 @@
       "publisher": "Rich & Sarah",
       "description": "We make the topic of privacy approachable. For both businesses and consumers. With so much of our lives taking place online today, it's easy to overlook the dangers associated with sharing your personal data with companies and strangers. Many people are aware that privacy is a problem but they don't know where to begin. Privacy Files explains the vast array of privacy issues facing society in easy-to-understand language. Then we give you practical solutions to quickly and effortlessly make the changes necessary to take back control of your personal information--one case file at a time.",
       "image": "https://i.scdn.co/image/ab67656300005f1f3ed32eb260f6bf25d29e553e",
-      "velocity": 4
+      "velocity": 3
     }
   },
   {
@@ -665,7 +665,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f998607a146a75ac7a5a4e005",
       "appleId": "id1186480811",
       "ratings": 206,
-      "velocity": 3
+      "velocity": 2
     }
   },
   {
@@ -679,7 +679,7 @@
       "image": "https://i.scdn.co/image/9f158ae771ea7350b95529003611bf4c5502a255",
       "appleId": "id1507834679",
       "ratings": 934,
-      "velocity": -5
+      "velocity": -4
     }
   },
   {
@@ -693,7 +693,7 @@
       "image": "https://i.scdn.co/image/a0674b7277bf2d271e55169ee92f441af44049ad",
       "appleId": "id1091341048",
       "ratings": 237,
-      "velocity": 1
+      "velocity": 0
     }
   }
 ]

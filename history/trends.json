@@ -56,53 +56,38 @@
     }
   },
   {
+    "title": "Kinky History",
+    "link": "3IAhMsBbenZ9jJkVZGZx7I",
+    "meta": {
+      "rank": 5,
+      "category": "History",
+      "publisher": "Esme James",
+      "description": "Kinky History is a podcast series that explores the evolution of human sexuality - from scandalous stories from the Ancient World to the saucy secrets of famous figures. By speaking openly about these topics in a way that is educational, entertaining, and accessible, Kinky History aims to erase dangerous taboos which still exist around identity, gender, and sexuality. Esmé created her \"Kinky History\" series on TikTok in October 2020. It has since grown to a following of over 2.5 million people from around the globe.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fb4bfed9d6d186c03b5547b82",
+      "appleId": "id1668279492",
+      "ratings": 35,
+      "velocity": 0
+    }
+  },
+  {
     "title": "Unreformed: the Story of the Alabama Industrial School for Negro Children",
     "link": "2BgftMyQnZbqU9OFpGnFDS",
     "meta": {
-      "rank": 5,
+      "rank": 6,
       "category": "History",
       "publisher": "iHeartPodcasts",
       "description": "In 1968, police arrested five Black girls dressed in oversized military fatigues in Montgomery. The girls were runaways, escaping from a state-run reform school called the Alabama Industrial School for Negro Children in Mount Meigs, Alabama. The girls were determined to tell someone about the abuse they’d suffered there: physical and sexual violence, unlivable facilities, and grueling labor in the fields surrounding the school. It was, as several former students called it, a slave camp. UNREFORMED is the story of how this reform school derailed the lives of thousands of Black children in Alabama for decades and what happened after those five girls found someone willing to blow the whistle. Host Josie Duffy Rice investigates the history of the school at the tail end of the Civil Rights movement in Alabama and speaks to former students who are still haunted by their experience but had the will to survive.",
       "image": "https://i.scdn.co/image/ab67656300005f1f69f4772f91c24324fa316388",
       "appleId": "id1663696375",
       "ratings": 575,
-      "velocity": -1
-    }
-  },
-  {
-    "title": "History For Weirdos",
-    "link": "5PfQzwbYi6ClQU00QYgmMB",
-    "meta": {
-      "rank": 6,
-      "category": "History",
-      "publisher": "Andrew & Stephanie",
-      "description": "A deep dive into the strange obscure and relentlessly entertaining portions of human history. Married couple and armchair historians, Stephanie & Andrew, discuss the often overlooked parts of humanity. Whether the subject is an obscure event that has confused historians for centuries or a historical figure that does not get enough credit, your hosts have you covered. New episodes available every Monday.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f36b95a449626074fc3793b64",
-      "appleId": "id1496055021",
-      "ratings": 47,
-      "velocity": 0
-    }
-  },
-  {
-    "title": "Throughline",
-    "link": "0vYTIMav7el5VXq5n5pxhI",
-    "meta": {
-      "rank": 7,
-      "category": "History",
-      "publisher": "NPR",
-      "description": "The past is never past. Every headline has a history. Join us every week as we go back in time to understand the present. These are stories you can feel and sounds you can see from the moments that shaped our world.Subscribe to Throughline+. You'll be supporting the history-reframing, perspective-shifting, time-warping stories you can't get enough of - and you'll unlock access to our sponsor-free feed of the show. Learn more at plus.npr.org/throughline",
-      "image": "https://i.scdn.co/image/ab67656300005f1f200b64ff98c6ec5197048368",
-      "followers": 21035,
-      "appleId": "id1451109634",
-      "ratings": 13435,
-      "velocity": 2
+      "velocity": -2
     }
   },
   {
     "title": "Lore",
     "link": "25PdDOYwfXDFvZ4pI1JWDh",
     "meta": {
-      "rank": 8,
+      "rank": 7,
       "category": "History",
       "publisher": "Aaron Mahnke and Grim & Mild",
       "description": "Lore is a bi-weekly podcast (now also a TV show and book series) about dark historical tales. Each episode explores the mysterious creatures, tragic events, and unusual places that fill the pages of history. Because sometimes the truth is more frightening than fiction.",
@@ -110,61 +95,78 @@
       "followers": 68298,
       "appleId": "id978052928",
       "ratings": 42836,
-      "velocity": -1
+      "velocity": 0
     }
   },
   {
-    "title": "Not Past It ",
-    "link": "2IDH4p3mEBPgVHbq4HQVA2",
+    "title": "Throughline",
+    "link": "0vYTIMav7el5VXq5n5pxhI",
+    "meta": {
+      "rank": 8,
+      "category": "History",
+      "publisher": "NPR",
+      "description": "The past is never past. Every headline has a history. Join us every week as we go back in time to understand the present. These are stories you can feel and sounds you can see from the moments that shaped our world.Subscribe to Throughline+. You'll be supporting the history-reframing, perspective-shifting, time-warping stories you can't get enough of - and you'll unlock access to our sponsor-free feed of the show. Learn more at plus.npr.org/throughline",
+      "image": "https://i.scdn.co/image/ab67656300005f1f200b64ff98c6ec5197048368",
+      "followers": 21035,
+      "appleId": "id1451109634",
+      "ratings": 13435,
+      "velocity": 1
+    }
+  },
+  {
+    "title": "History For Weirdos",
+    "link": "5PfQzwbYi6ClQU00QYgmMB",
     "meta": {
       "rank": 9,
       "category": "History",
-      "publisher": "Gimlet",
-      "description": "Ever wonder why the world is the way it is? Like, 1000s of years of humanity and this is the version of the world we came up with. This one? Same. Each Wednesday on Not Past It host Simone Polanen will pick a moment from that very same week in history -- and tell you how it shaped our lives today.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fb8b5a9c419b5cd6b847a5fb5",
-      "velocity": -1
+      "publisher": "Andrew & Stephanie",
+      "description": "A deep dive into the strange obscure and relentlessly entertaining portions of human history. Married couple and armchair historians, Stephanie & Andrew, discuss the often overlooked parts of humanity. Whether the subject is an obscure event that has confused historians for centuries or a historical figure that does not get enough credit, your hosts have you covered. New episodes available every Monday.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f36b95a449626074fc3793b64",
+      "appleId": "id1496055021",
+      "ratings": 47,
+      "velocity": -3
+    }
+  },
+  {
+    "title": "Noble Blood",
+    "link": "0sAgB3flk32QNHLjNlGAZw",
+    "meta": {
+      "rank": 10,
+      "category": "History",
+      "publisher": "iHeartPodcasts and Grim & Mild",
+      "description": "Author Dana Schwartz explores the stories of some of history’s most fascinating royals: the tyrants and the tragic, the murderers and the murdered, and everyone in between. Because when you’re wearing a crown, mistakes often mean blood.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fdd2710db734ca3e1b91eabf6",
+      "appleId": "id1468332063",
+      "ratings": 12059,
+      "velocity": 21
     }
   },
   {
     "title": "History That Doesn't Suck",
     "link": "7AVu47DIP4G9YGMJXtMgRi",
     "meta": {
-      "rank": 10,
+      "rank": 11,
       "category": "History",
       "publisher": "Prof. Greg Jackson",
       "description": "HTDS is a bi-weekly podcast, delivering a legit, seriously researched, hard-hitting survey of American history through entertaining stories. To keep up with History That Doesn’t Suck news, check us out on Facebook and Instagram: @Historythatdoesntsuck; on Twitter: @HTDSpod; or online at htdspodcast.com. Support the podcast at patreon.com/historythatdoesntsuck.",
       "image": "https://i.scdn.co/image/ab67656300005f1f3bfd5efab63fe16439683e39",
       "appleId": "id1291579828",
       "ratings": 3680,
-      "velocity": 2
+      "velocity": 1
     }
   },
   {
-    "title": "History of Everything",
-    "link": "6ALnjYlFQeEOmeRwYoRlIh",
-    "meta": {
-      "rank": 11,
-      "category": "History",
-      "publisher": "Stakuyi",
-      "description": "This podcast takes deep dives into history every week from the history of potatoes to the bloodiest battles. ",
-      "image": "https://i.scdn.co/image/ab67656300005f1f87f7c0b9895eab32d06aa235",
-      "appleId": "id1598692909",
-      "ratings": 391,
-      "velocity": -1
-    }
-  },
-  {
-    "title": "American History Tellers",
-    "link": "6ynzLDYSVQUsI0ZgMAxwWI",
+    "title": "Norse Mythology: The Unofficial Guide",
+    "link": "7F0tD7bStFIDSVEbsnrxuI",
     "meta": {
       "rank": 12,
       "category": "History",
-      "publisher": "Wondery",
-      "description": "The Cold War, Prohibition, the Gold Rush, the Space Race. Every part of your life - the words you speak, the ideas you share - can be traced to our history, but how well do you really know the stories that made America? We'll take you to the events, the times and the people that shaped our nation. And we'll show you how our history affected them, their families and affects you today. Hosted by Lindsay Graham (not the Senator). From Wondery, the network behind American Scandal, Tides of History, American Innovations and more.New episodes come out every Wednesday for free, with 1-week early access for Wondery+ subscribers. Listen ad-free on Wondery+ or on Amazon Music with a Prime membership or Amazon Music Unlimited subscription.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fc5a204e3d4bb46aa4ecf19cd",
-      "appleId": "id1313596069",
-      "ratings": 16165,
-      "velocity": -1
+      "publisher": "Wælhræfn",
+      "description": "What makes Norse mythology \"norse\"? Why does Thor kill giants? What do the myths tell us about Loki's gender identity? The world of popular media is always happy to provide a modernized re-telling of ancient stories with a heavy scoop of creative license, but on \"Norse Mythology: The Unofficial Guide\", we'll dive into the original tales directly from the sources and learn together from experts in the field about what these stories really mean and how they would have affected the lives of the ancient people of the pagan north.  Contact me any time at waelhraefn (at) gmail (dot) com!",
+      "image": "https://i.scdn.co/image/ab67656300005f1f4d863f90a10e5af4f7ae01df",
+      "appleId": "id1627908900",
+      "ratings": 38,
+      "velocity": 2
     }
   },
   {
@@ -183,70 +185,82 @@
     }
   },
   {
+    "title": "American History Tellers",
+    "link": "6ynzLDYSVQUsI0ZgMAxwWI",
+    "meta": {
+      "rank": 14,
+      "category": "History",
+      "publisher": "Wondery",
+      "description": "The Cold War, Prohibition, the Gold Rush, the Space Race. Every part of your life - the words you speak, the ideas you share - can be traced to our history, but how well do you really know the stories that made America? We'll take you to the events, the times and the people that shaped our nation. And we'll show you how our history affected them, their families and affects you today. Hosted by Lindsay Graham (not the Senator). From Wondery, the network behind American Scandal, Tides of History, American Innovations and more.New episodes come out every Wednesday for free, with 1-week early access for Wondery+ subscribers. Listen ad-free on Wondery+ or on Amazon Music with a Prime membership or Amazon Music Unlimited subscription.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fc5a204e3d4bb46aa4ecf19cd",
+      "appleId": "id1313596069",
+      "ratings": 16165,
+      "velocity": -3
+    }
+  },
+  {
+    "title": "History of Everything",
+    "link": "6ALnjYlFQeEOmeRwYoRlIh",
+    "meta": {
+      "rank": 15,
+      "category": "History",
+      "publisher": "Stakuyi",
+      "description": "This podcast takes deep dives into history every week from the history of potatoes to the bloodiest battles. ",
+      "image": "https://i.scdn.co/image/ab67656300005f1f87f7c0b9895eab32d06aa235",
+      "appleId": "id1598692909",
+      "ratings": 391,
+      "velocity": -5
+    }
+  },
+  {
     "title": "Short History Of...",
     "link": "2mcJ0sFMn4TdKCQrxoLPgO",
     "meta": {
-      "rank": 14,
+      "rank": 16,
       "category": "History",
       "publisher": "NOISER",
       "description": "Short History Of... continues to be available for free wherever you get your shows.  For ad-free listening, exclusive content and early access to new episodes, join Noiser+. Now available for Apple and Android users. Go to noiser.com/subscriptions to get started.  Short History Of... is the podcast series hosted by John Hopkins. Each week, we'll transport you back in time to witness history's most incredible moments and remarkable people. New episodes Mondays.  Follow Noiser Podcasts on Twitter @Noiser_Podcasts for updates on our shows.",
       "image": "https://i.scdn.co/image/ab67656300005f1f07b272ff723dab4cfe74440b",
       "appleId": "id1579040306",
       "ratings": 1281,
-      "velocity": 1
+      "velocity": -1
     }
   },
   {
-    "title": "One Year",
-    "link": "75GohuqfEsvvKxG5GCYadt",
+    "title": "Not Past It ",
+    "link": "2IDH4p3mEBPgVHbq4HQVA2",
     "meta": {
-      "rank": 15,
+      "rank": 17,
       "category": "History",
-      "publisher": "Slate Podcasts",
-      "description": "The people and struggles that changed America—one year at a time. In each episode, host Josh Levin explores a story you may have forgotten, or one you’ve never heard of before. What were the moments that transformed politics, culture, science, religion, and more? And how does the nation’s past shape our present?",
-      "image": "https://i.scdn.co/image/ab67656300005f1fd7a8ab286f6b29703e12ac38",
-      "velocity": 4
-    }
-  },
-  {
-    "title": "Norse Mythology: The Unofficial Guide",
-    "link": "7F0tD7bStFIDSVEbsnrxuI",
-    "meta": {
-      "rank": 16,
-      "category": "History",
-      "publisher": "Wælhræfn",
-      "description": "What makes Norse mythology \"norse\"? Why does Thor kill giants? What do the myths tell us about Loki's gender identity? The world of popular media is always happy to provide a modernized re-telling of ancient stories with a heavy scoop of creative license, but on \"Norse Mythology: The Unofficial Guide\", we'll dive into the original tales directly from the sources and learn together from experts in the field about what these stories really mean and how they would have affected the lives of the ancient people of the pagan north.  Contact me any time at waelhraefn (at) gmail (dot) com!",
-      "image": "https://i.scdn.co/image/ab67656300005f1f4d863f90a10e5af4f7ae01df",
-      "appleId": "id1627908900",
-      "ratings": 38,
-      "velocity": -2
+      "publisher": "Gimlet",
+      "description": "Ever wonder why the world is the way it is? Like, 1000s of years of humanity and this is the version of the world we came up with. This one? Same. Each Wednesday on Not Past It host Simone Polanen will pick a moment from that very same week in history -- and tell you how it shaped our lives today.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fb8b5a9c419b5cd6b847a5fb5",
+      "velocity": -9
     }
   },
   {
     "title": "The History of Rome",
     "link": "6wiEd40oPbQ9UK1rSpIy8I",
     "meta": {
-      "rank": 17,
+      "rank": 18,
       "category": "History",
       "publisher": "Mike Duncan",
       "description": "A weekly podcast tracing the rise, decline and fall of the Roman Empire.",
       "image": "https://i.scdn.co/image/ab67656300005f1f603bf44cffb51af15e245970",
       "appleId": "id261654474",
       "ratings": 10454,
-      "velocity": -1
+      "velocity": -2
     }
   },
   {
-    "title": "HISTORY This Week",
-    "link": "2YFm0ezrXmMqLXbxgZpkmd",
+    "title": "One Year",
+    "link": "75GohuqfEsvvKxG5GCYadt",
     "meta": {
-      "rank": 18,
+      "rank": 19,
       "category": "History",
-      "publisher": "The HISTORY® Channel",
-      "description": "This week, something momentous happened. Whether or not it made the textbooks, it most certainly made history. Join HISTORY This Week as we turn back the clock to meet the people, visit the places and witness the moments that led us to where we are today. To get in touch with story ideas or feedback, email us at HistoryThisWeek@History.com, or leave us a voicemail at 212-351-0410. Hosted on Acast. See acast.com/privacy for more information.",
-      "image": "https://i.scdn.co/image/ab67656300005f1ff5cb72790b2bc1ea785306ff",
-      "appleId": "id1493453604",
-      "ratings": 3222,
+      "publisher": "Slate Podcasts",
+      "description": "The people and struggles that changed America—one year at a time. In each episode, host Josh Levin explores a story you may have forgotten, or one you’ve never heard of before. What were the moments that transformed politics, culture, science, religion, and more? And how does the nation’s past shape our present?",
+      "image": "https://i.scdn.co/image/ab67656300005f1fd7a8ab286f6b29703e12ac38",
       "velocity": 0
     }
   },
@@ -254,42 +268,28 @@
     "title": "The Ancients",
     "link": "1DQF5Yi3m6LykJDwiy8qxh",
     "meta": {
-      "rank": 19,
+      "rank": 20,
       "category": "History",
       "publisher": "History Hit",
       "description": "A podcast for all ancient history fans! The Ancients is dedicated to discussing our distant past. Featuring interviews with historians and archaeologists, each episode covers a specific theme from antiquity. From Neolithic Britain to the Fall of Rome. Hosted by Tristan Hughes.  Hosted on Acast. See acast.com/privacy for more information.",
       "image": "https://i.scdn.co/image/ab67656300005f1f05acec9e842740a33507b18d",
       "appleId": "id1520403988",
       "ratings": 1146,
-      "velocity": -2
+      "velocity": -3
     }
   },
   {
-    "title": "The History of WWII Podcast - by Ray Harris Jr",
-    "link": "478Cwatmrh1sGxaarajEXc",
-    "meta": {
-      "rank": 20,
-      "category": "History",
-      "publisher": "Recorded History Podcast Network",
-      "description": "A biweekly podcast covering the last great war. Join Ray Harris Jr as he explores World War Two in intimate detail.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f4b513d85fa6b9df4fa104bdf",
-      "appleId": "id493253759",
-      "ratings": 3597,
-      "velocity": 0
-    }
-  },
-  {
-    "title": "Legends of the Old West",
-    "link": "1ffECQs7FDujQqRsADqvxo",
+    "title": "HISTORY This Week",
+    "link": "2YFm0ezrXmMqLXbxgZpkmd",
     "meta": {
       "rank": 21,
       "category": "History",
-      "publisher": "Black Barrel Media",
-      "description": "Wyatt Earp, Jesse James, and Butch and Sundance. Lakota, Comanche and Apache. Wars, gunfights and robberies. This show covers the toughest lawmen, the wildest outlaws, and the deadliest towns — all the people and events that shaped the American West.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f025ebbc5df7c8b797dac8041",
-      "appleId": "id1362910749",
-      "ratings": 2747,
-      "velocity": 0
+      "publisher": "The HISTORY® Channel",
+      "description": "This week, something momentous happened. Whether or not it made the textbooks, it most certainly made history. Join HISTORY This Week as we turn back the clock to meet the people, visit the places and witness the moments that led us to where we are today. To get in touch with story ideas or feedback, email us at HistoryThisWeek@History.com, or leave us a voicemail at 212-351-0410. Hosted on Acast. See acast.com/privacy for more information.",
+      "image": "https://i.scdn.co/image/ab67656300005f1ff5cb72790b2bc1ea785306ff",
+      "appleId": "id1493453604",
+      "ratings": 3222,
+      "velocity": -3
     }
   },
   {
@@ -321,45 +321,45 @@
     }
   },
   {
-    "title": "Stuff You Missed in History Class",
-    "link": "4Zkj8TTa7XAZYI6aFetlec",
+    "title": "Legends of the Old West",
+    "link": "1ffECQs7FDujQqRsADqvxo",
     "meta": {
       "rank": 24,
       "category": "History",
-      "publisher": "iHeartPodcasts",
-      "description": "Join Holly and Tracy as they bring you the greatest and strangest Stuff You Missed In History Class in this podcast by iHeartRadio.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f873013f6edd22b3c522674a9",
-      "appleId": "id283605519",
-      "ratings": 22077,
-      "velocity": -1
+      "publisher": "Black Barrel Media",
+      "description": "Wyatt Earp, Jesse James, and Butch and Sundance. Lakota, Comanche and Apache. Wars, gunfights and robberies. This show covers the toughest lawmen, the wildest outlaws, and the deadliest towns — all the people and events that shaped the American West.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f025ebbc5df7c8b797dac8041",
+      "appleId": "id1362910749",
+      "ratings": 2747,
+      "velocity": -3
     }
   },
   {
-    "title": "You're Dead To Me",
-    "link": "2dXkTgfC5mECruaLFUERe1",
+    "title": "Operation Morning Light",
+    "link": "2ikYDxbxlEvopVj0SGmiTA",
     "meta": {
       "rank": 25,
       "category": "History",
-      "publisher": "BBC Radio 4",
-      "description": "The comedy podcast that takes history seriously. Greg Jenner brings together the best names in comedy and history to learn and laugh about the past.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f1facb36988779e29cad83954",
-      "appleId": "id1479973402",
-      "ratings": 1937,
-      "velocity": 3
+      "publisher": "Imperative Entertainment and Vespucci",
+      "description": "\"Best Podcasts of 2022\" - Financial Times  On a January night in 1978, a white light burned through the sub-Arctic sky. It was Cosmos 954, a nuclear-powered Soviet espionage satellite that had malfunctioned and fallen to earth. As the satellite disintegrated, it scattered dangerously radioactive debris across the vast traditional lands of the Dene, Métis, and Inuit in the Northwest Territories of Canada. Operation Morning Light tells the story of the Cosmos 954 disaster, its impact on the land, and the resilience of the communities in the debris field.  Operation Morning Light is hosted by Dëneze Nakehk'o, a Denesuline and Dehcho Dene father from Denendeh. It is produced by Aliya Pabani, and written by Michael LaPointe and Dëneze Nakehk'o. Cover art and design by Jeana Sullivan. The story editor is Matt Willis, and Thomas Curry is the managing producer. Scoring and sound-design by Alice Boyd. For Imperative Entertainment, the executive producer is Jason Hoch, and for Vespucci, the executive producers are Daniel Turcan, Johnny Galvin, and Michael LaPointe.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f724850254d5bdea4f2d45049",
+      "appleId": "id1646497997",
+      "ratings": 54,
+      "velocity": 0
     }
   },
   {
-    "title": "This is History: A Dynasty to Die For",
-    "link": "2OwTnxm4YpB6mH0tLVYc2s",
+    "title": "The History of WWII Podcast - by Ray Harris Jr",
+    "link": "478Cwatmrh1sGxaarajEXc",
     "meta": {
       "rank": 26,
       "category": "History",
-      "publisher": "Somethin' Else / Sony Music Entertainment",
-      "description": "Power, greed, religion and sex: historian Dan Jones brings the drama of medieval history alive through compelling stories, larger-than-life characters and vivid scenes.   In the first season, get to know the most dysfunctional family of the Middle Ages – the Plantagenets – and find out how their scandalous betrayals and bloody politics shaped the world we live in today.  A Somethin’ Else & Sony Music Entertainment production.    Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcasts    To bring your brand to life in this podcast, email podcastadsales@sonymusic.com   Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image": "https://i.scdn.co/image/ab67656300005f1f1136644c707fd1da8d12ab82",
-      "appleId": "id1641568639",
-      "ratings": 617,
-      "velocity": 0
+      "publisher": "Recorded History Podcast Network",
+      "description": "A biweekly podcast covering the last great war. Join Ray Harris Jr as he explores World War Two in intimate detail.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f4b513d85fa6b9df4fa104bdf",
+      "appleId": "id493253759",
+      "ratings": 3597,
+      "velocity": -6
     }
   },
   {
@@ -377,321 +377,321 @@
     }
   },
   {
-    "title": "Real Dictators",
-    "link": "4yXsMW1CFOjL17OFbdca0L",
+    "title": "Stuff You Missed in History Class",
+    "link": "4Zkj8TTa7XAZYI6aFetlec",
     "meta": {
       "rank": 28,
       "category": "History",
-      "publisher": "NOISER",
-      "description": "Real Dictators continues to be available for free wherever you get your shows.  For ad-free listening, exclusive content and early access to new episodes, join Noiser+. Now available for Apple and Android users. Click the Noiser+ banner on Apple or go to noiser.com/subscriptions to get started with a 7-day free trial.  Real Dictators is the award-winning podcast hosted by Paul McGann that explores the hidden lives of history's tyrants.  Follow @Noiser_Podcasts on Twitter for updates on our shows.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f63611f908df00cc3c3925a28",
-      "appleId": "id1516194847",
-      "ratings": 4164,
-      "velocity": 4
+      "publisher": "iHeartPodcasts",
+      "description": "Join Holly and Tracy as they bring you the greatest and strangest Stuff You Missed In History Class in this podcast by iHeartRadio.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f873013f6edd22b3c522674a9",
+      "appleId": "id283605519",
+      "ratings": 22077,
+      "velocity": -5
     }
   },
   {
-    "title": "Battleground: Ukraine",
-    "link": "0v96h51r7KZU4OH02khvf1",
+    "title": "You're Dead To Me",
+    "link": "2dXkTgfC5mECruaLFUERe1",
     "meta": {
       "rank": 29,
       "category": "History",
-      "publisher": "Goalhanger Podcasts",
-      "description": "A history podcast that explores the narratives, turning points and characters that shape conflicts, encompassing a blend of social and military history. Following on from the series on the Falklands War, best-selling military historians Patrick Bishop, and Saul David turn their attention to the war in Ukraine.Goalhanger Podcasts Hosted on Acast. See acast.com/privacy for more information.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f702abc51e9f3c87cb0132177",
-      "appleId": "id1617276298",
-      "ratings": 228,
-      "velocity": -2
-    }
-  },
-  {
-    "title": "Noble Blood",
-    "link": "0sAgB3flk32QNHLjNlGAZw",
-    "meta": {
-      "rank": 30,
-      "category": "History",
-      "publisher": "iHeartPodcasts and Grim & Mild",
-      "description": "Author Dana Schwartz explores the stories of some of history’s most fascinating royals: the tyrants and the tragic, the murderers and the murdered, and everyone in between. Because when you’re wearing a crown, mistakes often mean blood.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fdd2710db734ca3e1b91eabf6",
-      "appleId": "id1468332063",
-      "ratings": 12059,
-      "velocity": 1
-    }
-  },
-  {
-    "title": "Teorías de Conspiración",
-    "link": "7wQ5NNrWVmC7wDE9Y7cbwR",
-    "meta": {
-      "rank": 31,
-      "category": "History",
-      "publisher": "Spotify Studios",
-      "description": "La verdad rara vez es la mejor historia. Y cuando no es la única historia, la verdad merece otra mirada. Todos los miércoles, contamos las historias complicadas detrás de los eventos más controversiales del mundo y los posibles encubrimientos. ¿Conspiración? Tal vez. ¿Coincidencia? Tal vez. ¿Complicado? Absolutamente. Teorías de Conspiración es un original de Spotify y Parcast.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f20308585f0727bbb0dcf12e9",
-      "velocity": -7
-    }
-  },
-  {
-    "title": "History Daily",
-    "link": "31PSVhUGECv1bdBfPSv3Nf",
-    "meta": {
-      "rank": 32,
-      "category": "History",
-      "publisher": "Airship | Noiser | Wondery",
-      "description": "On History Daily, we do history, daily. Every weekday, host Lindsay Graham (American Scandal, American History Tellers) takes you back in time to explore a momentous event that happened ‘on this day’ in history. Whether it’s to remember the tragedy of December 7th, 1941, the day “that will live in infamy,” or to celebrate that 20th day in July, 1969, when mankind reached the moon, History Daily is there to tell you the true stories of the people and events that shaped our world—one day at a time. So if you’re stuck in traffic, bored at work—wherever you are, listen to History Daily to remind yourself that something incredible happened to make that day historic.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f2c173df8f0226ea40cf32adc",
-      "appleId": "id1591095413",
-      "ratings": 1010,
-      "velocity": -2
-    }
-  },
-  {
-    "title": "Ridiculous History",
-    "link": "2jrzUni2biU8YxYgRk4CU4",
-    "meta": {
-      "rank": 33,
-      "category": "History",
-      "publisher": "iHeartPodcasts",
-      "description": "History is beautiful, brutal and, often, ridiculous. Join Ben Bowlin and Noel Brown as they dive into some of the weirdest stories from across the span of human civilization in Ridiculous History, a podcast by iHeartRadio.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fd88503fa6ece7ed8986b71a8",
-      "appleId": "id1299826850",
-      "ratings": 3851,
-      "velocity": -4
-    }
-  },
-  {
-    "title": "Infamous America",
-    "link": "10dCj0Am5WRUAznLTUOPw9",
-    "meta": {
-      "rank": 34,
-      "category": "History",
-      "publisher": "Black Barrel Media",
-      "description": "Historical True Crime — assassins, gangsters, mobsters and lawmen; manhunts, scandals and unexplained phenomena. Stories of the wildest and darkest chapters of America's past.",
-      "image": "https://i.scdn.co/image/ab67656300005f1ffb8c4fedd18aa421ebfaefd9",
-      "appleId": "id1437525441",
-      "ratings": 2328,
-      "velocity": 0
-    }
-  },
-  {
-    "title": "Everything Everywhere Daily",
-    "link": "2CrsGIq5kZ1tdhfR8ErLjV",
-    "meta": {
-      "rank": 35,
-      "category": "History",
-      "publisher": "Gary Arndt & Glassbox Media",
-      "description": "A Podcast for Intellectually Curious People! Learn something new every single day. Everything Everywhere Daily tells the stories of interesting people, places, and things from around the world and throughout history. Topics covered include, but are not limited to, history, science, geography, and culture.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f36b78fa9a09498f8be9e0a8c",
-      "appleId": "id1521870190",
-      "ratings": 46,
-      "velocity": -2
-    }
-  },
-  {
-    "title": "Our Fake History",
-    "link": "3Lk9LufHHM9AzVoyYvcI7R",
-    "meta": {
-      "rank": 36,
-      "category": "History",
-      "publisher": "PodcastOne",
-      "description": "A podcast about myths we think are history and history that might be hidden in myths! Awesome stories that really (maybe) happened!",
-      "image": "https://i.scdn.co/image/08a10196e89555fd4d8d6045711256726cc4a078",
-      "appleId": "id1021703062",
-      "ratings": 3003,
-      "velocity": 3
+      "publisher": "BBC Radio 4",
+      "description": "The comedy podcast that takes history seriously. Greg Jenner brings together the best names in comedy and history to learn and laugh about the past.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f1facb36988779e29cad83954",
+      "appleId": "id1479973402",
+      "ratings": 1937,
+      "velocity": -1
     }
   },
   {
     "title": "Investigate Earth Conspiracy Podcast",
     "link": "6GOuwDqjEy8rJAR7Js6AUn",
     "meta": {
-      "rank": 37,
+      "rank": 30,
       "category": "History",
       "publisher": "Do Without Fear Media",
       "description": "Join Chad and Sheri for season 4 of Investigate Earth Conspiracy Podcast. We talk about all the top conspiracy theories around the world with new information on many of the stories. We invite our listener's opinions and thoughts so that we can share what you think on each conspiracy topic. Most shows will be a 2 part series. You do not want to miss it!",
       "image": "https://i.scdn.co/image/0907d10414a0a569797de3191e43c65238b66a8e",
       "appleId": "id1449605209",
       "ratings": 52,
-      "velocity": 6
+      "velocity": 13
     }
   },
   {
-    "title": "The UnchartedX Podcast",
-    "link": "3rE2u1bCrKpXSLZNRPjk7e",
+    "title": "Real Dictators",
+    "link": "4yXsMW1CFOjL17OFbdca0L",
     "meta": {
-      "rank": 38,
+      "rank": 31,
       "category": "History",
-      "publisher": "UnchartedX",
-      "description": "Exploring ancient mysteries and contradictions, and what they mean for us today. The  UnchartedX podcast is the audio version of the videos presented on the UnchartedX channel.",
-      "image": "https://i.scdn.co/image/230404e525a81b1c2deb67f959f17f8e09361fb8",
-      "appleId": "id1531638539",
-      "ratings": 118,
-      "velocity": 4
-    }
-  },
-  {
-    "title": "The Team House",
-    "link": "3Qn9VjM5ioPrPFvjkuSjvb",
-    "meta": {
-      "rank": 39,
-      "category": "History",
-      "publisher": "The Team House",
-      "description": "A weekly livestream/podcast hosted by Jack (former Ranger/Special Forces) and Dave (former Ranger/Paramilitary contractor) interviewing Special Operations and intelligence community professionals about their service.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fad0c10567936f41b715f79de",
-      "appleId": "id1492797340",
-      "ratings": 649,
-      "velocity": -4
+      "publisher": "NOISER",
+      "description": "Real Dictators continues to be available for free wherever you get your shows.  For ad-free listening, exclusive content and early access to new episodes, join Noiser+. Now available for Apple and Android users. Click the Noiser+ banner on Apple or go to noiser.com/subscriptions to get started with a 7-day free trial.  Real Dictators is the award-winning podcast hosted by Paul McGann that explores the hidden lives of history's tyrants.  Follow @Noiser_Podcasts on Twitter for updates on our shows.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f63611f908df00cc3c3925a28",
+      "appleId": "id1516194847",
+      "ratings": 4164,
+      "velocity": 1
     }
   },
   {
     "title": "War Stories with B-Rax",
     "link": "6es2vMfavlYL4Ne7LFlZZu",
     "meta": {
-      "rank": 40,
+      "rank": 32,
       "category": "History",
       "publisher": "Braxton",
       "description": "I am a veteran of both Iraq and Afghanistan.  This podcast is an attempt to share G Company 2nd Battalion 3rd Marine Regiment's story from 2006-2010.  https://www.patreon.com/warstorieswithbraxhttps",
       "image": "https://i.scdn.co/image/ab67656300005f1fe2cc611c3aea470f518e5271",
       "appleId": "id1536042644",
       "ratings": 47,
-      "velocity": -3
+      "velocity": 5
     }
   },
   {
-    "title": "[REDACTED] History",
-    "link": "15JfZigIZcUhNpn7nDgZVm",
+    "title": "Everything Everywhere Daily",
+    "link": "2CrsGIq5kZ1tdhfR8ErLjV",
     "meta": {
-      "rank": 41,
+      "rank": 33,
       "category": "History",
-      "publisher": "Andre White",
-      "description": "Redacted (verb): censor or obscure for legal or security purposes. [REDACTED] History is a show where we can have real, unfiltered conversations about the things that SOME FOLK don't want us to talk about. This is where we will huddle around the campfire and tell the stories of people that the textbooks forgot. Sit back, relax, and enjoy the show! If you want to support the show, come join the Patreon! https://www.patreon.com/Blackkout https://www.tiktok.com/@blackkout___ For all inquiries, please email: andrepwhitejr@gmail.com",
-      "image": "https://i.scdn.co/image/ab67656300005f1f2136bc86318f54367b6c4d74",
-      "appleId": "id1609909822",
-      "ratings": 930,
+      "publisher": "Gary Arndt & Glassbox Media",
+      "description": "A Podcast for Intellectually Curious People! Learn something new every single day. Everything Everywhere Daily tells the stories of interesting people, places, and things from around the world and throughout history. Topics covered include, but are not limited to, history, science, geography, and culture.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f36b78fa9a09498f8be9e0a8c",
+      "appleId": "id1521870190",
+      "ratings": 46,
       "velocity": 0
     }
   },
   {
-    "title": "The Martyrmade Podcast",
-    "link": "6aA7GwsEBqFiBshQ0a9vZu",
+    "title": "History Daily",
+    "link": "31PSVhUGECv1bdBfPSv3Nf",
+    "meta": {
+      "rank": 34,
+      "category": "History",
+      "publisher": "Airship | Noiser | Wondery",
+      "description": "On History Daily, we do history, daily. Every weekday, host Lindsay Graham (American Scandal, American History Tellers) takes you back in time to explore a momentous event that happened ‘on this day’ in history. Whether it’s to remember the tragedy of December 7th, 1941, the day “that will live in infamy,” or to celebrate that 20th day in July, 1969, when mankind reached the moon, History Daily is there to tell you the true stories of the people and events that shaped our world—one day at a time. So if you’re stuck in traffic, bored at work—wherever you are, listen to History Daily to remind yourself that something incredible happened to make that day historic.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f2c173df8f0226ea40cf32adc",
+      "appleId": "id1591095413",
+      "ratings": 1010,
+      "velocity": -4
+    }
+  },
+  {
+    "title": "This is History: A Dynasty to Die For",
+    "link": "2OwTnxm4YpB6mH0tLVYc2s",
+    "meta": {
+      "rank": 35,
+      "category": "History",
+      "publisher": "Somethin' Else / Sony Music Entertainment",
+      "description": "Power, greed, religion and sex: historian Dan Jones brings the drama of medieval history alive through compelling stories, larger-than-life characters and vivid scenes.   In the first season, get to know the most dysfunctional family of the Middle Ages – the Plantagenets – and find out how their scandalous betrayals and bloody politics shaped the world we live in today.  A Somethin’ Else & Sony Music Entertainment production.    Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcasts    To bring your brand to life in this podcast, email podcastadsales@sonymusic.com   Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image": "https://i.scdn.co/image/ab67656300005f1f1136644c707fd1da8d12ab82",
+      "appleId": "id1641568639",
+      "ratings": 617,
+      "velocity": -9
+    }
+  },
+  {
+    "title": "Dan Carlin's Hardcore History: Addendum",
+    "link": "4LKZNYgHWlQe7jOIbgkVMz",
+    "meta": {
+      "rank": 36,
+      "category": "History",
+      "publisher": "Dan Carlin",
+      "description": "Interviews, musings and extra material from the makers of Dan Carlin's Hardcore History.  If it did not fit in the HH feed it's probably here",
+      "image": "https://i.scdn.co/image/11f26dfbd1ecee8f0dd006718f5795584debdc89",
+      "appleId": "id1326393257",
+      "ratings": 7387,
+      "velocity": 0
+    }
+  },
+  {
+    "title": "Southern Gothic",
+    "link": "6s2eCUQgs76SLGEwiBwYOn",
+    "meta": {
+      "rank": 37,
+      "category": "History",
+      "publisher": "Southern Gothic Media",
+      "description": "Step into the world of the unknown and unravel the dark history, and infamous legends of the American South. Join us as we journey into the heart of this rich and fascinating region, uncovering its ghostly stories, haunted places, and eeriest tales through captivating storytelling, in-depth historical research, and an immersive audio soundscape. From the Bell Witch of Tennessee to the haunted Waverly Hills Sanatorium, the ghostly tales of the Myrtles Plantation, the Curse of Lake Lanier and beyond, get ready for an unforgettable experience that brings history to life and uncovers the truth behind classic tales of the paranormal.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f6dfd48466f4a2f1587256694",
+      "appleId": "id1348392537",
+      "ratings": 568,
+      "velocity": 0
+    }
+  },
+  {
+    "title": "Ridiculous History",
+    "link": "2jrzUni2biU8YxYgRk4CU4",
+    "meta": {
+      "rank": 38,
+      "category": "History",
+      "publisher": "iHeartPodcasts",
+      "description": "History is beautiful, brutal and, often, ridiculous. Join Ben Bowlin and Noel Brown as they dive into some of the weirdest stories from across the span of human civilization in Ridiculous History, a podcast by iHeartRadio.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fd88503fa6ece7ed8986b71a8",
+      "appleId": "id1299826850",
+      "ratings": 3851,
+      "velocity": -9
+    }
+  },
+  {
+    "title": "Celtic Myths and Legends Podcast",
+    "link": "0Pz1YclsrYv6i2KW5hmOIQ",
+    "meta": {
+      "rank": 39,
+      "category": "History",
+      "publisher": "Sian Esther Powell",
+      "description": "Focusing on the myths, legends and folklore of the 6 Celtic Nations; Wales, Scotland, Ireland, Cornwall, Brittany and The Isle of Man.",
+      "image": "https://i.scdn.co/image/6acef39081e3f9abeef2737451163b105ff70d79",
+      "appleId": "id1320217739",
+      "ratings": 238,
+      "velocity": 0
+    }
+  },
+  {
+    "title": "Empire",
+    "link": "0sBh58hSTReUQiK4axYUVx",
+    "meta": {
+      "rank": 40,
+      "category": "History",
+      "publisher": "Goalhanger Podcasts",
+      "description": "How do empires rise? Why do they fall? And how have they shaped the world around us today?  William Dalrymple and Anita Anand explore the stories, personalities and events of empire over the course of history.  The first series looks at the British in India, covering the East India Company, the Raj, Gandhi, Independence and Partition.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f153ca342d834423250b1ff11",
+      "appleId": "id1639561921",
+      "ratings": 344,
+      "velocity": 0
+    }
+  },
+  {
+    "title": "SpyCast",
+    "link": "1lL644RNJasvQor685TgHP",
+    "meta": {
+      "rank": 41,
+      "category": "History",
+      "publisher": "SpyCast",
+      "description": "TOP SECRET Personal Attention, SpyCast Listeners Known to be the podcast real spies listen to -(STOP)- eavesdrop on conversations with high level sources from around the world -(STOP)- spychiefs molehunters defectors covert operators analysts cyberwarriors and researchers debriefed by SPY Historian Hammond -(STOP) stories secrets tradecraft and technology discussed -(STOP)- HUMINT SIGINT OSINT IMINT GEOINT and more -(STOP)- rumored to be professional education internal communication and public information -(STOP)- entire back catalog available online for free -(STOP)- please investigate this claim with all possible haste -(STOP)- SPY Historian Hammond said to have a Scottish accent -(STOP)- is this a countermeasure or a hearts-and-minds campaign? (END TELEGRAM)",
+      "image": "https://i.scdn.co/image/ab67656300005f1fe1297d9d1ec8fdc06e15bc43",
+      "appleId": "id201680433",
+      "ratings": 1175,
+      "velocity": 0
+    }
+  },
+  {
+    "title": "Infamous America",
+    "link": "10dCj0Am5WRUAznLTUOPw9",
     "meta": {
       "rank": 42,
       "category": "History",
-      "publisher": "Darryl Cooper",
-      "description": "Mythology & Religion in the Human Story",
-      "image": "https://i.scdn.co/image/ab67656300005f1fd83e85a4074e5903fd5ee665",
-      "appleId": "id978322714",
-      "ratings": 3364,
-      "velocity": 7
-    }
-  },
-  {
-    "title": "Aaron Mahnke's Cabinet of Curiosities",
-    "link": "34RuD4w8IVNm49Ge9qzjwT",
-    "meta": {
-      "rank": 43,
-      "category": "History",
-      "publisher": "iHeartPodcasts and Grim & Mild",
-      "description": "From the creator of the hit podcast Lore comes a new, bite-sized storytelling experience. Each twice-weekly episode features two short tales that take listeners on a guided tour of the unbelievable, the unsettling, and the bizarre.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f9ea516b2029c8e3adbcd3f90",
-      "appleId": "id1396546917",
-      "ratings": 7727,
-      "velocity": 1
-    }
-  },
-  {
-    "title": "Uncancelled History",
-    "link": "0ceCE3NeutbWuBwWfzirNk",
-    "meta": {
-      "rank": 44,
-      "category": "History",
-      "publisher": "Nebulous Media",
-      "description": "Uncancelled History is a ten-part podcast and Youtube series that reevaluates historical occurrences, figures, and concepts that have been boycotted and spurned from contemporary society. British author and political analyst Douglas Murray, alongside his expert guests, uncover facts and examine these great figures in the context of their times.  Learn more at www.uncancelledhistory.com ",
-      "image": "https://i.scdn.co/image/ab67656300005f1fc011c4c93addb2ade77cef80",
-      "appleId": "id1654052602",
-      "ratings": 295,
-      "velocity": -6
-    }
-  },
-  {
-    "title": "Dark Histories",
-    "link": "2HCs3hT2txXyBbSo0FPyx8",
-    "meta": {
-      "rank": 45,
-      "category": "History",
-      "publisher": "Ben Cutmore",
-      "description": "Fortnightly narratives on the unsolved and the unexplained, mysteries, historical true crime, touches of the paranormal and cultural peculiarities.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f8a9ac6dc233618ffb898755b",
-      "appleId": "id1279731673",
-      "ratings": 1149,
-      "velocity": 2
-    }
-  },
-  {
-    "title": "Combat Story",
-    "link": "1HfaevfdgCfgc5Zjpcq99a",
-    "meta": {
-      "rank": 46,
-      "category": "History",
-      "publisher": "Ryan Fugit",
-      "description": "Real combat stories from the military's elite. This podcast highlights the courageous, outrageous, crazy, and surreal experiences veterans recall from their toughest days in the foxhole, cockpit, and front lines. We interview JTACs, Special Operators (Delta), Special Forces, Jet Pilots, Combat Aviators, Infrantrymen, Marines, and vets from over 50 years of combat experience.Interviews touch on the toughest missions these vets faced, how they handled them, their first combat experiences, how they found their way to the military, and how they managed after leaving the combat behind.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f161124c590a562d2962bd337",
-      "appleId": "id1537933985",
-      "ratings": 730,
-      "velocity": 5
+      "publisher": "Black Barrel Media",
+      "description": "Historical True Crime — assassins, gangsters, mobsters and lawmen; manhunts, scandals and unexplained phenomena. Stories of the wildest and darkest chapters of America's past.",
+      "image": "https://i.scdn.co/image/ab67656300005f1ffb8c4fedd18aa421ebfaefd9",
+      "appleId": "id1437525441",
+      "ratings": 2328,
+      "velocity": -8
     }
   },
   {
     "title": "Grim & Mild Presents",
     "link": "1DoqkFtEPQjPjek5Ovgkh6",
     "meta": {
-      "rank": 47,
+      "rank": 43,
       "category": "History",
       "publisher": "iHeartPodcasts and Grim & Mild",
       "description": "An ongoing exploration of history’s most unusual and the macabre themes. Each 13-episode season unpacks a new topic in fresh format and style. Presented and executive produced by Aaron Mahnke. Season 1: \"Sideshow\", is all about the history behind one of America's most bizarre institutions, the traveling sideshow.",
       "image": "https://i.scdn.co/image/ab67656300005f1ff87f356c51f3b75c5fdffdb6",
-      "velocity": 1
+      "velocity": 5
     }
   },
   {
-    "title": "Ridiculous Crime",
-    "link": "7Di6gESEKlQMkmImV9RIsY",
+    "title": "Our Fake History",
+    "link": "3Lk9LufHHM9AzVoyYvcI7R",
+    "meta": {
+      "rank": 44,
+      "category": "History",
+      "publisher": "PodcastOne",
+      "description": "A podcast about myths we think are history and history that might be hidden in myths! Awesome stories that really (maybe) happened!",
+      "image": "https://i.scdn.co/image/08a10196e89555fd4d8d6045711256726cc4a078",
+      "appleId": "id1021703062",
+      "ratings": 3003,
+      "velocity": -5
+    }
+  },
+  {
+    "title": "Teorías de Conspiración",
+    "link": "7wQ5NNrWVmC7wDE9Y7cbwR",
+    "meta": {
+      "rank": 45,
+      "category": "History",
+      "publisher": "Spotify Studios",
+      "description": "La verdad rara vez es la mejor historia. Y cuando no es la única historia, la verdad merece otra mirada. Todos los miércoles, contamos las historias complicadas detrás de los eventos más controversiales del mundo y los posibles encubrimientos. ¿Conspiración? Tal vez. ¿Coincidencia? Tal vez. ¿Complicado? Absolutamente. Teorías de Conspiración es un original de Spotify y Parcast.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f20308585f0727bbb0dcf12e9",
+      "velocity": -21
+    }
+  },
+  {
+    "title": "The UnchartedX Podcast",
+    "link": "3rE2u1bCrKpXSLZNRPjk7e",
+    "meta": {
+      "rank": 46,
+      "category": "History",
+      "publisher": "UnchartedX",
+      "description": "Exploring ancient mysteries and contradictions, and what they mean for us today. The  UnchartedX podcast is the audio version of the videos presented on the UnchartedX channel.",
+      "image": "https://i.scdn.co/image/230404e525a81b1c2deb67f959f17f8e09361fb8",
+      "appleId": "id1531638539",
+      "ratings": 118,
+      "velocity": -4
+    }
+  },
+  {
+    "title": "The Team House",
+    "link": "3Qn9VjM5ioPrPFvjkuSjvb",
+    "meta": {
+      "rank": 47,
+      "category": "History",
+      "publisher": "The Team House",
+      "description": "A weekly livestream/podcast hosted by Jack (former Ranger/Special Forces) and Dave (former Ranger/Paramilitary contractor) interviewing Special Operations and intelligence community professionals about their service.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fad0c10567936f41b715f79de",
+      "appleId": "id1492797340",
+      "ratings": 649,
+      "velocity": -12
+    }
+  },
+  {
+    "title": "Aaron Mahnke's Cabinet of Curiosities",
+    "link": "34RuD4w8IVNm49Ge9qzjwT",
     "meta": {
       "rank": 48,
       "category": "History",
-      "publisher": "iHeartPodcasts",
-      "description": "True Crime is more than blood, guts, mayhem, and murder. Zaron Burnett and Elizabeth Dutton share outlandish tales of capers, heists, and cons that shine a light on the absurd and outrageous side of criminality. Always 99% murder-free and 100% ridiculous, this is Ridiculous Crime, a podcast by iHeartRadio.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f7947050d99c77461bba6bb8b",
-      "appleId": "id1608230191",
-      "ratings": 941,
-      "velocity": -2
+      "publisher": "iHeartPodcasts and Grim & Mild",
+      "description": "From the creator of the hit podcast Lore comes a new, bite-sized storytelling experience. Each twice-weekly episode features two short tales that take listeners on a guided tour of the unbelievable, the unsettling, and the bizarre.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f9ea516b2029c8e3adbcd3f90",
+      "appleId": "id1396546917",
+      "ratings": 7727,
+      "velocity": -4
     }
   },
   {
-    "title": "SNAFU with Ed Helms",
-    "link": "33wtdkmcJqI1vUityeNUQb",
+    "title": "Combat Story",
+    "link": "1HfaevfdgCfgc5Zjpcq99a",
     "meta": {
       "rank": 49,
       "category": "History",
-      "publisher": "iHeartPodcasts",
-      "description": "Hosted by Ed Helms, SNAFU is a podcast about history's greatest screw-ups. On Season 1, we tell the story of Able Archer 83, the NATO military exercise that almost caused a nuclear war in November of 1983... or did it?",
-      "image": "https://i.scdn.co/image/ab67656300005f1f8e1a0fda02db5cfb6f5d973a",
-      "appleId": "id1635374692",
-      "ratings": 790,
-      "velocity": 2
+      "publisher": "Ryan Fugit",
+      "description": "Real combat stories from the military's elite. This podcast highlights the courageous, outrageous, crazy, and surreal experiences veterans recall from their toughest days in the foxhole, cockpit, and front lines. We interview JTACs, Special Operators (Delta), Special Forces, Jet Pilots, Combat Aviators, Infrantrymen, Marines, and vets from over 50 years of combat experience.Interviews touch on the toughest missions these vets faced, how they handled them, their first combat experiences, how they found their way to the military, and how they managed after leaving the combat behind.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f161124c590a562d2962bd337",
+      "appleId": "id1537933985",
+      "ratings": 730,
+      "velocity": 0
     }
   },
   {
-    "title": "The Civil War (1861-1865) A History Podcast",
-    "link": "4hDeN68YSop25YryN9qCW9",
+    "title": "Dark Histories",
+    "link": "2HCs3hT2txXyBbSo0FPyx8",
     "meta": {
       "rank": 50,
       "category": "History",
-      "publisher": "Richard Youngdahl",
-      "description": "A history podcast in which Rich & Tracy weave together a comprehensive narrative of the Civil War era.",
-      "image": "https://i.scdn.co/image/ce463eda80d9fb949b807dea8fa13fbb6116b0f4",
-      "appleId": "id579999452",
-      "ratings": 4241,
-      "velocity": -5
+      "publisher": "Ben Cutmore",
+      "description": "Fortnightly narratives on the unsolved and the unexplained, mysteries, historical true crime, touches of the paranormal and cultural peculiarities.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f8a9ac6dc233618ffb898755b",
+      "appleId": "id1279731673",
+      "ratings": 1149,
+      "velocity": -3
     }
   }
 ]

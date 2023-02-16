@@ -15,10 +15,24 @@
     }
   },
   {
+    "title": "The Daily",
+    "link": "3IM0lmZxpFAY7CwMuv9H4g",
+    "meta": {
+      "rank": 2,
+      "category": "News",
+      "publisher": "The New York Times",
+      "description": "This is what the news should sound like. The biggest stories of our time, told by the best journalists in the world. Hosted by Michael Barbaro and Sabrina Tavernise. Twenty minutes a day, five days a week, ready by 6 a.m.",
+      "image": "https://i.scdn.co/image/ef570afd43d43da66c9e5df3957e049f5c3464c3",
+      "appleId": "id1200361736",
+      "ratings": 89530,
+      "velocity": 1
+    }
+  },
+  {
     "title": "Up First",
     "link": "2mTUnDkuKUkhiueKcVWoP0",
     "meta": {
-      "rank": 2,
+      "rank": 3,
       "category": "News",
       "publisher": "NPR",
       "description": "NPR's Up First is the news you need to start your day. The three biggest stories of the day, with reporting and analysis from NPR News — in 10 minutes. Available weekdays by 6 a.m. ET, with hosts Leila Fadel, Steve Inskeep, Rachel Martin and A Martinez. Also available on Saturdays by 8 a.m. ET, with Ayesha Rascoe and Scott Simon. On Sundays, hear a longer exploration behind the headlines with Rachel Martin, available by 8 a.m. ET. Subscribe and listen, then support your local NPR station at donate.npr.org.Support NPR's reporting by subscribing to Up First+ and unlock sponsor-free listening. Learn more at plus.npr.org/UpFirst",
@@ -26,35 +40,21 @@
       "followers": 54696,
       "appleId": "id1222114325",
       "ratings": 49842,
-      "velocity": 0
+      "velocity": -1
     }
   },
   {
-    "title": "The Daily",
-    "link": "3IM0lmZxpFAY7CwMuv9H4g",
-    "meta": {
-      "rank": 3,
-      "category": "News",
-      "publisher": "The New York Times",
-      "description": "This is what the news should sound like. The biggest stories of our time, told by the best journalists in the world. Hosted by Michael Barbaro and Sabrina Tavernise. Twenty minutes a day, five days a week, ready by 6 a.m.",
-      "image": "https://i.scdn.co/image/ef570afd43d43da66c9e5df3957e049f5c3464c3",
-      "appleId": "id1200361736",
-      "ratings": 89530,
-      "velocity": 0
-    }
-  },
-  {
-    "title": "The Ben Shapiro Show",
-    "link": "1WErgoXiZwgctkHLzqU6nf",
+    "title": "Mr Nightmare Podcast",
+    "link": "2zEsaBdlIpdlLnCLrV47MF",
     "meta": {
       "rank": 4,
       "category": "News",
-      "publisher": "The Daily Wire",
-      "description": "Tired of the lies? Tired of the spin? Are you ready to hear the hard-hitting truth in comprehensive, conservative, principled fashion? The Ben Shapiro Show brings you all the news you need to know in the most fast moving daily program in America. Ben brutally breaks down the culture and never gives an inch! Monday thru Friday.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f8fe35bd580ccd239759da7fe",
-      "appleId": "id1047335260",
-      "ratings": 141677,
-      "velocity": 0
+      "publisher": "Daniel Rocha lll",
+      "description": "Mr.Nightmare Podcast - Listen to scary stories from Mr. Nightmare on Spotify!",
+      "image": "https://i.scdn.co/image/ab67656300005f1f8b3549d06152ff0677962195",
+      "appleId": "id1570764990",
+      "ratings": 518,
+      "velocity": 4
     }
   },
   {
@@ -87,31 +87,31 @@
     }
   },
   {
+    "title": "The Ben Shapiro Show",
+    "link": "1WErgoXiZwgctkHLzqU6nf",
+    "meta": {
+      "rank": 7,
+      "category": "News",
+      "publisher": "The Daily Wire",
+      "description": "Tired of the lies? Tired of the spin? Are you ready to hear the hard-hitting truth in comprehensive, conservative, principled fashion? The Ben Shapiro Show brings you all the news you need to know in the most fast moving daily program in America. Ben brutally breaks down the culture and never gives an inch! Monday thru Friday.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f8fe35bd580ccd239759da7fe",
+      "appleId": "id1047335260",
+      "ratings": 141677,
+      "velocity": -3
+    }
+  },
+  {
     "title": "Dan Bongino Show",
     "link": "4sftHO603JaFqpuQBEZReL",
     "meta": {
-      "rank": 7,
+      "rank": 8,
       "category": "News",
       "publisher": "Cumulus Podcast Network | Dan Bongino",
       "description": "He’s a former Secret Service Agent, former NYPD officer, and New York Times best-selling author. Join Dan Bongino each weekday as he tackles the hottest political issues, debunking both liberal and Republican establishment rhetoric.",
       "image": "https://i.scdn.co/image/ab67656300005f1fe45c5aaa7f1d5592712a998f",
       "appleId": "id965293227",
       "ratings": 53247,
-      "velocity": 0
-    }
-  },
-  {
-    "title": "Mr Nightmare Podcast",
-    "link": "2zEsaBdlIpdlLnCLrV47MF",
-    "meta": {
-      "rank": 8,
-      "category": "News",
-      "publisher": "Daniel Rocha lll",
-      "description": "Mr.Nightmare Podcast - Listen to scary stories from Mr. Nightmare on Spotify!",
-      "image": "https://i.scdn.co/image/ab67656300005f1f8b3549d06152ff0677962195",
-      "appleId": "id1570764990",
-      "ratings": 518,
-      "velocity": 0
+      "velocity": -1
     }
   },
   {
@@ -158,85 +158,87 @@
     }
   },
   {
-    "title": "WSJ What’s News",
-    "link": "59176gU8vcFho6Sc1dm3Lu",
-    "meta": {
-      "rank": 12,
-      "category": "News",
-      "publisher": "The Wall Street Journal",
-      "description": "What's News brings you the headlines and business news that move markets and the world—twice every weekday. In 10-12 minutes, get caught up on the best Wall Street Journal scoops and exclusives, with insight and analysis from the award-winning reporters that broke the stories. Hosted by Annmarie Fertoli and Luke Vargas.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f0d69329f8b53a1823ea231f4",
-      "appleId": "id152016440",
-      "ratings": 3285,
-      "velocity": 1
-    }
-  },
-  {
-    "title": "Wall Street Breakfast",
-    "link": "05uLjJxkVgQsRk8LWLCLpx",
-    "meta": {
-      "rank": 13,
-      "category": "News",
-      "publisher": "Seeking Alpha",
-      "description": "Seeking Alpha's Wall Street Breakfast brings investors the top news every morning. Released by 8:00am ET, it's all the news you need to know for your market day.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fcff838e7010e478d76e0703c",
-      "appleId": "id1358381502",
-      "ratings": 787,
-      "velocity": 1
-    }
-  },
-  {
-    "title": "Today, Explained",
-    "link": "3pXx5SXzXwJxnf4A5pWN2A",
-    "meta": {
-      "rank": 14,
-      "category": "News",
-      "publisher": "Vox",
-      "description": "News comes at you fast. Join us at the end of your day to understand it. Today, Explained is your all killer, no filler, Monday to Friday news explainer co-hosted by Sean Rameswaram and Noel King. Every episode features the finest reporters from the Vox Media Podcast Network and beyond.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f0e73681a9827386b958b6d89",
-      "appleId": "id1346207297",
-      "ratings": 8169,
-      "velocity": 1
-    }
-  },
-  {
     "title": "System Update with Glenn Greenwald",
     "link": "7nIQct5mbPPYV4dFiseLWv",
     "meta": {
-      "rank": 15,
+      "rank": 12,
       "category": "News",
       "publisher": "Rumble",
       "description": "System Update is a LIVE prime-time news show hosted by Glenn Greenwald. Join us on Rumble, weeknights at 7pm ET, for unencumbered analysis and investigative reporting, captive to no dogma or faction.   https://rumble.com/c/GGreenwald",
       "image": "https://i.scdn.co/image/ab67656300005f1f19168fdb283d019b15186ffa",
       "appleId": "id1669610956",
       "ratings": 46,
-      "velocity": 3
+      "velocity": 6
     }
   },
   {
-    "title": "The Kyle Kulinski Show",
-    "link": "5OGGuJD0txpWV0QOETTcjU",
+    "title": "Plain English with Derek Thompson",
+    "link": "3fQkNGzE1mBF1VrxVTY0oo",
     "meta": {
-      "rank": 16,
+      "rank": 13,
       "category": "News",
-      "publisher": "Kyle Kulinski",
-      "description": "With over 800,000 subscribers and nearly 670 million total views on YouTube, selling a progressive agenda is clearly something Kulinski knows how to do — even Democracy Now, the long-standing flagship of progressive media, cannot match his reach on the platform. Chapo Trap House can certainly boast a wildly devoted fan base (and a not insignificant degree of media influence), but their audience is roughly half the size of Kulinski’s.While Secular Talk might be more likely to be looped in with the progressive networks around Air America and Pacifica alums like Sam Seder than the more resolutely socialist world, Kulinski’s fiery rhetoric, razor-sharp class instincts, and knack for withering takedowns sets him apart from his peers. Judging by his rhetoric alone, he’s closer to a Eugene Debs than a Chris Hayes.But unlike Hayes, Amy Goodman, or his friend Cenk Uygur of The Young Turks — who began airing Secular Talk on his web network seven years ago — the thirty-two-year-old Kulinski is virtually invisible in the mainstream media. Despite his enormous fan base, his show has never once been mentioned in the obligatory trend pieces on “the Millennial Left” pumped out by the prestige media. Nor has Kulinski’s name ever popped up at all in the New York Times, Vox, the New Yorker, New York Magazine, or the Washington Post, despite his leading role in cofounding Justice Democrats, the organization widely credited with sweeping Alexandria Ocasio-Cortez and the rest of “the Squad” to power.Just last week, his Wikipedia page was deleted. The reason? “There is very simply no [reliable source] coverage of this person,” according to one moderator. In new media, he’s king — the Sean Hannity of the Berniecrat left. In old media, he’s nobody.I suspect there are a few reasons for that. There is nothing “cool” about Kulinski’s show. (As a friend put it, “‘Welcome to Secular Talk’ sounds like something you’d hear on Egyptian radio.”) His no-nonsense social-democratic politics won’t get him much cred with the Full Communism crowd. He records his show not in Brooklyn or Los Angeles, but in a studio he built himself in his modest Westchester home. His hair is too groomed and his taste in clothes too preppy to qualify as “Dirtbag Left.” Nor has he ever attended an n+1 release party. “Not only have I not attended one,” he says, “I have no idea what that means.”And yet he’s astonishingly plugged-in for a young man in the suburbs. Wondering how Sanders ended up on the Joe Rogan Experience? Kulinski, a frequent guest on Rogan’s wildly popular show, introduced them. “You make the most sense to me,” Rogan told Kulinski on a recent episode. “You’re a normal person.”Much like Sanders himself, Kulinski’s show has a massive audience that just doesn’t compute with our media’s understanding of “what the kids want” or even “what the left-wing kids want.”It’s probably for the best — the very woke and very WASP-ish decorum haunting much of the media world is nowhere to be found in Secular Talk. “Corporate Democrats over-focus on identity as a trick to divert you from the issues that unite us all — class issues,” he said on a recent episode. “That Raytheon decided they don’t hate gays or trans people — frankly, I don’t really give a shit what their take on that is...\"Read More Here!: https://jacobinmag.com/2020/03/kyle-kulinski-bernie-bros-secular-talk-joe-rogan-youtube #KyleKulinski #SecularTalk",
-      "image": "https://i.scdn.co/image/ab67656300005f1f042f570806d4a8138af14639",
-      "velocity": -4
+      "publisher": "The Ringer",
+      "description": "Longtime Atlantic tech, culture and political writer Derek Thompson cuts through all the noise surrounding the big questions and headlines that matter to you in his new podcast Plain English. Hear Derek and guests engage the news with clear viewpoints and memorable takeaways. New episodes drop every Tuesday and Friday, and if you've got a topic you want discussed, shoot us an email at plainenglish@spotify.com! You can also find us on tiktok at www.tiktok.com/@plainenglish_",
+      "image": "https://i.scdn.co/image/ab67656300005f1fc9e56d80414c704e97883434",
+      "appleId": "id1594471023",
+      "ratings": 816,
+      "velocity": 11
+    }
+  },
+  {
+    "title": "WSJ What’s News",
+    "link": "59176gU8vcFho6Sc1dm3Lu",
+    "meta": {
+      "rank": 14,
+      "category": "News",
+      "publisher": "The Wall Street Journal",
+      "description": "What's News brings you the headlines and business news that move markets and the world—twice every weekday. In 10-12 minutes, get caught up on the best Wall Street Journal scoops and exclusives, with insight and analysis from the award-winning reporters that broke the stories. Hosted by Annmarie Fertoli and Luke Vargas.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f0d69329f8b53a1823ea231f4",
+      "appleId": "id152016440",
+      "ratings": 3285,
+      "velocity": -1
+    }
+  },
+  {
+    "title": "Wall Street Breakfast",
+    "link": "05uLjJxkVgQsRk8LWLCLpx",
+    "meta": {
+      "rank": 15,
+      "category": "News",
+      "publisher": "Seeking Alpha",
+      "description": "Seeking Alpha's Wall Street Breakfast brings investors the top news every morning. Released by 8:00am ET, it's all the news you need to know for your market day.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fcff838e7010e478d76e0703c",
+      "appleId": "id1358381502",
+      "ratings": 787,
+      "velocity": -1
     }
   },
   {
     "title": "Morning Wire",
     "link": "3YMFdNqoNtVcCBKSUvjr8n",
     "meta": {
-      "rank": 17,
+      "rank": 16,
       "category": "News",
       "publisher": "The Daily Wire",
       "description": "Trust in the media is at an all-time low. And there’s a reason—endless virtue signaling and manufactured outrage. Finally, there’s an alternative. Morning Wire is presented by Daily Wire Editor-in-Chief, John Bickley, and co-host Georgia Howe. Get daily coverage of the latest developments in politics, culture, education, sports, and more. Wake up with Morning Wire and get the facts first on the news you need to know.",
       "image": "https://i.scdn.co/image/ab67656300005f1f2cec91e11ed0d0f96ebc3906",
       "appleId": "id1576594336",
       "ratings": 22406,
-      "velocity": -1
+      "velocity": 0
+    }
+  },
+  {
+    "title": "Today, Explained",
+    "link": "3pXx5SXzXwJxnf4A5pWN2A",
+    "meta": {
+      "rank": 17,
+      "category": "News",
+      "publisher": "Vox",
+      "description": "News comes at you fast. Join us at the end of your day to understand it. Today, Explained is your all killer, no filler, Monday to Friday news explainer co-hosted by Sean Rameswaram and Noel King. Every episode features the finest reporters from the Vox Media Podcast Network and beyond.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f0e73681a9827386b958b6d89",
+      "appleId": "id1346207297",
+      "ratings": 8169,
+      "velocity": -2
     }
   },
   {
@@ -312,101 +314,97 @@
     }
   },
   {
-    "title": "The Glenn Beck Program",
-    "link": "3ljAZqaEXyT2MAC8hfO0cR",
-    "meta": {
-      "rank": 23,
-      "category": "News",
-      "publisher": "Blaze Podcast Network",
-      "description": "Storytelling, insight and compelling perspective on American culture and politics. Glenn Beck's quick wit, candid opinions and engaging personality have made this one of the most popular radio programs in America. Watch The Glenn Beck Radio Program, Monday through Friday, 9am - 12pm ET on BlazeTV. www.BlazeTV.com/Glenn",
-      "image": "https://i.scdn.co/image/ab67656300005f1f9e230ee0bccec344fb511e30",
-      "appleId": "id620967489",
-      "ratings": 19456,
-      "velocity": 0
-    }
-  },
-  {
-    "title": "Plain English with Derek Thompson",
-    "link": "3fQkNGzE1mBF1VrxVTY0oo",
-    "meta": {
-      "rank": 24,
-      "category": "News",
-      "publisher": "The Ringer",
-      "description": "Longtime Atlantic tech, culture and political writer Derek Thompson cuts through all the noise surrounding the big questions and headlines that matter to you in his new podcast Plain English. Hear Derek and guests engage the news with clear viewpoints and memorable takeaways. New episodes drop every Tuesday and Friday, and if you've got a topic you want discussed, shoot us an email at plainenglish@spotify.com! You can also find us on tiktok at www.tiktok.com/@plainenglish_",
-      "image": "https://i.scdn.co/image/ab67656300005f1fc9e56d80414c704e97883434",
-      "appleId": "id1594471023",
-      "ratings": 816,
-      "velocity": 0
-    }
-  },
-  {
-    "title": "Infamous",
-    "link": "389qIHRrnmIsktjaTxqMHa",
-    "meta": {
-      "rank": 25,
-      "category": "News",
-      "publisher": "Campside Media / Sony Music Entertainment",
-      "description": "Behind every infamous news story is a journalist trying to hold power to account. Join reporters Vanessa Grigoriadis and Gabriel Sherman as they take an in-depth look at the most explosive scandals of this century. From high-profile divorces to sex cults to the lies that started a war, they’ll guide you through the juiciest, most outrageous, celeb-filled stories of the last two decades, and give you a behind-the-scenes look at what it takes to shine an unflattering light on the world’s most powerful people.  A Campside Media & Sony Music Entertainment production.  Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcasts  To bring your brand to life in this podcast, email: podcastadsales@sonymusic.com  Learn more about your ad choices. Visitmegaphone.fm/adchoices",
-      "image": "https://i.scdn.co/image/ab67656300005f1feec27467bac6497c7ef04a2b",
-      "appleId": "id1652941051",
-      "ratings": 149,
-      "velocity": 3
-    }
-  },
-  {
     "title": "FOX News Hourly Update",
     "link": "6IXn2rWLGMcVVEOELvA8Hw",
     "meta": {
-      "rank": 26,
+      "rank": 23,
       "category": "News",
       "publisher": "Fox News Radio",
       "description": "The latest news from the fastest growing radio news network, FOX News Radio. Listen to the power of FOX News on radio! Updated hourly!",
       "image": "https://i.scdn.co/image/ab67656300005f1f03d2971495cd3e199341500a",
       "appleId": "id209991975",
       "ratings": 4339,
-      "velocity": 0
+      "velocity": 3
     }
   },
   {
-    "title": "Pivot",
-    "link": "4MU3RFGELZxPT9XHVwTNPR",
+    "title": "The Kyle Kulinski Show",
+    "link": "5OGGuJD0txpWV0QOETTcjU",
     "meta": {
-      "rank": 27,
+      "rank": 24,
       "category": "News",
-      "publisher": "New York Magazine",
-      "description": "Every Tuesday and Friday, tech journalist Kara Swisher and NYU Professor Scott Galloway offer sharp, unfiltered insights into the biggest stories in tech, business, and politics. They make bold predictions, pick winners and losers, and bicker and banter like no one else. After all, with great power comes great scrutiny. From New York Magazine and the Vox Media Podcast Network.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f74cc4cb80e1b19d031e82860",
-      "appleId": "id1073226719",
-      "ratings": 5089,
+      "publisher": "Kyle Kulinski",
+      "description": "With over 800,000 subscribers and nearly 670 million total views on YouTube, selling a progressive agenda is clearly something Kulinski knows how to do — even Democracy Now, the long-standing flagship of progressive media, cannot match his reach on the platform. Chapo Trap House can certainly boast a wildly devoted fan base (and a not insignificant degree of media influence), but their audience is roughly half the size of Kulinski’s.While Secular Talk might be more likely to be looped in with the progressive networks around Air America and Pacifica alums like Sam Seder than the more resolutely socialist world, Kulinski’s fiery rhetoric, razor-sharp class instincts, and knack for withering takedowns sets him apart from his peers. Judging by his rhetoric alone, he’s closer to a Eugene Debs than a Chris Hayes.But unlike Hayes, Amy Goodman, or his friend Cenk Uygur of The Young Turks — who began airing Secular Talk on his web network seven years ago — the thirty-two-year-old Kulinski is virtually invisible in the mainstream media. Despite his enormous fan base, his show has never once been mentioned in the obligatory trend pieces on “the Millennial Left” pumped out by the prestige media. Nor has Kulinski’s name ever popped up at all in the New York Times, Vox, the New Yorker, New York Magazine, or the Washington Post, despite his leading role in cofounding Justice Democrats, the organization widely credited with sweeping Alexandria Ocasio-Cortez and the rest of “the Squad” to power.Just last week, his Wikipedia page was deleted. The reason? “There is very simply no [reliable source] coverage of this person,” according to one moderator. In new media, he’s king — the Sean Hannity of the Berniecrat left. In old media, he’s nobody.I suspect there are a few reasons for that. There is nothing “cool” about Kulinski’s show. (As a friend put it, “‘Welcome to Secular Talk’ sounds like something you’d hear on Egyptian radio.”) His no-nonsense social-democratic politics won’t get him much cred with the Full Communism crowd. He records his show not in Brooklyn or Los Angeles, but in a studio he built himself in his modest Westchester home. His hair is too groomed and his taste in clothes too preppy to qualify as “Dirtbag Left.” Nor has he ever attended an n+1 release party. “Not only have I not attended one,” he says, “I have no idea what that means.”And yet he’s astonishingly plugged-in for a young man in the suburbs. Wondering how Sanders ended up on the Joe Rogan Experience? Kulinski, a frequent guest on Rogan’s wildly popular show, introduced them. “You make the most sense to me,” Rogan told Kulinski on a recent episode. “You’re a normal person.”Much like Sanders himself, Kulinski’s show has a massive audience that just doesn’t compute with our media’s understanding of “what the kids want” or even “what the left-wing kids want.”It’s probably for the best — the very woke and very WASP-ish decorum haunting much of the media world is nowhere to be found in Secular Talk. “Corporate Democrats over-focus on identity as a trick to divert you from the issues that unite us all — class issues,” he said on a recent episode. “That Raytheon decided they don’t hate gays or trans people — frankly, I don’t really give a shit what their take on that is...\"Read More Here!: https://jacobinmag.com/2020/03/kyle-kulinski-bernie-bros-secular-talk-joe-rogan-youtube #KyleKulinski #SecularTalk",
+      "image": "https://i.scdn.co/image/ab67656300005f1f042f570806d4a8138af14639",
+      "velocity": -12
+    }
+  },
+  {
+    "title": "The Glenn Beck Program",
+    "link": "3ljAZqaEXyT2MAC8hfO0cR",
+    "meta": {
+      "rank": 25,
+      "category": "News",
+      "publisher": "Blaze Podcast Network",
+      "description": "Storytelling, insight and compelling perspective on American culture and politics. Glenn Beck's quick wit, candid opinions and engaging personality have made this one of the most popular radio programs in America. Watch The Glenn Beck Radio Program, Monday through Friday, 9am - 12pm ET on BlazeTV. www.BlazeTV.com/Glenn",
+      "image": "https://i.scdn.co/image/ab67656300005f1f9e230ee0bccec344fb511e30",
+      "appleId": "id620967489",
+      "ratings": 19456,
       "velocity": -2
     }
   },
   {
-    "title": "WSJ Tech News Briefing",
-    "link": "51MrXc7hJQBE2WJf2g4aWN",
+    "title": "Infamous",
+    "link": "389qIHRrnmIsktjaTxqMHa",
     "meta": {
-      "rank": 28,
+      "rank": 26,
       "category": "News",
-      "publisher": "The Wall Street Journal",
-      "description": "Tech News Briefing is your guide to what people in tech are talking about. Every weekday, we’ll bring you breaking tech news and scoops from the pros at the Wall Street Journal, insight into new innovations and policy debates, tips from our personal tech team, and exclusive interviews with movers and shakers in the industry. Hosted by Zoe Thomas",
-      "image": "https://i.scdn.co/image/ab67656300005f1f03ca030971bd437e835dfa00",
-      "appleId": "id74844126",
-      "ratings": 1384,
-      "velocity": 1
+      "publisher": "Campside Media / Sony Music Entertainment",
+      "description": "Behind every infamous news story is a journalist trying to hold power to account. Join reporters Vanessa Grigoriadis and Gabriel Sherman as they take an in-depth look at the most explosive scandals of this century. From high-profile divorces to sex cults to the lies that started a war, they’ll guide you through the juiciest, most outrageous, celeb-filled stories of the last two decades, and give you a behind-the-scenes look at what it takes to shine an unflattering light on the world’s most powerful people.  A Campside Media & Sony Music Entertainment production.  Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcasts  To bring your brand to life in this podcast, email: podcastadsales@sonymusic.com  Learn more about your ad choices. Visitmegaphone.fm/adchoices",
+      "image": "https://i.scdn.co/image/ab67656300005f1feec27467bac6497c7ef04a2b",
+      "appleId": "id1652941051",
+      "ratings": 149,
+      "velocity": 2
     }
   },
   {
     "title": "Rachel Maddow Presents: Ultra",
     "link": "3ImqTb6CcfZINTgByeAThh",
     "meta": {
-      "rank": 29,
+      "rank": 27,
       "category": "News",
       "publisher": "Rachel Maddow, MSNBC",
       "description": "Sitting members of Congress aiding and abetting a plot to overthrow the government. Insurrectionists criminally charged with plotting to end American democracy for good. Justice Department prosecutors under crushing political pressure. Rachel Maddow Presents: Ultra is the all-but-forgotten true story of good, old-fashioned American extremism getting supercharged by proximity to power. When extremist elected officials get caught plotting against America with the violent ultra right, this is the story of the lengths they will go to… to cover their tracks. Follow now and join Rachel Maddow for the first two episodes on October 10th.",
       "image": "https://i.scdn.co/image/ab67656300005f1fc87bcf7ea4a6130ad9027d72",
       "appleId": "id1647910854",
       "ratings": 26456,
-      "velocity": 1
+      "velocity": 3
+    }
+  },
+  {
+    "title": "Pivot",
+    "link": "4MU3RFGELZxPT9XHVwTNPR",
+    "meta": {
+      "rank": 28,
+      "category": "News",
+      "publisher": "New York Magazine",
+      "description": "Every Tuesday and Friday, tech journalist Kara Swisher and NYU Professor Scott Galloway offer sharp, unfiltered insights into the biggest stories in tech, business, and politics. They make bold predictions, pick winners and losers, and bicker and banter like no one else. After all, with great power comes great scrutiny. From New York Magazine and the Vox Media Podcast Network.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f74cc4cb80e1b19d031e82860",
+      "appleId": "id1073226719",
+      "ratings": 5089,
+      "velocity": -3
+    }
+  },
+  {
+    "title": "The Charlie Kirk Show",
+    "link": "0LLIIAYfTJ0axsrOcgsE0V",
+    "meta": {
+      "rank": 29,
+      "category": "News",
+      "publisher": "Charlie Kirk",
+      "description": "Charlie is America's hardest working grassroots activist who has your inside scoop on the biggest news of the day and what's really going on behind the headlines. The founder of Turning Point USA and one of social media's most engaged personalities, Charlie is on the front lines of America’s culture war, mobilizing hundreds of thousands of students on over 2,500 college and high school campuses across the country, bringing you your daily dose of clarity in a sea of chaos all from his signature no-holds-barred, unapologetically conservative, freedom-loving point of view. You can also watch Charlie Kirk on Salem News Channel",
+      "image": "https://i.scdn.co/image/ab67656300005f1ffc1a813515ae1abbcdd079eb",
+      "velocity": 4
     }
   },
   {
@@ -424,69 +422,73 @@
     }
   },
   {
-    "title": "The Fox News Rundown",
-    "link": "7A4YfyFtNOZhqMV7F3kYVu",
-    "meta": {
-      "rank": 31,
-      "category": "News",
-      "publisher": "FOX News Radio",
-      "description": "The FOX News Rundown is the place to find in-depth reporting on the news that impacts you. Each morning, Mike Emanuel, Dave Anthony, Lisa Brady, Jessica Rosenthal, and Chris Foster take a deep dive into the major and controversial stories of the day, tapping into the massive reporting resources of FOX News to provide a full picture of the news.    Plus, every night, The FOX News Rundown: Evening Edition brings you even more coverage of the day's biggest stories and on the weekend, you’ll hear everything that’s going on in the beltway with The FOX News Rundown: From Washington and special uncut, unedited interviews with The FOX News Rundown: Extra.    Each day The FOX News Rundown features insight from top newsmakers, along with FOX News reporters and contributors, plus a daily commentary on a significant issue of the day. Check us out twice a day, every day.  FOX News Rundown: War On Ukraine: With Russia launching a full-scale invasion against its sovereign neighbor, The FOX News Rundown is there to provide in-depth coverage on the conflict. Every evening The FOX News Rundown: War On Ukraine provides up to date reporting and analysis on the crisis unfolding in that country. With insight from experts and reporting from correspondents on the ground, The FOX News Rundown brings you everything you need to know about the armed conflict.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f9d083ae888125192f61ea219",
-      "appleId": "id1303660358",
-      "ratings": 1298,
-      "velocity": 4
-    }
-  },
-  {
-    "title": "The Charlie Kirk Show",
-    "link": "0LLIIAYfTJ0axsrOcgsE0V",
-    "meta": {
-      "rank": 32,
-      "category": "News",
-      "publisher": "Charlie Kirk",
-      "description": "Charlie is America's hardest working grassroots activist who has your inside scoop on the biggest news of the day and what's really going on behind the headlines. The founder of Turning Point USA and one of social media's most engaged personalities, Charlie is on the front lines of America’s culture war, mobilizing hundreds of thousands of students on over 2,500 college and high school campuses across the country, bringing you your daily dose of clarity in a sea of chaos all from his signature no-holds-barred, unapologetically conservative, freedom-loving point of view. You can also watch Charlie Kirk on Salem News Channel",
-      "image": "https://i.scdn.co/image/ab67656300005f1ffc1a813515ae1abbcdd079eb",
-      "velocity": 1
-    }
-  },
-  {
-    "title": "Fear&",
-    "link": "6ROC5fObRcmKhTQdciKk0Q",
-    "meta": {
-      "rank": 33,
-      "category": "News",
-      "publisher": "Hasan Piker & Will Neff",
-      "description": "Fear& is a show hosted by Will Neff & Hasan Piker. The show will occasionally contain special guests and cover pop culture events, memes, reacts, fun light hearted conversation topics and totally will not veer off down into a dark political blackpilled depressing rabbit hole. :)",
-      "image": "https://i.scdn.co/image/ab67656300005f1fbd4ecc99e6d357a4ebad25d9",
-      "velocity": -1
-    }
-  },
-  {
     "title": "The Michael Knowles Show",
     "link": "3TdABllOVzlzharkEdaiWg",
     "meta": {
-      "rank": 34,
+      "rank": 31,
       "category": "News",
       "publisher": "The Daily Wire",
       "description": "Bask in the simple joys of being right. The Michael Knowles Show cuts through the madness of our politics and culture, analyzing the top stories of the day. Monday through Friday. If you like The Michael Knowles Show, become a Daily Wire member TODAY with promo code: KNOWLES and enjoy the exclusive benefits for 25% off at https://utm.io/ueEss",
       "image": "https://i.scdn.co/image/ab67656300005f1f173998c6eafcb234bf0e9df8",
       "appleId": "id1266577963",
       "ratings": 242,
-      "velocity": 5
+      "velocity": 8
+    }
+  },
+  {
+    "title": "The Fox News Rundown",
+    "link": "7A4YfyFtNOZhqMV7F3kYVu",
+    "meta": {
+      "rank": 32,
+      "category": "News",
+      "publisher": "FOX News Radio",
+      "description": "The FOX News Rundown is the place to find in-depth reporting on the news that impacts you. Each morning, Mike Emanuel, Dave Anthony, Lisa Brady, Jessica Rosenthal, and Chris Foster take a deep dive into the major and controversial stories of the day, tapping into the massive reporting resources of FOX News to provide a full picture of the news.    Plus, every night, The FOX News Rundown: Evening Edition brings you even more coverage of the day's biggest stories and on the weekend, you’ll hear everything that’s going on in the beltway with The FOX News Rundown: From Washington and special uncut, unedited interviews with The FOX News Rundown: Extra.    Each day The FOX News Rundown features insight from top newsmakers, along with FOX News reporters and contributors, plus a daily commentary on a significant issue of the day. Check us out twice a day, every day.  FOX News Rundown: War On Ukraine: With Russia launching a full-scale invasion against its sovereign neighbor, The FOX News Rundown is there to provide in-depth coverage on the conflict. Every evening The FOX News Rundown: War On Ukraine provides up to date reporting and analysis on the crisis unfolding in that country. With insight from experts and reporting from correspondents on the ground, The FOX News Rundown brings you everything you need to know about the armed conflict.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f9d083ae888125192f61ea219",
+      "appleId": "id1303660358",
+      "ratings": 1298,
+      "velocity": 3
     }
   },
   {
     "title": "WSJ Your Money Briefing",
     "link": "5YRV9BLDp5J6ODvbHsDmJi",
     "meta": {
-      "rank": 35,
+      "rank": 33,
       "category": "News",
       "publisher": "The Wall Street Journal",
       "description": "Your Money Briefing is your personal-finance and career checklist, with the news that affects your money and what you do with it. From spending and saving to investing and taxes, the Wall Street Journal’s finance reporters and experts break down complicated money questions every weekday to help you make better decisions about managing your money. Hosted by J.R. Whalen.",
       "image": "https://i.scdn.co/image/ab67656300005f1f27a2a2be04c006568fe66cf9",
       "appleId": "id152024419",
       "ratings": 1346,
-      "velocity": -8
+      "velocity": -6
+    }
+  },
+  {
+    "title": "WSJ Tech News Briefing",
+    "link": "51MrXc7hJQBE2WJf2g4aWN",
+    "meta": {
+      "rank": 34,
+      "category": "News",
+      "publisher": "The Wall Street Journal",
+      "description": "Tech News Briefing is your guide to what people in tech are talking about. Every weekday, we’ll bring you breaking tech news and scoops from the pros at the Wall Street Journal, insight into new innovations and policy debates, tips from our personal tech team, and exclusive interviews with movers and shakers in the industry. Hosted by Zoe Thomas",
+      "image": "https://i.scdn.co/image/ab67656300005f1f03ca030971bd437e835dfa00",
+      "appleId": "id74844126",
+      "ratings": 1384,
+      "velocity": -5
+    }
+  },
+  {
+    "title": "Havana Syndrome",
+    "link": "4ecx3ViNwVPer9CZCKG6n4",
+    "meta": {
+      "rank": 35,
+      "category": "News",
+      "publisher": "VICE ",
+      "description": "In 2016, a mysterious, debilitating illness begins to afflict American diplomats and spies working abroad – first in Cuba, and then around the world. Victims report crippling neurological symptoms. Some describe the feeling of being hit by an invisible, directed pressure while they were stationed on government property, or sometimes standing in their own homes or hotel rooms. Is this bizarre illness the result of a weapon? Is it mass psychosis? Or something else entirely? Award-winning journalists Jon Lee Anderson and Adam Entous take listeners to the heart of this saga in HAVANA SYNDROME, a new podcast from VICE World News. Hosted on Acast. See acast.com/privacy for more information.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f73e182a0a637eae46acc729a",
+      "appleId": "id1661362245",
+      "ratings": 206,
+      "velocity": 3
     }
   },
   {
@@ -504,86 +506,30 @@
     }
   },
   {
-    "title": "Consider This from NPR",
-    "link": "3Z6JdCS2d0eFEpXHKI6WqH",
-    "meta": {
-      "rank": 37,
-      "category": "News",
-      "publisher": "NPR",
-      "description": "Six days a week, from Monday through Saturday, the hosts of NPR's All Things Considered help you make sense of a major news story and what it means for you, in 15 minutes. In participating regions on weekdays, you'll also hear from local journalists about what's happening in your community.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f9fae160bdb0a99e9e4930afc",
-      "appleId": "id1503226625",
-      "ratings": 4649,
-      "velocity": -3
-    }
-  },
-  {
-    "title": "The New Yorker Radio Hour",
-    "link": "4ZTHlQzCm7ipnRn1ypnl1Z",
-    "meta": {
-      "rank": 38,
-      "category": "News",
-      "publisher": "WNYC Studios and The New Yorker",
-      "description": "Profiles, storytelling and insightful conversations, hosted by David Remnick.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f536288121c7fd14850068ed5",
-      "appleId": "id1050430296",
-      "ratings": 4381,
-      "velocity": -2
-    }
-  },
-  {
     "title": "Relatable with Allie Beth Stuckey",
     "link": "6HUhXbF0dPutdhbnLnxRQZ",
     "meta": {
-      "rank": 39,
+      "rank": 37,
       "category": "News",
       "publisher": "Blaze Podcast Network",
       "description": "Upbeat and in-depth, Relatable with Allie Beth Stuckey breaks down the latest in culture, news, theology & politics from a Christian, conservative perspective. Allie’s fresh analysis of the most important issues provides an entertaining and effective way to stay in the know.",
       "image": "https://i.scdn.co/image/ab67656300005f1f02480c936523fda3df80339f",
       "appleId": "id1359249098",
       "ratings": 15342,
-      "velocity": 1
+      "velocity": 3
     }
   },
   {
-    "title": "Havana Syndrome",
-    "link": "4ecx3ViNwVPer9CZCKG6n4",
+    "title": "Hodgetwins",
+    "link": "1ppx7TUJCHEYtZWCLJ3WwQ",
     "meta": {
-      "rank": 40,
+      "rank": 38,
       "category": "News",
-      "publisher": "VICE ",
-      "description": "In 2016, a mysterious, debilitating illness begins to afflict American diplomats and spies working abroad – first in Cuba, and then around the world. Victims report crippling neurological symptoms. Some describe the feeling of being hit by an invisible, directed pressure while they were stationed on government property, or sometimes standing in their own homes or hotel rooms. Is this bizarre illness the result of a weapon? Is it mass psychosis? Or something else entirely? Award-winning journalists Jon Lee Anderson and Adam Entous take listeners to the heart of this saga in HAVANA SYNDROME, a new podcast from VICE World News. Hosted on Acast. See acast.com/privacy for more information.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f73e182a0a637eae46acc729a",
-      "appleId": "id1661362245",
-      "ratings": 206,
-      "velocity": -2
-    }
-  },
-  {
-    "title": "CNN 5 Things",
-    "link": "1xGSLDgVYxLybmXpui6wwo",
-    "meta": {
-      "rank": 41,
-      "category": "News",
-      "publisher": "CNN",
-      "description": "We bring you 5 stories that will get you up to speed and on with your day. Updates at 6am, 9am, 12pm, 5pm and 10pm Eastern, every weekday.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f3481e60bd8532cb2a80c9d2e",
-      "appleId": "id1436719991",
-      "ratings": 855,
-      "velocity": 2
-    }
-  },
-  {
-    "title": "TRIGGERnometry",
-    "link": "1JH26td5UtmKQWHLv0NCZp",
-    "meta": {
-      "rank": 42,
-      "category": "News",
-      "publisher": "TRIGGERnometry",
-      "description": "Comedians Konstantin Kisin and Francis Foster create honest conversations with fascinating people. New episodes every Monday and Thursday.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f3f663ab94c75b1419d8a5d23",
-      "appleId": "id1375568988",
-      "ratings": 695,
+      "publisher": "Keith & Kevin Hodge",
+      "description": "The Hodgetwins known for their political humor from social media discuss current political events in the greatest country ever created.  Support this podcast: https://anchor.fm/hodgetwins/support",
+      "image": "https://i.scdn.co/image/296188398325b7c0cdcaa2d34404f64ce2910bf9",
+      "appleId": "id1486221160",
+      "ratings": 5517,
       "velocity": 0
     }
   },
@@ -591,28 +537,82 @@
     "title": "The President's Daily Brief",
     "link": "6VpV9ZlbQTzMngKilhJlZs",
     "meta": {
-      "rank": 43,
+      "rank": 39,
       "category": "News",
       "publisher": "The First TV",
       "description": "Each morning, the President of the United States receives a highly classified briefing on the most important issues facing the country -- The President's Daily Brief. Now you can hear your very own PDB, in the form of a podcast hosted by former CIA Operations Officer Bryan Dean Wright. Each morning at 6am Eastern, he'll bring you 20 minutes of the most important topics of the day and why you should care, arming you with what you need to know to help solve America's most pressing challenges. ",
       "image": "https://i.scdn.co/image/ab67656300005f1faef62cac4377fd8ec3f47db3",
       "appleId": "id1617887885",
       "ratings": 1497,
-      "velocity": 4
+      "velocity": 8
     }
   },
   {
-    "title": "Donut Racing Show",
-    "link": "5WSlmIYAW011ToDiCNGYhp",
+    "title": "CNN 5 Things",
+    "link": "1xGSLDgVYxLybmXpui6wwo",
+    "meta": {
+      "rank": 40,
+      "category": "News",
+      "publisher": "CNN",
+      "description": "We bring you 5 stories that will get you up to speed and on with your day. Updates at 6am, 9am, 12pm, 5pm and 10pm Eastern, every weekday.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f3481e60bd8532cb2a80c9d2e",
+      "appleId": "id1436719991",
+      "ratings": 855,
+      "velocity": 3
+    }
+  },
+  {
+    "title": "Consider This from NPR",
+    "link": "3Z6JdCS2d0eFEpXHKI6WqH",
+    "meta": {
+      "rank": 41,
+      "category": "News",
+      "publisher": "NPR",
+      "description": "Six days a week, from Monday through Saturday, the hosts of NPR's All Things Considered help you make sense of a major news story and what it means for you, in 15 minutes. In participating regions on weekdays, you'll also hear from local journalists about what's happening in your community.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f9fae160bdb0a99e9e4930afc",
+      "appleId": "id1503226625",
+      "ratings": 4649,
+      "velocity": -7
+    }
+  },
+  {
+    "title": "Tim Pool Daily Show",
+    "link": "72DYxylE1xOfhGWDQBgGkh",
+    "meta": {
+      "rank": 42,
+      "category": "News",
+      "publisher": "Tim Pool",
+      "description": "The Tim Pool Daily Show brings you breaking news from around the world and commentary on top news topics in The Culture War, Politics, And Global Conflict",
+      "image": "https://i.scdn.co/image/ab67656300005f1f603dcf10b2d69a3054e8d774",
+      "appleId": "id1362265400",
+      "ratings": 6363,
+      "velocity": 0
+    }
+  },
+  {
+    "title": "The Dr. Greenthumb Podcast",
+    "link": "2csse17e603wf76BywbWN4",
+    "meta": {
+      "rank": 43,
+      "category": "News",
+      "publisher": "BREAL TV",
+      "description": "Cannabis Culture, Music, News, Celebrity Interviews and more! Hosted By B-Real of Cypress Hill and his team.",
+      "image": "https://i.scdn.co/image/fe7040939bdb4c6e8af5a44cbf5724a3d9118dc4",
+      "appleId": "id1194834764",
+      "ratings": 351,
+      "velocity": 0
+    }
+  },
+  {
+    "title": "Mark Levin Podcast",
+    "link": "0FR2gpEg3X894l78XzYFjf",
     "meta": {
       "rank": 44,
       "category": "News",
-      "publisher": "DonutMedia & Studio71 ",
-      "description": "Donut Racing Show (DRS) brings a cheap beer mindset to the champagne-popping podium of Formula One racing. If you only watch the race on Sunday, you’re missing 70% of the picture... and that’s where we come in. Let Donut Media’s Nolan Sykes, and motor-journalists Alanis King (Business Insider, Jalopnik) and Elizabeth Blackstock (Jalopnik), be your friendly guides to the wild world of Formula One. From the frustrations (FERRARI!) to the glory (RED BULL!) to the downright disappointing (MERCEDES?!), Donut Racing Show is here for you.  For advertising opportunities please email PodcastPartnerships@Studio71us.com.    We wanna make the podcast even better, help us learn how we can: https://bit.ly/2EcYbu4.   Privacy Policy: https://www.studio71.com/terms-and-conditions-use/#Privacy%20Policy.   ",
-      "image": "https://i.scdn.co/image/ab67656300005f1f22092ccc99ffea0149e02385",
-      "appleId": "id1635640812",
-      "ratings": 213,
-      "velocity": 5
+      "publisher": "Cumulus Podcast Network",
+      "description": "Mark Levin is one of the hottest talk radio hosts in America. A prominent conservative commentator, best-selling author and constitutional scholar, Mark offers fresh takes on daily news headlines and dissects important events of the day. Heard weeknights on nearly 400 radio stations, Levin is loved in every corner of America. He cuts through the noise with his passion and intellect, often saying things others won’t. Or as Mark himself would declare: “That’s right. I said it!”",
+      "image": "https://i.scdn.co/image/ab67656300005f1fa755962530af55c9f9ff1c22",
+      "velocity": 0
     }
   },
   {
@@ -640,61 +640,63 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f7ec9104cb377d7bf75045af1",
       "appleId": "id1200016351",
       "ratings": 22552,
-      "velocity": 5
+      "velocity": 0
     }
   },
   {
-    "title": "ABC News Update",
-    "link": "28hRDWxeu4r8LF3vubetm3",
+    "title": "Ukraine: The Latest",
+    "link": "6cnkk1J0I1UqtxTYVUL4Fe",
     "meta": {
       "rank": 47,
       "category": "News",
-      "publisher": "ABC News",
-      "description": "The latest headlines from ABC News, refreshed hourly 24/7.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f0a6f559f2102915cb358b8c8",
-      "appleId": "id1314000635",
-      "ratings": 805,
-      "velocity": 3
+      "publisher": "The Telegraph",
+      "description": "Russia's full-scale invasion of Ukraine has dominated world news since the tanks, jets and troops first rolled over Ukraine's borders in February 2022. Every weekday, the Telegraph's top journalists analyse the invasion from all angles and tell you what you need to know. ",
+      "image": "https://i.scdn.co/image/ab67656300005f1f938bf4397a95c9ba57ab57a7",
+      "appleId": "id1612424182",
+      "ratings": 658,
+      "velocity": 0
     }
   },
   {
-    "title": "Hodgetwins",
-    "link": "1ppx7TUJCHEYtZWCLJ3WwQ",
+    "title": "Real Time with Bill Maher",
+    "link": "7nqJajzyZo3gdisGk7XhQx",
     "meta": {
       "rank": 48,
       "category": "News",
-      "publisher": "Keith & Kevin Hodge",
-      "description": "The Hodgetwins known for their political humor from social media discuss current political events in the greatest country ever created.  Support this podcast: https://anchor.fm/hodgetwins/support",
-      "image": "https://i.scdn.co/image/296188398325b7c0cdcaa2d34404f64ce2910bf9",
-      "appleId": "id1486221160",
-      "ratings": 5517,
-      "velocity": 3
+      "publisher": "HBO Podcasts",
+      "description": "Download and watch full episodes of Real Time with Bill Maher including his New Rules and Overtime segments with his guest panelists. New episodes of Real Time with Bill Maher air Fridays at 10, only on HBO.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f44ee002c5d9d0cb4ea4a5832",
+      "appleId": "id98746009",
+      "ratings": 14412,
+      "velocity": 0
     }
   },
   {
-    "title": "Tim Pool Daily Show",
-    "link": "72DYxylE1xOfhGWDQBgGkh",
+    "title": "Code Switch",
+    "link": "3bExJ9JQpkwNhoHvaIIuyV",
     "meta": {
       "rank": 49,
       "category": "News",
-      "publisher": "Tim Pool",
-      "description": "The Tim Pool Daily Show brings you breaking news from around the world and commentary on top news topics in The Culture War, Politics, And Global Conflict",
-      "image": "https://i.scdn.co/image/ab67656300005f1f603dcf10b2d69a3054e8d774",
-      "appleId": "id1362265400",
-      "ratings": 6363,
-      "velocity": 2
+      "publisher": "NPR",
+      "description": "What's CODE SWITCH? It's the fearless conversations about race that you've been waiting for. Hosted by journalists of color, our podcast tackles the subject of race with empathy and humor. We explore how race affects every part of society — from politics and pop culture to history, food and everything in between. This podcast makes all of us part of the conversation — because we're all part of the story. Code Switch was named Apple Podcasts' first-ever Show of the Year in 2020.Want to level up your Code Switch game? Try Code Switch Plus. Your subscription supports the show and unlocks a sponsor-free feed. Learn more at plus.npr.org/codeswitch",
+      "image": "https://i.scdn.co/image/ab67656300005f1f709d1f7bbbc25b2820d0adbf",
+      "appleId": "id1112190608",
+      "ratings": 13616,
+      "velocity": 0
     }
   },
   {
-    "title": "Mark Levin Podcast",
-    "link": "0FR2gpEg3X894l78XzYFjf",
+    "title": "Morning Announcements",
+    "link": "4bBbDC2kEG6K8WAvzgSlkb",
     "meta": {
       "rank": 50,
       "category": "News",
-      "publisher": "Cumulus Podcast Network",
-      "description": "Mark Levin is one of the hottest talk radio hosts in America. A prominent conservative commentator, best-selling author and constitutional scholar, Mark offers fresh takes on daily news headlines and dissects important events of the day. Heard weeknights on nearly 400 radio stations, Levin is loved in every corner of America. He cuts through the noise with his passion and intellect, often saying things others won’t. Or as Mark himself would declare: “That’s right. I said it!”",
-      "image": "https://i.scdn.co/image/ab67656300005f1fa755962530af55c9f9ff1c22",
-      "velocity": 1
+      "publisher": "Betches Media",
+      "description": "Morning Announcements is a daily show brought to you by the Betches Sup, here to help you make sense of the world in the wake of 2020’s chaos. Every morning, Betches co-founder and host Sami Sage gives you quick daily updates with the most important info you need to know about politics and current events. Morning Announcements is produced by Sami Sage alongside Amanda Duberman and Bridget Schwartz, with original music and editing by Brandon Lee Bjornson.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fb294ed3db194fc9820d681a7",
+      "appleId": "id1546267644",
+      "ratings": 1268,
+      "velocity": 0
     }
   }
 ]

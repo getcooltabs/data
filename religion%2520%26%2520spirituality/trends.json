@@ -87,10 +87,38 @@
     }
   },
   {
+    "title": "Elevation with Steven Furtick",
+    "link": "6nLlNUMm4VuZE1ln9oOJvy",
+    "meta": {
+      "rank": 7,
+      "category": "Religion & Spirituality",
+      "publisher": "Elevation Church",
+      "description": "Welcome to the weekly podcast of Elevation Church led by Pastor Steven Furtick. To learn more visit our website at http://elevationchurch.org or download the Elevation App. To support this ministry and help us continue to reach people all around the world click here: http://ele.vc/TI55jR",
+      "image": "https://i.scdn.co/image/0a6310af0135163bc554f6939c035ff688e6320a",
+      "appleId": "id216015753",
+      "ratings": 13887,
+      "velocity": 2
+    }
+  },
+  {
+    "title": "Bible: Beginning to End",
+    "link": "2pxmt7sks4OXF6YIUIcWO1",
+    "meta": {
+      "rank": 8,
+      "category": "Religion & Spirituality",
+      "publisher": "Bible Beginning to End",
+      "description": "Bible: Beginning to End, is an ongoing podcast where we will be reading through the Bible from Genesis to Revelation. As we read through the Bible, I will stop and ask critical thinking questions along the way so you can meditate on God's word and form your own answers as the Holy Spirit leads. Note that this is an ongoing podcast, so all books of the Bible have not been recorded yet.  10% of profits from this podcast will be donated to Asha's Refuge in Memphis, TN  Support the show: http://www.biblebeginningtoend.com/support-the-show  Email @ biblebeginningtoend@gmail.com  Support this podcast: https://anchor.fm/biblebeginningtoend/support",
+      "image": "https://i.scdn.co/image/ada37b205d15f97d9065534ffeccc6cac99b365d",
+      "appleId": "id1517726287",
+      "ratings": 12,
+      "velocity": 2
+    }
+  },
+  {
     "title": "Joel Osteen Podcast",
     "link": "7wIDnmJ41exqZZ5GnsBGDS",
     "meta": {
-      "rank": 7,
+      "rank": 9,
       "category": "Religion & Spirituality",
       "publisher": "Joel Osteen",
       "description": "Welcome to the Joel Osteen Daily Podcast.  Joel & Victoria Osteen inspire people to reach their dreams, find fresh beginnings and live their best life.  Both he and Victoria live in Houston, TX.  Visit Joel’s website at joelosteen.com.",
@@ -98,47 +126,22 @@
       "followers": 10262410,
       "appleId": "id137254859",
       "ratings": 20768,
-      "velocity": 1
+      "velocity": -1
     }
   },
   {
-    "title": "Elevation with Steven Furtick",
-    "link": "6nLlNUMm4VuZE1ln9oOJvy",
-    "meta": {
-      "rank": 8,
-      "category": "Religion & Spirituality",
-      "publisher": "Elevation Church",
-      "description": "Welcome to the weekly podcast of Elevation Church led by Pastor Steven Furtick. To learn more visit our website at http://elevationchurch.org or download the Elevation App. To support this ministry and help us continue to reach people all around the world click here: http://ele.vc/TI55jR",
-      "image": "https://i.scdn.co/image/0a6310af0135163bc554f6939c035ff688e6320a",
-      "appleId": "id216015753",
-      "ratings": 13887,
-      "velocity": 1
-    }
-  },
-  {
-    "title": "Bible: Beginning to End",
-    "link": "2pxmt7sks4OXF6YIUIcWO1",
-    "meta": {
-      "rank": 9,
-      "category": "Religion & Spirituality",
-      "publisher": "Bible Beginning to End",
-      "description": "Bible: Beginning to End, is an ongoing podcast where we will be reading through the Bible from Genesis to Revelation. As we read through the Bible, I will stop and ask critical thinking questions along the way so you can meditate on God's word and form your own answers as the Holy Spirit leads. Note that this is an ongoing podcast, so all books of the Bible have not been recorded yet.  10% of profits from this podcast will be donated to Asha's Refuge in Memphis, TN  Support the show: http://www.biblebeginningtoend.com/support-the-show  Email @ biblebeginningtoend@gmail.com  Support this podcast: https://anchor.fm/biblebeginningtoend/support",
-      "image": "https://i.scdn.co/image/ada37b205d15f97d9065534ffeccc6cac99b365d",
-      "appleId": "id1517726287",
-      "ratings": 12,
-      "velocity": 1
-    }
-  },
-  {
-    "title": "The Daily Bible",
-    "link": "7oH1rp6cnSRvqSWiJ8lCSX",
+    "title": "BibleProject",
+    "link": "6f2oD3RtQY1rOeyfF2OeOa",
     "meta": {
       "rank": 10,
       "category": "Religion & Spirituality",
-      "publisher": "Parcast",
-      "description": "In the beginning were the scriptures, written down for all to read. Now, reading the Bible has never been easier. Let us read it to you. In The Daily Bible, we’ll help you discover comfort, courage, and hope each day with a passage from the Word of God. Throughout the course of a single year, each episode will cover a different passage from the King James Version of the Bible.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f72ec9aa20038f15acda24787",
-      "velocity": 1
+      "publisher": "BibleProject Podcast",
+      "description": "The creators of BibleProject have in-depth conversations about the Bible and theology. A companion podcast to BibleProject videos found at bibleproject.com",
+      "image": "https://i.scdn.co/image/d6f58caecc6a5c9a527f1865707238f65aaad329",
+      "followers": 67110,
+      "appleId": "id1050832450",
+      "ratings": 14798,
+      "velocity": 2
     }
   },
   {
@@ -156,88 +159,42 @@
     }
   },
   {
-    "title": "BibleProject",
-    "link": "6f2oD3RtQY1rOeyfF2OeOa",
+    "title": "The Daily Bible",
+    "link": "7oH1rp6cnSRvqSWiJ8lCSX",
     "meta": {
       "rank": 12,
       "category": "Religion & Spirituality",
-      "publisher": "BibleProject Podcast",
-      "description": "The creators of BibleProject have in-depth conversations about the Bible and theology. A companion podcast to BibleProject videos found at bibleproject.com",
-      "image": "https://i.scdn.co/image/d6f58caecc6a5c9a527f1865707238f65aaad329",
-      "followers": 67110,
-      "appleId": "id1050832450",
-      "ratings": 14798,
-      "velocity": 0
-    }
-  },
-  {
-    "title": "Daily Drive with Lakepointe Church",
-    "link": "353ryGdZNlebaiqkCcy3Yc",
-    "meta": {
-      "rank": 13,
-      "category": "Religion & Spirituality",
-      "publisher": "Lakepointe Church",
-      "description": "The Daily Drive with Lakepointe Church – A perfect way to point your day.   Our prayer is that God will speak to you through each day’s devotional and that you'll be equipped, empowered and encouraged as a follower of Jesus to deepen your relationship with God. New podcasts Monday through Friday.   For more digital content to feed your faith, visit Lakepointe.church/dailydrive.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f9bb13a87e95e61f8942cf164",
-      "followers": 288,
-      "appleId": "id1669321198",
-      "ratings": 288,
-      "velocity": -6
+      "publisher": "Parcast",
+      "description": "In the beginning were the scriptures, written down for all to read. Now, reading the Bible has never been easier. Let us read it to you. In The Daily Bible, we’ll help you discover comfort, courage, and hope each day with a passage from the Word of God. Throughout the course of a single year, each episode will cover a different passage from the King James Version of the Bible.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f72ec9aa20038f15acda24787",
+      "velocity": -1
     }
   },
   {
     "title": "Ten Minute Bible Talks Devotional Bible Study",
     "link": "5XT5lbnmEzXOj6Bcsb2Ivk",
     "meta": {
-      "rank": 14,
+      "rank": 13,
       "category": "Religion & Spirituality",
       "publisher": "Ten Minute Bible Talks",
       "description": "Top 5 devotional podcasts worldwide according to Chartable.com: Connect with God in the time it takes you to drive to work or empty the dishwasher. Every episode focuses on one passage, explains it and applies it to your life. Co-hosted by Keith Simon, Jensen Holt McNair, Tanya Willmeth, and Patrick Miller.",
       "image": "https://i.scdn.co/image/ab67656300005f1f31ed848b2bc74864049f90e9",
       "appleId": "id1477778533",
       "ratings": 741,
-      "velocity": 0
+      "velocity": 1
     }
   },
   {
     "title": "She Lives Purposefully ",
     "link": "4U1Dwd4CGzJOdG7Nsq16FF",
     "meta": {
-      "rank": 15,
+      "rank": 14,
       "category": "Religion & Spirituality",
       "publisher": "Megan Holmes Edmonds",
       "description": "Grab your latte and chat with Megan on the She Lives Purposefully podcast! On the Jesus-loving, Christian podcast for women, Megan talks about living the way God call us to live - living purposefully.   On this podcast we cover topics like dating, friends, mental health, practical purpose and have Bible studies. Get ready to be encouraged and equipped in your walk with Christ.  Please email megan@shelivespurposefully.com for advertising opportunities.",
       "image": "https://i.scdn.co/image/ba211acf9313ff4ed1b66612e8c44b42a0c7a2e8",
       "appleId": "id1535514405",
       "ratings": 102,
-      "velocity": 0
-    }
-  },
-  {
-    "title": "Transformation Church",
-    "link": "52q6WDZnWPpr4Qf4UFsfQi",
-    "meta": {
-      "rank": 16,
-      "category": "Religion & Spirituality",
-      "publisher": "Transformation Church",
-      "description": "Here at Transformation Church we believe in Representing God to the lost and found for Transformation in Christ. We are a multi-ethnic, multi-generational, and multiplying church committed to progression not perfection. We are led by Lead Pastors Michael and Natalie Todd.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fdb8669e1af866b3bdd5b1a9f",
-      "appleId": "id1467288984",
-      "ratings": 20,
-      "velocity": 0
-    }
-  },
-  {
-    "title": "Becoming Something with Jonathan Pokluda",
-    "link": "5hTcX94ndrBcGAXqN15uXc",
-    "meta": {
-      "rank": 17,
-      "category": "Religion & Spirituality",
-      "publisher": "Harris Creek Baptist Church",
-      "description": "We’re all becoming something. What are you becoming? It's our goal for you to intentionally become the person God has called you to be. We'll release an episode each week with answers to real questions that college students and young adults are asking us. Listen in as Jonathan Pokluda, Nate Hilgenkamp, and Kathy Davidson help you navigate life in your 20's and 30's!",
-      "image": "https://i.scdn.co/image/ab67656300005f1f04cb786640662edaa311e948",
-      "appleId": "id1454045768",
-      "ratings": 3435,
       "velocity": 1
     }
   },
@@ -245,140 +202,180 @@
     "title": "Astrology of the Week Ahead with Chani Nicholas",
     "link": "7hpCJfE2JItPqOj8AgONCp",
     "meta": {
-      "rank": 18,
+      "rank": 15,
       "category": "Religion & Spirituality",
       "publisher": "CHANI",
       "description": "Astrologer Chani Nicholas talks you through the astrology of the week ahead. Every week, learn about the planetary movements that will be influencing you. Updates on what’s happening in the sky are paired with insights and guidance on how you can mindfully work with the astrology of the moment.",
       "image": "https://i.scdn.co/image/ab67656300005f1f17f92824a94197f2cb85b787",
       "appleId": "id1617319253",
       "ratings": 181,
-      "velocity": -1
+      "velocity": 2
     }
   },
   {
-    "title": "Sanctified",
-    "link": "5FGIZ4Mme3LjGBglAhvbCB",
+    "title": "Becoming Something with Jonathan Pokluda",
+    "link": "5hTcX94ndrBcGAXqN15uXc",
     "meta": {
-      "rank": 19,
+      "rank": 16,
       "category": "Religion & Spirituality",
-      "publisher": "Spotify Studios",
-      "description": "Sanctified boldly centers the stories of Black women for whom the spiritual status quo is no longer enough. Sanctified makes space for women to interrogate, lament, resist, and triumph over the church’s double standards that have deeply impacted them. Through stories and conversations, Sanctified is a pathway to communal reflection and healing for women who are churched, unchurched, or find themselves somewhere in-between. From the pulpit, to the pew, to the parking lot, this show amplifies the thoughts, trials, and triumphs of women figuring out their faith authentically. Nothing is taboo. Shame is unwelcome. And grace abounds.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f7b2d4731f88430d9f73c4056",
-      "appleId": "id1510482316",
-      "ratings": 2,
-      "velocity": 3
-    }
-  },
-  {
-    "title": "Thirty Minutes with The Perrys",
-    "link": "0hLWWWvKUFrMEmqiqaxcpD",
-    "meta": {
-      "rank": 20,
-      "category": "Religion & Spirituality",
-      "publisher": "Ivey Media Podcasts",
-      "description": "30 Minutes with The Perrys is a podcast with a whole lot of truth given in a short amount of time. Preston Perry and Jackie Hill Perry will bring their humor, honesty, and insight into conversations on everything from relationships, theology, politics, race, and parenting.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f7997c9eae99a6227addab890",
-      "appleId": "id1458672189",
-      "ratings": 5319,
-      "velocity": -1
-    }
-  },
-  {
-    "title": "God Is Within Her - a women’s devotional podcast",
-    "link": "1jukZlmZpp6vIxetfE8q6H",
-    "meta": {
-      "rank": 21,
-      "category": "Religion & Spirituality",
-      "publisher": "Valarie Reynolds",
-      "description": "Welcome to the God Is Within Her Podcast. (formerly known as The Beautifully Enough Podcast!)  This is a space for you, as an every day Christian woman, to GROW! Grow in your faith, grow a closer relationship with God, and grow your confidence in Christ! Every week, we will dive into the word of God so we fill our minds with God’s truths, to live, not as the world tells us to live, but to live boldly as Godly women who fear the Lord. DON’T PANIC RETURNING LISTENERS!! This is still the same weekly devotional podcast you fell in love with over the past two years. But God has put it on my heart to pivot and run with a new title that truly embodies the kingdom purpose God has placed on my heart: not to focus on our lack or feelings of inadequacies but to mentor and guide Christian women to realize we can grow a fierce and confident faith in Christ! Titus 2:3-7 instructs the female elders to become “teachers of beautiful things”. The message translation tells women to be “models of goodness...",
-      "image": "https://i.scdn.co/image/ab67656300005f1f44f307aea636ae670f89ffb6",
-      "appleId": "id1490628056",
-      "ratings": 548,
-      "velocity": 6
-    }
-  },
-  {
-    "title": "Joyce Meyer Enjoying Everyday Life® TV Audio Podcast",
-    "link": "525jKxXqHKgPGEWI02GJIA",
-    "meta": {
-      "rank": 22,
-      "category": "Religion & Spirituality",
-      "publisher": "Joyce Meyer Ministries",
-      "description": "Through media we teach people how to apply biblical truth to every aspect of their lives and encourage God's people to serve the world around them. Through our missions arm, Hand of Hope, we provide global humanitarian aid, feed the hungry, clothe the poor, minister to the elderly, widows and orphans, visit prisoners and reach out to people of all ages and in all walks of life. Joyce Meyer Ministries is built on a foundation of faith, integrity and dedicated supporters who share this call.",
-      "image": "https://i.scdn.co/image/f1cb7c54881543c041b536360bbdf02ba2e582e3",
-      "appleId": "id152564324",
-      "ratings": 4165,
-      "velocity": 3
-    }
-  },
-  {
-    "title": "Unashamed with Phil & Jase Robertson",
-    "link": "5WJMF8yNUljQQgOip4hOGU",
-    "meta": {
-      "rank": 23,
-      "category": "Religion & Spirituality",
-      "publisher": "Blaze Podcast Network",
-      "description": "The Duck Commander and his family are unashamed of their Christian faith and want to share the Gospel with everyone, from new believers to longtime followers of Jesus. Phil, Al, Jase, Zach, and their special guests go beyond the four walls of the church to share God's Word and study the Bible with you. So pour a glass of tea, and experience fun and inspiring stories of faith and family, straight from West Monroe, Louisiana.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f4bf9d83bfd5ba349c6d04df8",
-      "appleId": "id1460147025",
-      "ratings": 20900,
-      "velocity": 3
-    }
-  },
-  {
-    "title": "Purely Being Guided Meditations",
-    "link": "4SZqEHoy45zPBVoW3RAw7C",
-    "meta": {
-      "rank": 24,
-      "category": "Religion & Spirituality",
-      "publisher": "Lucy Love",
-      "description": "Take a deep breath and relax every Sunday with a NEW guided meditation! ✨🙏🏼 Each meditation is crafted with Love by Lucy to help you discover who you truly are, fall in LOVE with yourself, live your divine PURPOSE, & MANIFEST your wildest dreams NOW! 💖  More Purely Being: 🌾 www.purelybeing.com 🌟 @purelybeing  Themes: Self Love Manifestation Relaxing Sleep Mindfulness Acceptance EFT Affirmations 5D",
-      "image": "https://i.scdn.co/image/ab67656300005f1fef97c891fc0a1abe5918c0eb",
-      "appleId": "id1439022624",
-      "ratings": 121,
-      "velocity": 4
-    }
-  },
-  {
-    "title": "Follow Him: A Come, Follow Me Podcast",
-    "link": "15G9TTz8yLp0dQyEcBQ8BY",
-    "meta": {
-      "rank": 25,
-      "category": "Religion & Spirituality",
-      "publisher": "Hank Smith & John Bytheway",
-      "description": "Do you ever feel that preparing for your weekly Come, Follow Me lesson falls short? Join hosts Hank Smith and John Bytheway as they interview experts to make your study for The Church of Jesus Christ of Latter-day Saints’ Come, Follow Me course not only enjoyable but original and educational. If you are looking for resources to make your study fresh, faithful, and fun--no matter your age--then join us every Wednesday morning.  Show notes: https://followhim.co  YouTube: https://www.youtube.com/c/FollowHimOfficialChannel   Instagram: Instagram.com/followhimpodcast      Facebook: Facebook.com/followhimpodcast",
-      "image": "https://i.scdn.co/image/ab67656300005f1f777bb94c9328c465c1be739c",
-      "appleId": "id1545433056",
-      "ratings": 5869,
-      "velocity": -4
+      "publisher": "Harris Creek Baptist Church",
+      "description": "We’re all becoming something. What are you becoming? It's our goal for you to intentionally become the person God has called you to be. We'll release an episode each week with answers to real questions that college students and young adults are asking us. Listen in as Jonathan Pokluda, Nate Hilgenkamp, and Kathy Davidson help you navigate life in your 20's and 30's!",
+      "image": "https://i.scdn.co/image/ab67656300005f1f04cb786640662edaa311e948",
+      "appleId": "id1454045768",
+      "ratings": 3435,
+      "velocity": 2
     }
   },
   {
     "title": "Highest Self Podcast®",
     "link": "2hAz8kvUg17OVy4rT42Ug4",
     "meta": {
-      "rank": 26,
+      "rank": 17,
       "category": "Religion & Spirituality",
       "publisher": "Sahara Rose",
       "description": "Author Sahara Rose @IAmSaharaRose is the fresh young voice for the modern spiritual movement, called \"a leading voice in the millennial generation into the new paradigm shift\" by Deepak Chopra. She shares how you can tune into your unique gifts, find your purpose, fulfill your mission, live in your Dharma and blossom into your highest self.",
       "image": "https://i.scdn.co/image/ab67656300005f1faad70cb27938cd0e6e65a4b8",
       "appleId": "id1244644906",
       "ratings": 5163,
-      "velocity": -3
+      "velocity": 6
     }
   },
   {
-    "title": "The Candace Cameron Bure Podcast",
-    "link": "318wtVuqjFQRNwYXHuHW3W",
+    "title": "Transformation Church",
+    "link": "52q6WDZnWPpr4Qf4UFsfQi",
+    "meta": {
+      "rank": 18,
+      "category": "Religion & Spirituality",
+      "publisher": "Transformation Church",
+      "description": "Here at Transformation Church we believe in Representing God to the lost and found for Transformation in Christ. We are a multi-ethnic, multi-generational, and multiplying church committed to progression not perfection. We are led by Lead Pastors Michael and Natalie Todd.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fdb8669e1af866b3bdd5b1a9f",
+      "appleId": "id1467288984",
+      "ratings": 20,
+      "velocity": -2
+    }
+  },
+  {
+    "title": "Happy & Healthy with Jeanine Amapola",
+    "link": "1agQOxIYFhLMbVS7XN1wDJ",
+    "meta": {
+      "rank": 19,
+      "category": "Religion & Spirituality",
+      "publisher": "Jeanine Amapola",
+      "description": "Hosted by Jeanine Amapola, a Texas-born YouTuber, speaker, and influencer whose authentic and positive content has captivated over 2.5 million followers across all her platforms. Whether you’re searching for advice, Christian content, or just simply a genuine conversation, this podcast will be sure to help you on your journey of becoming happier and healthier! Join Jeanine to hear a genuine and candid conversation on topics from her personal experiences, dating, faith, health, trending topics, and so much more! New episodes every single Tuesday!  Support this podcast: https://anchor.fm/happyandhealthy/support",
+      "image": "https://i.scdn.co/image/ab67656300005f1f1e63e4eac1237c64dc844368",
+      "velocity": 13
+    }
+  },
+  {
+    "title": "Sanctified",
+    "link": "5FGIZ4Mme3LjGBglAhvbCB",
+    "meta": {
+      "rank": 20,
+      "category": "Religion & Spirituality",
+      "publisher": "Spotify Studios",
+      "description": "Sanctified boldly centers the stories of Black women for whom the spiritual status quo is no longer enough. Sanctified makes space for women to interrogate, lament, resist, and triumph over the church’s double standards that have deeply impacted them. Through stories and conversations, Sanctified is a pathway to communal reflection and healing for women who are churched, unchurched, or find themselves somewhere in-between. From the pulpit, to the pew, to the parking lot, this show amplifies the thoughts, trials, and triumphs of women figuring out their faith authentically. Nothing is taboo. Shame is unwelcome. And grace abounds.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f7b2d4731f88430d9f73c4056",
+      "appleId": "id1510482316",
+      "ratings": 2,
+      "velocity": 2
+    }
+  },
+  {
+    "title": "Follow Him: A Come, Follow Me Podcast",
+    "link": "15G9TTz8yLp0dQyEcBQ8BY",
+    "meta": {
+      "rank": 21,
+      "category": "Religion & Spirituality",
+      "publisher": "Hank Smith & John Bytheway",
+      "description": "Do you ever feel that preparing for your weekly Come, Follow Me lesson falls short? Join hosts Hank Smith and John Bytheway as they interview experts to make your study for The Church of Jesus Christ of Latter-day Saints’ Come, Follow Me course not only enjoyable but original and educational. If you are looking for resources to make your study fresh, faithful, and fun--no matter your age--then join us every Wednesday morning.  Show notes: https://followhim.co  YouTube: https://www.youtube.com/c/FollowHimOfficialChannel   Instagram: Instagram.com/followhimpodcast      Facebook: Facebook.com/followhimpodcast",
+      "image": "https://i.scdn.co/image/ab67656300005f1f777bb94c9328c465c1be739c",
+      "appleId": "id1545433056",
+      "ratings": 5869,
+      "velocity": 0
+    }
+  },
+  {
+    "title": "Purely Being Guided Meditations",
+    "link": "4SZqEHoy45zPBVoW3RAw7C",
+    "meta": {
+      "rank": 22,
+      "category": "Religion & Spirituality",
+      "publisher": "Lucy Love",
+      "description": "Take a deep breath and relax every Sunday with a NEW guided meditation! ✨🙏🏼 Each meditation is crafted with Love by Lucy to help you discover who you truly are, fall in LOVE with yourself, live your divine PURPOSE, & MANIFEST your wildest dreams NOW! 💖  More Purely Being: 🌾 www.purelybeing.com 🌟 @purelybeing  Themes: Self Love Manifestation Relaxing Sleep Mindfulness Acceptance EFT Affirmations 5D",
+      "image": "https://i.scdn.co/image/ab67656300005f1fef97c891fc0a1abe5918c0eb",
+      "appleId": "id1439022624",
+      "ratings": 121,
+      "velocity": 6
+    }
+  },
+  {
+    "title": "God Is Within Her - a women’s devotional podcast",
+    "link": "1jukZlmZpp6vIxetfE8q6H",
+    "meta": {
+      "rank": 23,
+      "category": "Religion & Spirituality",
+      "publisher": "Valarie Reynolds",
+      "description": "Welcome to the God Is Within Her Podcast. (formerly known as The Beautifully Enough Podcast!)  This is a space for you, as an every day Christian woman, to GROW! Grow in your faith, grow a closer relationship with God, and grow your confidence in Christ! Every week, we will dive into the word of God so we fill our minds with God’s truths, to live, not as the world tells us to live, but to live boldly as Godly women who fear the Lord. DON’T PANIC RETURNING LISTENERS!! This is still the same weekly devotional podcast you fell in love with over the past two years. But God has put it on my heart to pivot and run with a new title that truly embodies the kingdom purpose God has placed on my heart: not to focus on our lack or feelings of inadequacies but to mentor and guide Christian women to realize we can grow a fierce and confident faith in Christ! Titus 2:3-7 instructs the female elders to become “teachers of beautiful things”. The message translation tells women to be “models of goodness...",
+      "image": "https://i.scdn.co/image/ab67656300005f1f44f307aea636ae670f89ffb6",
+      "appleId": "id1490628056",
+      "ratings": 548,
+      "velocity": 4
+    }
+  },
+  {
+    "title": "Heaven In Your Home",
+    "link": "6F46fcOGP9rl1o0WvhrSYj",
+    "meta": {
+      "rank": 24,
+      "category": "Religion & Spirituality",
+      "publisher": "Francie Winslow",
+      "description": "This podcast is a place where we unpack God's heart on sex, marriage, and His mission on the earth.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fc65295aa3a7cef0e235acd31",
+      "appleId": "id1493541368",
+      "ratings": 419,
+      "velocity": 0
+    }
+  },
+  {
+    "title": "Thirty Minutes with The Perrys",
+    "link": "0hLWWWvKUFrMEmqiqaxcpD",
+    "meta": {
+      "rank": 25,
+      "category": "Religion & Spirituality",
+      "publisher": "Ivey Media Podcasts",
+      "description": "30 Minutes with The Perrys is a podcast with a whole lot of truth given in a short amount of time. Preston Perry and Jackie Hill Perry will bring their humor, honesty, and insight into conversations on everything from relationships, theology, politics, race, and parenting.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f7997c9eae99a6227addab890",
+      "appleId": "id1458672189",
+      "ratings": 5319,
+      "velocity": -6
+    }
+  },
+  {
+    "title": "Unashamed with Phil & Jase Robertson",
+    "link": "5WJMF8yNUljQQgOip4hOGU",
+    "meta": {
+      "rank": 26,
+      "category": "Religion & Spirituality",
+      "publisher": "Blaze Podcast Network",
+      "description": "The Duck Commander and his family are unashamed of their Christian faith and want to share the Gospel with everyone, from new believers to longtime followers of Jesus. Phil, Al, Jase, Zach, and their special guests go beyond the four walls of the church to share God's Word and study the Bible with you. So pour a glass of tea, and experience fun and inspiring stories of faith and family, straight from West Monroe, Louisiana.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f4bf9d83bfd5ba349c6d04df8",
+      "appleId": "id1460147025",
+      "ratings": 20900,
+      "velocity": 0
+    }
+  },
+  {
+    "title": "Joyce Meyer Enjoying Everyday Life® TV Audio Podcast",
+    "link": "525jKxXqHKgPGEWI02GJIA",
     "meta": {
       "rank": 27,
       "category": "Religion & Spirituality",
-      "publisher": "AccessMore & Candy Rock",
-      "description": "Life can be a rollercoaster. We all have good days and bad days, but I believe we are better when we go through it together!  Join me and special guests for real conversations about living with kindness, class and purpose. Best known as ‘D.J Tanner’ in the hit television series “Full House” and Netflix’s “Fuller House,” and as the actor and director who takes over your television around Christmas time.  Candace is also a New York Times bestselling author, entrepreneur, and CEO of Candy Rock Entertainment. Candace has been interviewed many times over her decades on television, and decided it was time to host deep conversations about the many topics people find important. Each season of The Candace Cameron Bure Podcast will feature one guest for a deep exploration of a single theme, with the hope of encouraging listeners to grow in their experiences of faith, family and purposeful living.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f46e162aa33219468cdfd984c",
-      "appleId": "id1649600581",
-      "ratings": 1739,
-      "velocity": -7
+      "publisher": "Joyce Meyer Ministries",
+      "description": "Through media we teach people how to apply biblical truth to every aspect of their lives and encourage God's people to serve the world around them. Through our missions arm, Hand of Hope, we provide global humanitarian aid, feed the hungry, clothe the poor, minister to the elderly, widows and orphans, visit prisoners and reach out to people of all ages and in all walks of life. Joyce Meyer Ministries is built on a foundation of faith, integrity and dedicated supporters who share this call.",
+      "image": "https://i.scdn.co/image/f1cb7c54881543c041b536360bbdf02ba2e582e3",
+      "appleId": "id152564324",
+      "ratings": 4165,
+      "velocity": -2
     }
   },
   {
@@ -396,99 +393,102 @@
     }
   },
   {
-    "title": "Happy & Healthy with Jeanine Amapola",
-    "link": "1agQOxIYFhLMbVS7XN1wDJ",
-    "meta": {
-      "rank": 29,
-      "category": "Religion & Spirituality",
-      "publisher": "Jeanine Amapola",
-      "description": "Hosted by Jeanine Amapola, a Texas-born YouTuber, speaker, and influencer whose authentic and positive content has captivated over 2.5 million followers across all her platforms. Whether you’re searching for advice, Christian content, or just simply a genuine conversation, this podcast will be sure to help you on your journey of becoming happier and healthier! Join Jeanine to hear a genuine and candid conversation on topics from her personal experiences, dating, faith, health, trending topics, and so much more! New episodes every single Tuesday!  Support this podcast: https://anchor.fm/happyandhealthy/support",
-      "image": "https://i.scdn.co/image/ab67656300005f1f1e63e4eac1237c64dc844368",
-      "velocity": 3
-    }
-  },
-  {
-    "title": "Saved Not Soft",
-    "link": "5oY4LlCJRtuzCAH9MelvcY",
-    "meta": {
-      "rank": 30,
-      "category": "Religion & Spirituality",
-      "publisher": "Emy Moore",
-      "description": "Navigating the Christian lifestyle is beyond challenging, especially facing the obstacles of today’s world. Each week, we’ll be diving into topics of; how to rise up from culture, modeling Christ to others, theology, hot topics and much more! Buckle up with your host, Emy Moore; we’re going on a fruitful journey!",
-      "image": "https://i.scdn.co/image/ab67656300005f1fcc9fdf7dd37ab828e05763eb",
-      "appleId": "id1650419102",
-      "ratings": 160,
-      "velocity": 5
-    }
-  },
-  {
-    "title": "The Porch",
-    "link": "0E9SOQ3NeeFwDhn7TZsq6r",
-    "meta": {
-      "rank": 31,
-      "category": "Religion & Spirituality",
-      "publisher": "The Porch",
-      "description": "Welcome to the sermon podcast of The Porch, a young adult ministry of Watermark Community Church in Dallas, Texas. The Porch is a gathering of 3,000+ young adults who meet every Tuesday night at 7 PM CST. Each week we address challenges that face twenty and thirty-somethings and what The Bible has to say about them. For more information, visit www.theporch.live or download The Porch app: https://apple.co/2MlYc1P.",
-      "image": "https://i.scdn.co/image/ec1adaa6eb819dd25170e7623c4c76c7e9c4a35b",
-      "appleId": "id325418914",
-      "ratings": 3055,
-      "velocity": -2
-    }
-  },
-  {
     "title": "Abide Bible Sleep Meditation",
     "link": "6rlk9Y9Zm5cxv0fYkGQTu3",
     "meta": {
-      "rank": 32,
+      "rank": 29,
       "category": "Religion & Spirituality",
       "publisher": "Abide App",
       "description": "Fall asleep fast & get the healing deep sleep you need for your mind, body and soul with Abide Christian Bible sleep meditations. ⭐Abide is the #1 Bible app to stress less & sleep better. Join the millions of people who download the 4.9 star reviewed Abide app to reduce stress, improve sleep and experience the peace of God everyday.⬇️Get the Abide app FREE: https://abide.comAccording to meditation research... 84% of Christians who meditate at least weekly have the strongest faith in God81% of Christians who meditate at least weekly experience God's peace the mostMindfulness meditations like Abide Christian meditations can measurably:     ▶ Improve the quality and length of your life     ▶ Reduce stress, blood pressure, pain, anxiety, depression, PTSD, addictive impulses & cravings     ▶ Grow brain density in regions responsible for memory, compassion, self-awareness and introspection",
       "image": "https://i.scdn.co/image/ab67656300005f1f2c803b306e70c721ffe0c58e",
       "appleId": "id1488040861",
       "ratings": 608,
-      "velocity": 1
+      "velocity": 4
+    }
+  },
+  {
+    "title": "Made For This with Jennie Allen",
+    "link": "36vW3kDxO4QVdqmjF226qA",
+    "meta": {
+      "rank": 30,
+      "category": "Religion & Spirituality",
+      "publisher": "Jennie Allen",
+      "description": "Jennie Allen is the 2x New York Times bestselling author of 'Find Your People' and 'Get Out Of Your Head'. She is also the founder and visionary of IF:Gathering. She is a passionate leader following God's call on her life to catalyze a generation to live what they believe. Jennie has a Masters in Biblical Studies from Dallas Theological Seminary and lives in Dallas, Texas, with her husband, Zac, and their four children.________SHORT. FUN. TRUTH. REAL CONVERSATION ABOUT THE STRUGGLES WE ARE FACING AND THE GOD THAT SETS US FREE. Two episodes release each week - one episode of Jennie teaching and one interview.",
+      "image": "https://i.scdn.co/image/ab67656300005f1ff94dcfec99936c0be53bc40c",
+      "appleId": "id1466667116",
+      "ratings": 5379,
+      "velocity": 6
     }
   },
   {
     "title": "Teen Christian Podcast ",
     "link": "2EArH6ryKAMc98fcSywi6P",
     "meta": {
-      "rank": 33,
+      "rank": 31,
       "category": "Religion & Spirituality",
       "publisher": "Aidan Rueda",
       "description": "The podcast of the youth! Discussing the battles and challenges of young Christians. Subscribe!-https://anchor.fm/aidan-rueda/subscribe If you would like to support!",
       "image": "https://i.scdn.co/image/ab67656300005f1f8086658f018646a1790b7308",
       "appleId": "id1481148147",
       "ratings": 58,
-      "velocity": -3
+      "velocity": -1
     }
   },
   {
-    "title": "Mufti Menk",
-    "link": "1uNZDEDS2w6M9rjcFQQaK5",
+    "title": "The Candace Cameron Bure Podcast",
+    "link": "318wtVuqjFQRNwYXHuHW3W",
+    "meta": {
+      "rank": 32,
+      "category": "Religion & Spirituality",
+      "publisher": "AccessMore & Candy Rock",
+      "description": "Life can be a rollercoaster. We all have good days and bad days, but I believe we are better when we go through it together!  Join me and special guests for real conversations about living with kindness, class and purpose. Best known as ‘D.J Tanner’ in the hit television series “Full House” and Netflix’s “Fuller House,” and as the actor and director who takes over your television around Christmas time.  Candace is also a New York Times bestselling author, entrepreneur, and CEO of Candy Rock Entertainment. Candace has been interviewed many times over her decades on television, and decided it was time to host deep conversations about the many topics people find important. Each season of The Candace Cameron Bure Podcast will feature one guest for a deep exploration of a single theme, with the hope of encouraging listeners to grow in their experiences of faith, family and purposeful living.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f46e162aa33219468cdfd984c",
+      "appleId": "id1649600581",
+      "ratings": 1739,
+      "velocity": -12
+    }
+  },
+  {
+    "title": "Daily Drive with Lakepointe Church",
+    "link": "353ryGdZNlebaiqkCcy3Yc",
+    "meta": {
+      "rank": 33,
+      "category": "Religion & Spirituality",
+      "publisher": "Lakepointe Church",
+      "description": "The Daily Drive with Lakepointe Church – A perfect way to point your day.   Our prayer is that God will speak to you through each day’s devotional and that you'll be equipped, empowered and encouraged as a follower of Jesus to deepen your relationship with God. New podcasts Monday through Friday.   For more digital content to feed your faith, visit Lakepointe.church/dailydrive.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f9bb13a87e95e61f8942cf164",
+      "followers": 288,
+      "appleId": "id1669321198",
+      "ratings": 288,
+      "velocity": -26
+    }
+  },
+  {
+    "title": "The Naked Marriage with Dave & Ashley Willis",
+    "link": "0RFBuzjDSb0TeMVImG8Ob6",
     "meta": {
       "rank": 34,
       "category": "Religion & Spirituality",
-      "publisher": "Muslim Central",
-      "description": "Mufti Menk, (Doctor, Mufti, Ismail Menk) is a leading global Islamic scholar born and raised in Zimbabwe. He studied Shariah in Madinah and holds a Doctorate of Social Guidance from Aldersgate University.  Mufti Menk’s work has gained worldwide recognition and he has been named one of “The Top 500 Most Influential Muslims in the World” since 2010.  He has millions of followers across his social media platforms. Mufti Menk’s personable style and down to earth approach has made him one of the most sought after scholars in our time. He has endeared himself to people with his much loved lecture series, a Mufti Menk hallmark.  He travels the world spreading a simple but profound message: “Do good, help others while preparing for the Hereafter”.  He is active in the international arena and is a strong proponent of peace and justice, speaking up against all forms of terrorism.",
-      "image": "https://i.scdn.co/image/13c2b3ee1c91aa45813564afb36a4063d3969a92",
-      "appleId": "id592746186",
-      "ratings": 1546,
-      "velocity": -3
+      "publisher": "XO Podcast Network, Dave Willis, Ashley Willis",
+      "description": "A podcast dedicated to undressing the truth about sex, intimacy and lifelong love. The concerns and questions most couples have in marriage often go unspoken, until now. Hosts Dave and Ashley Willis bring wisdom, vulnerability, and humor to even the toughest marriage topics. Together they have built a strong following, reaching millions of married couples through their blogs, books, and videos. They have four young sons and live in Augusta, GA.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f77f382a2cf2d5fd9b25dd93f",
+      "appleId": "id1437213097",
+      "ratings": 2469,
+      "velocity": 0
     }
   },
   {
-    "title": "DOSIS DIARIA ROKA",
-    "link": "4iIu7ScTmDR7AYGvMUcKCb",
+    "title": "Bible in a Year with Jack Graham",
+    "link": "6tNxjFCSoruX1vNFgicWEH",
     "meta": {
       "rank": 35,
       "category": "Religion & Spirituality",
-      "publisher": "Roka Stereo",
-      "description": "Mision  Buscamos rescatar los valores de la sociedad, especialmente de la juventud enfocándonos en ofrecer una palabra clara, reconfortante y constante que pueda servir de apoyo para restaurar las heridas del Corazón de quienes han sufrido experiencias o vivencias que han marcado sus vidas; siempre exaltando el amor y el perdón de Dios que dió a través de su hijo Jesucristo.  ¿En que nos fundamentamos?  La gran comisión, ir a todo el mundo y predicar el evangelio a toda persona. Marcos 16:15 En la Oracion como respuesta a toda necesidad de cada oyente por la palabra que nos entrego. Hechos 10:38 Creemos que hemos sido restaurados para restaurar. Jeremias 33:6 Nuestros valores  Vida en Dios sentido de responsabilidad amor propio y por el prójimo proclamar la verdad ¿Para quiénes? Roka Stereo esta dirigida para hombres y mujeres que tengan necesidad de Dios y que tengan un corazón dispuesto para oír el mensaje diario que Dios tiene para ellos.  Apoya nuestro ministerio  Dios esta cambiando y sanando vidas a través de de esta emisora, agradecemos tu apoyo y el sentir que tienes en tu corazón para que este Ministerio nunca se detenga. www.rokastereo.com",
-      "image": "https://i.scdn.co/image/93a8f54a0164654513032d77e6be67f0b0c18a07",
-      "appleId": "id1405708885",
-      "ratings": 230,
-      "velocity": -1
+      "publisher": "Pray.com",
+      "description": "Hear the Bible come to life as Pastor Jack Graham leads you through the official BibleinaYear.com podcast. This biblical audio experience will help you master wisdom from the world’s greatest book. In each episode, you will learn to apply biblical principles to everyday life. Now, understanding the Bible is easier than ever before; enjoy a cinematic audio experience full of inspirational storytelling, orchestral music, and profound commentary from world-renowned Pastor Jack Graham.  Pray.com is the #1 app for daily prayer and faith-based audio content. Our mission at Pray.com is to grow faith and cultivate community so we can create a world where everyone leaves a legacy of helping others. Now you can understand the fundamental importance of the Bible and apply the Word of the Lord to your life.  Visit BibleInAYear.com for free devotionals, prayers, and a behind-the-scenes look at the show's creation. Also, you can download the Pray.com app for more Christian content, including Daily Prayers, Inspirational Testimonies, and Bedtime Bible Stories. This show is sponsored by Medi-Share, an innovative health care solution for Christians to save money without sacrificing quality.",
+      "image": "https://i.scdn.co/image/ab67656300005f1ff41722ef7ac04030da68441e",
+      "appleId": "id1646273281",
+      "ratings": 657,
+      "velocity": 5
     }
   },
   {
@@ -499,204 +499,202 @@
       "category": "Religion & Spirituality",
       "publisher": "Sadhguru Official",
       "description": "Sadhguru, founder of Isha Foundation is a yogi, mystic and spiritual master with a difference. An arresting blend of profundity and pragmatism, his life and work serve as a reminder that inner sciences are not esoteric philosophies from an outdated past, but a contemporary science vitally relevant to our times.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fd4a41d1efab7b4a987e1fcd1",
+      "image": "https://i.scdn.co/image/ab67656300005f1f29ae7c5f05a18f4756d9003b",
       "appleId": "id347854569",
       "ratings": 901,
       "velocity": 1
     }
   },
   {
-    "title": "Bible in a Year with Jack Graham",
-    "link": "6tNxjFCSoruX1vNFgicWEH",
+    "title": "Mufti Menk",
+    "link": "1uNZDEDS2w6M9rjcFQQaK5",
     "meta": {
       "rank": 37,
       "category": "Religion & Spirituality",
-      "publisher": "Pray.com",
-      "description": "Hear the Bible come to life as Pastor Jack Graham leads you through the official BibleinaYear.com podcast. This biblical audio experience will help you master wisdom from the world’s greatest book. In each episode, you will learn to apply biblical principles to everyday life. Now, understanding the Bible is easier than ever before; enjoy a cinematic audio experience full of inspirational storytelling, orchestral music, and profound commentary from world-renowned Pastor Jack Graham.  Pray.com is the #1 app for daily prayer and faith-based audio content. Our mission at Pray.com is to grow faith and cultivate community so we can create a world where everyone leaves a legacy of helping others. Now you can understand the fundamental importance of the Bible and apply the Word of the Lord to your life.  Visit BibleInAYear.com for free devotionals, prayers, and a behind-the-scenes look at the show's creation. Also, you can download the Pray.com app for more Christian content, including Daily Prayers, Inspirational Testimonies, and Bedtime Bible Stories. This show is sponsored by Medi-Share, an innovative health care solution for Christians to save money without sacrificing quality.",
-      "image": "https://i.scdn.co/image/ab67656300005f1ff41722ef7ac04030da68441e",
-      "appleId": "id1646273281",
-      "ratings": 657,
-      "velocity": 3
+      "publisher": "Muslim Central",
+      "description": "Mufti Menk, (Doctor, Mufti, Ismail Menk) is a leading global Islamic scholar born and raised in Zimbabwe. He studied Shariah in Madinah and holds a Doctorate of Social Guidance from Aldersgate University.  Mufti Menk’s work has gained worldwide recognition and he has been named one of “The Top 500 Most Influential Muslims in the World” since 2010.  He has millions of followers across his social media platforms. Mufti Menk’s personable style and down to earth approach has made him one of the most sought after scholars in our time. He has endeared himself to people with his much loved lecture series, a Mufti Menk hallmark.  He travels the world spreading a simple but profound message: “Do good, help others while preparing for the Hereafter”.  He is active in the international arena and is a strong proponent of peace and justice, speaking up against all forms of terrorism.",
+      "image": "https://i.scdn.co/image/13c2b3ee1c91aa45813564afb36a4063d3969a92",
+      "appleId": "id592746186",
+      "ratings": 1546,
+      "velocity": -6
     }
   },
   {
-    "title": "Comfy Cozy Witch Podcast",
-    "link": "4pa8CRqMHN5DMfeEFDWv67",
+    "title": "The Porch",
+    "link": "0E9SOQ3NeeFwDhn7TZsq6r",
     "meta": {
       "rank": 38,
       "category": "Religion & Spirituality",
-      "publisher": "Jennie Blonde",
-      "description": "Jennie Blonde (Comfy Cozy Witch), talks about all things witchcraft! From House and Hearth witchery to Kitchen and Green witchery, you're sure to get your fill of witchy things to bring magick into your every day and leave you feeling comfy, cozy and witchy yourself!  Social Media: Instagram: @comfycozywitch FB Private Group: Comfy Cozy Witches Founder of @fit_witch_challenge",
-      "image": "https://i.scdn.co/image/ab67656300005f1fe178f53edac57e5b0293750d",
-      "appleId": "id1536332774",
-      "ratings": 561,
-      "velocity": 3
-    }
-  },
-  {
-    "title": "Made For This with Jennie Allen",
-    "link": "36vW3kDxO4QVdqmjF226qA",
-    "meta": {
-      "rank": 39,
-      "category": "Religion & Spirituality",
-      "publisher": "Jennie Allen",
-      "description": "Jennie Allen is the 2x New York Times bestselling author of 'Find Your People' and 'Get Out Of Your Head'. She is also the founder and visionary of IF:Gathering. She is a passionate leader following God's call on her life to catalyze a generation to live what they believe. Jennie has a Masters in Biblical Studies from Dallas Theological Seminary and lives in Dallas, Texas, with her husband, Zac, and their four children.________SHORT. FUN. TRUTH. REAL CONVERSATION ABOUT THE STRUGGLES WE ARE FACING AND THE GOD THAT SETS US FREE. Two episodes release each week - one episode of Jennie teaching and one interview.",
-      "image": "https://i.scdn.co/image/ab67656300005f1ff94dcfec99936c0be53bc40c",
-      "appleId": "id1466667116",
-      "ratings": 5379,
-      "velocity": -3
-    }
-  },
-  {
-    "title": "The Potter's Touch on Lightsource.com - Audio",
-    "link": "22JllB3X2eHSRpqwEj90D7",
-    "meta": {
-      "rank": 40,
-      "category": "Religion & Spirituality",
-      "publisher": "Bishop T.D. Jakes",
-      "description": "The Potter's Touch, a weekly program, with Bishop T.D. Jakes, tackles today's topics and confronts the hidden issues and invisible scars that go untreated. This broadcast carries healing and restoration into homes of hurting people, unearthing taboo topics and offering practical and spiritual solutions to life's toughest questions. 857311  To support this ministry financially, visit: https://www.lightsource.com/donate/973",
-      "image": "https://i.scdn.co/image/e99695c219499b48e62ad900cec11db06723732a",
-      "appleId": "id364682371",
-      "ratings": 3545,
-      "velocity": 4
+      "publisher": "The Porch",
+      "description": "Welcome to the sermon podcast of The Porch, a young adult ministry of Watermark Community Church in Dallas, Texas. The Porch is a gathering of 3,000+ young adults who meet every Tuesday night at 7 PM CST. Each week we address challenges that face twenty and thirty-somethings and what The Bible has to say about them. For more information, visit www.theporch.live or download The Porch app: https://apple.co/2MlYc1P.",
+      "image": "https://i.scdn.co/image/ec1adaa6eb819dd25170e7623c4c76c7e9c4a35b",
+      "appleId": "id325418914",
+      "ratings": 3055,
+      "velocity": -9
     }
   },
   {
     "title": "Timothy Keller Sermons Podcast by Gospel in Life",
     "link": "5hYDVSeY9KWSpkI4YlSzKF",
     "meta": {
-      "rank": 41,
+      "rank": 39,
       "category": "Religion & Spirituality",
       "publisher": "Tim Keller",
       "description": "Classic sermons by Tim Keller, Pastor Emeritus of Redeemer Presbyterian Church in New York City and NY Times best-selling author of ”The Reason for God: Belief in an Age of Skepticism.” For the latest sermons and additional resources, please visit www.GospelinLife.com",
       "image": "https://i.scdn.co/image/ab67656300005f1f93e75c1e698317db651afbdf",
       "appleId": "id352660924",
       "ratings": 11489,
-      "velocity": 1
-    }
-  },
-  {
-    "title": "The Higher Self with Danny Morel",
-    "link": "4iLIl0acaftr9BHxCmj5Ti",
-    "meta": {
-      "rank": 42,
-      "category": "Religion & Spirituality",
-      "publisher": "Danny Morel",
-      "description": "The Higher Self is dedicated to guiding you through the journey of discovering your highest purpose, passion and potential in Life.  Have a dream to get in better shape, heal relationships or even create true financial freedom, whatever it is... the keys to achieving your heart's desires are already in you.  The Higher Self will help you unlock your greatest potential, erase limiting beliefs and guide you on the journey of creating your dream life.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fb11bfbfcd79e3c17c0fa45d7",
-      "appleId": "id1081954148",
-      "ratings": 490,
       "velocity": 3
-    }
-  },
-  {
-    "title": "Inner Work: A Spiritual Growth Podcast",
-    "link": "6FaeFanKocs01JQge6C2tm",
-    "meta": {
-      "rank": 43,
-      "category": "Religion & Spirituality",
-      "publisher": "Josephine Hardman, PhD",
-      "description": "Inner Work: A Spiritual Growth Podcast is committed to walking with you on your journey of awakening and self-development. Host Josephine Hardman, PhD is a second-generation intuitive healer who transitioned into full-time spiritual work after teaching college English for 9 years. Inner Work features illuminating discussions and interviews on spirituality, self-development, inner healing, and manifesting the truly abundant life you deserve.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f89647b7cf3b63eafd9c1bcec",
-      "appleId": "id1240392123",
-      "ratings": 326,
-      "velocity": -4
-    }
-  },
-  {
-    "title": "Tony Evans' Podcast",
-    "link": "5ge49yKtqa2afe8Oo9BtLU",
-    "meta": {
-      "rank": 44,
-      "category": "Religion & Spirituality",
-      "publisher": "Tony Evans",
-      "description": "Listen to free sermons from Dr. Tony Evans on The Alternative. Get more free resources, books, and series from Dr. Evans on tonyevans.org.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f6ce9080a4e07f99f60999cab",
-      "appleId": "id406782386",
-      "ratings": 7244,
-      "velocity": 4
-    }
-  },
-  {
-    "title": "The Naked Marriage with Dave & Ashley Willis",
-    "link": "0RFBuzjDSb0TeMVImG8Ob6",
-    "meta": {
-      "rank": 45,
-      "category": "Religion & Spirituality",
-      "publisher": "XO Podcast Network, Dave Willis, Ashley Willis",
-      "description": "A podcast dedicated to undressing the truth about sex, intimacy and lifelong love. The concerns and questions most couples have in marriage often go unspoken, until now. Hosts Dave and Ashley Willis bring wisdom, vulnerability, and humor to even the toughest marriage topics. Together they have built a strong following, reaching millions of married couples through their blogs, books, and videos. They have four young sons and live in Augusta, GA.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f77f382a2cf2d5fd9b25dd93f",
-      "appleId": "id1437213097",
-      "ratings": 2469,
-      "velocity": 6
-    }
-  },
-  {
-    "title": "Ram Dass Here And Now",
-    "link": "3Dz4DL2ZMvnNQUnDSXqSdm",
-    "meta": {
-      "rank": 46,
-      "category": "Religion & Spirituality",
-      "publisher": "Ram Dass / Love Serve Remember",
-      "description": "Ram Dass shares his heart-centered wisdom in each episode featuring excerpted lectures given throughout the last 40 years, with an introduction from Raghu Markus of Ram Dass' Love Serve Remember Foundation.",
-      "image": "https://i.scdn.co/image/352b7188faa2fbb5150e176822ee5702ebd800c5",
-      "appleId": "id518366323",
-      "ratings": 2110,
-      "velocity": 3
-    }
-  },
-  {
-    "title": "The Proverbs 31 Ministries Podcast",
-    "link": "58b6EICdTg9YQ3kMkmppMR",
-    "meta": {
-      "rank": 47,
-      "category": "Religion & Spirituality",
-      "publisher": "The Proverbs 31 Ministries Podcast",
-      "description": "For over 25 years Proverbs 31 Ministries' mission has been to intersect God's Word in the real, hard places we all struggle with. That's why we started this podcast. Every episode will feature a variety of teachings from president Lysa TerKeurst, staff members or friends of the ministry who can teach you something valuable from their vantage point. We hope that regardless of your age, background or stage of life, it's something you look forward to listening to each month!",
-      "image": "https://i.scdn.co/image/ab67656300005f1f4911194fa618030a13e44054",
-      "appleId": "id757953988",
-      "ratings": 4161,
-      "velocity": -4
-    }
-  },
-  {
-    "title": "John Mark Comer Teachings",
-    "link": "7dHIByUQ588Li9pUtv0TDn",
-    "meta": {
-      "rank": 48,
-      "category": "Religion & Spirituality",
-      "publisher": "Practicing the Way",
-      "description": "The teachings of Jesus lead us to a better, fuller life. This was true in the ancient world where Jesus first taught, and it’s still true today. But what does it mean to actually practice the way of Jesus in today’s complex, secular world? In this podcast by Practicing the Way, John Mark Comer responds to that important question through his teachings at Bridgetown Church in Portland, Oregon. Join us as John Mark provides practical insight on how you can be with Jesus, become like Him and do what He did wherever you are today.practicingtheway.org",
-      "image": "https://i.scdn.co/image/ab67656300005f1f39a4a2c855ef3dd326590169",
-      "appleId": "id1592847144",
-      "ratings": 552,
-      "velocity": 2
-    }
-  },
-  {
-    "title": "Let God Podcast",
-    "link": "0zbdOKOpzfvQPpvpiE3m1P",
-    "meta": {
-      "rank": 49,
-      "category": "Religion & Spirituality",
-      "publisher": "Let God Podcast",
-      "description": "Hey wonderful people! Welcome to Let God Podcast 💕 We are 3 young women that give cultural commentary through a Christian lens. We want to keep it real, keep it relevant, and most of all Let God do the talking!  New episodes out every Thursday at 6pm. Support this podcast: https://anchor.fm/letgodpodcast/support",
-      "image": "https://i.scdn.co/image/14280492a275456df0433304cfb76dc222663b85",
-      "appleId": "id1524654307",
-      "ratings": 58,
-      "velocity": -11
     }
   },
   {
     "title": "Quran in English",
     "link": "1llBPascXiLSvgbzPJSK34",
     "meta": {
-      "rank": 50,
+      "rank": 40,
       "category": "Religion & Spirituality",
       "publisher": "Goodword Books",
       "description": "Translated by Maulana Wahiduddin Khan Narrated by Sean Barrett",
       "image": "https://i.scdn.co/image/ab67656300005f1fb2813f17b59bfaa619368302",
-      "velocity": -4
+      "velocity": 6
+    }
+  },
+  {
+    "title": "John Mark Comer Teachings",
+    "link": "7dHIByUQ588Li9pUtv0TDn",
+    "meta": {
+      "rank": 41,
+      "category": "Religion & Spirituality",
+      "publisher": "Practicing the Way",
+      "description": "The teachings of Jesus lead us to a better, fuller life. This was true in the ancient world where Jesus first taught, and it’s still true today. But what does it mean to actually practice the way of Jesus in today’s complex, secular world? In this podcast by Practicing the Way, John Mark Comer responds to that important question through his teachings at Bridgetown Church in Portland, Oregon. Join us as John Mark provides practical insight on how you can be with Jesus, become like Him and do what He did wherever you are today.practicingtheway.org",
+      "image": "https://i.scdn.co/image/ab67656300005f1f39a4a2c855ef3dd326590169",
+      "appleId": "id1592847144",
+      "ratings": 552,
+      "velocity": 9
+    }
+  },
+  {
+    "title": "Let's Go There!",
+    "link": "4tp3pDNJPJh5FNt2ZRnLdf",
+    "meta": {
+      "rank": 42,
+      "category": "Religion & Spirituality",
+      "publisher": "Annaly & Annie",
+      "description": "\"Going There\" on all the hard Christian Topics Support this podcast: https://anchor.fm/letsgothereconvo/support",
+      "image": "https://i.scdn.co/image/ab67656300005f1f442f4f7d98393e7d22424b86",
+      "appleId": "id1555810073",
+      "ratings": 179,
+      "velocity": 0
+    }
+  },
+  {
+    "title": "Tony Evans' Podcast",
+    "link": "5ge49yKtqa2afe8Oo9BtLU",
+    "meta": {
+      "rank": 43,
+      "category": "Religion & Spirituality",
+      "publisher": "Tony Evans",
+      "description": "Listen to free sermons from Dr. Tony Evans on The Alternative. Get more free resources, books, and series from Dr. Evans on tonyevans.org.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f6ce9080a4e07f99f60999cab",
+      "appleId": "id406782386",
+      "ratings": 7244,
+      "velocity": 5
+    }
+  },
+  {
+    "title": "DOSIS DIARIA ROKA",
+    "link": "4iIu7ScTmDR7AYGvMUcKCb",
+    "meta": {
+      "rank": 44,
+      "category": "Religion & Spirituality",
+      "publisher": "Roka Stereo",
+      "description": "Mision  Buscamos rescatar los valores de la sociedad, especialmente de la juventud enfocándonos en ofrecer una palabra clara, reconfortante y constante que pueda servir de apoyo para restaurar las heridas del Corazón de quienes han sufrido experiencias o vivencias que han marcado sus vidas; siempre exaltando el amor y el perdón de Dios que dió a través de su hijo Jesucristo.  ¿En que nos fundamentamos?  La gran comisión, ir a todo el mundo y predicar el evangelio a toda persona. Marcos 16:15 En la Oracion como respuesta a toda necesidad de cada oyente por la palabra que nos entrego. Hechos 10:38 Creemos que hemos sido restaurados para restaurar. Jeremias 33:6 Nuestros valores  Vida en Dios sentido de responsabilidad amor propio y por el prójimo proclamar la verdad ¿Para quiénes? Roka Stereo esta dirigida para hombres y mujeres que tengan necesidad de Dios y que tengan un corazón dispuesto para oír el mensaje diario que Dios tiene para ellos.  Apoya nuestro ministerio  Dios esta cambiando y sanando vidas a través de de esta emisora, agradecemos tu apoyo y el sentir que tienes en tu corazón para que este Ministerio nunca se detenga. www.rokastereo.com",
+      "image": "https://i.scdn.co/image/93a8f54a0164654513032d77e6be67f0b0c18a07",
+      "appleId": "id1405708885",
+      "ratings": 230,
+      "velocity": -10
+    }
+  },
+  {
+    "title": "Inner Work: A Spiritual Growth Podcast",
+    "link": "6FaeFanKocs01JQge6C2tm",
+    "meta": {
+      "rank": 45,
+      "category": "Religion & Spirituality",
+      "publisher": "Josephine Hardman, PhD",
+      "description": "Inner Work: A Spiritual Growth Podcast is committed to walking with you on your journey of awakening and self-development. Host Josephine Hardman, PhD is a second-generation intuitive healer who transitioned into full-time spiritual work after teaching college English for 9 years. Inner Work features illuminating discussions and interviews on spirituality, self-development, inner healing, and manifesting the truly abundant life you deserve.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f89647b7cf3b63eafd9c1bcec",
+      "appleId": "id1240392123",
+      "ratings": 326,
+      "velocity": -6
+    }
+  },
+  {
+    "title": "The Potter's Touch on Lightsource.com - Audio",
+    "link": "22JllB3X2eHSRpqwEj90D7",
+    "meta": {
+      "rank": 46,
+      "category": "Religion & Spirituality",
+      "publisher": "Bishop T.D. Jakes",
+      "description": "The Potter's Touch, a weekly program, with Bishop T.D. Jakes, tackles today's topics and confronts the hidden issues and invisible scars that go untreated. This broadcast carries healing and restoration into homes of hurting people, unearthing taboo topics and offering practical and spiritual solutions to life's toughest questions. 857311  To support this ministry financially, visit: https://www.lightsource.com/donate/973",
+      "image": "https://i.scdn.co/image/e99695c219499b48e62ad900cec11db06723732a",
+      "appleId": "id364682371",
+      "ratings": 3545,
+      "velocity": -2
+    }
+  },
+  {
+    "title": "Ram Dass Here And Now",
+    "link": "3Dz4DL2ZMvnNQUnDSXqSdm",
+    "meta": {
+      "rank": 47,
+      "category": "Religion & Spirituality",
+      "publisher": "Ram Dass / Love Serve Remember",
+      "description": "Ram Dass shares his heart-centered wisdom in each episode featuring excerpted lectures given throughout the last 40 years, with an introduction from Raghu Markus of Ram Dass' Love Serve Remember Foundation.",
+      "image": "https://i.scdn.co/image/352b7188faa2fbb5150e176822ee5702ebd800c5",
+      "appleId": "id518366323",
+      "ratings": 2110,
+      "velocity": 2
+    }
+  },
+  {
+    "title": "Daily Grace",
+    "link": "18NyOSTZS1OhvOTYysv3gx",
+    "meta": {
+      "rank": 48,
+      "category": "Religion & Spirituality",
+      "publisher": "The Daily Grace Co.",
+      "description": "Daily Grace exists to encourage and equip women to seek God in His Word. Our goal is for women to know that deep Bible study, sound doctrine, and rich theology are not just for the seminary student or pastor, but are accessible and transformational for all believers, so that they will grow in love and awe as they join us in our conversation about our great God.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f0ce51d5ceca4b2aeb18f6acc",
+      "velocity": 0
+    }
+  },
+  {
+    "title": "A Year in the Bible with Daily Grace",
+    "link": "77lTiATR2u2O7u4HDueARD",
+    "meta": {
+      "rank": 49,
+      "category": "Religion & Spirituality",
+      "publisher": "The Daily Grace Co.",
+      "description": "NOTE: If you are currently reading the Story of Redemption Study, you will want to listen to Season 1.  If you are reading  Eden To Eternity: The Chronological Story of Scripture, you will want season 2.  From Eden to eternity, the Bible tells one big story of redemption, and we want to spend five minutes every day journeying through the Bible chronologically from start to finish. In each episode, our host will walk through a few chapters of the Bible and explore when the events of Scripture unfolded in history. Above all, we will see how every part of the Bible points to Jesus and how the truth of God’s Word impacts our lives.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fe6c50fa44e77ea970d4f4d55",
+      "appleId": "id1592165387",
+      "ratings": 887,
+      "velocity": -2
+    }
+  },
+  {
+    "title": "Dante Gebel",
+    "link": "0Ds5tB7EhMuZOGhM3Xfuoy",
+    "meta": {
+      "rank": 50,
+      "category": "Religion & Spirituality",
+      "publisher": "Dante Gebel",
+      "description": "Conferencista, influencer, actor y conductor de televisión. Support this podcast: https://anchor.fm/dante-gebel/support",
+      "image": "https://i.scdn.co/image/ab67656300005f1f5923d8c04c61d3a4a1764243",
+      "appleId": "id1161558295",
+      "ratings": 750,
+      "velocity": 0
     }
   }
 ]

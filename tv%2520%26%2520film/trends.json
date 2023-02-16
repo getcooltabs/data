@@ -81,7 +81,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f5aa2a0dbcb78fe075d8b4d58",
       "appleId": "id1669405162",
       "ratings": 34,
-      "velocity": 1
+      "velocity": 0
     }
   },
   {
@@ -110,7 +110,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1fe21244c074258553e1ad6572",
       "appleId": "id1638991085",
       "ratings": 1359,
-      "velocity": 2
+      "velocity": 1
     }
   },
   {
@@ -181,7 +181,7 @@
       "image": "https://i.scdn.co/image/13b527f69667ea36fe4f8134356c54249491edc6",
       "appleId": "id1503236243",
       "ratings": 2530,
-      "velocity": 1
+      "velocity": 0
     }
   },
   {
@@ -210,7 +210,7 @@
       "followers": 21070,
       "appleId": "id1571792783",
       "ratings": 21070,
-      "velocity": 1
+      "velocity": 0
     }
   },
   {
@@ -254,7 +254,7 @@
       "followers": 17198949,
       "appleId": "id1651004191",
       "ratings": 653,
-      "velocity": 1
+      "velocity": 0
     }
   },
   {
@@ -280,7 +280,7 @@
       "publisher": "The Ringer",
       "description": "The live trivia app 'HQ Trivia' was once the obsession of the internet, garnering millions of players and an international spotlight. But then it all went wrong. From 'The Ringer' Podcast Network, ‘Boom/Bust: HQ Trivia’ is an exploration of the spectacular rise and fall of the massively popular app, reported and hosted by Alyssa Bereznak.",
       "image": "https://i.scdn.co/image/ab67656300005f1fbd8f26eb19180daa5b93ef15",
-      "velocity": 5
+      "velocity": 4
     }
   },
   {
@@ -322,7 +322,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f7a4548668d976b8797f13067",
       "appleId": "id1349106563",
       "ratings": 4266,
-      "velocity": 1
+      "velocity": 0
     }
   },
   {
@@ -348,7 +348,7 @@
       "publisher": "Autocomplete Interview",
       "description": "Is Ice Cube a nice guy? Do astronauts really drink their own pee? Does Gerard Butler still surf? The internet searches for answers and WIRED goes right to the source for the answer.",
       "image": "https://i.scdn.co/image/ab67656300005f1f222537a98ed31f500b36e726",
-      "velocity": 5
+      "velocity": 4
     }
   },
   {
@@ -376,7 +376,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f55aaf064207de16b3c0f2be5",
       "appleId": "id1501739859",
       "ratings": 275,
-      "velocity": 2
+      "velocity": 1
     }
   },
   {
@@ -390,7 +390,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f4c0f94a4717503c1e2d7c204",
       "appleId": "id1670043000",
       "ratings": 39,
-      "velocity": -5
+      "velocity": -4
     }
   },
   {
@@ -418,7 +418,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f0d1d28ee5e13c9d36320b758",
       "appleId": "id1351044991",
       "ratings": 984,
-      "velocity": 1
+      "velocity": 0
     }
   },
   {
@@ -430,7 +430,7 @@
       "publisher": "zero",
       "description": "I will always update some of my favorite lines here. I hope you can hear the words you love.",
       "image": "https://i.scdn.co/image/ab67656300005f1f42d78afd0b3a3e0be83946b0",
-      "velocity": 2
+      "velocity": 1
     }
   },
   {
@@ -444,7 +444,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1faf3b8bf6e8af6884e22c5f44",
       "appleId": "id1541034575",
       "ratings": 2006,
-      "velocity": -5
+      "velocity": -4
     }
   },
   {
@@ -458,7 +458,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1ffdb7671b8693cd0a1e12092a",
       "appleId": "id1477524410",
       "ratings": 4484,
-      "velocity": 5
+      "velocity": 4
     }
   },
   {
@@ -500,7 +500,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1fbc32f40a2ac0fc33c0af1d5d",
       "appleId": "id1645109815",
       "ratings": 250,
-      "velocity": 3
+      "velocity": 2
     }
   },
   {
@@ -514,7 +514,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f66b3396120f4107f2810ebc0",
       "appleId": "id1606894327",
       "ratings": 284,
-      "velocity": 5
+      "velocity": 4
     }
   },
   {
@@ -528,7 +528,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1fb7f731701095387fd91dc9cf",
       "appleId": "id1597189030",
       "ratings": 1651,
-      "velocity": -6
+      "velocity": -5
     }
   },
   {
@@ -542,7 +542,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f18f6115ac7869f5338b2d786",
       "appleId": "id1558211702",
       "ratings": 2269,
-      "velocity": 4
+      "velocity": 3
     }
   },
   {
@@ -556,7 +556,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f658176db6a15bf07942defbf",
       "appleId": "id858124601",
       "ratings": 11979,
-      "velocity": 11
+      "velocity": 8
     }
   },
   {
@@ -570,7 +570,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f74d0d14c6385c8456d82182c",
       "appleId": "id1634687152",
       "ratings": 729,
-      "velocity": -5
+      "velocity": -4
     }
   },
   {
@@ -584,7 +584,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f5b4c95b6577216e33db4f6c4",
       "appleId": "id1381507437",
       "ratings": 3903,
-      "velocity": -5
+      "velocity": -4
     }
   },
   {
@@ -598,7 +598,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f4843726ab283172e86cd7f27",
       "appleId": "id1628160941",
       "ratings": 1808,
-      "velocity": 2
+      "velocity": 1
     }
   },
   {
@@ -624,7 +624,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f677933695b5d73069ca57b97",
       "appleId": "id1627069896",
       "ratings": 523,
-      "velocity": 1
+      "velocity": 0
     }
   },
   {
@@ -638,7 +638,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1fd717ce169c1bcf19ac095ba7",
       "appleId": "id1626573626",
       "ratings": 71,
-      "velocity": 5
+      "velocity": 4
     }
   },
   {
@@ -652,7 +652,7 @@
       "image": "https://i.scdn.co/image/c455cb947f0e68147de758a60e3482c2b39218c3",
       "appleId": "id462495496",
       "ratings": 2198,
-      "velocity": 4
+      "velocity": 3
     }
   },
   {
@@ -666,7 +666,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f28dc1a68cae6825631dc0f63",
       "appleId": "id1463174591",
       "ratings": 799,
-      "velocity": -7
+      "velocity": -6
     }
   },
   {
@@ -680,7 +680,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f2db2f8d700ec43b3b38587d9",
       "appleId": "id1563792491",
       "ratings": 3736,
-      "velocity": -5
+      "velocity": -4
     }
   },
   {
