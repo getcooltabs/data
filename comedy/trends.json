@@ -22,7 +22,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1fc3fa433d8e6f96480013f6ba",
       "appleId": "id1531593864",
       "ratings": 677,
-      "velocity": 4
+      "velocity": 3
     }
   },
   {
@@ -63,27 +63,41 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f284324ba6c5a0b4256c9f6ec",
       "appleId": "id1468013270",
       "ratings": 20202,
-      "velocity": 2
+      "velocity": 1
+    }
+  },
+  {
+    "title": "The Basement Yard",
+    "link": "5uKsbyFWv7QI3smvZOO7In",
+    "meta": {
+      "rank": 6,
+      "category": "Comedy",
+      "publisher": "Santagato Studios",
+      "description": "The Basement Yard is a podcast ran by me, Joe Santagato. I would write a long description about what this podcast will be about but I'm not even sure.. Enjoy!",
+      "image": "https://i.scdn.co/image/ab67656300005f1ffbfa6f19a102dec1a5bd6826",
+      "appleId": "id1034354283",
+      "ratings": 10459,
+      "velocity": 4
     }
   },
   {
     "title": "Morbid",
     "link": "1cpyLfDHP1cNnyOb478qrt",
     "meta": {
-      "rank": 6,
+      "rank": 7,
       "category": "Comedy",
       "publisher": "Morbid Network | Wondery",
       "description": "It’s a lighthearted nightmare in here, weirdos! Morbid is a true crime, creepy history and all things spooky podcast hosted by an autopsy technician and a hairstylist. Join us for a heavy dose of research with a dash of comedy thrown in for flavor. ",
-      "image": "https://i.scdn.co/image/ab67656300005f1ff8545a915ec37b3f8bbce3ab",
+      "image": "https://i.scdn.co/image/ab67656300005f1fda170402fccb73949d998101",
       "followers": 125832,
-      "velocity": -1
+      "velocity": -2
     }
   },
   {
     "title": "Armchair Expert with Dax Shepard",
     "link": "6kAsbP8pxwaU2kPibKTuHE",
     "meta": {
-      "rank": 7,
+      "rank": 8,
       "category": "Comedy",
       "publisher": "Armchair Expert",
       "description": "Hi, I’m Dax Shepard, and I love talking to people. I am endlessly fascinated by the messiness of being human, and I find people who are vulnerable and honest about their struggles and shortcomings to be incredibly sexy. I invite you to join me as I explore other people’s stories. We will celebrate, above all, the challenges and setbacks that ultimately lead to growth and betterment. What qualifies me for such an endeavor? More than a decade of sobriety, a degree in Anthropology and four years of improv training. I will attempt to discover human “truths” without any laboratory work, clinical trials or data collection. I will be, in the great tradition of 16th-century scientists, an Armchair Expert.",
@@ -91,21 +105,7 @@
       "followers": 76867,
       "appleId": "id1345682353",
       "ratings": 63475,
-      "velocity": -3
-    }
-  },
-  {
-    "title": "The Basement Yard",
-    "link": "5uKsbyFWv7QI3smvZOO7In",
-    "meta": {
-      "rank": 8,
-      "category": "Comedy",
-      "publisher": "Santagato Studios",
-      "description": "The Basement Yard is a podcast ran by me, Joe Santagato. I would write a long description about what this podcast will be about but I'm not even sure.. Enjoy!",
-      "image": "https://i.scdn.co/image/ab67656300005f1ffbfa6f19a102dec1a5bd6826",
-      "appleId": "id1034354283",
-      "ratings": 10459,
-      "velocity": 3
+      "velocity": -4
     }
   },
   {
@@ -152,67 +152,52 @@
     }
   },
   {
+    "title": "Andrew Schulz's Flagrant with Akaash Singh",
+    "link": "0VjIStA3iUPJCqtiTSRhVY",
+    "meta": {
+      "rank": 12,
+      "category": "Comedy",
+      "publisher": "Andrew Schulz's Flagrant with Akaash Singh",
+      "description": "Flagrant is a comedy podcast that delivers unfiltered, unapologetic, and unruly hot takes directly to your dome piece. In an era dictated by political correctness, hosts Andrew Schulz and Akaash Singh, along with AlexxMedia and Mark Gagnon, could care less about sensitivities. If it’s funny and flagrant it flies. If you are sensitive this podcast is not for you. But if you miss the days of comedians actually being funny instead of preaching to a choir then welcome to The Flagrancy. THE GREATEST HANG IN THE UNIVERSE!",
+      "image": "https://i.scdn.co/image/ab67656300005f1f34ad33ba4d1135ee1276944d",
+      "appleId": "id1288641267",
+      "ratings": 5250,
+      "velocity": 12
+    }
+  },
+  {
     "title": "Baby, This is Keke Palmer",
     "link": "0kK48l715AImMNbutfHYYG",
     "meta": {
-      "rank": 12,
+      "rank": 13,
       "category": "Comedy",
       "publisher": "Wondery",
       "description": "Keke Palmer has questions for days, about everything under the sun. From the existential to the inconsequential. From pop culture to pop science. From the meaning of life to the meaning of W.A.P. From life in outer space to “Where the eff is Tom from MySpace?“ And everything in between. Because Baby, this is Keke Palmer, and she is here for All. Of. It.Each week, the multi-talented Keke is taking you on a journey down the rabbit hole on a topic that she cannot stop obsessing over. She’ll also get deep with special guests, trying to answer the questions that keep us up at night. We are getting INTO IT.Have a secret to share with Keke? Or maybe you just want to slide into our DMS? Or perhaps you just want to ask Keke your own burning question? Email us at babythisiskekepalmer@amazon.com for a chance to be featured on the show.",
       "image": "https://i.scdn.co/image/ab67656300005f1f30c7ff5de28faab6bb81f66c",
       "appleId": "id1668446854",
       "ratings": 98,
-      "velocity": 1
+      "velocity": -1
     }
   },
   {
     "title": "Fly on the Wall with Dana Carvey and David Spade",
     "link": "5mJq4a7j3fkJ6bJEVZL6zk",
     "meta": {
-      "rank": 13,
+      "rank": 14,
       "category": "Comedy",
       "publisher": "Cadence13",
       "description": "Be a “Fly on the Wall” as Saturday Night Live alumni Dana Carvey and David Spade take you behind the scenes to reminisce about the most memorable stories and moments with friends of the show. In each episode, you’ll hear from your favorite cast members, hosts, writers, and musical guests as they share never-before told stories about their careers; including how they made their way to the show and how being a part of SNL’s cultural history has impacted their lives beyond the show. Fly on the Wall with Dana Carvey and David Spade is a presentation of Cadence13.",
       "image": "https://i.scdn.co/image/ab67656300005f1fdc57646adc893afc5d829c4f",
       "appleId": "id1603639502",
       "ratings": 7754,
-      "velocity": -1
-    }
-  },
-  {
-    "title": "ShxtsNGigs",
-    "link": "6olvQhNhQwMbGG26t3rVgM",
-    "meta": {
-      "rank": 14,
-      "category": "Comedy",
-      "publisher": "shxtsngigs",
-      "description": "ShxtsNGigs is a weekly podcast featuring best friends James and Fuhad. They try to give their full, unfiltered opinion on anything that comes to mind. It can be raw, it might be offensive but its always hilarious!",
-      "image": "https://i.scdn.co/image/ab67656300005f1f76bc892906843dd8720f58d4",
-      "followers": 26349,
-      "appleId": "id1481898329",
-      "ratings": 2015,
-      "velocity": 2
-    }
-  },
-  {
-    "title": "Funny Tiktoks",
-    "link": "0C1nho6RQVhKjhigouLXE6",
-    "meta": {
-      "rank": 15,
-      "category": "Comedy",
-      "publisher": "Funny Tiktoks",
-      "description": "I am no longer doing requests, sorry everyone.  If you have any questions or concerns please email me at funnytiktokspodcast@outlook.com. My Spotify normal username is (Podcast Owner) so if you see a comment with that name it's me! My account link if you wanna follow: https://open.spotify.com/user/rpwnlsmtuvbjaargij43wbyld?si=d95216fd76234c6b|  Have a great day/night!",
-      "image": "https://i.scdn.co/image/ab67656300005f1f5f77628b233a1b00417f1f87",
-      "appleId": "id1645450065",
-      "ratings": 4,
-      "velocity": 3
+      "velocity": -2
     }
   },
   {
     "title": "Your Mom's House with Christina P. and Tom Segura",
     "link": "7i59GubTw3CcNy9M6m7DTX",
     "meta": {
-      "rank": 16,
+      "rank": 15,
       "category": "Comedy",
       "publisher": "YMH Studios",
       "description": "Christina Pazsitzky and Tom Segura are comedians who are also married. They are the Mommies and they welcome you to join them. Dental updates! Dudes! Stories! Wiping!",
@@ -223,25 +208,24 @@
     }
   },
   {
-    "title": "Dumb Blonde",
-    "link": "4HHvTURWViZE5vYuSt0ldG",
+    "title": "Funny Tiktoks",
+    "link": "0C1nho6RQVhKjhigouLXE6",
     "meta": {
-      "rank": 17,
+      "rank": 16,
       "category": "Comedy",
-      "publisher": "Dumb Blonde Productions",
-      "description": "Your favorite female Shock Jock. Also, the degenerate love child of Dolly Parton & Dr. Ruth.",
-      "image": "https://i.scdn.co/image/7e7eead538f5f9f4db9fc94786b6c973b8bd3b62",
-      "followers": 1010,
-      "appleId": "id1465273008",
-      "ratings": 3451,
-      "velocity": -2
+      "publisher": "Funny Tiktoks",
+      "description": "I am no longer doing requests, sorry everyone.  If you have any questions or concerns please email me at funnytiktokspodcast@outlook.com. My Spotify normal username is (Podcast Owner) so if you see a comment with that name it's me! My account link if you wanna follow: https://open.spotify.com/user/rpwnlsmtuvbjaargij43wbyld?si=d95216fd76234c6b|  Have a great day/night!",
+      "image": "https://i.scdn.co/image/ab67656300005f1f5f77628b233a1b00417f1f87",
+      "appleId": "id1645450065",
+      "ratings": 4,
+      "velocity": 1
     }
   },
   {
     "title": "UNCLE JOEY’S JOINT",
     "link": "4ov7WzQzOWTyPC2EhPfPDo",
     "meta": {
-      "rank": 18,
+      "rank": 17,
       "category": "Comedy",
       "publisher": "Joey Coco Diaz",
       "description": "Uncle Joey's Joint with: Joey 'CoCo' Diaz is a twice-weekly podcast hosted by Comedian Joey Coco Diaz. Joey doesn't hold anything back and lets you know exactly what's on his mind. Welcome to The Joint.",
@@ -252,10 +236,39 @@
     }
   },
   {
+    "title": "ShxtsNGigs",
+    "link": "6olvQhNhQwMbGG26t3rVgM",
+    "meta": {
+      "rank": 18,
+      "category": "Comedy",
+      "publisher": "shxtsngigs",
+      "description": "ShxtsNGigs is a weekly podcast featuring best friends James and Fuhad. They try to give their full, unfiltered opinion on anything that comes to mind. It can be raw, it might be offensive but its always hilarious!",
+      "image": "https://i.scdn.co/image/ab67656300005f1f76bc892906843dd8720f58d4",
+      "followers": 26349,
+      "appleId": "id1481898329",
+      "ratings": 2015,
+      "velocity": -3
+    }
+  },
+  {
+    "title": "Two Hot Takes",
+    "link": "6kCMPmQxqL1gO0DNtqeyQl",
+    "meta": {
+      "rank": 19,
+      "category": "Comedy",
+      "publisher": "Morgan Absher",
+      "description": "Join host Morgan Absher and her team of co-hosts as they scavenge Reddit, listener write-ins, and the rest of the internet to give their hot takes on the juiciest dating, relationship, life, and AITA stories.  Listen to exclusive stories: https://www.patreon.com/TwoHotTakes Follow along on Instagram: @TwoHotTakes Check out our YouTube Channel for full length videos! https://www.youtube.com/c/TwoHotTakes",
+      "image": "https://i.scdn.co/image/ab67656300005f1ffa124083d917fa578dee6587",
+      "appleId": "id1553199104",
+      "ratings": 4243,
+      "velocity": 15
+    }
+  },
+  {
     "title": "Matt and Shane's Secret Podcast",
     "link": "32p08HngccrVVyugc45Ljp",
     "meta": {
-      "rank": 19,
+      "rank": 20,
       "category": "Comedy",
       "publisher": "D.A.W.G.Z.",
       "description": "Cold Cidey's and HAWT takes. Sit back, relax, and get hype on the D.A.W.G.Z.",
@@ -263,28 +276,28 @@
       "followers": 31790,
       "appleId": "id1177068388",
       "ratings": 5214,
-      "velocity": 0
+      "velocity": -1
     }
   },
   {
-    "title": "Andrew Schulz's Flagrant with Akaash Singh",
-    "link": "0VjIStA3iUPJCqtiTSRhVY",
+    "title": "You Should Know Podcast",
+    "link": "3uOGJH6LXT3zMRkiSelveI",
     "meta": {
-      "rank": 20,
+      "rank": 21,
       "category": "Comedy",
-      "publisher": "Andrew Schulz's Flagrant with Akaash Singh",
-      "description": "Flagrant is a comedy podcast that delivers unfiltered, unapologetic, and unruly hot takes directly to your dome piece. In an era dictated by political correctness, hosts Andrew Schulz and Akaash Singh, along with AlexxMedia and Mark Gagnon, could care less about sensitivities. If it’s funny and flagrant it flies. If you are sensitive this podcast is not for you. But if you miss the days of comedians actually being funny instead of preaching to a choir then welcome to The Flagrancy. THE GREATEST HANG IN THE UNIVERSE!",
-      "image": "https://i.scdn.co/image/ab67656300005f1f34ad33ba4d1135ee1276944d",
-      "appleId": "id1288641267",
-      "ratings": 5250,
-      "velocity": 5
+      "publisher": "Peyton Hardin",
+      "description": "The You Should Know Podcast is hosted by Peyton Hardin. Peyton brings in interesting guest every episode to pull back the veil on their career to get the story behind their success!",
+      "image": "https://i.scdn.co/image/dd19a8d74aedf3d2ca6f32f9565309733f5c2f9e",
+      "appleId": "id1494064011",
+      "ratings": 232,
+      "velocity": 12
     }
   },
   {
     "title": "Jumpers Jump",
     "link": "70xb620hLbozq0Vb46t6Lv",
     "meta": {
-      "rank": 21,
+      "rank": 22,
       "category": "Comedy",
       "publisher": "Jumpers Jump Podcast & Studio71",
       "description": "Jump in with us, Carlos Juico and Gavin Ruta, as we discuss topics on pop culture, streetwear, our personal adventures, and life as young entrepreneurs finding success through our passions. Jumpers Jump, so take that leap!  Welcome to the Jumpers Jump Podcast!   For advertising opportunities please email PodcastPartnerships@Studio71us.com   We wanna make the podcast even better, help us learn how we can: https://bit.ly/2EcYbu4  Privacy Policy: https://www.studio71.com/us/terms-and-conditions-use/#Privacy%20Policy  Check out the podcast on YouTube: https://bit.ly/JumpersJumpYT Follow the podcast: @JumpersPodcast Follow Carlos: @CarlosJuico Follow Gavin: @GavinRutaa",
@@ -292,28 +305,43 @@
       "followers": 2639,
       "appleId": "id1541777977",
       "ratings": 2239,
-      "velocity": 14
+      "velocity": 10
+    }
+  },
+  {
+    "title": "Dumb Blonde",
+    "link": "4HHvTURWViZE5vYuSt0ldG",
+    "meta": {
+      "rank": 23,
+      "category": "Comedy",
+      "publisher": "Dumb Blonde Productions",
+      "description": "Your favorite female Shock Jock. Also, the degenerate love child of Dolly Parton & Dr. Ruth.",
+      "image": "https://i.scdn.co/image/7e7eead538f5f9f4db9fc94786b6c973b8bd3b62",
+      "followers": 1010,
+      "appleId": "id1465273008",
+      "ratings": 3451,
+      "velocity": -8
     }
   },
   {
     "title": "Dungeons and Daddies",
     "link": "5Sffly5o4mPetmnTR9zsWh",
     "meta": {
-      "rank": 22,
+      "rank": 24,
       "category": "Comedy",
       "publisher": "Dungeons and Daddies",
       "description": "A Dungeons and Dragons podcast about four dads from our world transported into a realm of high fantasy and magic and their quest to rescue their sons. Hosted on Acast. See acast.com/privacy for more information.",
       "image": "https://i.scdn.co/image/ab67656300005f1f69030c58137ed169dc420519",
       "appleId": "id1450241676",
       "ratings": 8108,
-      "velocity": 5
+      "velocity": 2
     }
   },
   {
     "title": "The Always Sunny Podcast",
     "link": "0xDEeqWuoMNBUFGNrhIz6L",
     "meta": {
-      "rank": 23,
+      "rank": 25,
       "category": "Comedy",
       "publisher": "Megawatt Productions",
       "description": "The Always Sunny Podcast is a look back on fifteen seasons of the hit show, It’s Always Sunny in Philadelphia, hosted by Glenn, Charlie, and Rob. The guys are going back to where it all began: 2005. Starting with the very first episode, they’ll rewatch every season and give us a deep dive into their memories of creating the show, reveal how they first met, and discuss how they created a lasting partnership that has endured the better part of two decades. That is, if they can remember any of it.",
@@ -321,36 +349,7 @@
       "followers": 80357,
       "appleId": "id1594627983",
       "ratings": 11133,
-      "velocity": -1
-    }
-  },
-  {
-    "title": "Normal Gossip",
-    "link": "0KVZ16mLZ1bbNlnKemYTzm",
-    "meta": {
-      "rank": 24,
-      "category": "Comedy",
-      "publisher": "Normal Gossip",
-      "description": "Normal Gossip delivers juicy, strange, funny, and utterly banal gossip about people you’ll never know and never meet. Host Kelsey McKinney discusses reader-submitted comedic gossip with guests, diving into the lives and decisions of complete strangers. The second-hand truth really is stranger than fiction. Produced by Alex Sujong Laughlin. Show art by Tara Jacoby.  https://linktr.ee/normalgossip",
-      "image": "https://i.scdn.co/image/ab67656300005f1f6dce46602cbfb7f5374b413f",
-      "appleId": "id1597761181",
-      "ratings": 2699,
-      "velocity": 0
-    }
-  },
-  {
-    "title": "The Toast",
-    "link": "2pC9RlB48sW1pwtz5PieJE",
-    "meta": {
-      "rank": 25,
-      "category": "Comedy",
-      "publisher": "Dear Media",
-      "description": "Take a bite out of The Toast, weekdays with Jackie & Claudia Oshry.",
-      "image": "https://i.scdn.co/image/ab67656300005f1ff0631f31c8f523f62d0f3e40",
-      "followers": 17690,
-      "appleId": "id1368081567",
-      "ratings": 24582,
-      "velocity": 1
+      "velocity": -3
     }
   },
   {
@@ -364,56 +363,29 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f886346da88b8d165e9e3d6e4",
       "appleId": "id1649001597",
       "ratings": 190,
-      "velocity": 5
+      "velocity": 4
     }
   },
   {
-    "title": "KILL TONY",
-    "link": "77iUVnajPyEWPhY6LxjpzM",
+    "title": "The Toast",
+    "link": "2pC9RlB48sW1pwtz5PieJE",
     "meta": {
       "rank": 27,
       "category": "Comedy",
-      "publisher": "DEATHSQUAD.TV",
-      "description": "Weekly podcast recorded live from Austin Texas with your hosts Tony Hinchcliffe & Brian Redban.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f380fa9df0055b721e692b2f8",
-      "appleId": "id1042361179",
-      "ratings": 3005,
-      "velocity": -7
-    }
-  },
-  {
-    "title": "Monday Morning Podcast",
-    "link": "5SFiQlOQ3EKmwp0chE1QzY",
-    "meta": {
-      "rank": 28,
-      "category": "Comedy",
-      "publisher": "All Things Comedy",
-      "description": "Bill Burr rants about relationship advice, sports and the Illuminati. ",
-      "image": "https://i.scdn.co/image/516f926d695dc36799b8a66448b1ca191da02903",
-      "appleId": "id480486345",
-      "ratings": 30070,
-      "velocity": 11
-    }
-  },
-  {
-    "title": "Give It To Me Straight",
-    "link": "7EQLyEuHvsdPVmTtbRN6DS",
-    "meta": {
-      "rank": 29,
-      "category": "Comedy",
-      "publisher": "Give It To Me Straight",
-      "description": "A PowerPress site",
-      "image": "https://i.scdn.co/image/ab67656300005f1feaa07d449108dfca9f6e9c46",
-      "appleId": "id1550663163",
-      "ratings": 468,
-      "velocity": 0
+      "publisher": "Dear Media",
+      "description": "Take a bite out of The Toast, weekdays with Jackie & Claudia Oshry.",
+      "image": "https://i.scdn.co/image/ab67656300005f1ff0631f31c8f523f62d0f3e40",
+      "followers": 17690,
+      "appleId": "id1368081567",
+      "ratings": 24582,
+      "velocity": -2
     }
   },
   {
     "title": "Impaulsive with Logan Paul",
     "link": "36PzTdM4rvRPaJYdBW1ZNa",
     "meta": {
-      "rank": 30,
+      "rank": 28,
       "category": "Comedy",
       "publisher": "Logan Paul",
       "description": "The world's greatest, most thought-provoking, mentally stimulating podcast in the history of mankind... hosted by a bunch of idiots. ",
@@ -421,7 +393,35 @@
       "followers": 6793780,
       "appleId": "id1442164847",
       "ratings": 21395,
-      "velocity": -1
+      "velocity": 1
+    }
+  },
+  {
+    "title": "Monday Morning Podcast",
+    "link": "5SFiQlOQ3EKmwp0chE1QzY",
+    "meta": {
+      "rank": 29,
+      "category": "Comedy",
+      "publisher": "All Things Comedy",
+      "description": "Bill Burr rants about relationship advice, sports and the Illuminati. ",
+      "image": "https://i.scdn.co/image/516f926d695dc36799b8a66448b1ca191da02903",
+      "appleId": "id480486345",
+      "ratings": 30070,
+      "velocity": 7
+    }
+  },
+  {
+    "title": "Normal Gossip",
+    "link": "0KVZ16mLZ1bbNlnKemYTzm",
+    "meta": {
+      "rank": 30,
+      "category": "Comedy",
+      "publisher": "Normal Gossip",
+      "description": "Normal Gossip delivers juicy, strange, funny, and utterly banal gossip about people you’ll never know and never meet. Host Kelsey McKinney discusses reader-submitted comedic gossip with guests, diving into the lives and decisions of complete strangers. The second-hand truth really is stranger than fiction. Produced by Alex Sujong Laughlin. Show art by Tara Jacoby.  https://linktr.ee/normalgossip",
+      "image": "https://i.scdn.co/image/ab67656300005f1f6dce46602cbfb7f5374b413f",
+      "appleId": "id1597761181",
+      "ratings": 2699,
+      "velocity": -6
     }
   },
   {
@@ -439,39 +439,24 @@
     }
   },
   {
-    "title": "The Tim Dillon Show",
-    "link": "2gRd1woKiAazAKPWPkHjds",
+    "title": "FULL SEND PODCAST",
+    "link": "5lEFhgPq9gcYU9MSXkALiZ",
     "meta": {
       "rank": 32,
       "category": "Comedy",
-      "publisher": "The Tim Dillon Show",
-      "description": "Tim Dillon is a comedian and tour guide. He’s very excited to give you a tour of the end of the world. Each week from a porch in Los Angeles he shares apocalyptic visions with his friends and berates a local diner.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f0fd12f42b08f76a000b58b9e",
-      "followers": 740955,
-      "appleId": "id1135137367",
-      "ratings": 10819,
-      "velocity": 0
-    }
-  },
-  {
-    "title": "You Should Know Podcast",
-    "link": "3uOGJH6LXT3zMRkiSelveI",
-    "meta": {
-      "rank": 33,
-      "category": "Comedy",
-      "publisher": "Peyton Hardin",
-      "description": "The You Should Know Podcast is hosted by Peyton Hardin. Peyton brings in interesting guest every episode to pull back the veil on their career to get the story behind their success!",
-      "image": "https://i.scdn.co/image/dd19a8d74aedf3d2ca6f32f9565309733f5c2f9e",
-      "appleId": "id1494064011",
-      "ratings": 232,
-      "velocity": 0
+      "publisher": "Shots Podcast Network",
+      "description": "Full Send Podcast brought to you by Happy Dad Hard Seltzer.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f2d52cc89f4594e901d68f159",
+      "appleId": "id1582758729",
+      "ratings": 6957,
+      "velocity": 5
     }
   },
   {
     "title": "Bellied Up",
     "link": "0qrTGdjrNXezwXyeg7kocs",
     "meta": {
-      "rank": 34,
+      "rank": 33,
       "category": "Comedy",
       "publisher": "You Betcha & Charlie Berens",
       "description": "Podcast with Charlie Berens and Myles The You Betcha Guy",
@@ -483,24 +468,25 @@
     }
   },
   {
-    "title": "Two Hot Takes",
-    "link": "6kCMPmQxqL1gO0DNtqeyQl",
+    "title": "The Tim Dillon Show",
+    "link": "2gRd1woKiAazAKPWPkHjds",
     "meta": {
-      "rank": 35,
+      "rank": 34,
       "category": "Comedy",
-      "publisher": "Morgan Absher",
-      "description": "Join host Morgan Absher and her team of co-hosts as they scavenge Reddit, listener write-ins, and the rest of the internet to give their hot takes on the juiciest dating, relationship, life, and AITA stories.  Listen to exclusive stories: https://www.patreon.com/TwoHotTakes Follow along on Instagram: @TwoHotTakes Check out our YouTube Channel for full length videos! https://www.youtube.com/c/TwoHotTakes",
-      "image": "https://i.scdn.co/image/ab67656300005f1ffa124083d917fa578dee6587",
-      "appleId": "id1553199104",
-      "ratings": 4243,
-      "velocity": -1
+      "publisher": "The Tim Dillon Show",
+      "description": "Tim Dillon is a comedian and tour guide. He’s very excited to give you a tour of the end of the world. Each week from a porch in Los Angeles he shares apocalyptic visions with his friends and berates a local diner.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f0fd12f42b08f76a000b58b9e",
+      "followers": 740955,
+      "appleId": "id1135137367",
+      "ratings": 10819,
+      "velocity": -2
     }
   },
   {
     "title": "Sounds Like A Cult",
     "link": "0podj5AKLOFvJAS1raltmw",
     "meta": {
-      "rank": 36,
+      "rank": 35,
       "category": "Comedy",
       "publisher": "Amanda Montell & Isa Medina",
       "description": "A podcast about the modern-day “cults” we all follow. Hosts Isa Medina and Amanda Montell ask the culty questions we’re all wondering… Do you think SoulCycle is a cult? What about Elon Musk stans? Or the Royal Family? What about spiritual influencers? Is Instagram itself a cult? We’re Sounds Like A Cult, a podcast that analyzes a different zeitgeisty group every week to try and answer the big question: This group sounds like a cult, but is it really? And if so, how bad is it?  Follow Us: Show Instagram - @soundslikeacultpod  Isa Medina -  @isaamedinaa Amanda Montell - @amanda_montell  Subscribe to our YouTube: Podcast Video",
@@ -508,87 +494,71 @@
       "followers": 2828,
       "appleId": "id1566917047",
       "ratings": 1870,
-      "velocity": 0
-    }
-  },
-  {
-    "title": "FULL SEND PODCAST",
-    "link": "5lEFhgPq9gcYU9MSXkALiZ",
-    "meta": {
-      "rank": 37,
-      "category": "Comedy",
-      "publisher": "Shots Podcast Network",
-      "description": "Full Send Podcast brought to you by Happy Dad Hard Seltzer.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f2d52cc89f4594e901d68f159",
-      "appleId": "id1582758729",
-      "ratings": 6957,
       "velocity": 1
     }
   },
   {
-    "title": "SteveWillDoIt Show",
-    "link": "6xmU34uqPLOralnnDYdWiV",
+    "title": "KILL TONY",
+    "link": "77iUVnajPyEWPhY6LxjpzM",
     "meta": {
-      "rank": 38,
+      "rank": 36,
       "category": "Comedy",
-      "publisher": "Shots Podcast Network",
-      "description": "SteveWillDoIt Show brought to you by Happy Dad Hard Seltzer.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f26cc72dc428fedb672783d15",
-      "followers": 393357,
-      "appleId": "id1666375907",
-      "ratings": 860,
-      "velocity": -17
+      "publisher": "DEATHSQUAD.TV",
+      "description": "Weekly podcast recorded live from Austin Texas with your hosts Tony Hinchcliffe & Brian Redban.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f380fa9df0055b721e692b2f8",
+      "appleId": "id1042361179",
+      "ratings": 3005,
+      "velocity": -15
     }
   },
   {
-    "title": "The BCC Club with Sarah Schauer and Kendahl Landreth",
-    "link": "203fwZbHYQI9XH9W3N3XxK",
+    "title": "Stavvy's World",
+    "link": "3kDS5MRlBl53tA3MRGqLzx",
     "meta": {
-      "rank": 39,
+      "rank": 37,
       "category": "Comedy",
-      "publisher": "Sarah Schauer & Kendahl Landreth & Studio71",
-      "description": "Welcome to the chain, we are your hosts Sarah Schauer and Kendahl Landreth! From mommy vloggers run amok to boomers breaking down on camera to the people who believe they’re allergic to wifi, you’re not going to want to miss this. Join us on the thread as we take a deep dive into the internet, discuss new titillating topics every week, and maybe even CC in some special guests for their opinions on the action! Block off your calendar or put the meeting on mute because here’s what you need to know tonight on the BCC Club. For advertising opportunities please email PodcastPartnerships@Studio71us.com    We wanna make the podcast even better, help us learn how we can: https://bit.ly/2EcYbu4   Privacy Policy: https://www.studio71.com/terms-and-conditions-use/#Privacy%20Policy   ",
-      "image": "https://i.scdn.co/image/ab67656300005f1f325268b5ac11245fa12f8b2c",
-      "appleId": "id1659964384",
-      "ratings": 131,
-      "velocity": -9
+      "publisher": "Stavros Halkias",
+      "description": "A podcast where you can hang out with your pal Stav  Every week Stavros Halkias and his friends will help you solve all your problems. Wanna be a part of the show? Call 904-800-STAV, leave a voicemail and get some advice!",
+      "image": "https://i.scdn.co/image/ab67656300005f1f9c403f2abc16ab56423855e9",
+      "appleId": "id1657458632",
+      "ratings": 684,
+      "velocity": 9
+    }
+  },
+  {
+    "title": "WTF with Marc Maron Podcast",
+    "link": "6L47MDMO3xuN2XBed7miEI",
+    "meta": {
+      "rank": 38,
+      "category": "Comedy",
+      "publisher": "Marc Maron",
+      "description": "Marc Maron welcomes comedians, actors, directors, writers, authors, musicians and folks from all walks of life to his home for amazingly revealing conversations. Marc's probing, comprehensive interview style allows guests to express themselves in ways listeners have never heard.  Sign up here for WTF+ to get the full show archives and weekly bonus material!  https://plus.acast.com/s/wtf-with-marc-maron-podcast.   Hosted on Acast. See acast.com/privacy for more information.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fe669339b85a5cf8cdfd06eb1",
+      "followers": 205474,
+      "appleId": "id329875043",
+      "ratings": 25839,
+      "velocity": 13
     }
   },
   {
     "title": "Drama Mama",
     "link": "1URrhaUwnNi2tSeQtYAakZ",
     "meta": {
-      "rank": 40,
+      "rank": 39,
       "category": "Comedy",
       "publisher": "BENOFTHEWEEK & Studio71",
       "description": "What do we need most in life? Water, you might say? Food, you may incorrectly guess? LOVE? No. It’s Drama. Welcome to the DRAMA MAMA Podcast hosted by yours truly, BENOFTHEWEEK! Join me as I pick apart the latest, juiciest drama and offer my most qualified opinions on every matter. People fighting? I’ve got it covered. Influencer beef? I’ll be turning it into steak. TikTokers making music? Man, do not get me started. Heck, I’ll even pick apart the downfall of American Society. Hooked yet? You name it, I’ll talk about it. And don’t you worry–I’ll tell you what I really think. Plus, I’ll be lending my advice to you by reading listener- submitted stories and helping you work through your own drama! Or I might end up derailing your friendships and personal life…enter at your own risk. So if your a drama-hungry monster in a bloodlust for tea, there’s only one way to get in the mix: on the DRAMA MAMA Podcast! We wanna make the podcast even better, help us learn how we can: https://bit.ly/2EcYbu4  For advertising opportunities please email PodcastPartnerships@Studio71us.com    Privacy Policy: https://www.studio71.com/us/terms-and-conditions-use/#Privacy%20Policy ",
       "image": "https://i.scdn.co/image/ab67656300005f1fda0e0d6e87695dbb05e046bc",
-      "followers": 1885,
       "appleId": "id1552443526",
       "ratings": 1885,
       "velocity": 3
     }
   },
   {
-    "title": "Office Ladies",
-    "link": "3OHCFs84lqizjkL4C9bNTA",
-    "meta": {
-      "rank": 41,
-      "category": "Comedy",
-      "publisher": "Earwolf & Jenna Fischer and Angela Kinsey",
-      "description": "The Office co-stars and best friends, Jenna Fischer and Angela Kinsey, are doing the ultimate The Office re-watch podcast for you. Each week Jenna and Angela will break down an episode of The Office and give exclusive behind the scene stories that only two people who were there, can tell you.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f0e451d2e3cd95e758580d7cc",
-      "followers": 52431,
-      "appleId": "id1480311435",
-      "ratings": 80769,
-      "velocity": 0
-    }
-  },
-  {
     "title": "youtube vids on Spotify",
     "link": "51RK4MHjs5Y14XcFIer6UJ",
     "meta": {
-      "rank": 42,
+      "rank": 40,
       "category": "Comedy",
       "publisher": "youtube vids on spotify",
       "description": "hi! Welcome to my page. here you can enjoy videos from youtube on Spotify if your school blocks youtube. have fun!",
@@ -597,116 +567,144 @@
     }
   },
   {
-    "title": "This Is Important",
-    "link": "7jTwKFwHPs9noowhYaanUz",
-    "meta": {
-      "rank": 43,
-      "category": "Comedy",
-      "publisher": "iHeartPodcasts",
-      "description": "Adam Devine, Anders Holm, Blake Anderson, and Kyle Newacheck seriously discuss some very important topics.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f6a017b378ae50ec63349033d",
-      "followers": 24073,
-      "appleId": "id1529931681",
-      "ratings": 8254,
-      "velocity": 2
-    }
-  },
-  {
-    "title": "oompaville",
-    "link": "48aZuCdK1K0qoWAYDldsSg",
-    "meta": {
-      "rank": 44,
-      "category": "Comedy",
-      "publisher": "oompaville",
-      "description": "punchy man from YT Support this podcast: https://anchor.fm/oompaville/support",
-      "image": "https://i.scdn.co/image/ab67656300005f1f1b5d324ab8382ddd526c0512",
-      "appleId": "id1460518470",
-      "ratings": 13,
-      "velocity": 0
-    }
-  },
-  {
     "title": "The Bald and the Beautiful with Trixie Mattel and Katya Zamo",
     "link": "36SPp0UJlpM9TDacDHMhEC",
     "meta": {
-      "rank": 45,
+      "rank": 41,
       "category": "Comedy",
       "publisher": "Studio71",
       "description": "The Bald and the Beautiful with Trixie Mattel and Katya Zamo features a pair of grizzled gay ghouls exploring the cultural boundaries of modern beauty through interviews with gorgeous guests who inhabit various facets of the beauty industry. From models, moguls, influencers, drag queens, RuPaul's Drag Race contestants to adult performers, actors, and more, Trixie and Katya break down the beauty behind it all. Subscribe to the ad-free version: https://thebaldandthebeautiful.supercast.tech/ For advertising opportunities please email PodcastPartnerships@Studio71us.com   We wanna make the podcast even better, help us learn how we can: https://bit.ly/2EcYbu4  Privacy Policy: https://www.studio71.com/us/terms-and-conditions-use/#Privacy%20Policy",
       "image": "https://i.scdn.co/image/ab67656300005f1f6df4f36980ee4bf2992d392a",
       "appleId": "id1532816291",
       "ratings": 8900,
-      "velocity": 3
+      "velocity": 6
     }
   },
   {
-    "title": "Stavvy's World",
-    "link": "3kDS5MRlBl53tA3MRGqLzx",
+    "title": "Office Ladies",
+    "link": "3OHCFs84lqizjkL4C9bNTA",
     "meta": {
-      "rank": 46,
+      "rank": 42,
       "category": "Comedy",
-      "publisher": "Stavros Halkias",
-      "description": "A podcast where you can hang out with your pal Stav  Every week Stavros Halkias and his friends will help you solve all your problems. Wanna be a part of the show? Call 904-800-STAV, leave a voicemail and get some advice!",
-      "image": "https://i.scdn.co/image/ab67656300005f1f9c403f2abc16ab56423855e9",
-      "appleId": "id1657458632",
-      "ratings": 684,
-      "velocity": 0
-    }
-  },
-  {
-    "title": "Chuckle Sandwich",
-    "link": "78PyQphowySboNLN1tb9mP",
-    "meta": {
-      "rank": 47,
-      "category": "Comedy",
-      "publisher": "Chuckle Sandwich",
-      "description": "Chuckle Sandwich is a comedy podcast hosted by Ted Nivison & Schlatt. New episodes every Monday!",
-      "image": "https://i.scdn.co/image/ab67656300005f1f37164b94f41d8b691977fcb9",
-      "appleId": "id1551489479",
-      "ratings": 4017,
-      "velocity": 3
-    }
-  },
-  {
-    "title": "Funny Cuz It's True with Elyse Myers",
-    "link": "4vRtOIHm6YQxWw3m52OFK5",
-    "meta": {
-      "rank": 48,
-      "category": "Comedy",
-      "publisher": "Lemonada Media",
-      "description": "Hello, and welcome to my podcast. I first went viral on TikTok after telling the story of how I got stuck buying 100 tacos on a first date. Since then, it’s been a wild and crazy ride. I now have millions of eyeballs watching my videos on a daily basis (which is just a terrifying number of eyeballs, honestly).Each week on my podcast Funny Cuz It’s True, I’ll be sitting down with my favorite creators, friends and comedians to find the stories that have stuck with them and changed their lives in small ways. Not so funny moments that have become funny over time. I want to know how they handled these situations and learned to laugh about them years later. How do they do it? Great question, I’d love to tell you (but you have to listen to find out). ",
-      "image": "https://i.scdn.co/image/ab67656300005f1f69d1e790b672bcc5104bceeb",
-      "appleId": "id1645926587",
-      "ratings": 3963,
-      "velocity": -8
-    }
-  },
-  {
-    "title": "Small Town Murder",
-    "link": "1fA0drEA0Tnbg6rzM43aff",
-    "meta": {
-      "rank": 49,
-      "category": "Comedy",
-      "publisher": "James Pietragallo, Jimmie Whisman",
-      "description": "Two comedians look at a small town, what makes it tick, and a murder that took place there. In depth research, horrible tragedy, and the hosts' comedic spin on the whole thing. New episodes every Thursday!! ",
-      "image": "https://i.scdn.co/image/ab67656300005f1f0965e5018347cbc3489b1801",
-      "appleId": "id1194755213",
-      "ratings": 65699,
-      "velocity": 0
+      "publisher": "Earwolf & Jenna Fischer and Angela Kinsey",
+      "description": "The Office co-stars and best friends, Jenna Fischer and Angela Kinsey, are doing the ultimate The Office re-watch podcast for you. Each week Jenna and Angela will break down an episode of The Office and give exclusive behind the scene stories that only two people who were there, can tell you.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f0e451d2e3cd95e758580d7cc",
+      "followers": 52431,
+      "appleId": "id1480311435",
+      "ratings": 80769,
+      "velocity": -1
     }
   },
   {
     "title": "Suburb Talks",
     "link": "4YLbUxILwRNN9e1UUCDV1D",
     "meta": {
-      "rank": 50,
+      "rank": 43,
       "category": "Comedy",
       "publisher": "Nick Grajeda",
       "description": "Just a group of best friends sitting down and talking about anything and everything from past childhood experiences to our own opinions on relationships :D",
       "image": "https://i.scdn.co/image/ab67656300005f1f9393c1632f4ea6d4353b46f6",
       "appleId": "id1533020240",
       "ratings": 1195,
-      "velocity": -3
+      "velocity": 4
+    }
+  },
+  {
+    "title": "The BCC Club with Sarah Schauer and Kendahl Landreth",
+    "link": "203fwZbHYQI9XH9W3N3XxK",
+    "meta": {
+      "rank": 44,
+      "category": "Comedy",
+      "publisher": "Sarah Schauer & Kendahl Landreth & Studio71",
+      "description": "Welcome to the chain, we are your hosts Sarah Schauer and Kendahl Landreth! From mommy vloggers run amok to boomers breaking down on camera to the people who believe they’re allergic to wifi, you’re not going to want to miss this. Join us on the thread as we take a deep dive into the internet, discuss new titillating topics every week, and maybe even CC in some special guests for their opinions on the action! Block off your calendar or put the meeting on mute because here’s what you need to know tonight on the BCC Club. For advertising opportunities please email PodcastPartnerships@Studio71us.com    We wanna make the podcast even better, help us learn how we can: https://bit.ly/2EcYbu4   Privacy Policy: https://www.studio71.com/terms-and-conditions-use/#Privacy%20Policy   ",
+      "image": "https://i.scdn.co/image/ab67656300005f1f325268b5ac11245fa12f8b2c",
+      "appleId": "id1659964384",
+      "ratings": 131,
+      "velocity": -13
+    }
+  },
+  {
+    "title": "Small Town Murder",
+    "link": "1fA0drEA0Tnbg6rzM43aff",
+    "meta": {
+      "rank": 45,
+      "category": "Comedy",
+      "publisher": "James Pietragallo, Jimmie Whisman",
+      "description": "Two comedians look at a small town, what makes it tick, and a murder that took place there. In depth research, horrible tragedy, and the hosts' comedic spin on the whole thing. New episodes every Thursday!! ",
+      "image": "https://i.scdn.co/image/ab67656300005f1f0965e5018347cbc3489b1801",
+      "appleId": "id1194755213",
+      "ratings": 65699,
+      "velocity": 4
+    }
+  },
+  {
+    "title": "oompaville",
+    "link": "48aZuCdK1K0qoWAYDldsSg",
+    "meta": {
+      "rank": 46,
+      "category": "Comedy",
+      "publisher": "oompaville",
+      "description": "punchy man from YT Support this podcast: https://anchor.fm/oompaville/support",
+      "image": "https://i.scdn.co/image/ab67656300005f1f1b5d324ab8382ddd526c0512",
+      "appleId": "id1460518470",
+      "ratings": 13,
+      "velocity": -2
+    }
+  },
+  {
+    "title": "Funny Cuz It's True with Elyse Myers",
+    "link": "4vRtOIHm6YQxWw3m52OFK5",
+    "meta": {
+      "rank": 47,
+      "category": "Comedy",
+      "publisher": "Lemonada Media",
+      "description": "Hello, and welcome to my podcast. I first went viral on TikTok after telling the story of how I got stuck buying 100 tacos on a first date. Since then, it’s been a wild and crazy ride. I now have millions of eyeballs watching my videos on a daily basis (which is just a terrifying number of eyeballs, honestly).Each week on my podcast Funny Cuz It’s True, I’ll be sitting down with my favorite creators, friends and comedians to find the stories that have stuck with them and changed their lives in small ways. Not so funny moments that have become funny over time. I want to know how they handled these situations and learned to laugh about them years later. How do they do it? Great question, I’d love to tell you (but you have to listen to find out). ",
+      "image": "https://i.scdn.co/image/ab67656300005f1f69d1e790b672bcc5104bceeb",
+      "appleId": "id1645926587",
+      "ratings": 3963,
+      "velocity": -6
+    }
+  },
+  {
+    "title": "Chuckle Sandwich",
+    "link": "78PyQphowySboNLN1tb9mP",
+    "meta": {
+      "rank": 48,
+      "category": "Comedy",
+      "publisher": "Chuckle Sandwich",
+      "description": "Chuckle Sandwich is a comedy podcast hosted by Ted Nivison & Schlatt. New episodes every Monday!",
+      "image": "https://i.scdn.co/image/ab67656300005f1f37164b94f41d8b691977fcb9",
+      "appleId": "id1551489479",
+      "ratings": 4017,
+      "velocity": 1
+    }
+  },
+  {
+    "title": "And That's Why We Drink",
+    "link": "3JWnH3U4VPJI6DlB0YsiKm",
+    "meta": {
+      "rank": 49,
+      "category": "Comedy",
+      "publisher": "Christine Schiefer, Em Schulz",
+      "description": "Murder and the paranormal finally meet! Grab your wine and milkshakes and join us every Sunday for some chilling ghost stories and downright terrifying true crime stories. The world's a scary place. And that's why we drink!",
+      "image": "https://i.scdn.co/image/ab67656300005f1f5139fa420ab54ec0be006729",
+      "appleId": "id1204570053",
+      "ratings": 21391,
+      "velocity": 2
+    }
+  },
+  {
+    "title": "Wait Wait... Don't Tell Me!",
+    "link": "0dWpNy3iA6Mm3xYaHB2Zi9",
+    "meta": {
+      "rank": 50,
+      "category": "Comedy",
+      "publisher": "NPR",
+      "description": "NPR's weekly news quiz. Have a laugh and test your knowledge with today's funniest comedians. And if you can't get enough, try our new mid-week show, Everyone & Their Mom. Each Wednesday, host Emma Choi takes the story everyone's talking about and uses it as an excuse to hang out with culture makers, Wait Wait panelists, and hilarious new comedians.Hate free content? Try a subscription to Wait Wait... Don't Tell Me!+. Your subscription supports public radio and unlocks fun bonus episodes along with sponsor-free listening. Learn more at https://plus.npr.org/waitwait",
+      "image": "https://i.scdn.co/image/ab67656300005f1f8ed9094f7ef888704ebc8640",
+      "appleId": "id121493804",
+      "ratings": 33842,
+      "velocity": 1
     }
   }
 ]

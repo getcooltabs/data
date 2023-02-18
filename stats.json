@@ -1094,9 +1094,7 @@
   "1fuUBuF9S1bye0WjWAlpQC": {
     "date": "2023-02-13",
     "appleId": "id1637284186",
-    "ratings": 247,
-    "twitterId": "id1637284186",
-    "followers": 247
+    "ratings": 247
   },
   "0qrTGdjrNXezwXyeg7kocs": {
     "date": "2023-02-13",
@@ -1269,23 +1267,17 @@
   "3rDR8CfpIEMpITG2UC3w5W": {
     "date": "2023-02-13",
     "appleId": "id1535408667",
-    "ratings": 11496,
-    "twitterId": "id1535408667",
-    "followers": 11496
+    "ratings": 11496
   },
   "3Zwh39kXHAk9M6vZvofoxY": {
     "date": "2023-02-13",
     "appleId": "id1348777092",
-    "ratings": 1,
-    "twitterId": "id1348777092",
-    "followers": 1
+    "ratings": 1
   },
   "0rOatMqaG3wB5BF4AdsrSX": {
     "date": "2023-02-13",
     "appleId": "id1373812661",
-    "ratings": 11885,
-    "twitterId": "id1373812661",
-    "followers": 11885
+    "ratings": 11885
   },
   "3a9cBl0qulSRpopYBjrgMW": {
     "date": "2023-02-13",
@@ -1297,9 +1289,7 @@
   "3GptGES42jdzOygpz7Qvf8": {
     "date": "2023-02-13",
     "appleId": "id1447286743",
-    "ratings": 18670,
-    "twitterId": "id1447286743",
-    "followers": 18670
+    "ratings": 18670
   },
   "5vMLIaAcXeWUpXRpUt5qXY": {
     "date": "2023-02-13",
@@ -1319,12 +1309,12 @@
     "date": "2023-02-13",
     "appleId": "id1552443526",
     "ratings": 1885,
-    "twitterId": "id1552443526",
-    "followers": 1885
+    "twitterId": false,
+    "followers": null
   },
   "4s5UB3Dvhocqea5W5gUzEd": {
     "date": "2023-02-13",
-    "appleId": false,
+    "appleId": "id1594031639",
     "ratings": null,
     "twitterId": false,
     "followers": null
@@ -1332,9 +1322,7 @@
   "5Sj288Dj8bafNfNTVrJq2p": {
     "date": "2023-02-13",
     "appleId": "id1627891759",
-    "ratings": 1564,
-    "twitterId": "id1627891759",
-    "followers": 1564
+    "ratings": 1564
   },
   "1uasc6w6yvbMiTPU9mRdHd": {
     "date": "2023-02-13",
@@ -1429,7 +1417,7 @@
   },
   "6S9jAhlyZtr5dj2tqYXeJ6": {
     "date": "2023-02-13",
-    "appleId": false,
+    "appleId": "id1264449047",
     "ratings": null,
     "twitterId": false,
     "followers": null
@@ -1863,7 +1851,7 @@
   },
   "0W7lo4UBMghDAdrTBCTXXW": {
     "date": "2023-02-13",
-    "appleId": false,
+    "appleId": "id121362031",
     "ratings": null,
     "twitterId": null,
     "followers": null
@@ -2094,7 +2082,7 @@
   },
   "2kNTiKHCrrydRj0eFbrAWO": {
     "date": "2023-02-13",
-    "appleId": false,
+    "appleId": "id1093028505",
     "ratings": null,
     "twitterId": false,
     "followers": null
@@ -2136,14 +2124,14 @@
   },
   "4EnAzuR4gnjEyGUYic70Qy": {
     "date": "2023-02-13",
-    "appleId": false,
+    "appleId": "id1504184065",
     "ratings": null,
     "twitterId": null,
     "followers": null
   },
   "0z0lwiTEiYmk2fkhDkRqPV": {
     "date": "2023-02-13",
-    "appleId": false,
+    "appleId": "id1253599771",
     "ratings": null,
     "twitterId": null,
     "followers": null
@@ -2326,9 +2314,7 @@
   "2sNFsS8B0qvIg1jK0Vo7Ns": {
     "date": "2023-02-13",
     "appleId": "id1585943594",
-    "ratings": 231,
-    "twitterId": "id1585943594",
-    "followers": 231
+    "ratings": 231
   },
   "4c9ZKaFtEKweSYOlYvxfvp": {
     "date": "2023-02-13",
@@ -2347,9 +2333,7 @@
   "7aTEmK0Vvwa5L4ZKBsmPyJ": {
     "date": "2023-02-13",
     "appleId": "id1574751423",
-    "ratings": 4969,
-    "twitterId": "id1574751423",
-    "followers": 4969
+    "ratings": 4969
   },
   "2r42lc4yvsB2E7jy8kZ1HR": {
     "date": "2023-02-13",
@@ -2620,9 +2604,7 @@
   "1CfW319UkBMVhCXfei8huv": {
     "date": "2023-02-13",
     "appleId": "id1087147821",
-    "ratings": 9832,
-    "twitterId": "id1087147821",
-    "followers": 9832
+    "ratings": 9832
   },
   "4D3JFAh4ebj9lks9WOE2Vs": {
     "date": "2023-02-13",
@@ -3551,9 +3533,7 @@
   "2pBM5JEmMJ4DE7xddtXdZm": {
     "date": "2023-02-13",
     "appleId": "id1460157002",
-    "ratings": 10208,
-    "twitterId": "id1460157002",
-    "followers": 10208
+    "ratings": 10208
   },
   "4GaguymqK795ImYxSZUBig": {
     "date": "2023-02-13",
@@ -3593,9 +3573,7 @@
   "7gMBUyJoeUXIdcwcSFMa67": {
     "date": "2023-02-13",
     "appleId": "id1566768357",
-    "ratings": 58,
-    "twitterId": "id1566768357",
-    "followers": 58
+    "ratings": 58
   },
   "4z4yCTjwXa4an6sBGIe7m5": {
     "date": "2023-02-13",
@@ -4012,7 +3990,7 @@
   },
   "0LLIIAYfTJ0axsrOcgsE0V": {
     "date": "2023-02-13",
-    "appleId": false,
+    "appleId": "id1460600818",
     "ratings": null,
     "twitterId": null,
     "followers": null
@@ -4146,9 +4124,7 @@
   "353ryGdZNlebaiqkCcy3Yc": {
     "date": "2023-02-13",
     "appleId": "id1669321198",
-    "ratings": 288,
-    "twitterId": "id1669321198",
-    "followers": 288
+    "ratings": 288
   },
   "7wIDnmJ41exqZZ5GnsBGDS": {
     "date": "2023-02-13",
@@ -4475,9 +4451,7 @@
   "5uPilMKgeZRAJ2AVwSdFRL": {
     "date": "2023-02-13",
     "appleId": "id1526885135",
-    "ratings": 2157,
-    "twitterId": "id1526885135",
-    "followers": 2157
+    "ratings": 2157
   },
   "2ocYkJGxMruhjcgnTjFh0i": {
     "date": "2023-02-13",
@@ -5301,9 +5275,7 @@
   "606trGaUqZ6JNjcWbNxkyD": {
     "date": "2023-02-13",
     "appleId": "id1479238999",
-    "ratings": 88,
-    "twitterId": "id1479238999",
-    "followers": 88
+    "ratings": 88
   },
   "2T2OwucPOy2uDG1CUsjIMB": {
     "date": "2023-02-13",
@@ -5714,16 +5686,12 @@
   "4vxCzip3jwRhyoM9R422m8": {
     "date": "2023-02-13",
     "appleId": "id1602740285",
-    "ratings": 7929,
-    "twitterId": "id1602740285",
-    "followers": 7929
+    "ratings": 7929
   },
   "344eFGlcjmdAUqvWzPJzBk": {
     "date": "2023-02-13",
     "appleId": "id1571792783",
-    "ratings": 21070,
-    "twitterId": "id1571792783",
-    "followers": 21070
+    "ratings": 21070
   },
   "4MLBJdxjEDlkJbaS3HXjPc": {
     "date": "2023-02-13",
@@ -6632,6 +6600,454 @@
     "date": "2023-02-16",
     "appleId": "id150892556",
     "ratings": 9052,
+    "twitterId": null,
+    "followers": null
+  },
+  "0y8fYhmjVb6fLw1Ogl7ugq": {
+    "date": "2023-02-18",
+    "appleId": "id1448210981",
+    "ratings": 20192,
+    "twitterId": "NickViall",
+    "followers": 297343
+  },
+  "6L47MDMO3xuN2XBed7miEI": {
+    "date": "2023-02-18",
+    "appleId": "id329875043",
+    "ratings": 25839,
+    "twitterId": "WTFpod",
+    "followers": 205474
+  },
+  "5ME6FXZwv1BLWnmplnKczs": {
+    "date": "2023-02-18",
+    "appleId": false,
+    "ratings": null,
+    "twitterId": false,
+    "followers": null
+  },
+  "13Gd5CAlrNbZvSwywkisHr": {
+    "date": "2023-02-18",
+    "appleId": false,
+    "ratings": null,
+    "twitterId": null,
+    "followers": null
+  },
+  "2bB44RWKrgs1jhylH1NBtL": {
+    "date": "2023-02-18",
+    "appleId": "id918896288",
+    "ratings": 3006,
+    "twitterId": null,
+    "followers": null
+  },
+  "5ab6C8GArBhB1LPHzKxtNj": {
+    "date": "2023-02-18",
+    "appleId": "id1625912882",
+    "ratings": 1,
+    "twitterId": null,
+    "followers": null
+  },
+  "4RggQvBkyLVvJDHTeqpITw": {
+    "date": "2023-02-18",
+    "appleId": "id1504592760",
+    "ratings": 266,
+    "twitterId": null,
+    "followers": null
+  },
+  "789fA35XhgcqPH0sjcpLu8": {
+    "date": "2023-02-18",
+    "appleId": "id1504250328",
+    "ratings": 1198,
+    "twitterId": null,
+    "followers": null
+  },
+  "2NlzZ9NtHtZ2uBuaDNoGzY": {
+    "date": "2023-02-18",
+    "appleId": "id1615086704",
+    "ratings": 563,
+    "twitterId": null,
+    "followers": null
+  },
+  "4eylg9GZJOVvUhTynt4jjA": {
+    "date": "2023-02-18",
+    "appleId": "id1346314086",
+    "ratings": 8687,
+    "twitterId": null,
+    "followers": null
+  },
+  "3JWnH3U4VPJI6DlB0YsiKm": {
+    "date": "2023-02-18",
+    "appleId": "id1204570053",
+    "ratings": 21391,
+    "twitterId": null,
+    "followers": null
+  },
+  "0dWpNy3iA6Mm3xYaHB2Zi9": {
+    "date": "2023-02-18",
+    "appleId": "id121493804",
+    "ratings": 33842,
+    "twitterId": null,
+    "followers": null
+  },
+  "72o7yWXWuGR3A1bsTjUXYd": {
+    "date": "2023-02-18",
+    "appleId": "id1327769095",
+    "ratings": 414,
+    "twitterId": null,
+    "followers": null
+  },
+  "4mNhTcXtIu7bGjoEg7mAon": {
+    "date": "2023-02-18",
+    "appleId": "id1636252546",
+    "ratings": 119,
+    "twitterId": null,
+    "followers": null
+  },
+  "70tOPA21cHGXEbt9gsFg2Z": {
+    "date": "2023-02-18",
+    "appleId": "id1668224212",
+    "ratings": 15,
+    "twitterId": null,
+    "followers": null
+  },
+  "3XaOzkxndwbS2Ih3T2jzbx": {
+    "date": "2023-02-18",
+    "appleId": "id1497808783",
+    "ratings": 175,
+    "twitterId": null,
+    "followers": null
+  },
+  "3nKvLT48YbbRQoCYQ4ern1": {
+    "date": "2023-02-18",
+    "appleId": "id1501029683",
+    "ratings": 6982,
+    "twitterId": null,
+    "followers": null
+  },
+  "0R6a67IePpznPsFO4fSLJN": {
+    "date": "2023-02-18",
+    "appleId": false,
+    "ratings": null,
+    "twitterId": null,
+    "followers": null
+  },
+  "7cNljZzhe4w3zL9t0MaOZH": {
+    "date": "2023-02-18",
+    "appleId": "id1648738323",
+    "ratings": 6,
+    "twitterId": null,
+    "followers": null
+  },
+  "7iW8gOI5wb5TNFAIhBd9Om": {
+    "date": "2023-02-18",
+    "appleId": "id1619978406",
+    "ratings": 261,
+    "twitterId": null,
+    "followers": null
+  },
+  "512XOS3os19QsRC3teJ2Bh": {
+    "date": "2023-02-18",
+    "appleId": false,
+    "ratings": null,
+    "twitterId": null,
+    "followers": null
+  },
+  "4ng34QAusqc5xHwQoyZLPS": {
+    "date": "2023-02-18",
+    "appleId": false,
+    "ratings": null,
+    "twitterId": null,
+    "followers": null
+  },
+  "66WlZz59LhdziIyW6gE9PV": {
+    "date": "2023-02-18",
+    "appleId": false,
+    "ratings": null,
+    "twitterId": null,
+    "followers": null
+  },
+  "6Gv6TCjLyIZQ4hPEkwtv4l": {
+    "date": "2023-02-18",
+    "appleId": false,
+    "ratings": null,
+    "twitterId": null,
+    "followers": null
+  },
+  "0QIgvDcApHcoqajFvAT7AV": {
+    "date": "2023-02-18",
+    "appleId": "id1266540593",
+    "ratings": 703,
+    "twitterId": null,
+    "followers": null
+  },
+  "0ze73GIRjZXBE7jrTrpc7b": {
+    "date": "2023-02-18",
+    "appleId": "id1669622306",
+    "ratings": 11,
+    "twitterId": false,
+    "followers": null
+  },
+  "2m2zEN1bi8FNQanFIbaA4G": {
+    "date": "2023-02-18",
+    "appleId": "id1635777933",
+    "ratings": 71,
+    "twitterId": null,
+    "followers": null
+  },
+  "1oCn7Q6Cdl8W98AJb46KWD": {
+    "date": "2023-02-18",
+    "appleId": "id1626880641",
+    "ratings": 92,
+    "twitterId": null,
+    "followers": null
+  },
+  "7Is1Lb2OFtpUUeWZRfBOF9": {
+    "date": "2023-02-18",
+    "appleId": "id1483692776",
+    "ratings": 10797,
+    "twitterId": null,
+    "followers": null
+  },
+  "6edrtr63RobTNRuLvU2sfj": {
+    "date": "2023-02-18",
+    "appleId": "id1590561275",
+    "ratings": 2672,
+    "twitterId": null,
+    "followers": null
+  },
+  "5Fvmv0N5TwcHiCroRJzhlY": {
+    "date": "2023-02-18",
+    "appleId": "id1660575385",
+    "ratings": 34,
+    "twitterId": null,
+    "followers": null
+  },
+  "40MKOGQ99YLZvgR2KYHmHl": {
+    "date": "2023-02-18",
+    "appleId": "id1052842770",
+    "ratings": 12499,
+    "twitterId": null,
+    "followers": null
+  },
+  "1ORM7WHyaU5oocu1DdGI9t": {
+    "date": "2023-02-18",
+    "appleId": "id1552506400",
+    "ratings": 4,
+    "twitterId": null,
+    "followers": null
+  },
+  "4zc4TTfxv4wpZ731m0ycg2": {
+    "date": "2023-02-18",
+    "appleId": false,
+    "ratings": null,
+    "twitterId": null,
+    "followers": null
+  },
+  "7uz2rjUW6bGrPCgw4rI8K4": {
+    "date": "2023-02-18",
+    "appleId": "id189330872",
+    "ratings": 1145,
+    "twitterId": null,
+    "followers": null
+  },
+  "1yOqwEz9DHj7Gehw8jwPC1": {
+    "date": "2023-02-18",
+    "appleId": "id1667709917",
+    "ratings": 27,
+    "twitterId": null,
+    "followers": null
+  },
+  "24xucCwPjcXENqwUgtKZaY": {
+    "date": "2023-02-18",
+    "appleId": "id1600409359",
+    "ratings": 183,
+    "twitterId": null,
+    "followers": null
+  },
+  "1rdzA518agfXq8fUgZXeHC": {
+    "date": "2023-02-18",
+    "appleId": "id1649359487",
+    "ratings": 2596,
+    "twitterId": null,
+    "followers": null
+  },
+  "6vT2CQdO8VnSFvoB3yrg8w": {
+    "date": "2023-02-18",
+    "appleId": "id1651894021",
+    "ratings": 152,
+    "twitterId": null,
+    "followers": null
+  },
+  "0GRPAKeSMASfbQ7VgNwYCR": {
+    "date": "2023-02-18",
+    "appleId": "id1570872415",
+    "ratings": 5107,
+    "twitterId": null,
+    "followers": null
+  },
+  "0uiX155WEJnN7QVRfo3aQY": {
+    "date": "2023-02-18",
+    "appleId": "id1550361184",
+    "ratings": 518,
+    "twitterId": null,
+    "followers": null
+  },
+  "3MGSyIY5NRyFOtVkZrrfMP": {
+    "date": "2023-02-18",
+    "appleId": "id1393911268",
+    "ratings": 7982,
+    "twitterId": null,
+    "followers": null
+  },
+  "3h8BnGRmdcXXaM3nEAXMGh": {
+    "date": "2023-02-18",
+    "appleId": "id1669336884",
+    "ratings": 17,
+    "twitterId": null,
+    "followers": null
+  },
+  "0NUQhyUeYQcbtHOV10qmbb": {
+    "date": "2023-02-18",
+    "appleId": "id1573260189",
+    "ratings": 662,
+    "twitterId": null,
+    "followers": null
+  },
+  "0e5hWNp8cvtzuM0vPOY0OD": {
+    "date": "2023-02-18",
+    "appleId": "id929298707",
+    "ratings": 2052,
+    "twitterId": null,
+    "followers": null
+  },
+  "4Md1Zu13U1Le4GuYZ7ezNc": {
+    "date": "2023-02-18",
+    "appleId": "id1210156055",
+    "ratings": 2774,
+    "twitterId": null,
+    "followers": null
+  },
+  "6OTobe62jDJ4Uw7kCVkZSz": {
+    "date": "2023-02-18",
+    "appleId": false,
+    "ratings": null,
+    "twitterId": null,
+    "followers": null
+  },
+  "5ENfH7kVe8CecGL0o1RScb": {
+    "date": "2023-02-18",
+    "appleId": "id1442764039",
+    "ratings": 68,
+    "twitterId": null,
+    "followers": null
+  },
+  "6CrynKObKEL1zFba5N5lMn": {
+    "date": "2023-02-18",
+    "appleId": "id630200082",
+    "ratings": 6931,
+    "twitterId": null,
+    "followers": null
+  },
+  "0JVg8pE3YOQidsEa3vGBSv": {
+    "date": "2023-02-18",
+    "appleId": "id1498625027",
+    "ratings": 1142,
+    "twitterId": null,
+    "followers": null
+  },
+  "4KI3PtZaWJbAWK89vgttoU": {
+    "date": "2023-02-18",
+    "appleId": "id1460030305",
+    "ratings": 1114,
+    "twitterId": null,
+    "followers": null
+  },
+  "4Sacw5UzY7utm6coTEHS0h": {
+    "date": "2023-02-18",
+    "appleId": "id1499285090",
+    "ratings": 9,
+    "twitterId": null,
+    "followers": null
+  },
+  "4ex8hmrHCPvPohKJb3wsuC": {
+    "date": "2023-02-18",
+    "appleId": "id1206165808",
+    "ratings": 480,
+    "twitterId": null,
+    "followers": null
+  },
+  "5WqBqDb4br3LlyVrdqOYYb": {
+    "date": "2023-02-18",
+    "appleId": "id1606770839",
+    "ratings": 147,
+    "twitterId": null,
+    "followers": null
+  },
+  "2q2dQ19YSuGe5v0EeeeJGq": {
+    "date": "2023-02-18",
+    "appleId": "id1615637724",
+    "ratings": 2353,
+    "twitterId": null,
+    "followers": null
+  },
+  "30R1se2ezi59oKZ3YrnUuo": {
+    "date": "2023-02-18",
+    "appleId": "id1500927263",
+    "ratings": 4454,
+    "twitterId": null,
+    "followers": null
+  },
+  "5PFgy6lc8UvYIjDsaaO3dN": {
+    "date": "2023-02-18",
+    "appleId": false,
+    "ratings": null,
+    "twitterId": null,
+    "followers": null
+  },
+  "6C6Gj58po61vFDmz8lK5Gr": {
+    "date": "2023-02-18",
+    "appleId": false,
+    "ratings": null,
+    "twitterId": null,
+    "followers": null
+  },
+  "5qXizYahLTEgZSS7Cos9jB": {
+    "date": "2023-02-18",
+    "appleId": "id1431963108",
+    "ratings": 358,
+    "twitterId": null,
+    "followers": null
+  },
+  "4OrUf1wlOQ15hFvb7Iqo1E": {
+    "date": "2023-02-18",
+    "appleId": "id1532672950",
+    "ratings": 964,
+    "twitterId": null,
+    "followers": null
+  },
+  "3dmMfjMxUOMHBPKQtgyU21": {
+    "date": "2023-02-18",
+    "appleId": "id1611988143",
+    "ratings": 209,
+    "twitterId": null,
+    "followers": null
+  },
+  "6aAy9IHQuuqQhey7XvjJnK": {
+    "date": "2023-02-18",
+    "appleId": false,
+    "ratings": null,
+    "twitterId": null,
+    "followers": null
+  },
+  "3BmMZRnU6hRRfyJPsHsPWO": {
+    "date": "2023-02-18",
+    "appleId": "id1593693216",
+    "ratings": 1759,
+    "twitterId": null,
+    "followers": null
+  },
+  "6cQa5xnTYHaIh6SAK4gW3w": {
+    "date": "2023-02-18",
+    "appleId": "id827905050",
+    "ratings": 1027,
     "twitterId": null,
     "followers": null
   }

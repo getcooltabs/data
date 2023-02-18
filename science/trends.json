@@ -10,7 +10,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1f7e8a1ea9629db718ceb0bd04",
       "appleId": "id1664299388",
       "ratings": 307,
-      "velocity": 40
+      "velocity": 32
     }
   },
   {
@@ -24,7 +24,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1fb85311900115d459884cae79",
       "appleId": "id1028908750",
       "ratings": 35897,
-      "velocity": 39
+      "velocity": 31
     }
   },
   {
@@ -39,7 +39,7 @@
       "followers": 74016,
       "appleId": "id1278815517",
       "ratings": 18069,
-      "velocity": 38
+      "velocity": 30
     }
   },
   {
@@ -54,7 +54,7 @@
       "followers": 221733,
       "appleId": "id325404506",
       "ratings": 11749,
-      "velocity": 37
+      "velocity": 30
     }
   },
   {
@@ -68,7 +68,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1fd464f18a416c86ede3a235a7",
       "appleId": "id1051557000",
       "ratings": 10248,
-      "velocity": 36
+      "velocity": 29
     }
   },
   {
@@ -97,7 +97,7 @@
       "image": "https://i.scdn.co/image/ab67656300005f1ff7f85803624a1a54e717aade",
       "appleId": "id1554578197",
       "ratings": 1300,
-      "velocity": 1
+      "velocity": 0
     }
   },
   {
@@ -109,10 +109,9 @@
       "publisher": "Blurry Creatures",
       "description": "Blurry Creatures chases down answers for the weird questions and enigmatic creatures that inhabit the fringes between reality, myth, and imagination. Join podcast veterans Nate Henry and Luke Rodgers as they investigate Bigfoot, Ancient Giants, Cryptids, The Nephilim, The Watchers, Ancient Burial Mounds, Forbidden History, Megaliths, Conspiracy Theories, Dogman, Mothman, The UFO Phenomenon, Extraterrestrials, and The Unexplained.",
       "image": "https://i.scdn.co/image/2a3ad201dbe5bd0b050dc971a792a113796fb211",
-      "followers": 2157,
       "appleId": "id1526885135",
       "ratings": 2157,
-      "velocity": 1
+      "velocity": 0
     }
   },
   {
@@ -128,51 +127,24 @@
     }
   },
   {
-    "title": "La Ciencia Vs",
-    "link": "49v6HAsVRvlklTnHvSd7Zh",
-    "meta": {
-      "rank": 10,
-      "category": "Science",
-      "publisher": "Spotify Studios",
-      "description": "¿Te has preguntado qué podemos hacer si viene hacia nosotros un asteroide asesino? ¿O si las pantallas te funden los ojos y el cerebro? ¿O si los tiburones realmente pueden oler una gota de sangre en una alberca olímpica? Entre opiniones encontradas y modas pasajeras, está la ciencia. La ciencia vs. busca desmitificar la ciencia enfrentando datos científicos contra casi cualquier tema que se te ocurra. El equipo de talentosas periodistas entusiastas de la ciencia traen para tí un nuevo episodio cada jueves. La ciencia vs. es un podcast original de Spotify, adaptado de la versión en inglés Science Vs de Gimlet.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fde52ae2f608bf6db4b6dc5e9",
-      "velocity": 3
-    }
-  },
-  {
     "title": "art bell tape vault",
     "link": "2ocYkJGxMruhjcgnTjFh0i",
     "meta": {
-      "rank": 11,
+      "rank": 10,
       "category": "Science",
       "publisher": "the art bell vault",
       "description": "the best of the kingdom of nye 🛸  https://linktr.ee/artbelltapevault - links, playlists, tip jar",
       "image": "https://i.scdn.co/image/ab67656300005f1f039818bf19bcf3516a107ce6",
       "appleId": "id1611966186",
       "ratings": 642,
-      "velocity": -1
-    }
-  },
-  {
-    "title": "SciShow Tangents",
-    "link": "22OJWsluntwDB1siMFIA9V",
-    "meta": {
-      "rank": 12,
-      "category": "Science",
-      "publisher": "Complexly",
-      "description": "SciShow Tangents is the lightly competitive knowledge showcase from the geniuses behind the YouTube series SciShow. Every Tuesday, join Hank Green, Ceri Riley, and Sam Schultz as they try to one-up and amaze each other with weird and funny scientific research... while not getting distracted. There will be tangents about video games, music, weird smells, surprisingly deep insights about life, and of course, poop, but it always comes back to the science.",
-      "image": "https://i.scdn.co/image/ab67656300005f1faf9800db4263bd6573de85ec",
-      "followers": 11079,
-      "appleId": "id1441251826",
-      "ratings": 1241,
-      "velocity": 7
+      "velocity": 0
     }
   },
   {
     "title": "Making Sense with Sam Harris",
     "link": "5rgumWEx4FsqIY8e1wJNAk",
     "meta": {
-      "rank": 13,
+      "rank": 11,
       "category": "Science",
       "publisher": "Sam Harris",
       "description": "Join neuroscientist, philosopher, and best-selling author Sam Harris as he explores important and controversial questions about the human mind, society, and current events.  Sam Harris is the author of The End of Faith, Letter to a Christian Nation, The Moral Landscape, Free Will, Lying, Waking Up, and Islam and the Future of Tolerance (with Maajid Nawaz). The End of Faith won the 2005 PEN Award for Nonfiction. His writing has been published in more than 20 languages. Mr. Harris and his work have been discussed in The New York Times, Time, Scientific American, Nature, Newsweek, Rolling Stone, and many other journals. His writing has appeared in The New York Times, The Los Angeles Times, The Economist, Newsweek, The Times (London), The Boston Globe, The Atlantic, The Annals of Neurology, and elsewhere.  Mr. Harris received a degree in philosophy from Stanford University and a Ph.D. in neuroscience from UCLA.",
@@ -180,29 +152,42 @@
       "followers": 12696,
       "appleId": "id733163012",
       "ratings": 24411,
-      "velocity": -1
+      "velocity": 1
     }
   },
   {
-    "title": "Safety Third",
-    "link": "1Y9ExMgMxoBVrgrfU7u0nD",
+    "title": "This Podcast Will Kill You",
+    "link": "7cujpkzRygYyLylnv5SVFu",
     "meta": {
-      "rank": 14,
+      "rank": 12,
       "category": "Science",
-      "publisher": "Safety Third ",
-      "description": "Safety Third is a weekly show hosted by William Osman, NileRed, The Backyard Scientist, Allen Pan, and a couple other YouTube \"Scientists\". Sometimes we have guests, sometimes it's just us, but always: safety is our number three priority.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fc7bedd27a4413b1abf926d8a",
-      "followers": 3692,
-      "appleId": "id1570503392",
-      "ratings": 494,
-      "velocity": -3
+      "publisher": "Exactly Right",
+      "description": "This podcast might not actually kill you, but it covers so many things that can. Each episode tackles a different disease, from its history, to its biology, and finally, how scared you need to be. Ecologists and epidemiologists Erin Welsh and Erin Allmann Updyke make infectious diseases acceptable fodder for dinner party conversation and provide the perfect cocktail recipe to match.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f7e823155861d73bef31bc757",
+      "appleId": "id1299915173",
+      "ratings": 15164,
+      "velocity": 10
+    }
+  },
+  {
+    "title": "The UFO Rabbit Hole Podcast",
+    "link": "7KnyktIs059pbVdccD020D",
+    "meta": {
+      "rank": 13,
+      "category": "Science",
+      "publisher": "Kelly Chase",
+      "description": "The UFO Rabbit Hole Podcast is a structured, science-based deep dive into the phenomenon. Grounded enough for skeptics, accessible for newbs, and deeply researched enough for seasoned ufologists—oh, and also it's fun. Hosted by Kelly Chase.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f846696fa2b96fd99219ced46",
+      "appleId": "id1595590107",
+      "ratings": 444,
+      "velocity": 10
     }
   },
   {
     "title": "Bret Weinstein | DarkHorse Podcast",
     "link": "57R7dOcs60jUfOnuNG0J1R",
     "meta": {
-      "rank": 15,
+      "rank": 14,
       "category": "Science",
       "publisher": "Bret Weinstein & Heather Heying",
       "description": "On The DarkHorse Podcast, we will explore questions that matter, with tools that work. Weekly episodes of \"The Evolutionary Lens\" are co-hosted with Heather Heying, in which we use an evolutionary toolkit to reveal patterns in nature--including human nature. Other episodes will feature Bret hosting long form discussions. Some guests will be well known, others obscure, but all of them are chosen because they have demonstrated unusual insight. The state and future of civilization will be a recurring theme, so buckle up!",
@@ -210,68 +195,28 @@
       "followers": 878161,
       "appleId": "id1471581521",
       "ratings": 4338,
-      "velocity": -1
-    }
-  },
-  {
-    "title": "The UFO Rabbit Hole Podcast",
-    "link": "7KnyktIs059pbVdccD020D",
-    "meta": {
-      "rank": 16,
-      "category": "Science",
-      "publisher": "Kelly Chase",
-      "description": "The UFO Rabbit Hole Podcast is a structured, science-based deep dive into the phenomenon. Grounded enough for skeptics, accessible for newbs, and deeply researched enough for seasoned ufologists—oh, and also it's fun. Hosted by Kelly Chase.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f846696fa2b96fd99219ced46",
-      "appleId": "id1595590107",
-      "ratings": 444,
-      "velocity": 9
+      "velocity": 0
     }
   },
   {
     "title": "Sasquatch Chronicles",
     "link": "4jriVXIcI6g4ZUVGsS1JqB",
     "meta": {
-      "rank": 17,
+      "rank": 15,
       "category": "Science",
       "publisher": "Sasquatch Chronicles - Bigfoot Encounters",
       "description": "People are seeing something in the woods and there are too many reports for this to be ignored. Join us every Sunday night as we discuss recent Sasquatch sightings, encounters and talk to Bigfoot eye witnesses. Listen as we speak with researchers, witnesses and investigators to unravel the mystery of Bigfoot. Every week we will also bring you the latest Bigfoot news and information.  Additional episodes and exclusive content can be found on our website www.sasquatchchronicles.com. Become a Member today and receive access to additional exclusive shows posted weekly, our full back catalog of episodes, the ability to comment on Episodes and Blog entries, and access to our Forums. For the latest news, please visit our Blog. We can also be found on Facebook, Twitter, Instagram, Pinterest, and YouTube.",
       "image": "https://i.scdn.co/image/fba0fffb597cf61e1965eb9023b323c07a9f351b",
       "appleId": "id604656349",
       "ratings": 7544,
-      "velocity": -1
-    }
-  },
-  {
-    "title": "Tooth & Claw: True Stories of Animal Attacks",
-    "link": "5Dyi1niZbQWaPezfiBu2tK",
-    "meta": {
-      "rank": 18,
-      "category": "Science",
-      "publisher": "Wes Larson, Jeff Larson, Mike Smith | QCODE",
-      "description": "True stories of the most extreme wild animal attacks ever documented, told and explained by Wes Larson, a wildlife biologist and animal behavior expert. Wes is joined by his brother Jeff and their mutual friend Mike, and in each episode the three pour over the details of animals attacks and explain how listeners can avoid these kinds of dangerous encounters, and learn a new appreciation for the wild things of the world",
-      "image": "https://i.scdn.co/image/ab67656300005f1faa9df2ba831ccaf5dc406a01",
-      "velocity": -1
-    }
-  },
-  {
-    "title": "Believing the Bizarre: Paranormal Conspiracies & Myths",
-    "link": "2WLbMETkG4923FX6h2x2KR",
-    "meta": {
-      "rank": 19,
-      "category": "Science",
-      "publisher": "Tyler and Charlie",
-      "description": "Dive into the unknown and unusual where we analyze paranormal stories and determine whether or not you should find them believable. We discuss hauntings, conspiracies, urban legends, aliens, UFO abductions, and cryptids. New episodes every Tuesday.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f1e9e7efb5d02594587d1dd9e",
-      "appleId": "id1522131146",
-      "ratings": 458,
-      "velocity": -1
+      "velocity": 1
     }
   },
   {
     "title": "Invisibilia",
     "link": "1Tgsr2BDHLSQ44YsOwoguj",
     "meta": {
-      "rank": 20,
+      "rank": 16,
       "category": "Science",
       "publisher": "NPR",
       "description": "Unseeable forces control human behavior and shape our ideas, beliefs, and assumptions. Invisibilia—Latin for invisible things—fuses narrative storytelling with science that will make you see your own life differently.",
@@ -279,7 +224,60 @@
       "followers": 43622,
       "appleId": "id953290300",
       "ratings": 21301,
-      "velocity": -5
+      "velocity": 0
+    }
+  },
+  {
+    "title": "Safety Third",
+    "link": "1Y9ExMgMxoBVrgrfU7u0nD",
+    "meta": {
+      "rank": 17,
+      "category": "Science",
+      "publisher": "Safety Third ",
+      "description": "Safety Third is a weekly show hosted by William Osman, NileRed, The Backyard Scientist, Allen Pan, and a couple other YouTube \"Scientists\". Sometimes we have guests, sometimes it's just us, but always: safety is our number three priority.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fc7bedd27a4413b1abf926d8a",
+      "followers": 3692,
+      "appleId": "id1570503392",
+      "ratings": 494,
+      "velocity": -6
+    }
+  },
+  {
+    "title": "La Ciencia Vs",
+    "link": "49v6HAsVRvlklTnHvSd7Zh",
+    "meta": {
+      "rank": 18,
+      "category": "Science",
+      "publisher": "Spotify Studios",
+      "description": "¿Te has preguntado qué podemos hacer si viene hacia nosotros un asteroide asesino? ¿O si las pantallas te funden los ojos y el cerebro? ¿O si los tiburones realmente pueden oler una gota de sangre en una alberca olímpica? Entre opiniones encontradas y modas pasajeras, está la ciencia. La ciencia vs. busca desmitificar la ciencia enfrentando datos científicos contra casi cualquier tema que se te ocurra. El equipo de talentosas periodistas entusiastas de la ciencia traen para tí un nuevo episodio cada jueves. La ciencia vs. es un podcast original de Spotify, adaptado de la versión en inglés Science Vs de Gimlet.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fde52ae2f608bf6db4b6dc5e9",
+      "velocity": -6
+    }
+  },
+  {
+    "title": "Tooth & Claw: True Stories of Animal Attacks",
+    "link": "5Dyi1niZbQWaPezfiBu2tK",
+    "meta": {
+      "rank": 19,
+      "category": "Science",
+      "publisher": "Wes Larson, Jeff Larson, Mike Smith | QCODE",
+      "description": "True stories of the most extreme wild animal attacks ever documented, told and explained by Wes Larson, a wildlife biologist and animal behavior expert. Wes is joined by his brother Jeff and their mutual friend Mike, and in each episode the three pour over the details of animals attacks and explain how listeners can avoid these kinds of dangerous encounters, and learn a new appreciation for the wild things of the world",
+      "image": "https://i.scdn.co/image/ab67656300005f1faa9df2ba831ccaf5dc406a01",
+      "velocity": -2
+    }
+  },
+  {
+    "title": "Believing the Bizarre: Paranormal Conspiracies & Myths",
+    "link": "2WLbMETkG4923FX6h2x2KR",
+    "meta": {
+      "rank": 20,
+      "category": "Science",
+      "publisher": "Tyler and Charlie",
+      "description": "Dive into the unknown and unusual where we analyze paranormal stories and determine whether or not you should find them believable. We discuss hauntings, conspiracies, urban legends, aliens, UFO abductions, and cryptids. New episodes every Tuesday.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f1e9e7efb5d02594587d1dd9e",
+      "appleId": "id1522131146",
+      "ratings": 458,
+      "velocity": -2
     }
   },
   {
@@ -297,165 +295,166 @@
     }
   },
   {
+    "title": "Sean Carroll's Mindscape: Science, Society, Philosophy, Culture, Arts, and Ideas",
+    "link": "622lvLwp8CVu6dvCsYAJhN",
+    "meta": {
+      "rank": 22,
+      "category": "Science",
+      "publisher": "Sean Carroll | Wondery",
+      "description": "Ever wanted to know how music affects your brain, what quantum mechanics really is, or how black holes work? Do you wonder why you get emotional each time you see a certain movie, or how on earth video games are designed? Then you’ve come to the right place. Each week, Sean Carroll will host conversations with some of the most interesting thinkers in the world. From neuroscientists and engineers to authors and television producers, Sean and his guests talk about the biggest ideas in science, philosophy, culture and much more.",
+      "image": "https://i.scdn.co/image/f9b759399ed12a2d974ce314d13a395b3b4af284",
+      "appleId": "id1406534739",
+      "ratings": 3451,
+      "velocity": 17
+    }
+  },
+  {
+    "title": "The Paramedic Coach Podcast",
+    "link": "5e2SuEkZHmKjXNfULehd3A",
+    "meta": {
+      "rank": 23,
+      "category": "Science",
+      "publisher": "The Paramedic Coach",
+      "description": "The Paramedic Coach discusses EMS education, NREMT certification, and gives career advice and insight to new EMS providers. EMT Training and Paramedic Training can be very accelerated and students can get left behind. My goal with this podcast is to help students pass school and the NREMT exams. I believe that anyone out there who wants to serve their community as an EMT or Paramedic should be able to do that. My aim is to decrease the failure rates of NREMT exams and help students pass the NREMT exam the first time. Whether you are preparing for EMT/Paramedic School, in EMS classes right now, or studying for your NREMT exams this podcast is built for you.I look forward to seeing your EMS education and NREMT exam success! Be Great, Evan, The Paramedic Coach®",
+      "image": "https://i.scdn.co/image/ab67656300005f1f7c4cc05884aa6d9e952864e9",
+      "appleId": "id1472424493",
+      "ratings": 65,
+      "velocity": 23
+    }
+  },
+  {
     "title": "The Feynman Lectures on Physics",
     "link": "7sMDQbAOJLTby25DfOsu6O",
     "meta": {
-      "rank": 22,
+      "rank": 24,
       "category": "Science",
       "publisher": "Dave",
       "description": "Amazing lectures! Pleasure to listen to!",
       "image": "https://i.scdn.co/image/ab67656300005f1ff8e6b49f41ead34a8ab5afee",
-      "velocity": 11
-    }
-  },
-  {
-    "title": "The Confessionals",
-    "link": "6yBCU7lgu6TdgaRJ23yEUp",
-    "meta": {
-      "rank": 23,
-      "category": "Science",
-      "publisher": "Merkel Media",
-      "description": "The Confessionals is where witnesses of the unexplained share their stories and encounters with the world. Through long-form conversations, we pull out as much detail about one's experience as possible. Join us as we delve into the unknown side of life, from bigfoot and dogman to UFOs to paranormal activity to even conspiracies.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f06d18adeb4ff2d035282f85d",
-      "appleId": "id1197087242",
-      "ratings": 4353,
-      "velocity": 1
+      "velocity": 6
     }
   },
   {
     "title": "Mysterious Universe",
     "link": "2jUIHJh8tpRxk6YLafhswz",
     "meta": {
-      "rank": 24,
+      "rank": 25,
       "category": "Science",
       "publisher": "8th Kind",
       "description": "Always interesting and often hilarious, join hosts Aaron Wright and Benjamin Grundy as they investigate the latest in futurology, weird science, consciousness research, alternative history, cryptozoology, UFOs, and new-age absurdity.",
       "image": "https://i.scdn.co/image/ab67656300005f1f88b6de5764fb0e6ed00838ee",
       "appleId": "id329937558",
       "ratings": 5002,
-      "velocity": 4
+      "velocity": 2
     }
   },
   {
-    "title": "This Podcast Will Kill You",
-    "link": "7cujpkzRygYyLylnv5SVFu",
-    "meta": {
-      "rank": 25,
-      "category": "Science",
-      "publisher": "Exactly Right",
-      "description": "This podcast might not actually kill you, but it covers so many things that can. Each episode tackles a different disease, from its history, to its biology, and finally, how scared you need to be. Ecologists and epidemiologists Erin Welsh and Erin Allmann Updyke make infectious diseases acceptable fodder for dinner party conversation and provide the perfect cocktail recipe to match.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f7e823155861d73bef31bc757",
-      "appleId": "id1299915173",
-      "ratings": 15164,
-      "velocity": -3
-    }
-  },
-  {
-    "title": "19 Keys Presents High Level Conversations",
-    "link": "2Xuv0FRgrJsN4Dl2QE0a9Y",
+    "title": "SciShow Tangents",
+    "link": "22OJWsluntwDB1siMFIA9V",
     "meta": {
       "rank": 26,
       "category": "Science",
-      "publisher": "EYL Network",
-      "description": "19 Keys are electrical enlightening thought patterns and high lvl conversations. Life is about the journey not the destination, listen to these keys to help you along your journey in spirituality, entrepreneurship, future building, mind management keys etc... SUPPORT PODCAST SUBSCRIBE BELOW www.crownz19.com www.goldewater.com PayPal: 19keysllc@gmail.com Venmo: @jibrialkeys",
-      "image": "https://i.scdn.co/image/ab67656300005f1ff5dc444a38ea098d81e6a873",
-      "appleId": "id1331519433",
-      "ratings": 2095,
-      "velocity": -3
+      "publisher": "Complexly",
+      "description": "SciShow Tangents is the lightly competitive knowledge showcase from the geniuses behind the YouTube series SciShow. Every Tuesday, join Hank Green, Ceri Riley, and Sam Schultz as they try to one-up and amaze each other with weird and funny scientific research... while not getting distracted. There will be tangents about video games, music, weird smells, surprisingly deep insights about life, and of course, poop, but it always comes back to the science.",
+      "image": "https://i.scdn.co/image/ab67656300005f1faf9800db4263bd6573de85ec",
+      "followers": 11079,
+      "appleId": "id1441251826",
+      "ratings": 1241,
+      "velocity": -9
+    }
+  },
+  {
+    "title": "The Confessionals",
+    "link": "6yBCU7lgu6TdgaRJ23yEUp",
+    "meta": {
+      "rank": 27,
+      "category": "Science",
+      "publisher": "Merkel Media",
+      "description": "The Confessionals is where witnesses of the unexplained share their stories and encounters with the world. Through long-form conversations, we pull out as much detail about one's experience as possible. Join us as we delve into the unknown side of life, from bigfoot and dogman to UFOs to paranormal activity to even conspiracies.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f06d18adeb4ff2d035282f85d",
+      "appleId": "id1197087242",
+      "ratings": 4353,
+      "velocity": -4
     }
   },
   {
     "title": "Kosmographia",
     "link": "3LCp5EsQaFNbU8uLwIAT4Q",
     "meta": {
-      "rank": 27,
+      "rank": 28,
       "category": "Science",
       "publisher": "Randall Carlson",
       "description": "All the Randall you can handle",
       "image": "https://i.scdn.co/image/ab67656300005f1f3edf3367b224147fce9369dc",
       "appleId": "id1479346591",
       "ratings": 684,
-      "velocity": -1
-    }
-  },
-  {
-    "title": "The Science of Happiness",
-    "link": "4dq0wmiZlk58Eu0NcqgWei",
-    "meta": {
-      "rank": 28,
-      "category": "Science",
-      "publisher": "PRX and Greater Good Science Center",
-      "description": "Learn research-tested strategies for a happier, more meaningful life, drawing on the science of compassion, gratitude, mindfulness, and awe. Hosted by award-winning psychologist Dacher Keltner. Co-produced by PRX and UC Berkeley's Greater Good Science Center.",
-      "image": "https://i.scdn.co/image/10795140ddef34306b0c87c2d4031a647cc86b93",
-      "appleId": "id1340505607",
-      "ratings": 1619,
-      "velocity": -7
-    }
-  },
-  {
-    "title": "Science Friday",
-    "link": "5UpA5Uw23B6bukC0TABffC",
-    "meta": {
-      "rank": 29,
-      "category": "Science",
-      "publisher": "Science Friday and WNYC Studios",
-      "description": "Brain fun for curious people.",
-      "image": "https://i.scdn.co/image/4059ef26c96989211c54d3b606a9b44f7fb26894",
-      "appleId": "id73329284",
-      "ratings": 4629,
-      "velocity": 2
-    }
-  },
-  {
-    "title": "老高與小茉 Mr & Mrs Gao",
-    "link": "431OKiw3KV2wWPZw9QnOZu",
-    "meta": {
-      "rank": 30,
-      "category": "Science",
-      "publisher": "Gao Lao",
-      "description": "大家好！這裡是【老高與小茉 Mr & Mrs Gao】頻道。 在這個頻道里我們會定期更新有趣的影片，希望大家能夠喜歡。 不要忘記訂閱我們哦！ 一會兒影片里見咯！ Support this podcast: https://anchor.fm/gao-lao/support",
-      "image": "https://i.scdn.co/image/55c19f3496552cc5eb84bc8c48ac67607f73d74b",
-      "velocity": -3
-    }
-  },
-  {
-    "title": "Somewhere in the Skies",
-    "link": "1g0MSTxiHo4KvtrUxhr6II",
-    "meta": {
-      "rank": 31,
-      "category": "Science",
-      "publisher": "Ryan Sprague/ Entertainment One (eOne)",
-      "description": "Somewhere in the Skies is a weekly podcast covering UFOs and the unexplained. Hosted by author and television host, Ryan Sprague, and journalist, Chrissy Newton, they explore the unknown through case histories, special guest interviews, and through audio documentaries.  Join Ryan and Chrissy as they try to make sense of the mysteries that lay somewhere in the skies. New episodes every Monday. Learn more at www.somewhereintheskies.comSupport this show http://supporter.acast.com/somewhere-in-the-skies. Hosted on Acast. See acast.com/privacy for more information.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f60f89ba3b370a3edb24c33e8",
-      "appleId": "id1227858637",
-      "ratings": 972,
-      "velocity": 14
+      "velocity": -2
     }
   },
   {
     "title": "The Hamilton Morris Podcast",
     "link": "0zbW6aQyUXyM2mVa8r1VvO",
     "meta": {
-      "rank": 32,
+      "rank": 29,
       "category": "Science",
       "publisher": "Hamilton Morris",
       "description": "Hamilton Morris creates and shares content with his followers on Patreon. These podcasts are released on this platform and on Youtube after first being posted on Patreon for a month or longer. The free versions of these conversations are made, in part, with the help of Hamilton's sponsors.  Hope you enjoy!",
       "image": "https://i.scdn.co/image/ab67656300005f1f0b644781d7a3652be4791af1",
       "appleId": "id1592855440",
       "ratings": 131,
-      "velocity": 8
+      "velocity": 9
     }
   },
   {
-    "title": "In Defense of Plants Podcast",
-    "link": "6MigDotcNrEWm6j9NQurKb",
+    "title": "Freakonomics, M.D.",
+    "link": "1JoJkEnjPTOaMi5z2aAHf5",
+    "meta": {
+      "rank": 30,
+      "category": "Science",
+      "publisher": "Freakonomics Radio + Stitcher",
+      "description": "Each week, physician and economist Dr. Bapu Jena will dig into a fascinating study at the intersection of economics and healthcare. He takes on questions like: Why do kids with summer birthdays get the flu more often? Can surviving a hurricane help you live longer? What do heart surgery and grocery-store pricing have in common?",
+      "image": "https://i.scdn.co/image/ab67656300005f1fb34d7fc86e17947b3a9e6205",
+      "appleId": "id1577556965",
+      "ratings": 915,
+      "velocity": 6
+    }
+  },
+  {
+    "title": "老高與小茉 Mr & Mrs Gao",
+    "link": "431OKiw3KV2wWPZw9QnOZu",
+    "meta": {
+      "rank": 31,
+      "category": "Science",
+      "publisher": "Gao Lao",
+      "description": "大家好！這裡是【老高與小茉 Mr & Mrs Gao】頻道。 在這個頻道里我們會定期更新有趣的影片，希望大家能夠喜歡。 不要忘記訂閱我們哦！ 一會兒影片里見咯！ Support this podcast: https://anchor.fm/gao-lao/support",
+      "image": "https://i.scdn.co/image/55c19f3496552cc5eb84bc8c48ac67607f73d74b",
+      "velocity": -4
+    }
+  },
+  {
+    "title": "19 Keys Presents High Level Conversations",
+    "link": "2Xuv0FRgrJsN4Dl2QE0a9Y",
+    "meta": {
+      "rank": 32,
+      "category": "Science",
+      "publisher": "EYL Network",
+      "description": "19 Keys are electrical enlightening thought patterns and high lvl conversations. Life is about the journey not the destination, listen to these keys to help you along your journey in spirituality, entrepreneurship, future building, mind management keys etc... SUPPORT PODCAST SUBSCRIBE BELOW www.crownz19.com www.goldewater.com PayPal: 19keysllc@gmail.com Venmo: @jibrialkeys",
+      "image": "https://i.scdn.co/image/ab67656300005f1ff5dc444a38ea098d81e6a873",
+      "appleId": "id1331519433",
+      "ratings": 2095,
+      "velocity": -9
+    }
+  },
+  {
+    "title": "Psychiatry & Psychotherapy Podcast",
+    "link": "3DYkrmcLjfgHWbkoUWNmVF",
     "meta": {
       "rank": 33,
       "category": "Science",
-      "publisher": "In Defense of Plants",
-      "description": "Plants are everything. They are also incredibly interesting. From the smallest duckweed to the tallest redwood, the botanical world is full of wonder. Tune in for a podcast celebrating everything botany.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f8fe40f4cd43c56527ea58e93",
-      "velocity": 5
+      "publisher": "David Puder, M.D.",
+      "description": "Join David Puder as he covers different topics on psychiatry and psychotherapy. He will draw from the wisdom of his mentors, research, in-session therapy and psychiatry experience, and his own journey through mental health to discuss topics that affect mental health professionals and popsychology enthusiasts alike. Through interviews, he will dialogue with both medical students, residents and expert psychiatrists and psychotherapists, and even with people who have been through their own mental health journey. This podcast was created to help others in their journey to becoming wise, empathic, genuine and connected in their personal and professional lives.",
+      "image": "https://i.scdn.co/image/efe94f4ff994c67f39a34f3a801821234a3a96cd",
+      "velocity": 10
     }
   },
   {
@@ -473,92 +472,120 @@
     }
   },
   {
-    "title": "UAP STUDIES Podcast ",
-    "link": "5oK09tjBdQUKC6ypBqtoDu",
+    "title": "Somewhere in the Skies",
+    "link": "1g0MSTxiHo4KvtrUxhr6II",
     "meta": {
       "rank": 35,
       "category": "Science",
-      "publisher": "Jason Guillemette & Louis Borges ",
-      "description": "Interviewing the best and most knowledgeable people on the topic of UAP Phenomena, military disclosures, and the history of UFO's and encounters with their occupants. We research our guests extensively in an effort to bring you the best, and most legitimate and thought provoking programming on this subject.  Hosted by Jason Guillemette & Louis Borges",
-      "image": "https://i.scdn.co/image/ab67656300005f1f1e3be66f3c3e5c768cfd98a0",
-      "velocity": 13
+      "publisher": "Ryan Sprague/ Entertainment One (eOne)",
+      "description": "Somewhere in the Skies is a weekly podcast covering UFOs and the unexplained. Hosted by author and television host, Ryan Sprague, and journalist, Chrissy Newton, they explore the unknown through case histories, special guest interviews, and through audio documentaries.  Join Ryan and Chrissy as they try to make sense of the mysteries that lay somewhere in the skies. New episodes every Monday. Learn more at www.somewhereintheskies.comSupport this show http://supporter.acast.com/somewhere-in-the-skies. Hosted on Acast. See acast.com/privacy for more information.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f60f89ba3b370a3edb24c33e8",
+      "appleId": "id1227858637",
+      "ratings": 972,
+      "velocity": 7
     }
   },
   {
-    "title": "The Alaska Triangle",
-    "link": "6Ho6nn9IShjZ80WxCSTXYK",
+    "title": "The Science of Happiness",
+    "link": "4dq0wmiZlk58Eu0NcqgWei",
     "meta": {
       "rank": 36,
       "category": "Science",
-      "publisher": "Travel Channel",
-      "description": "Experts and eyewitnesses attempt to unlock the mystery of the Alaska Triangle, a remote area infamous for alien abductions, Bigfoot sightings, paranormal phenomena and vanishing airplanes. With eyewitness and firsthand accounts from locals and experts alike, uncover a haunting new case in every episode. The Alaska Triangle podcast features direct audio from the hit Travel Channel television series.    For even more of The Alaska Triangle, head to discovery+. Go to discoveryplus.com/alaskatriangle to start your 7-day free trial today. Terms apply.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fe4f25c0bab8aefedc461448f",
-      "appleId": "id1633264805",
-      "ratings": 80,
-      "velocity": 5
+      "publisher": "PRX and Greater Good Science Center",
+      "description": "Learn research-tested strategies for a happier, more meaningful life, drawing on the science of compassion, gratitude, mindfulness, and awe. Hosted by award-winning psychologist Dacher Keltner. Co-produced by PRX and UC Berkeley's Greater Good Science Center.",
+      "image": "https://i.scdn.co/image/10795140ddef34306b0c87c2d4031a647cc86b93",
+      "appleId": "id1340505607",
+      "ratings": 1619,
+      "velocity": -14
     }
   },
   {
-    "title": "Therapist Uncensored Podcast",
-    "link": "2Cv0V85tssliSL8wz7gVWm",
+    "title": "Science Friday",
+    "link": "5UpA5Uw23B6bukC0TABffC",
     "meta": {
       "rank": 37,
       "category": "Science",
-      "publisher": "Sue Marriott LCSW, CGP & Ann Kelley PhD",
-      "description": "Learn to use the sciences of the mind to help you understand what makes you emotionally tick. Two Austin therapists and their world-recognized guest experts break down the research in modern attachment, relational neuroscience and trauma in a challenging but entertaining format to keep you off autopilot and moving towards closer connections. ",
-      "image": "https://i.scdn.co/image/ab67656300005f1f86dc70abe0914cd0950c8075",
-      "appleId": "id1146941306",
-      "ratings": 1141,
-      "velocity": -8
-    }
-  },
-  {
-    "title": "The Joy of Why",
-    "link": "2FoxHraQSKwxV2HgUfwLMp",
-    "meta": {
-      "rank": 38,
-      "category": "Science",
-      "publisher": "Steven Strogatz and Quanta Magazine",
-      "description": "The mathematician and author Steven Strogatz interviews leading researchers about the great scientific and mathematical questions of our time.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f11e2689c9d9612d40c1775fd",
-      "appleId": "id1608948873",
-      "ratings": 235,
-      "velocity": 8
+      "publisher": "Science Friday and WNYC Studios",
+      "description": "Brain fun for curious people.",
+      "image": "https://i.scdn.co/image/4059ef26c96989211c54d3b606a9b44f7fb26894",
+      "appleId": "id73329284",
+      "ratings": 4629,
+      "velocity": -7
     }
   },
   {
     "title": "Making Sense with Sam Harris - Subscriber Content",
     "link": "6GSnbFz5qzNuKnLmGzQbPc",
     "meta": {
-      "rank": 39,
+      "rank": 38,
       "category": "Science",
       "publisher": "Sam Harris",
       "description": "Join neuroscientist, philosopher, and best-selling author Sam Harris as he explores important and controversial questions about the human mind, society, and current events. Sam Harris is the author of five New York Times bestsellers. His books include The End of Faith, Letter to a Christian Nation, The Moral Landscape, Free Will, Lying, Waking Up, and Islam and the Future of Tolerance (with Maajid Nawaz). The End of Faith won the 2005 PEN Award for Nonfiction. His writing and public lectures cover a wide range of topics—neuroscience, moral philosophy, religion, meditation practice, human violence, rationality—but generally focus on how a growing understanding of ourselves and the world is changing our sense of how we should live. Harris's work has been published in more than 20 languages and has been discussed in The New York Times, Time, Scientific American, Nature, Newsweek, Rolling Stone, and many other journals. He has written for The New York Times, The Los Angeles Times, The Economist, The Times (London), The Boston Globe, The Atlantic, The Annals of Neurology, and elsewhere. Sam Harris received a degree in philosophy from Stanford University and a Ph.D. in neuroscience from UCLA.",
       "image": "https://i.scdn.co/image/ab67656300005f1f283cd19ef96ad43449d7af8b",
       "appleId": "id733163012",
       "ratings": 24411,
-      "velocity": -5
+      "velocity": -3
     }
   },
   {
-    "title": "Sean Carroll's Mindscape: Science, Society, Philosophy, Culture, Arts, and Ideas",
-    "link": "622lvLwp8CVu6dvCsYAJhN",
+    "title": "UAP - Unidentified Alien Podcast",
+    "link": "5hTisJljTVk2VnGvxgRFSJ",
+    "meta": {
+      "rank": 39,
+      "category": "Science",
+      "publisher": "850WFTL | Hubbard Radio",
+      "description": "The U.S. government now admits UFOs are real and alien enthusiast Stephen Diener sheds light on the shocking stories that still remain in the shadows.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fa50c2c7f53c3751ac6ab9f75",
+      "appleId": "id1575781850",
+      "ratings": 88,
+      "velocity": 6
+    }
+  },
+  {
+    "title": "Therapist Uncensored Podcast",
+    "link": "2Cv0V85tssliSL8wz7gVWm",
     "meta": {
       "rank": 40,
       "category": "Science",
-      "publisher": "Sean Carroll | Wondery",
-      "description": "Ever wanted to know how music affects your brain, what quantum mechanics really is, or how black holes work? Do you wonder why you get emotional each time you see a certain movie, or how on earth video games are designed? Then you’ve come to the right place. Each week, Sean Carroll will host conversations with some of the most interesting thinkers in the world. From neuroscientists and engineers to authors and television producers, Sean and his guests talk about the biggest ideas in science, philosophy, culture and much more.",
-      "image": "https://i.scdn.co/image/f9b759399ed12a2d974ce314d13a395b3b4af284",
-      "appleId": "id1406534739",
-      "ratings": 3451,
-      "velocity": -1
+      "publisher": "Sue Marriott LCSW, CGP & Ann Kelley PhD",
+      "description": "Learn to use the sciences of the mind to help you understand what makes you emotionally tick. Two Austin therapists and their world-recognized guest experts break down the research in modern attachment, relational neuroscience and trauma in a challenging but entertaining format to keep you off autopilot and moving towards closer connections. ",
+      "image": "https://i.scdn.co/image/ab67656300005f1f86dc70abe0914cd0950c8075",
+      "appleId": "id1146941306",
+      "ratings": 1141,
+      "velocity": -10
+    }
+  },
+  {
+    "title": "Seducción Y Persuasión De Style Seduction Life",
+    "link": "4zc4TTfxv4wpZ731m0ycg2",
+    "meta": {
+      "rank": 41,
+      "category": "Science",
+      "publisher": "Alister A. García",
+      "description": "Aquí y ahora te enseñaré las técnicas científicas más asombrosas para seducir a una mujer, entrar a su mente y corazón. ¿Estas listo para enloquecer a las mujeres más hermosas de tu ciudad?   Para mayor información escríbeme al Email: garcialister23@gmail.com",
+      "image": "https://i.scdn.co/image/ab67656300005f1fcaa3fde5e20ae432df4a26b5",
+      "velocity": 10
+    }
+  },
+  {
+    "title": "The Alaska Triangle",
+    "link": "6Ho6nn9IShjZ80WxCSTXYK",
+    "meta": {
+      "rank": 42,
+      "category": "Science",
+      "publisher": "Travel Channel",
+      "description": "Experts and eyewitnesses attempt to unlock the mystery of the Alaska Triangle, a remote area infamous for alien abductions, Bigfoot sightings, paranormal phenomena and vanishing airplanes. With eyewitness and firsthand accounts from locals and experts alike, uncover a haunting new case in every episode. The Alaska Triangle podcast features direct audio from the hit Travel Channel television series.    For even more of The Alaska Triangle, head to discovery+. Go to discoveryplus.com/alaskatriangle to start your 7-day free trial today. Terms apply.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fe4f25c0bab8aefedc461448f",
+      "appleId": "id1633264805",
+      "ratings": 80,
+      "velocity": -2
     }
   },
   {
     "title": "MCAT Basics (from MedSchoolCoach)",
     "link": "01k1ICEBLfnu7EFZp5OqoR",
     "meta": {
-      "rank": 41,
+      "rank": 43,
       "category": "Science",
       "publisher": "MedSchoolCoach",
       "description": "Join us as we detail MCAT exam topics. Each podcast covers several MCAT sections with lessons based on review material put out by the AAMC, such as practice tests and question banks. Sam also interviews MCAT tutors and experts who share tips on how premed students can raise their score to get into medical school.",
@@ -569,24 +596,10 @@
     }
   },
   {
-    "title": "Freakonomics, M.D.",
-    "link": "1JoJkEnjPTOaMi5z2aAHf5",
-    "meta": {
-      "rank": 42,
-      "category": "Science",
-      "publisher": "Freakonomics Radio + Stitcher",
-      "description": "Each week, physician and economist Dr. Bapu Jena will dig into a fascinating study at the intersection of economics and healthcare. He takes on questions like: Why do kids with summer birthdays get the flu more often? Can surviving a hurricane help you live longer? What do heart surgery and grocery-store pricing have in common?",
-      "image": "https://i.scdn.co/image/ab67656300005f1fb34d7fc86e17947b3a9e6205",
-      "appleId": "id1577556965",
-      "ratings": 915,
-      "velocity": -7
-    }
-  },
-  {
     "title": "The Resetter Podcast",
     "link": "6j6ML4pYocMLahMODUtYt5",
     "meta": {
-      "rank": 43,
+      "rank": 44,
       "category": "Science",
       "publisher": "Dr. Mindy Pelz, Fasting and Keto Pro",
       "description": "Learn how to support your body's natural ability to heal with health expert Dr. Mindy Pelz as she interviews professionals on a fasting lifestyle, nutrition, ketogenic diet, anti-aging science, hormones, biohacking, supplements, heavy metal detoxing, testing, microbiome, gut repair, and more!!! Join the 150k+ strong Resetter Collaboration on any of her social media platforms.",
@@ -597,99 +610,83 @@
     }
   },
   {
-    "title": "Psychiatry & Psychotherapy Podcast",
-    "link": "3DYkrmcLjfgHWbkoUWNmVF",
+    "title": "In Defense of Plants Podcast",
+    "link": "6MigDotcNrEWm6j9NQurKb",
     "meta": {
-      "rank": 44,
+      "rank": 45,
       "category": "Science",
-      "publisher": "David Puder, M.D.",
-      "description": "Join David Puder as he covers different topics on psychiatry and psychotherapy. He will draw from the wisdom of his mentors, research, in-session therapy and psychiatry experience, and his own journey through mental health to discuss topics that affect mental health professionals and popsychology enthusiasts alike. Through interviews, he will dialogue with both medical students, residents and expert psychiatrists and psychotherapists, and even with people who have been through their own mental health journey. This podcast was created to help others in their journey to becoming wise, empathic, genuine and connected in their personal and professional lives.",
-      "image": "https://i.scdn.co/image/efe94f4ff994c67f39a34f3a801821234a3a96cd",
+      "publisher": "In Defense of Plants",
+      "description": "Plants are everything. They are also incredibly interesting. From the smallest duckweed to the tallest redwood, the botanical world is full of wonder. Tune in for a podcast celebrating everything botany.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f8fe40f4cd43c56527ea58e93",
+      "velocity": -8
+    }
+  },
+  {
+    "title": "UAP STUDIES Podcast ",
+    "link": "5oK09tjBdQUKC6ypBqtoDu",
+    "meta": {
+      "rank": 46,
+      "category": "Science",
+      "publisher": "Jason Guillemette & Louis Borges ",
+      "description": "Interviewing the best and most knowledgeable people on the topic of UAP Phenomena, military disclosures, and the history of UFO's and encounters with their occupants. We research our guests extensively in an effort to bring you the best, and most legitimate and thought provoking programming on this subject.  Hosted by Jason Guillemette & Louis Borges",
+      "image": "https://i.scdn.co/image/ab67656300005f1f1e3be66f3c3e5c768cfd98a0",
       "velocity": -1
     }
   },
   {
-    "title": "UAP - Unidentified Alien Podcast",
-    "link": "5hTisJljTVk2VnGvxgRFSJ",
-    "meta": {
-      "rank": 45,
-      "category": "Science",
-      "publisher": "850WFTL | Hubbard Radio",
-      "description": "The U.S. government now admits UFOs are real and alien enthusiast Stephen Diener sheds light on the shocking stories that still remain in the shadows.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fa50c2c7f53c3751ac6ab9f75",
-      "appleId": "id1575781850",
-      "ratings": 88,
-      "velocity": 0
-    }
-  },
-  {
-    "title": "The Paramedic Coach Podcast",
-    "link": "5e2SuEkZHmKjXNfULehd3A",
-    "meta": {
-      "rank": 46,
-      "category": "Science",
-      "publisher": "The Paramedic Coach",
-      "description": "The Paramedic Coach discusses EMS education, NREMT certification, and gives career advice and insight to new EMS providers. EMT Training and Paramedic Training can be very accelerated and students can get left behind. My goal with this podcast is to help students pass school and the NREMT exams. I believe that anyone out there who wants to serve their community as an EMT or Paramedic should be able to do that. My aim is to decrease the failure rates of NREMT exams and help students pass the NREMT exam the first time. Whether you are preparing for EMT/Paramedic School, in EMS classes right now, or studying for your NREMT exams this podcast is built for you.I look forward to seeing your EMS education and NREMT exam success! Be Great, Evan, The Paramedic Coach®",
-      "image": "https://i.scdn.co/image/ab67656300005f1f7c4cc05884aa6d9e952864e9",
-      "appleId": "id1472424493",
-      "ratings": 65,
-      "velocity": 0
-    }
-  },
-  {
-    "title": "Big Brains",
-    "link": "2uYYyD1m5o67GROWc9f8id",
+    "title": "Science, Quickly",
+    "link": "7uz2rjUW6bGrPCgw4rI8K4",
     "meta": {
       "rank": 47,
       "category": "Science",
-      "publisher": "University of Chicago Podcast Network",
-      "description": "We tell the stories behind the pioneering research and pivotal breakthroughs reshaping our world. Produced out of The University of Chicago. Winner of CASE \"Grand Gold\" award in 2022, Gold award in 2021, and named Adweek's \"Best Branded Podcast\" in 2020.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f657d267b7e70b1676e0b4914",
-      "appleId": "id1368737097",
-      "ratings": 311,
-      "velocity": 0
+      "publisher": "Scientific American",
+      "description": "Leading science and tech journalists dive into a rich world of scientific discovery in this bite-size science variety show. To view all of our archived  material, go to:  www.scientificamerican.com/podcast .",
+      "image": "https://i.scdn.co/image/ab67656300005f1f0af810ea9db75965d02ed3ad",
+      "appleId": "id189330872",
+      "ratings": 1145,
+      "velocity": 4
     }
   },
   {
-    "title": "Extraterrestrial",
-    "link": "4Y1qqhrzpgNcIkVRajAOdr",
+    "title": "Sensible Medicine",
+    "link": "1yOqwEz9DHj7Gehw8jwPC1",
     "meta": {
       "rank": 48,
       "category": "Science",
-      "publisher": "Parcast",
-      "description": "Why do we think we aren’t alone? Extraterrestrial explores tales of alien encounters. Millions of people claim to have seen alien life, but no one can confirm any of it. Is there a more grounded explanation for these incidents, or is there really something lurking out there? Every Tuesday, we’ll examine reports of a different alien occurrence, and land on the most plausible explanation. Extraterrestrial is a Spotify Original from Parcast.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fa039fec748919dcdd29d7490",
-      "appleId": "id1594940535",
-      "ratings": 2,
-      "velocity": -11
+      "publisher": "Sensible Medicine Authors - Prasad/Cifu/Mandrola/Demania/Makary/Cristea/Alderighi & More",
+      "description": "Common sense and original thinking in bio-medicine A platform for diverse views and debate sensiblemed.substack.com",
+      "image": "https://i.scdn.co/image/ab67656300005f1fa55c8167d705b4d9737f666c",
+      "appleId": "id1667709917",
+      "ratings": 27,
+      "velocity": 3
     }
   },
   {
-    "title": "Overheard at National Geographic",
-    "link": "4laFHrpXGUzb9A2mWpnQMd",
+    "title": "The Psychology Podcast",
+    "link": "4POIiQQjnQOuz0AqnLk3KZ",
     "meta": {
       "rank": 49,
       "category": "Science",
-      "publisher": "National Geographic",
-      "description": "Come dive into one of the curiously delightful conversations overheard at National Geographic’s headquarters, as we follow explorers, photographers, and scientists to the edges of our big, weird, beautiful world. Hosted by Peter Gwin and Amy Briggs.",
-      "image": "https://i.scdn.co/image/ab67656300005f1fc9b6063ead2b5ff45f4a3de8",
-      "appleId": "id1466697207",
-      "ratings": 9675,
-      "velocity": -2
+      "publisher": "Stitcher & Scott Barry Kaufman",
+      "description": "In each episode, we talk with inspiring scientists, thinkers, and other self-actualized individuals who will give you a greater understanding of yourself, others, and the world we live in. Scott Barry Kaufman explores the depths of human potential and tries to get a glimpse into human possibility in every episode.",
+      "image": "https://i.scdn.co/image/ab67656300005f1fa23886e0d11e78a00eb4b7cd",
+      "appleId": "id942777522",
+      "ratings": 1560,
+      "velocity": 2
     }
   },
   {
-    "title": "Wild Turkey Science",
-    "link": "3mJRp7j3Ww2Ni4QF4c51W0",
+    "title": "Need To Know with Coulthart and Zabel",
+    "link": "24xucCwPjcXENqwUgtKZaY",
     "meta": {
       "rank": 50,
       "category": "Science",
-      "publisher": "Dr. Marcus Lashley & Dr. Will Gulsby",
-      "description": "Wild Turkey Science is a science-based podcast bringing you the latest research on wild turkey ecology and management. This podcast is made possible by Turkeys for Tomorrow and is part of the Natural Resources University podcast network.",
-      "image": "https://i.scdn.co/image/ab67656300005f1f3019c0041a9f8a54cfd6a35a",
-      "appleId": "id1666903553",
-      "ratings": 173,
-      "velocity": -6
+      "publisher": "Bryce Zabel",
+      "description": "The Need-to-Know podcast deals with the now acknowledged reality of Unidentified Aerial Phenomena or UAP. Its hosts are award-winning broadcasters and investigative journalists Ross Coulthart and Bryce Zabel. Every episode, they’ll look at what’s happened in the UAP/UFO world. Coulthart and Zabel discuss their current investigations, give each other advice, and seek to answer the big questions: who are they and what do they want?  Ross Coulthart’s work has been featured on Australia’s version of “60 Minutes.” And his documentary for Channel Seven Australia covering his UFO findings has been seen by more than ten million viewers. He is the author of In Plain Sight, in which he concludes that, while publicly dismissing the phenomenon for decades, governments have been seriously studying it all along and take it very seriously. Coulthart continues to report on the subject for Australian network television while working on investigations spawned by his book.  Bryce Zabel is an award-winning writer who has created or developed five primetime television drama series and worked on a dozen writing staffs. His feature credits include Mortal Kombat and Atlantis. His World War II film, The Last Battle, will shoot in the fall of 2022. Zabel was an original correspondent for CNN, and an award-winning investigative reporter for PBS. Zabel has authored his own UFO book, A.D. After Disclosure. He writes and edits the publication Trail of the Saucers that is read by more than 80,000 readers each month.",
+      "image": "https://i.scdn.co/image/ab67656300005f1f187268bd4e8b5b1357a64e73",
+      "appleId": "id1600409359",
+      "ratings": 183,
+      "velocity": 1
     }
   }
 ]
